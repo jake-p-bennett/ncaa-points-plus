@@ -1,0 +1,245 @@
+{
+  "id": 5105875,
+  "name": "Mike Sharavjamts",
+  "team": "SC",
+  "teamName": "South Carolina Gamecocks",
+  "conference": "SEC",
+  "rank": 264,
+  "gp": 25,
+  "ppg": 10.9,
+  "adjPpg": 10.5,
+  "pointsPlus": 109,
+  "mpg": 30.1,
+  "position": "G",
+  "jersey": "55",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 38.7,
+  "volatilityPctile": 15,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "SC vs NCAT",
+      "result": "W",
+      "min": 21,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "SC vs USM",
+      "result": "W",
+      "min": 37,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "SC vs PRES",
+      "result": "W",
+      "min": 24,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "SC vs RAD",
+      "result": "W",
+      "min": 22,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "SC vs BUT",
+      "result": "L",
+      "min": 27,
+      "pts": 13,
+      "adjPts": 11.9,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "SC vs NU",
+      "result": "L",
+      "min": 32,
+      "pts": 12,
+      "adjPts": 12.5,
+      "pointsPlus": 131
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "SC vs CHSO",
+      "result": "W",
+      "min": 34,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "SC vs VT",
+      "result": "L",
+      "min": 36,
+      "pts": 14,
+      "adjPts": 13.6,
+      "pointsPlus": 142
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "SC vs STET",
+      "result": "W",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "SC vs CIT",
+      "result": "W",
+      "min": 33,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "SC @ CLEM",
+      "result": "L",
+      "min": 28,
+      "pts": 13,
+      "adjPts": 16.1,
+      "pointsPlus": 168
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "SC vs SCST",
+      "result": "W",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "SC vs UALB",
+      "result": "W",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "SC vs VAN",
+      "result": "L",
+      "min": 32,
+      "pts": 13,
+      "adjPts": 12.2,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "SC @ LSU",
+      "result": "W",
+      "min": 36,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 70
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "SC vs UGA",
+      "result": "L",
+      "min": 34,
+      "pts": 18,
+      "adjPts": 15.2,
+      "pointsPlus": 159
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "SC @ ARK",
+      "result": "L",
+      "min": 29,
+      "pts": 5,
+      "adjPts": 4.4,
+      "pointsPlus": 46
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "SC @ AUB",
+      "result": "L",
+      "min": 30,
+      "pts": 13,
+      "adjPts": 11.3,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "SC vs OU",
+      "result": "W",
+      "min": 30,
+      "pts": 10,
+      "adjPts": 8.9,
+      "pointsPlus": 93
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "SC @ TA&M",
+      "result": "L",
+      "min": 29,
+      "pts": 5,
+      "adjPts": 4.2,
+      "pointsPlus": 44
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "SC vs FLA",
+      "result": "L",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "SC vs LSU",
+      "result": "L",
+      "min": 39,
+      "pts": 11,
+      "adjPts": 10.5,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "SC @ TEX",
+      "result": "L",
+      "min": 28,
+      "pts": 5,
+      "adjPts": 4.7,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "SC vs MIZ",
+      "result": "L",
+      "min": 32,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 92
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "SC @ ALA",
+      "result": "L",
+      "min": 33,
+      "pts": 14,
+      "adjPts": 10.9,
+      "pointsPlus": 113
+    }
+  ]
+}

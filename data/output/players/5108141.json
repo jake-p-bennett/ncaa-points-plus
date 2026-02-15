@@ -1,0 +1,245 @@
+{
+  "id": 5108141,
+  "name": "Anthony Dell'Orso",
+  "team": "ARIZ",
+  "teamName": "Arizona Wildcats",
+  "conference": "Big 12",
+  "rank": 374,
+  "gp": 25,
+  "ppg": 8.0,
+  "adjPpg": 8.0,
+  "pointsPlus": 83,
+  "mpg": 20.7,
+  "position": "G",
+  "jersey": "3",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 61.0,
+  "volatilityPctile": 72,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "ARIZ vs FLA",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "ARIZ vs UTU",
+      "result": "W",
+      "min": 25,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "ARIZ vs NAU",
+      "result": "W",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "ARIZ vs UCLA",
+      "result": "W",
+      "min": 28,
+      "pts": 20,
+      "adjPts": 21.4,
+      "pointsPlus": 223
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "ARIZ @ CONN",
+      "result": "W",
+      "min": 27,
+      "pts": 6,
+      "adjPts": 7.1,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "ARIZ vs DEN",
+      "result": "W",
+      "min": 25,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "ARIZ vs NORF",
+      "result": "W",
+      "min": 21,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "ARIZ vs AUB",
+      "result": "W",
+      "min": 20,
+      "pts": 11,
+      "adjPts": 9.6,
+      "pointsPlus": 100
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "ARIZ vs ALA",
+      "result": "W",
+      "min": 19,
+      "pts": 13,
+      "adjPts": 10.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "ARIZ vs ACU",
+      "result": "W",
+      "min": 25,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "ARIZ vs SDSU",
+      "result": "W",
+      "min": 20,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "ARIZ vs BCU",
+      "result": "W",
+      "min": 22,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "ARIZ vs SDST",
+      "result": "W",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "ARIZ @ UTAH",
+      "result": "W",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "ARIZ vs KSU",
+      "result": "W",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 5.2,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "ARIZ @ TCU",
+      "result": "W",
+      "min": 26,
+      "pts": 17,
+      "adjPts": 17.5,
+      "pointsPlus": 183
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "ARIZ vs ASU",
+      "result": "W",
+      "min": 18,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "ARIZ @ UCF",
+      "result": "W",
+      "min": 18,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "ARIZ vs CIN",
+      "result": "W",
+      "min": 14,
+      "pts": 2,
+      "adjPts": 2.4,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "ARIZ vs WVU",
+      "result": "W",
+      "min": 18,
+      "pts": 12,
+      "adjPts": 15.7,
+      "pointsPlus": 164
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "ARIZ @ BYU",
+      "result": "W",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "ARIZ @ ASU",
+      "result": "W",
+      "min": 16,
+      "pts": 4,
+      "adjPts": 3.6,
+      "pointsPlus": 37
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "ARIZ vs OKST",
+      "result": "W",
+      "min": 20,
+      "pts": 11,
+      "adjPts": 9.1,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "ARIZ @ KU",
+      "result": "L",
+      "min": 12,
+      "pts": 3,
+      "adjPts": 3.4,
+      "pointsPlus": 36
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "ARIZ vs TTU",
+      "result": "L",
+      "min": 21,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    }
+  ]
+}

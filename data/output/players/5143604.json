@@ -1,0 +1,236 @@
+{
+  "id": 5143604,
+  "name": "JT Toppin",
+  "team": "TTU",
+  "teamName": "Texas Tech Red Raiders",
+  "conference": "Big 12",
+  "rank": 6,
+  "gp": 24,
+  "ppg": 21.9,
+  "adjPpg": 22.3,
+  "pointsPlus": 233,
+  "mpg": 35.0,
+  "position": "F",
+  "jersey": "15",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 85.7,
+  "volatilityPctile": 98,
+  "gameLog": [
+    {
+      "date": "2025-11-08",
+      "matchup": "TTU vs SHSU",
+      "result": "W",
+      "min": 32,
+      "pts": 31,
+      "adjPts": 31.0,
+      "pointsPlus": 324
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "TTU @ ILL",
+      "result": "L",
+      "min": 39,
+      "pts": 35,
+      "adjPts": 37.0,
+      "pointsPlus": 387
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "TTU vs MILW",
+      "result": "W",
+      "min": 30,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "TTU vs WAKE",
+      "result": "W",
+      "min": 33,
+      "pts": 21,
+      "adjPts": 19.5,
+      "pointsPlus": 203
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "TTU vs PUR",
+      "result": "L",
+      "min": 36,
+      "pts": 15,
+      "adjPts": 16.2,
+      "pointsPlus": 169
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "TTU vs UNO",
+      "result": "W",
+      "min": 30,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "TTU vs WYO",
+      "result": "W",
+      "min": 36,
+      "pts": 27,
+      "adjPts": 27.0,
+      "pointsPlus": 282
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "TTU vs LSU",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 10.5,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "TTU vs ARK",
+      "result": "L",
+      "min": 40,
+      "pts": 30,
+      "adjPts": 26.6,
+      "pointsPlus": 277
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "TTU vs UNCO",
+      "result": "W",
+      "min": 34,
+      "pts": 23,
+      "adjPts": 23.0,
+      "pointsPlus": 240
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "TTU vs DUKE",
+      "result": "W",
+      "min": 33,
+      "pts": 19,
+      "adjPts": 23.2,
+      "pointsPlus": 242
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "TTU vs WIN",
+      "result": "W",
+      "min": 33,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "TTU vs OKST",
+      "result": "W",
+      "min": 30,
+      "pts": 23,
+      "adjPts": 19.1,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "TTU @ HOU",
+      "result": "L",
+      "min": 38,
+      "pts": 18,
+      "adjPts": 23.5,
+      "pointsPlus": 246
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "TTU @ COLO",
+      "result": "W",
+      "min": 32,
+      "pts": 16,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "TTU vs UTAH",
+      "result": "W",
+      "min": 36,
+      "pts": 31,
+      "adjPts": 27.7,
+      "pointsPlus": 289
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "TTU vs BYU",
+      "result": "W",
+      "min": 40,
+      "pts": 27,
+      "adjPts": 25.2,
+      "pointsPlus": 263
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "TTU @ BAY",
+      "result": "W",
+      "min": 33,
+      "pts": 22,
+      "adjPts": 20.3,
+      "pointsPlus": 212
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "TTU vs HOU",
+      "result": "W",
+      "min": 40,
+      "pts": 31,
+      "adjPts": 40.6,
+      "pointsPlus": 424
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "TTU @ UCF",
+      "result": "L",
+      "min": 37,
+      "pts": 27,
+      "adjPts": 24.4,
+      "pointsPlus": 255
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "TTU vs KU",
+      "result": "L",
+      "min": 31,
+      "pts": 10,
+      "adjPts": 11.3,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "TTU @ WVU",
+      "result": "W",
+      "min": 37,
+      "pts": 22,
+      "adjPts": 28.8,
+      "pointsPlus": 301
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "TTU vs COLO",
+      "result": "W",
+      "min": 34,
+      "pts": 16,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "TTU @ ARIZ",
+      "result": "W",
+      "min": 44,
+      "pts": 31,
+      "adjPts": 32.2,
+      "pointsPlus": 337
+    }
+  ]
+}

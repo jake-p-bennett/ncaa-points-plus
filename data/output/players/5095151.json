@@ -1,0 +1,236 @@
+{
+  "id": 5095151,
+  "name": "Caleb Wilson",
+  "team": "UNC",
+  "teamName": "North Carolina Tar Heels",
+  "conference": "ACC",
+  "rank": 17,
+  "gp": 24,
+  "ppg": 19.8,
+  "adjPpg": 20.3,
+  "pointsPlus": 212,
+  "mpg": 31.5,
+  "position": "F",
+  "jersey": "8",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 43.6,
+  "volatilityPctile": 26,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "UNC vs CARK",
+      "result": "W",
+      "min": 25,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "UNC vs KU",
+      "result": "W",
+      "min": 31,
+      "pts": 24,
+      "adjPts": 27.2,
+      "pointsPlus": 284
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "UNC vs RAD",
+      "result": "W",
+      "min": 22,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "UNC vs NCCU",
+      "result": "W",
+      "min": 29,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "UNC vs NAVY",
+      "result": "W",
+      "min": 27,
+      "pts": 23,
+      "adjPts": 23.0,
+      "pointsPlus": 240
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "UNC vs SBU",
+      "result": "W",
+      "min": 32,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "UNC vs MSU",
+      "result": "L",
+      "min": 33,
+      "pts": 18,
+      "adjPts": 20.8,
+      "pointsPlus": 217
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "UNC @ UK",
+      "result": "W",
+      "min": 35,
+      "pts": 15,
+      "adjPts": 15.1,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "UNC vs GTWN",
+      "result": "W",
+      "min": 35,
+      "pts": 20,
+      "adjPts": 20.6,
+      "pointsPlus": 215
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "UNC vs UPST",
+      "result": "W",
+      "min": 32,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 209
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "UNC vs ETSU",
+      "result": "W",
+      "min": 28,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 209
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "UNC vs OSU",
+      "result": "W",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 19.7,
+      "pointsPlus": 206
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "UNC vs ECU",
+      "result": "W",
+      "min": 24,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "UNC vs FSU",
+      "result": "W",
+      "min": 36,
+      "pts": 22,
+      "adjPts": 19.8,
+      "pointsPlus": 207
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "UNC @ SMU",
+      "result": "L",
+      "min": 34,
+      "pts": 13,
+      "adjPts": 11.5,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "UNC vs WAKE",
+      "result": "W",
+      "min": 36,
+      "pts": 22,
+      "adjPts": 20.4,
+      "pointsPlus": 213
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "UNC @ STAN",
+      "result": "L",
+      "min": 36,
+      "pts": 26,
+      "adjPts": 27.1,
+      "pointsPlus": 283
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "UNC @ CAL",
+      "result": "L",
+      "min": 34,
+      "pts": 17,
+      "adjPts": 17.2,
+      "pointsPlus": 179
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "UNC vs ND",
+      "result": "W",
+      "min": 30,
+      "pts": 22,
+      "adjPts": 22.6,
+      "pointsPlus": 237
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "UNC @ UVA",
+      "result": "W",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 22.3,
+      "pointsPlus": 233
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "UNC @ GT",
+      "result": "W",
+      "min": 30,
+      "pts": 22,
+      "adjPts": 21.4,
+      "pointsPlus": 223
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "UNC vs SYR",
+      "result": "W",
+      "min": 32,
+      "pts": 22,
+      "adjPts": 22.9,
+      "pointsPlus": 240
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "UNC vs DUKE",
+      "result": "W",
+      "min": 40,
+      "pts": 23,
+      "adjPts": 28.0,
+      "pointsPlus": 293
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "UNC @ MIA",
+      "result": "L",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 12.5,
+      "pointsPlus": 130
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": 5102618,
+  "name": "Jack Benter",
+  "team": "PUR",
+  "teamName": "Purdue Boilermakers",
+  "conference": "Big Ten",
+  "rank": 525,
+  "gp": 24,
+  "ppg": 5.1,
+  "adjPpg": 5.2,
+  "pointsPlus": 54,
+  "mpg": 14.7,
+  "position": "G",
+  "jersey": "14",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 47.7,
+  "volatilityPctile": 37,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "PUR vs EVAN",
+      "result": "W",
+      "min": 22,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "PUR vs OAK",
+      "result": "W",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "PUR @ ALA",
+      "result": "W",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "PUR vs AKR",
+      "result": "W",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "PUR vs MEM",
+      "result": "W",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "PUR vs TTU",
+      "result": "W",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "PUR vs EIU",
+      "result": "W",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "PUR vs ISU",
+      "result": "L",
+      "min": 14,
+      "pts": 2,
+      "adjPts": 2.3,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2025-12-11",
+      "matchup": "PUR vs MINN",
+      "result": "W",
+      "min": 12,
+      "pts": 1,
+      "adjPts": 1.2,
+      "pointsPlus": 12
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "PUR vs MARQ",
+      "result": "W",
+      "min": 12,
+      "pts": 5,
+      "adjPts": 4.7,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "PUR vs AUB",
+      "result": "W",
+      "min": 11,
+      "pts": 11,
+      "adjPts": 9.6,
+      "pointsPlus": 100
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "PUR vs KENT",
+      "result": "W",
+      "min": 16,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 209
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "PUR @ WIS",
+      "result": "W",
+      "min": 7,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "PUR vs WASH",
+      "result": "W",
+      "min": 7,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "PUR vs PSU",
+      "result": "W",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "PUR vs IOWA",
+      "result": "W",
+      "min": 17,
+      "pts": 6,
+      "adjPts": 7.3,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "PUR @ USC",
+      "result": "W",
+      "min": 20,
+      "pts": 5,
+      "adjPts": 4.7,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "PUR @ UCLA",
+      "result": "L",
+      "min": 14,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 45
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "PUR vs ILL",
+      "result": "L",
+      "min": 15,
+      "pts": 5,
+      "adjPts": 5.3,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "PUR @ IU",
+      "result": "L",
+      "min": 18,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "PUR @ MD",
+      "result": "W",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "PUR vs ORE",
+      "result": "W",
+      "min": 12,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 53
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PUR @ NEB",
+      "result": "W",
+      "min": 19,
+      "pts": 7,
+      "adjPts": 8.2,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "PUR @ IOWA",
+      "result": "W",
+      "min": 10,
+      "pts": 5,
+      "adjPts": 6.1,
+      "pointsPlus": 64
+    }
+  ]
+}

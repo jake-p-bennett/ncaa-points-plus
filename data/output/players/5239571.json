@@ -1,0 +1,227 @@
+{
+  "id": 5239571,
+  "name": "Braden Frager",
+  "team": "NEB",
+  "teamName": "Nebraska Cornhuskers",
+  "conference": "Big Ten",
+  "rank": 201,
+  "gp": 23,
+  "ppg": 11.8,
+  "adjPpg": 11.9,
+  "pointsPlus": 124,
+  "mpg": 23.3,
+  "position": "F",
+  "jersey": "5",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 72.2,
+  "volatilityPctile": 89,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "NEB vs WGA",
+      "result": "W",
+      "min": 22,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "NEB vs FIU",
+      "result": "W",
+      "min": 22,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "NEB vs UMES",
+      "result": "W",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "NEB vs OU",
+      "result": "W",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "NEB vs UNM",
+      "result": "W",
+      "min": 27,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 209
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "NEB vs KSU",
+      "result": "W",
+      "min": 20,
+      "pts": 16,
+      "adjPts": 13.8,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "NEB vs WIN",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "NEB vs UPST",
+      "result": "W",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "NEB vs CREI",
+      "result": "W",
+      "min": 21,
+      "pts": 7,
+      "adjPts": 6.9,
+      "pointsPlus": 72
+    },
+    {
+      "date": "2025-12-11",
+      "matchup": "NEB vs WIS",
+      "result": "W",
+      "min": 30,
+      "pts": 15,
+      "adjPts": 13.9,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "NEB @ ILL",
+      "result": "W",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "NEB vs UND",
+      "result": "W",
+      "min": 27,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "NEB vs UNH",
+      "result": "W",
+      "min": 23,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "NEB vs MSU",
+      "result": "W",
+      "min": 30,
+      "pts": 9,
+      "adjPts": 10.4,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "NEB @ OSU",
+      "result": "W",
+      "min": 24,
+      "pts": 15,
+      "adjPts": 14.8,
+      "pointsPlus": 154
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "NEB @ IU",
+      "result": "W",
+      "min": 19,
+      "pts": 11,
+      "adjPts": 11.3,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "NEB vs ORE",
+      "result": "W",
+      "min": 30,
+      "pts": 23,
+      "adjPts": 23.4,
+      "pointsPlus": 244
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "NEB @ NU",
+      "result": "W",
+      "min": 33,
+      "pts": 20,
+      "adjPts": 20.9,
+      "pointsPlus": 218
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "NEB vs WASH",
+      "result": "W",
+      "min": 4,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "NEB vs ILL",
+      "result": "L",
+      "min": 31,
+      "pts": 20,
+      "adjPts": 21.1,
+      "pointsPlus": 221
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "NEB @ RUTG",
+      "result": "W",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NEB vs PUR",
+      "result": "L",
+      "min": 33,
+      "pts": 7,
+      "adjPts": 7.5,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "NEB vs NU",
+      "result": "W",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 8.3,
+      "pointsPlus": 87
+    }
+  ]
+}

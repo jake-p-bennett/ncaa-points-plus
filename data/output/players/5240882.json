@@ -1,0 +1,254 @@
+{
+  "id": 5240882,
+  "name": "Nate Kingz",
+  "team": "SYR",
+  "teamName": "Syracuse Orange",
+  "conference": "ACC",
+  "rank": 188,
+  "gp": 26,
+  "ppg": 11.7,
+  "adjPpg": 12.2,
+  "pointsPlus": 127,
+  "mpg": 31.1,
+  "position": "G",
+  "jersey": "4",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 76.4,
+  "volatilityPctile": 93,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "SYR vs BING",
+      "result": "W",
+      "min": 25,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "SYR vs DSU",
+      "result": "W",
+      "min": 26,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "SYR vs DREX",
+      "result": "W",
+      "min": 33,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "SYR vs MONM",
+      "result": "W",
+      "min": 34,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "SYR vs HOU",
+      "result": "L",
+      "min": 36,
+      "pts": 10,
+      "adjPts": 13.1,
+      "pointsPlus": 137
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "SYR vs KU",
+      "result": "L",
+      "min": 31,
+      "pts": 9,
+      "adjPts": 10.2,
+      "pointsPlus": 107
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "SYR vs ISU",
+      "result": "L",
+      "min": 15,
+      "pts": 5,
+      "adjPts": 5.8,
+      "pointsPlus": 61
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "SYR vs TENN",
+      "result": "W",
+      "min": 36,
+      "pts": 19,
+      "adjPts": 20.4,
+      "pointsPlus": 213
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "SYR vs JOES",
+      "result": "W",
+      "min": 35,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "SYR vs HOF",
+      "result": "L",
+      "min": 34,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "SYR vs MERC",
+      "result": "W",
+      "min": 25,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "SYR vs NE",
+      "result": "W",
+      "min": 35,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "SYR vs STO",
+      "result": "W",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "SYR vs CLEM",
+      "result": "L",
+      "min": 28,
+      "pts": 5,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "SYR @ GT",
+      "result": "W",
+      "min": 37,
+      "pts": 7,
+      "adjPts": 6.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "SYR @ PITT",
+      "result": "W",
+      "min": 25,
+      "pts": 7,
+      "adjPts": 7.7,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "SYR vs FSU",
+      "result": "W",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 5.4,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "SYR @ BC",
+      "result": "L",
+      "min": 36,
+      "pts": 27,
+      "adjPts": 31.9,
+      "pointsPlus": 333
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "SYR vs VT",
+      "result": "L",
+      "min": 33,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "SYR vs MIA",
+      "result": "L",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 11.4,
+      "pointsPlus": 119
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "SYR @ NCSU",
+      "result": "L",
+      "min": 29,
+      "pts": 6,
+      "adjPts": 5.7,
+      "pointsPlus": 59
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "SYR vs ND",
+      "result": "W",
+      "min": 36,
+      "pts": 28,
+      "adjPts": 28.8,
+      "pointsPlus": 301
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "SYR @ UNC",
+      "result": "L",
+      "min": 30,
+      "pts": 8,
+      "adjPts": 8.3,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "SYR @ UVA",
+      "result": "L",
+      "min": 34,
+      "pts": 13,
+      "adjPts": 14.5,
+      "pointsPlus": 152
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "SYR vs CAL",
+      "result": "W",
+      "min": 44,
+      "pts": 27,
+      "adjPts": 27.3,
+      "pointsPlus": 285
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "SYR vs SMU",
+      "result": "W",
+      "min": 35,
+      "pts": 13,
+      "adjPts": 11.5,
+      "pointsPlus": 120
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "id": 5106863,
+  "name": "Nik Graves",
+  "team": "CREI",
+  "teamName": "Creighton Bluejays",
+  "conference": "Big East",
+  "rank": 281,
+  "gp": 26,
+  "ppg": 10.0,
+  "adjPpg": 10.1,
+  "pointsPlus": 106,
+  "mpg": 25.6,
+  "position": "G",
+  "jersey": "5",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 47.1,
+  "volatilityPctile": 35,
+  "gameLog": [
+    {
+      "date": "2025-11-06",
+      "matchup": "CREI vs SDAK",
+      "result": "W",
+      "min": 24,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "CREI @ GONZ",
+      "result": "L",
+      "min": 32,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "CREI vs UMES",
+      "result": "W",
+      "min": 22,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "CREI vs UND",
+      "result": "W",
+      "min": 32,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "CREI vs BAY",
+      "result": "L",
+      "min": 30,
+      "pts": 12,
+      "adjPts": 11.1,
+      "pointsPlus": 116
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "CREI vs ISU",
+      "result": "L",
+      "min": 21,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "CREI vs ORE",
+      "result": "W",
+      "min": 33,
+      "pts": 12,
+      "adjPts": 12.2,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "CREI vs NICH",
+      "result": "W",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "CREI @ NEB",
+      "result": "L",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 10.5,
+      "pointsPlus": 110
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "CREI vs KSU",
+      "result": "L",
+      "min": 9,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "CREI @ XAV",
+      "result": "W",
+      "min": 20,
+      "pts": 12,
+      "adjPts": 10.9,
+      "pointsPlus": 114
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "CREI vs MARQ",
+      "result": "W",
+      "min": 22,
+      "pts": 17,
+      "adjPts": 15.9,
+      "pointsPlus": 166
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "CREI vs UTU",
+      "result": "W",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "CREI vs BUT",
+      "result": "W",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 10.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "CREI @ HALL",
+      "result": "L",
+      "min": 27,
+      "pts": 8,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "CREI @ VILL",
+      "result": "W",
+      "min": 15,
+      "pts": 2,
+      "adjPts": 2.2,
+      "pointsPlus": 23
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "CREI vs SJU",
+      "result": "L",
+      "min": 21,
+      "pts": 9,
+      "adjPts": 8.9,
+      "pointsPlus": 93
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "CREI vs GTWN",
+      "result": "W",
+      "min": 35,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2026-01-16",
+      "matchup": "CREI @ PROV",
+      "result": "L",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 9.9,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "CREI vs XAV",
+      "result": "W",
+      "min": 31,
+      "pts": 16,
+      "adjPts": 14.6,
+      "pointsPlus": 152
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "CREI @ MARQ",
+      "result": "L",
+      "min": 16,
+      "pts": 6,
+      "adjPts": 5.6,
+      "pointsPlus": 59
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "CREI vs CONN",
+      "result": "L",
+      "min": 28,
+      "pts": 17,
+      "adjPts": 20.2,
+      "pointsPlus": 211
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "CREI @ GTWN",
+      "result": "L",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 11.3,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "CREI vs HALL",
+      "result": "W",
+      "min": 34,
+      "pts": 7,
+      "adjPts": 8.7,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "CREI @ DEP",
+      "result": "L",
+      "min": 29,
+      "pts": 9,
+      "adjPts": 10.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "CREI vs VILL",
+      "result": "L",
+      "min": 30,
+      "pts": 15,
+      "adjPts": 16.5,
+      "pointsPlus": 173
+    }
+  ]
+}

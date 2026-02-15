@@ -1,0 +1,209 @@
+{
+  "id": 5105544,
+  "name": "Amaree Abram",
+  "team": "TENN",
+  "teamName": "Tennessee Volunteers",
+  "conference": "SEC",
+  "rank": 605,
+  "gp": 21,
+  "ppg": 3.8,
+  "adjPpg": 3.8,
+  "pointsPlus": 40,
+  "mpg": 12.1,
+  "position": "G",
+  "jersey": "77",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 46.7,
+  "volatilityPctile": 34,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "TENN vs MER",
+      "result": "W",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "TENN vs NKU",
+      "result": "W",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "TENN vs UNF",
+      "result": "W",
+      "min": 13,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "TENN vs RICE",
+      "result": "W",
+      "min": 22,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "TENN vs TNST",
+      "result": "W",
+      "min": 23,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "TENN vs RUTG",
+      "result": "W",
+      "min": 15,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "TENN vs HOU",
+      "result": "W",
+      "min": 19,
+      "pts": 3,
+      "adjPts": 3.9,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "TENN vs KU",
+      "result": "L",
+      "min": 9,
+      "pts": 3,
+      "adjPts": 3.4,
+      "pointsPlus": 36
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "TENN @ SYR",
+      "result": "L",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 6.3,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "TENN vs ILL",
+      "result": "L",
+      "min": 15,
+      "pts": 8,
+      "adjPts": 8.5,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "TENN vs LOU",
+      "result": "W",
+      "min": 13,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "TENN vs GWEB",
+      "result": "W",
+      "min": 13,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "TENN vs SCST",
+      "result": "W",
+      "min": 11,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "TENN @ ARK",
+      "result": "L",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "TENN vs TEX",
+      "result": "W",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "TENN @ FLA",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "TENN vs TA&M",
+      "result": "W",
+      "min": 10,
+      "pts": 3,
+      "adjPts": 2.5,
+      "pointsPlus": 27
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "TENN vs UK",
+      "result": "L",
+      "min": 5,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "TENN @ ALA",
+      "result": "W",
+      "min": 10,
+      "pts": 3,
+      "adjPts": 2.3,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "TENN @ UGA",
+      "result": "W",
+      "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "TENN vs AUB",
+      "result": "W",
+      "min": 2,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    }
+  ]
+}

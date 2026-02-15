@@ -1,0 +1,236 @@
+{
+  "id": 4915060,
+  "name": "John Bol",
+  "team": "UCF",
+  "teamName": "UCF Knights",
+  "conference": "Big 12",
+  "rank": 486,
+  "gp": 24,
+  "ppg": 5.7,
+  "adjPpg": 5.9,
+  "pointsPlus": 62,
+  "mpg": 17.4,
+  "position": "C",
+  "jersey": "7",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 40.1,
+  "volatilityPctile": 18,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "UCF vs HOF",
+      "result": "W",
+      "min": 14,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "UCF vs VAN",
+      "result": "L",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "UCF vs FAMU",
+      "result": "W",
+      "min": 14,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "UCF @ TA&M",
+      "result": "W",
+      "min": 15,
+      "pts": 11,
+      "adjPts": 9.3,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "UCF vs OAK",
+      "result": "W",
+      "min": 16,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "UCF vs PITT",
+      "result": "W",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 6.6,
+      "pointsPlus": 69
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "UCF vs QUIN",
+      "result": "W",
+      "min": 18,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "UCF vs VMI",
+      "result": "W",
+      "min": 12,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "UCF vs TOW",
+      "result": "W",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "UCF vs MER",
+      "result": "W",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "UCF vs FGCU",
+      "result": "W",
+      "min": 19,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "UCF vs FAU",
+      "result": "W",
+      "min": 26,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "UCF vs KU",
+      "result": "W",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 6.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "UCF @ OKST",
+      "result": "L",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 17
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "UCF vs CIN",
+      "result": "W",
+      "min": 8,
+      "pts": 2,
+      "adjPts": 2.4,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "UCF @ KSU",
+      "result": "W",
+      "min": 12,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "UCF vs ARIZ",
+      "result": "L",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "UCF @ ISU",
+      "result": "L",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 4.7,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "UCF @ COLO",
+      "result": "W",
+      "min": 20,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "UCF vs ASU",
+      "result": "W",
+      "min": 24,
+      "pts": 6,
+      "adjPts": 5.4,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "UCF vs TTU",
+      "result": "W",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "UCF @ HOU",
+      "result": "L",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 10.5,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "UCF @ CIN",
+      "result": "L",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 4.8,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "UCF vs WVU",
+      "result": "L",
+      "min": 28,
+      "pts": 7,
+      "adjPts": 9.2,
+      "pointsPlus": 96
+    }
+  ]
+}

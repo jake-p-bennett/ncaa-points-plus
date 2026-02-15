@@ -1,0 +1,227 @@
+{
+  "id": 5105626,
+  "name": "Tyler Bilodeau",
+  "team": "UCLA",
+  "teamName": "UCLA Bruins",
+  "conference": "Big Ten",
+  "rank": 35,
+  "gp": 23,
+  "ppg": 17.9,
+  "adjPpg": 18.0,
+  "pointsPlus": 188,
+  "mpg": 30.8,
+  "position": "F",
+  "jersey": "34",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 66.0,
+  "volatilityPctile": 82,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "UCLA vs EWU",
+      "result": "W",
+      "min": 32,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "UCLA vs PEPP",
+      "result": "W",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "UCLA vs WGA",
+      "result": "W",
+      "min": 28,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "UCLA vs ARIZ",
+      "result": "L",
+      "min": 33,
+      "pts": 19,
+      "adjPts": 19.8,
+      "pointsPlus": 206
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "UCLA vs SAC",
+      "result": "W",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "UCLA @ WASH",
+      "result": "W",
+      "min": 30,
+      "pts": 21,
+      "adjPts": 21.7,
+      "pointsPlus": 227
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "UCLA vs ORE",
+      "result": "W",
+      "min": 34,
+      "pts": 14,
+      "adjPts": 14.2,
+      "pointsPlus": 149
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "UCLA vs GONZ",
+      "result": "L",
+      "min": 34,
+      "pts": 24,
+      "adjPts": 24.0,
+      "pointsPlus": 251
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "UCLA vs ASU",
+      "result": "W",
+      "min": 31,
+      "pts": 18,
+      "adjPts": 16.1,
+      "pointsPlus": 168
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "UCLA vs CP",
+      "result": "W",
+      "min": 31,
+      "pts": 24,
+      "adjPts": 24.0,
+      "pointsPlus": 251
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "UCLA vs UCR",
+      "result": "W",
+      "min": 30,
+      "pts": 34,
+      "adjPts": 34.0,
+      "pointsPlus": 355
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "UCLA @ IOWA",
+      "result": "L",
+      "min": 33,
+      "pts": 10,
+      "adjPts": 12.2,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "UCLA @ WIS",
+      "result": "L",
+      "min": 30,
+      "pts": 16,
+      "adjPts": 14.9,
+      "pointsPlus": 155
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "UCLA vs MD",
+      "result": "W",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 9.4,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "UCLA @ PSU",
+      "result": "W",
+      "min": 32,
+      "pts": 21,
+      "adjPts": 19.3,
+      "pointsPlus": 201
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "UCLA @ OSU",
+      "result": "L",
+      "min": 38,
+      "pts": 30,
+      "adjPts": 29.5,
+      "pointsPlus": 308
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "UCLA vs PUR",
+      "result": "W",
+      "min": 34,
+      "pts": 14,
+      "adjPts": 15.1,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "UCLA vs NU",
+      "result": "W",
+      "min": 31,
+      "pts": 18,
+      "adjPts": 18.8,
+      "pointsPlus": 196
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "UCLA @ ORE",
+      "result": "W",
+      "min": 33,
+      "pts": 18,
+      "adjPts": 18.3,
+      "pointsPlus": 191
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "UCLA vs IU",
+      "result": "L",
+      "min": 40,
+      "pts": 18,
+      "adjPts": 18.5,
+      "pointsPlus": 193
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "UCLA vs RUTG",
+      "result": "W",
+      "min": 29,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "UCLA vs WASH",
+      "result": "W",
+      "min": 24,
+      "pts": 19,
+      "adjPts": 19.7,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "UCLA @ MICH",
+      "result": "L",
+      "min": 35,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 108
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": 5176232,
+  "name": "Sam Lewis",
+  "team": "UVA",
+  "teamName": "Virginia Cavaliers",
+  "conference": "ACC",
+  "rank": 252,
+  "gp": 25,
+  "ppg": 10.7,
+  "adjPpg": 10.7,
+  "pointsPlus": 112,
+  "mpg": 25.6,
+  "position": "G",
+  "jersey": "5",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 55.2,
+  "volatilityPctile": 57,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "UVA vs RID",
+      "result": "W",
+      "min": 21,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "UVA vs NCCU",
+      "result": "W",
+      "min": 14,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "UVA vs HAMP",
+      "result": "W",
+      "min": 22,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "UVA vs MRSH",
+      "result": "W",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "UVA vs NU",
+      "result": "W",
+      "min": 27,
+      "pts": 9,
+      "adjPts": 9.4,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "UVA vs BUT",
+      "result": "L",
+      "min": 25,
+      "pts": 6,
+      "adjPts": 5.5,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "UVA vs QUC",
+      "result": "W",
+      "min": 26,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "UVA @ TEX",
+      "result": "W",
+      "min": 26,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "UVA vs DAY",
+      "result": "W",
+      "min": 24,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "UVA vs UMES",
+      "result": "W",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "UVA vs MD",
+      "result": "W",
+      "min": 28,
+      "pts": 5,
+      "adjPts": 4.7,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "UVA vs AMER",
+      "result": "W",
+      "min": 24,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "UVA @ VT",
+      "result": "L",
+      "min": 24,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "UVA @ NCSU",
+      "result": "W",
+      "min": 25,
+      "pts": 23,
+      "adjPts": 21.7,
+      "pointsPlus": 227
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "UVA vs CAL",
+      "result": "W",
+      "min": 33,
+      "pts": 12,
+      "adjPts": 12.1,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "UVA vs STAN",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 8.3,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "UVA @ LOU",
+      "result": "W",
+      "min": 30,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "UVA @ SMU",
+      "result": "W",
+      "min": 23,
+      "pts": 4,
+      "adjPts": 3.5,
+      "pointsPlus": 37
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "UVA vs UNC",
+      "result": "L",
+      "min": 28,
+      "pts": 11,
+      "adjPts": 11.5,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "UVA @ ND",
+      "result": "W",
+      "min": 43,
+      "pts": 21,
+      "adjPts": 21.6,
+      "pointsPlus": 226
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "UVA @ BC",
+      "result": "W",
+      "min": 21,
+      "pts": 6,
+      "adjPts": 7.1,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "UVA vs PITT",
+      "result": "W",
+      "min": 27,
+      "pts": 15,
+      "adjPts": 16.5,
+      "pointsPlus": 172
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "UVA vs SYR",
+      "result": "W",
+      "min": 26,
+      "pts": 16,
+      "adjPts": 16.7,
+      "pointsPlus": 174
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "UVA @ FSU",
+      "result": "W",
+      "min": 21,
+      "pts": 9,
+      "adjPts": 8.1,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "UVA vs OSU",
+      "result": "W",
+      "min": 28,
+      "pts": 12,
+      "adjPts": 11.8,
+      "pointsPlus": 123
+    }
+  ]
+}

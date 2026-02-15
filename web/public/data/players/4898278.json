@@ -1,0 +1,245 @@
+{
+  "id": 4898278,
+  "name": "Nate Johnson",
+  "team": "KSU",
+  "teamName": "Kansas State Wildcats",
+  "conference": "Big 12",
+  "rank": 213,
+  "gp": 25,
+  "ppg": 11.1,
+  "adjPpg": 11.5,
+  "pointsPlus": 120,
+  "mpg": 31.8,
+  "position": "G",
+  "jersey": "34",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 54.1,
+  "volatilityPctile": 53,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "KSU vs UNCG",
+      "result": "W",
+      "min": 31,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "KSU vs BELL",
+      "result": "W",
+      "min": 35,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "KSU vs CAL",
+      "result": "W",
+      "min": 29,
+      "pts": 20,
+      "adjPts": 20.2,
+      "pointsPlus": 211
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "KSU vs TLSA",
+      "result": "W",
+      "min": 35,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "KSU vs MSST",
+      "result": "W",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 12.8,
+      "pointsPlus": 134
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "KSU vs NEB",
+      "result": "L",
+      "min": 37,
+      "pts": 12,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "KSU @ IU",
+      "result": "L",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 13.3,
+      "pointsPlus": 139
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "KSU vs BGSU",
+      "result": "L",
+      "min": 32,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "KSU vs HALL",
+      "result": "L",
+      "min": 32,
+      "pts": 11,
+      "adjPts": 13.7,
+      "pointsPlus": 143
+    },
+    {
+      "date": "2025-12-09",
+      "matchup": "KSU vs MVSU",
+      "result": "W",
+      "min": 21,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "KSU @ CREI",
+      "result": "W",
+      "min": 32,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 82
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "KSU vs SDAK",
+      "result": "W",
+      "min": 23,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "KSU vs ULM",
+      "result": "W",
+      "min": 33,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "KSU vs BYU",
+      "result": "L",
+      "min": 31,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "KSU @ ARIZ",
+      "result": "L",
+      "min": 29,
+      "pts": 15,
+      "adjPts": 15.6,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "KSU @ ASU",
+      "result": "L",
+      "min": 26,
+      "pts": 7,
+      "adjPts": 6.3,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "KSU vs UCF",
+      "result": "L",
+      "min": 30,
+      "pts": 7,
+      "adjPts": 6.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "KSU @ OKST",
+      "result": "L",
+      "min": 28,
+      "pts": 14,
+      "adjPts": 11.6,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "KSU vs UTAH",
+      "result": "W",
+      "min": 35,
+      "pts": 17,
+      "adjPts": 15.2,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "KSU vs KU",
+      "result": "L",
+      "min": 35,
+      "pts": 5,
+      "adjPts": 5.7,
+      "pointsPlus": 59
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "KSU @ WVU",
+      "result": "L",
+      "min": 39,
+      "pts": 13,
+      "adjPts": 17.0,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "KSU vs ISU",
+      "result": "L",
+      "min": 32,
+      "pts": 8,
+      "adjPts": 9.3,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "KSU @ TCU",
+      "result": "L",
+      "min": 37,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "KSU vs CIN",
+      "result": "L",
+      "min": 32,
+      "pts": 6,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "KSU @ HOU",
+      "result": "L",
+      "min": 40,
+      "pts": 12,
+      "adjPts": 15.7,
+      "pointsPlus": 164
+    }
+  ]
+}

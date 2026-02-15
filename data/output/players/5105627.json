@@ -1,0 +1,245 @@
+{
+  "id": 5105627,
+  "name": "Michael Rataj",
+  "team": "BAY",
+  "teamName": "Baylor Bears",
+  "conference": "Big 12",
+  "rank": 364,
+  "gp": 25,
+  "ppg": 8.2,
+  "adjPpg": 8.3,
+  "pointsPlus": 87,
+  "mpg": 26.6,
+  "position": "G",
+  "jersey": "12",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 49.1,
+  "volatilityPctile": 40,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "BAY vs RGV",
+      "result": "W",
+      "min": 26,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "BAY vs WASH",
+      "result": "W",
+      "min": 24,
+      "pts": 11,
+      "adjPts": 11.4,
+      "pointsPlus": 119
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "BAY vs TAR",
+      "result": "W",
+      "min": 36,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "BAY vs CREI",
+      "result": "W",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 9.8,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "BAY vs SJU",
+      "result": "L",
+      "min": 30,
+      "pts": 12,
+      "adjPts": 11.9,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "BAY vs SDSU",
+      "result": "W",
+      "min": 27,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "BAY vs SAC",
+      "result": "W",
+      "min": 31,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "BAY @ MEM",
+      "result": "L",
+      "min": 30,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "BAY vs NORF",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "BAY vs ALCN",
+      "result": "W",
+      "min": 28,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "BAY vs SOU",
+      "result": "W",
+      "min": 32,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "BAY vs ABU",
+      "result": "W",
+      "min": 26,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "BAY @ TCU",
+      "result": "L",
+      "min": 22,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "BAY vs ISU",
+      "result": "L",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 9.3,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "BAY vs HOU",
+      "result": "L",
+      "min": 28,
+      "pts": 6,
+      "adjPts": 7.8,
+      "pointsPlus": 82
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "BAY @ OKST",
+      "result": "W",
+      "min": 36,
+      "pts": 19,
+      "adjPts": 15.7,
+      "pointsPlus": 164
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "BAY @ KU",
+      "result": "L",
+      "min": 24,
+      "pts": 5,
+      "adjPts": 5.7,
+      "pointsPlus": 59
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "BAY vs TTU",
+      "result": "L",
+      "min": 30,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "BAY vs TCU",
+      "result": "L",
+      "min": 24,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 11
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "BAY @ CIN",
+      "result": "L",
+      "min": 16,
+      "pts": 4,
+      "adjPts": 4.8,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "BAY @ WVU",
+      "result": "W",
+      "min": 22,
+      "pts": 3,
+      "adjPts": 3.9,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "BAY vs COLO",
+      "result": "W",
+      "min": 26,
+      "pts": 7,
+      "adjPts": 6.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "BAY @ ISU",
+      "result": "L",
+      "min": 20,
+      "pts": 2,
+      "adjPts": 2.3,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BAY vs BYU",
+      "result": "L",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "BAY vs LOU",
+      "result": "L",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    }
+  ]
+}

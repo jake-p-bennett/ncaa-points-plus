@@ -1,0 +1,227 @@
+{
+  "id": 5105658,
+  "name": "Dylan Darling",
+  "team": "SJU",
+  "teamName": "St. John's Red Storm",
+  "conference": "Big East",
+  "rank": 431,
+  "gp": 23,
+  "ppg": 7.1,
+  "adjPpg": 7.1,
+  "pointsPlus": 74,
+  "mpg": 19.4,
+  "position": "G",
+  "jersey": "0",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 57.7,
+  "volatilityPctile": 64,
+  "gameLog": [
+    {
+      "date": "2025-11-03",
+      "matchup": "SJU vs QUIN",
+      "result": "W",
+      "min": 17,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "SJU vs W&M",
+      "result": "W",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "SJU vs BUCK",
+      "result": "W",
+      "min": 21,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "SJU vs ISU",
+      "result": "L",
+      "min": 24,
+      "pts": 4,
+      "adjPts": 4.7,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "SJU vs BAY",
+      "result": "W",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "SJU vs AUB",
+      "result": "L",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "SJU vs MISS",
+      "result": "W",
+      "min": 24,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "SJU vs IONA",
+      "result": "W",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "SJU vs DEP",
+      "result": "W",
+      "min": 25,
+      "pts": 17,
+      "adjPts": 19.1,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "SJU vs UK",
+      "result": "L",
+      "min": 9,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "SJU vs HARV",
+      "result": "W",
+      "min": 18,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2026-01-01",
+      "matchup": "SJU @ GTWN",
+      "result": "W",
+      "min": 18,
+      "pts": 11,
+      "adjPts": 11.3,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "SJU vs PROV",
+      "result": "L",
+      "min": 20,
+      "pts": 1,
+      "adjPts": 0.8,
+      "pointsPlus": 8
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "SJU @ CREI",
+      "result": "W",
+      "min": 19,
+      "pts": 11,
+      "adjPts": 10.8,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "SJU vs MARQ",
+      "result": "W",
+      "min": 20,
+      "pts": 7,
+      "adjPts": 6.6,
+      "pointsPlus": 69
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "SJU @ VILL",
+      "result": "W",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "SJU vs HALL",
+      "result": "W",
+      "min": 26,
+      "pts": 8,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "SJU @ XAV",
+      "result": "W",
+      "min": 17,
+      "pts": 11,
+      "adjPts": 10.0,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "SJU vs BUT",
+      "result": "W",
+      "min": 15,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "SJU @ DEP",
+      "result": "W",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 6.7,
+      "pointsPlus": 70
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "SJU vs CONN",
+      "result": "W",
+      "min": 21,
+      "pts": 9,
+      "adjPts": 10.7,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "SJU vs XAV",
+      "result": "W",
+      "min": 34,
+      "pts": 16,
+      "adjPts": 14.6,
+      "pointsPlus": 152
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "SJU @ PROV",
+      "result": "W",
+      "min": 27,
+      "pts": 23,
+      "adjPts": 17.4,
+      "pointsPlus": 182
+    }
+  ]
+}

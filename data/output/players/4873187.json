@@ -1,0 +1,209 @@
+{
+  "id": 4873187,
+  "name": "Khani Rooths",
+  "team": "LOU",
+  "teamName": "Louisville Cardinals",
+  "conference": "ACC",
+  "rank": 450,
+  "gp": 21,
+  "ppg": 6.6,
+  "adjPpg": 6.6,
+  "pointsPlus": 69,
+  "mpg": 18.0,
+  "position": "F",
+  "jersey": "9",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 55.9,
+  "volatilityPctile": 60,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "LOU vs SCST",
+      "result": "W",
+      "min": 22,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 209
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "LOU vs JKST",
+      "result": "W",
+      "min": 24,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "LOU vs UK",
+      "result": "W",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "LOU vs OHIO",
+      "result": "W",
+      "min": 13,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "LOU vs CIN",
+      "result": "W",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 2.4,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "LOU vs EMU",
+      "result": "W",
+      "min": 22,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "LOU vs NJIT",
+      "result": "W",
+      "min": 19,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "LOU @ ARK",
+      "result": "L",
+      "min": 9,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "LOU vs IU",
+      "result": "W",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "LOU vs MEM",
+      "result": "W",
+      "min": 18,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "LOU @ TENN",
+      "result": "L",
+      "min": 13,
+      "pts": 1,
+      "adjPts": 1.1,
+      "pointsPlus": 11
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "LOU vs MONT",
+      "result": "W",
+      "min": 22,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "LOU @ CAL",
+      "result": "W",
+      "min": 18,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 53
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "LOU @ STAN",
+      "result": "L",
+      "min": 27,
+      "pts": 7,
+      "adjPts": 7.3,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "LOU vs DUKE",
+      "result": "L",
+      "min": 12,
+      "pts": 6,
+      "adjPts": 7.3,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "LOU vs BC",
+      "result": "W",
+      "min": 25,
+      "pts": 3,
+      "adjPts": 3.5,
+      "pointsPlus": 37
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "LOU vs SMU",
+      "result": "W",
+      "min": 20,
+      "pts": 12,
+      "adjPts": 10.6,
+      "pointsPlus": 110
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "LOU vs ND",
+      "result": "W",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "LOU @ WAKE",
+      "result": "W",
+      "min": 18,
+      "pts": 13,
+      "adjPts": 12.1,
+      "pointsPlus": 126
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "LOU vs NCSU",
+      "result": "W",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "LOU vs BAY",
+      "result": "W",
+      "min": 24,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": 5105798,
+  "name": "Malik Reneau",
+  "team": "MIA",
+  "teamName": "Miami Hurricanes",
+  "conference": "ACC",
+  "rank": 16,
+  "gp": 25,
+  "ppg": 20.1,
+  "adjPpg": 20.4,
+  "pointsPlus": 213,
+  "mpg": 28.4,
+  "position": "F",
+  "jersey": "5",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 43.5,
+  "volatilityPctile": 26,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "MIA vs JAX",
+      "result": "W",
+      "min": 27,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 209
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "MIA vs BCU",
+      "result": "W",
+      "min": 26,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "MIA vs STET",
+      "result": "W",
+      "min": 23,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "MIA vs FLA",
+      "result": "L",
+      "min": 30,
+      "pts": 22,
+      "adjPts": 21.8,
+      "pointsPlus": 228
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "MIA vs ELON",
+      "result": "W",
+      "min": 30,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "MIA vs DSU",
+      "result": "W",
+      "min": 19,
+      "pts": 24,
+      "adjPts": 24.0,
+      "pointsPlus": 251
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "MIA vs BYU",
+      "result": "L",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 13.1,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "MIA vs GTWN",
+      "result": "W",
+      "min": 27,
+      "pts": 23,
+      "adjPts": 23.7,
+      "pointsPlus": 247
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "MIA @ MISS",
+      "result": "W",
+      "min": 32,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 161
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "MIA vs USM",
+      "result": "W",
+      "min": 18,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "MIA vs ULM",
+      "result": "W",
+      "min": 25,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "MIA vs FIU",
+      "result": "W",
+      "min": 29,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "MIA vs UNF",
+      "result": "W",
+      "min": 22,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "MIA vs PITT",
+      "result": "W",
+      "min": 28,
+      "pts": 28,
+      "adjPts": 30.8,
+      "pointsPlus": 322
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "MIA @ WAKE",
+      "result": "W",
+      "min": 29,
+      "pts": 18,
+      "adjPts": 16.7,
+      "pointsPlus": 174
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "MIA vs GT",
+      "result": "W",
+      "min": 30,
+      "pts": 18,
+      "adjPts": 17.5,
+      "pointsPlus": 183
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "MIA @ ND",
+      "result": "W",
+      "min": 35,
+      "pts": 17,
+      "adjPts": 17.5,
+      "pointsPlus": 183
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "MIA @ CLEM",
+      "result": "L",
+      "min": 21,
+      "pts": 11,
+      "adjPts": 13.6,
+      "pointsPlus": 142
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "MIA vs FSU",
+      "result": "L",
+      "min": 33,
+      "pts": 16,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "MIA @ SYR",
+      "result": "W",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 20.9,
+      "pointsPlus": 218
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "MIA vs STAN",
+      "result": "W",
+      "min": 28,
+      "pts": 20,
+      "adjPts": 20.8,
+      "pointsPlus": 218
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "MIA vs CAL",
+      "result": "L",
+      "min": 30,
+      "pts": 24,
+      "adjPts": 24.2,
+      "pointsPlus": 253
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "MIA @ BC",
+      "result": "W",
+      "min": 35,
+      "pts": 23,
+      "adjPts": 27.1,
+      "pointsPlus": 284
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MIA vs UNC",
+      "result": "W",
+      "min": 35,
+      "pts": 16,
+      "adjPts": 16.7,
+      "pointsPlus": 174
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "MIA @ NCSU",
+      "result": "W",
+      "min": 36,
+      "pts": 26,
+      "adjPts": 24.5,
+      "pointsPlus": 256
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "id": 5106880,
+  "name": "Jestin Porter",
+  "team": "CLEM",
+  "teamName": "Clemson Tigers",
+  "conference": "ACC",
+  "rank": 274,
+  "gp": 26,
+  "ppg": 10.0,
+  "adjPpg": 10.3,
+  "pointsPlus": 107,
+  "mpg": 27.8,
+  "position": "G",
+  "jersey": "1",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 58.4,
+  "volatilityPctile": 66,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "CLEM vs UNH",
+      "result": "W",
+      "min": 19,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "CLEM vs GWEB",
+      "result": "W",
+      "min": 17,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "CLEM vs MORE",
+      "result": "W",
+      "min": 15,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "CLEM @ GTWN",
+      "result": "L",
+      "min": 16,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "CLEM vs UNA",
+      "result": "W",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "CLEM vs WVU",
+      "result": "W",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 18.3,
+      "pointsPlus": 192
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "CLEM vs UGA",
+      "result": "W",
+      "min": 40,
+      "pts": 18,
+      "adjPts": 15.2,
+      "pointsPlus": 159
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "CLEM vs AAMU",
+      "result": "W",
+      "min": 20,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "CLEM @ ALA",
+      "result": "L",
+      "min": 16,
+      "pts": 4,
+      "adjPts": 3.1,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-12-09",
+      "matchup": "CLEM vs BYU",
+      "result": "L",
+      "min": 33,
+      "pts": 17,
+      "adjPts": 15.9,
+      "pointsPlus": 166
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "CLEM vs MER",
+      "result": "W",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "CLEM vs SC",
+      "result": "W",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 5.8,
+      "pointsPlus": 61
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "CLEM vs CIN",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 13.2,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "CLEM @ SYR",
+      "result": "W",
+      "min": 29,
+      "pts": 9,
+      "adjPts": 9.4,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "CLEM @ PITT",
+      "result": "W",
+      "min": 28,
+      "pts": 21,
+      "adjPts": 23.1,
+      "pointsPlus": 241
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "CLEM vs SMU",
+      "result": "W",
+      "min": 34,
+      "pts": 7,
+      "adjPts": 6.2,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "CLEM @ ND",
+      "result": "W",
+      "min": 32,
+      "pts": 26,
+      "adjPts": 26.8,
+      "pointsPlus": 280
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "CLEM vs BC",
+      "result": "W",
+      "min": 30,
+      "pts": 5,
+      "adjPts": 5.9,
+      "pointsPlus": 62
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "CLEM vs MIA",
+      "result": "W",
+      "min": 33,
+      "pts": 11,
+      "adjPts": 11.4,
+      "pointsPlus": 119
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "CLEM vs NCSU",
+      "result": "L",
+      "min": 38,
+      "pts": 9,
+      "adjPts": 8.5,
+      "pointsPlus": 89
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "CLEM @ GT",
+      "result": "W",
+      "min": 31,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "CLEM vs PITT",
+      "result": "W",
+      "min": 32,
+      "pts": 5,
+      "adjPts": 5.5,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "CLEM @ STAN",
+      "result": "W",
+      "min": 35,
+      "pts": 8,
+      "adjPts": 8.3,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "CLEM @ CAL",
+      "result": "W",
+      "min": 35,
+      "pts": 7,
+      "adjPts": 7.1,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "CLEM vs VT",
+      "result": "L",
+      "min": 33,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "CLEM @ DUKE",
+      "result": "L",
+      "min": 32,
+      "pts": 4,
+      "adjPts": 4.9,
+      "pointsPlus": 51
+    }
+  ]
+}

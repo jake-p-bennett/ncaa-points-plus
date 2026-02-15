@@ -1,0 +1,182 @@
+{
+  "id": 5144388,
+  "name": "Kuol Atak",
+  "team": "OU",
+  "teamName": "Oklahoma Sooners",
+  "conference": "SEC",
+  "rank": 399,
+  "gp": 18,
+  "ppg": 7.7,
+  "adjPpg": 7.5,
+  "pointsPlus": 78,
+  "mpg": 13.3,
+  "position": "F",
+  "jersey": "22",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 72.5,
+  "volatilityPctile": 89,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "OU vs SFPA",
+      "result": "W",
+      "min": 20,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "OU @ GONZ",
+      "result": "L",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "OU vs UAPB",
+      "result": "W",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "OU vs NEB",
+      "result": "L",
+      "min": 16,
+      "pts": 10,
+      "adjPts": 11.7,
+      "pointsPlus": 122
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "OU vs ORU",
+      "result": "W",
+      "min": 9,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "OU vs MARQ",
+      "result": "W",
+      "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "OU vs ASU",
+      "result": "L",
+      "min": 10,
+      "pts": 12,
+      "adjPts": 10.7,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "OU vs OKST",
+      "result": "W",
+      "min": 9,
+      "pts": 5,
+      "adjPts": 4.1,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "OU vs KC",
+      "result": "W",
+      "min": 18,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "OU vs STET",
+      "result": "W",
+      "min": 18,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "OU vs MVSU",
+      "result": "W",
+      "min": 26,
+      "pts": 24,
+      "adjPts": 24.0,
+      "pointsPlus": 251
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "OU vs MISS",
+      "result": "W",
+      "min": 22,
+      "pts": 14,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "OU @ MSST",
+      "result": "L",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "OU @ TA&M",
+      "result": "L",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "OU vs FLA",
+      "result": "L",
+      "min": 5,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "OU @ SC",
+      "result": "L",
+      "min": 0,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "OU @ UK",
+      "result": "L",
+      "min": 16,
+      "pts": 9,
+      "adjPts": 9.1,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "OU vs UGA",
+      "result": "W",
+      "min": 17,
+      "pts": 18,
+      "adjPts": 15.2,
+      "pointsPlus": 159
+    }
+  ]
+}

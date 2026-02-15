@@ -1,0 +1,254 @@
+{
+  "id": 4912455,
+  "name": "Braeden Shrewsberry",
+  "team": "ND",
+  "teamName": "Notre Dame Fighting Irish",
+  "conference": "ACC",
+  "rank": 174,
+  "gp": 26,
+  "ppg": 12.3,
+  "adjPpg": 12.5,
+  "pointsPlus": 131,
+  "mpg": 32.1,
+  "position": "G",
+  "jersey": "11",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 75.1,
+  "volatilityPctile": 92,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "ND vs LIU",
+      "result": "W",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "ND vs DETM",
+      "result": "W",
+      "min": 29,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "ND vs EIU",
+      "result": "W",
+      "min": 30,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "ND @ OSU",
+      "result": "L",
+      "min": 32,
+      "pts": 11,
+      "adjPts": 10.8,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "ND vs BELL",
+      "result": "W",
+      "min": 29,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "ND vs KU",
+      "result": "L",
+      "min": 34,
+      "pts": 9,
+      "adjPts": 10.2,
+      "pointsPlus": 107
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "ND vs RUTG",
+      "result": "W",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "ND vs HOU",
+      "result": "L",
+      "min": 20,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "ND vs MIZ",
+      "result": "W",
+      "min": 35,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "ND @ TCU",
+      "result": "W",
+      "min": 38,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 161
+    },
+    {
+      "date": "2025-12-11",
+      "matchup": "ND vs IDHO",
+      "result": "W",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "ND vs EVAN",
+      "result": "W",
+      "min": 32,
+      "pts": 26,
+      "adjPts": 26.0,
+      "pointsPlus": 272
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "ND vs PFW",
+      "result": "L",
+      "min": 35,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "ND @ STAN",
+      "result": "W",
+      "min": 30,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "ND @ CAL",
+      "result": "L",
+      "min": 31,
+      "pts": 21,
+      "adjPts": 21.2,
+      "pointsPlus": 221
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "ND vs CLEM",
+      "result": "L",
+      "min": 32,
+      "pts": 5,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "ND vs MIA",
+      "result": "L",
+      "min": 25,
+      "pts": 8,
+      "adjPts": 8.3,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "ND @ VT",
+      "result": "L",
+      "min": 35,
+      "pts": 6,
+      "adjPts": 5.8,
+      "pointsPlus": 61
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "ND @ UNC",
+      "result": "L",
+      "min": 27,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "ND vs BC",
+      "result": "W",
+      "min": 33,
+      "pts": 22,
+      "adjPts": 26.0,
+      "pointsPlus": 271
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "ND vs UVA",
+      "result": "L",
+      "min": 47,
+      "pts": 18,
+      "adjPts": 20.1,
+      "pointsPlus": 210
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "ND @ SYR",
+      "result": "L",
+      "min": 35,
+      "pts": 17,
+      "adjPts": 17.7,
+      "pointsPlus": 185
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "ND @ LOU",
+      "result": "L",
+      "min": 34,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "ND vs FSU",
+      "result": "L",
+      "min": 39,
+      "pts": 18,
+      "adjPts": 16.2,
+      "pointsPlus": 169
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ND @ SMU",
+      "result": "L",
+      "min": 32,
+      "pts": 16,
+      "adjPts": 14.1,
+      "pointsPlus": 147
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "ND vs GT",
+      "result": "W",
+      "min": 40,
+      "pts": 20,
+      "adjPts": 19.4,
+      "pointsPlus": 203
+    }
+  ]
+}

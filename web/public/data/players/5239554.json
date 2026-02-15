@@ -1,0 +1,245 @@
+{
+  "id": 5239554,
+  "name": "Malachi Palmer",
+  "team": "VILL",
+  "teamName": "Villanova Wildcats",
+  "conference": "Big East",
+  "rank": 575,
+  "gp": 25,
+  "ppg": 4.3,
+  "adjPpg": 4.3,
+  "pointsPlus": 45,
+  "mpg": 16.2,
+  "position": "G",
+  "jersey": "7",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 43.2,
+  "volatilityPctile": 25,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "VILL vs BYU",
+      "result": "L",
+      "min": 18,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 29
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "VILL vs QUC",
+      "result": "W",
+      "min": 23,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "VILL vs SHU",
+      "result": "W",
+      "min": 22,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "VILL vs DUQ",
+      "result": "W",
+      "min": 15,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "VILL @ LAS",
+      "result": "W",
+      "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "VILL vs ODU",
+      "result": "W",
+      "min": 15,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "VILL vs TEM",
+      "result": "W",
+      "min": 17,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "VILL vs PENN",
+      "result": "W",
+      "min": 16,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-09",
+      "matchup": "VILL @ MICH",
+      "result": "L",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "VILL vs PITT",
+      "result": "W",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "VILL vs WIS",
+      "result": "W",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-24",
+      "matchup": "VILL @ HALL",
+      "result": "W",
+      "min": 8,
+      "pts": 3,
+      "adjPts": 3.7,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "VILL vs DEP",
+      "result": "W",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "VILL @ BUT",
+      "result": "W",
+      "min": 10,
+      "pts": 3,
+      "adjPts": 2.7,
+      "pointsPlus": 29
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "VILL vs CREI",
+      "result": "L",
+      "min": 14,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "VILL @ MARQ",
+      "result": "W",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "VILL @ PROV",
+      "result": "W",
+      "min": 24,
+      "pts": 10,
+      "adjPts": 7.6,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "VILL vs SJU",
+      "result": "L",
+      "min": 24,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 62
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "VILL vs GTWN",
+      "result": "W",
+      "min": 23,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "VILL @ CONN",
+      "result": "L",
+      "min": 17,
+      "pts": 3,
+      "adjPts": 3.6,
+      "pointsPlus": 37
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "VILL vs PROV",
+      "result": "W",
+      "min": 12,
+      "pts": 5,
+      "adjPts": 3.8,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "VILL vs HALL",
+      "result": "W",
+      "min": 23,
+      "pts": 15,
+      "adjPts": 18.7,
+      "pointsPlus": 195
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "VILL @ GTWN",
+      "result": "W",
+      "min": 22,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "VILL vs MARQ",
+      "result": "W",
+      "min": 19,
+      "pts": 5,
+      "adjPts": 4.7,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "VILL @ CREI",
+      "result": "W",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 9.8,
+      "pointsPlus": 103
+    }
+  ]
+}

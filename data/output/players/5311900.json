@@ -1,0 +1,245 @@
+{
+  "id": 5311900,
+  "name": "Andrija Grbovi\u0107",
+  "team": "ASU",
+  "teamName": "Arizona State Sun Devils",
+  "conference": "Big 12",
+  "rank": 411,
+  "gp": 25,
+  "ppg": 7.3,
+  "adjPpg": 7.3,
+  "pointsPlus": 77,
+  "mpg": 20.2,
+  "position": "F",
+  "jersey": "14",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 41.5,
+  "volatilityPctile": 21,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "ASU vs SUU",
+      "result": "W",
+      "min": 24,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "ASU vs UTU",
+      "result": "W",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "ASU vs GONZ",
+      "result": "L",
+      "min": 19,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "ASU vs GAST",
+      "result": "W",
+      "min": 28,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "ASU @ HAW",
+      "result": "W",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "ASU vs TEX",
+      "result": "W",
+      "min": 31,
+      "pts": 8,
+      "adjPts": 7.5,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "ASU vs WSU",
+      "result": "W",
+      "min": 17,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "ASU vs USC",
+      "result": "L",
+      "min": 14,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 29
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "ASU vs OU",
+      "result": "W",
+      "min": 14,
+      "pts": 11,
+      "adjPts": 9.8,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "ASU vs NAU",
+      "result": "W",
+      "min": 15,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "ASU vs SCU",
+      "result": "W",
+      "min": 19,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "ASU @ UCLA",
+      "result": "L",
+      "min": 36,
+      "pts": 13,
+      "adjPts": 13.9,
+      "pointsPlus": 145
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "ASU vs ORST",
+      "result": "L",
+      "min": 12,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 10
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "ASU vs COLO",
+      "result": "L",
+      "min": 15,
+      "pts": 8,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "ASU @ BYU",
+      "result": "L",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 9.3,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "ASU vs KSU",
+      "result": "W",
+      "min": 24,
+      "pts": 4,
+      "adjPts": 3.4,
+      "pointsPlus": 36
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "ASU @ ARIZ",
+      "result": "L",
+      "min": 22,
+      "pts": 10,
+      "adjPts": 10.4,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "ASU @ HOU",
+      "result": "L",
+      "min": 16,
+      "pts": 14,
+      "adjPts": 18.3,
+      "pointsPlus": 191
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "ASU vs WVU",
+      "result": "L",
+      "min": 9,
+      "pts": 3,
+      "adjPts": 3.9,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "ASU vs CIN",
+      "result": "W",
+      "min": 17,
+      "pts": 8,
+      "adjPts": 9.6,
+      "pointsPlus": 100
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "ASU @ UCF",
+      "result": "L",
+      "min": 14,
+      "pts": 7,
+      "adjPts": 6.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "ASU vs ARIZ",
+      "result": "L",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "ASU @ UTAH",
+      "result": "W",
+      "min": 35,
+      "pts": 9,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "ASU @ COLO",
+      "result": "L",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ASU vs OKST",
+      "result": "W",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 9.1,
+      "pointsPlus": 95
+    }
+  ]
+}

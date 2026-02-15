@@ -1,0 +1,227 @@
+{
+  "id": 5105791,
+  "name": "Jayden Epps",
+  "team": "MSST",
+  "teamName": "Mississippi State Bulldogs",
+  "conference": "SEC",
+  "rank": 135,
+  "gp": 23,
+  "ppg": 14.3,
+  "adjPpg": 13.7,
+  "pointsPlus": 143,
+  "mpg": 27.3,
+  "position": "G",
+  "jersey": "10",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 63.5,
+  "volatilityPctile": 78,
+  "gameLog": [
+    {
+      "date": "2025-11-06",
+      "matchup": "MSST vs UNA",
+      "result": "W",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "MSST vs SELA",
+      "result": "W",
+      "min": 17,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "MSST vs KSU",
+      "result": "L",
+      "min": 20,
+      "pts": 18,
+      "adjPts": 15.5,
+      "pointsPlus": 162
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "MSST vs UNM",
+      "result": "L",
+      "min": 34,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "MSST vs SMU",
+      "result": "L",
+      "min": 33,
+      "pts": 21,
+      "adjPts": 18.5,
+      "pointsPlus": 193
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "MSST @ GT",
+      "result": "W",
+      "min": 30,
+      "pts": 14,
+      "adjPts": 13.6,
+      "pointsPlus": 142
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "MSST vs SF",
+      "result": "L",
+      "min": 34,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "MSST vs UTAH",
+      "result": "W",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 17.8,
+      "pointsPlus": 186
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "MSST vs LIU",
+      "result": "W",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 209
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "MSST vs MEM",
+      "result": "W",
+      "min": 27,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "MSST vs ALST",
+      "result": "W",
+      "min": 21,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "MSST @ TEX",
+      "result": "W",
+      "min": 41,
+      "pts": 27,
+      "adjPts": 25.5,
+      "pointsPlus": 266
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "MSST vs OU",
+      "result": "W",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 5.4,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "MSST @ UK",
+      "result": "L",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 13.1,
+      "pointsPlus": 137
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "MSST vs ALA",
+      "result": "L",
+      "min": 23,
+      "pts": 13,
+      "adjPts": 10.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "MSST vs MISS",
+      "result": "L",
+      "min": 30,
+      "pts": 14,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "MSST @ TA&M",
+      "result": "L",
+      "min": 24,
+      "pts": 11,
+      "adjPts": 9.3,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "MSST vs VAN",
+      "result": "L",
+      "min": 25,
+      "pts": 14,
+      "adjPts": 13.1,
+      "pointsPlus": 137
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "MSST @ LSU",
+      "result": "W",
+      "min": 21,
+      "pts": 9,
+      "adjPts": 8.6,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "MSST @ MIZ",
+      "result": "L",
+      "min": 29,
+      "pts": 23,
+      "adjPts": 22.4,
+      "pointsPlus": 234
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "MSST vs ARK",
+      "result": "L",
+      "min": 23,
+      "pts": 3,
+      "adjPts": 2.7,
+      "pointsPlus": 28
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "MSST vs TENN",
+      "result": "L",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 9.7,
+      "pointsPlus": 101
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "MSST @ MISS",
+      "result": "W",
+      "min": 33,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 129
+    }
+  ]
+}

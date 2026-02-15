@@ -1,0 +1,245 @@
+{
+  "id": 5174633,
+  "name": "Xzayvier Brown",
+  "team": "OU",
+  "teamName": "Oklahoma Sooners",
+  "conference": "SEC",
+  "rank": 77,
+  "gp": 25,
+  "ppg": 16.1,
+  "adjPpg": 15.6,
+  "pointsPlus": 163,
+  "mpg": 31.9,
+  "position": "G",
+  "jersey": "1",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 66.7,
+  "volatilityPctile": 84,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "OU vs SFPA",
+      "result": "W",
+      "min": 29,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "OU @ GONZ",
+      "result": "L",
+      "min": 31,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "OU vs UAPB",
+      "result": "W",
+      "min": 33,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "OU vs NEB",
+      "result": "L",
+      "min": 35,
+      "pts": 20,
+      "adjPts": 23.3,
+      "pointsPlus": 244
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "OU vs ORU",
+      "result": "W",
+      "min": 31,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "OU vs ALCN",
+      "result": "W",
+      "min": 26,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "OU vs MARQ",
+      "result": "W",
+      "min": 26,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "OU @ WAKE",
+      "result": "W",
+      "min": 33,
+      "pts": 11,
+      "adjPts": 10.2,
+      "pointsPlus": 107
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "OU vs ASU",
+      "result": "L",
+      "min": 33,
+      "pts": 11,
+      "adjPts": 9.8,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "OU vs OKST",
+      "result": "W",
+      "min": 33,
+      "pts": 21,
+      "adjPts": 17.4,
+      "pointsPlus": 182
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "OU vs KC",
+      "result": "W",
+      "min": 30,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "OU vs STET",
+      "result": "W",
+      "min": 25,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "OU vs MVSU",
+      "result": "W",
+      "min": 32,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "OU vs MISS",
+      "result": "W",
+      "min": 25,
+      "pts": 23,
+      "adjPts": 23.6,
+      "pointsPlus": 247
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "OU @ MSST",
+      "result": "L",
+      "min": 34,
+      "pts": 13,
+      "adjPts": 11.9,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "OU @ TA&M",
+      "result": "L",
+      "min": 29,
+      "pts": 7,
+      "adjPts": 5.9,
+      "pointsPlus": 62
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "OU vs FLA",
+      "result": "L",
+      "min": 37,
+      "pts": 24,
+      "adjPts": 23.8,
+      "pointsPlus": 249
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "OU vs ALA",
+      "result": "L",
+      "min": 38,
+      "pts": 21,
+      "adjPts": 16.3,
+      "pointsPlus": 170
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "OU @ SC",
+      "result": "L",
+      "min": 37,
+      "pts": 22,
+      "adjPts": 21.3,
+      "pointsPlus": 222
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "OU @ MIZ",
+      "result": "L",
+      "min": 38,
+      "pts": 19,
+      "adjPts": 18.5,
+      "pointsPlus": 194
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "OU vs ARK",
+      "result": "L",
+      "min": 38,
+      "pts": 13,
+      "adjPts": 11.5,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "OU vs TEX",
+      "result": "L",
+      "min": 35,
+      "pts": 15,
+      "adjPts": 14.1,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "OU @ UK",
+      "result": "L",
+      "min": 31,
+      "pts": 21,
+      "adjPts": 21.2,
+      "pointsPlus": 221
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "OU @ VAN",
+      "result": "W",
+      "min": 28,
+      "pts": 20,
+      "adjPts": 18.8,
+      "pointsPlus": 196
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "OU vs UGA",
+      "result": "W",
+      "min": 30,
+      "pts": 5,
+      "adjPts": 4.2,
+      "pointsPlus": 44
+    }
+  ]
+}

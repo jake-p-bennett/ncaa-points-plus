@@ -1,0 +1,227 @@
+{
+  "id": 5234749,
+  "name": "Lino Mark",
+  "team": "RUTG",
+  "teamName": "Rutgers Scarlet Knights",
+  "conference": "Big Ten",
+  "rank": 606,
+  "gp": 23,
+  "ppg": 3.6,
+  "adjPpg": 3.8,
+  "pointsPlus": 40,
+  "mpg": 13.5,
+  "position": "G",
+  "jersey": "2",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 40.4,
+  "volatilityPctile": 18,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "RUTG vs RID",
+      "result": "W",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "RUTG vs ME",
+      "result": "W",
+      "min": 2,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "RUTG vs LEH",
+      "result": "W",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "RUTG vs AMER",
+      "result": "W",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "RUTG vs CCSU",
+      "result": "L",
+      "min": 9,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "RUTG vs TENN",
+      "result": "L",
+      "min": 10,
+      "pts": 5,
+      "adjPts": 5.4,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "RUTG vs ND",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "RUTG vs UNLV",
+      "result": "W",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "RUTG vs PUR",
+      "result": "L",
+      "min": 13,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 34
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "RUTG @ MICH",
+      "result": "L",
+      "min": 14,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "RUTG @ HALL",
+      "result": "L",
+      "min": 19,
+      "pts": 10,
+      "adjPts": 12.5,
+      "pointsPlus": 130
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "RUTG vs PENN",
+      "result": "W",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "RUTG vs DSU",
+      "result": "W",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "RUTG vs OSU",
+      "result": "L",
+      "min": 20,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "RUTG vs ORE",
+      "result": "W",
+      "min": 26,
+      "pts": 13,
+      "adjPts": 13.2,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "RUTG @ ILL",
+      "result": "L",
+      "min": 14,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "RUTG vs NU",
+      "result": "W",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "RUTG @ WIS",
+      "result": "L",
+      "min": 11,
+      "pts": 4,
+      "adjPts": 3.7,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "RUTG @ IOWA",
+      "result": "L",
+      "min": 22,
+      "pts": 7,
+      "adjPts": 8.5,
+      "pointsPlus": 89
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "RUTG vs IU",
+      "result": "L",
+      "min": 18,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "RUTG vs MSU",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "RUTG @ USC",
+      "result": "L",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 5.6,
+      "pointsPlus": 59
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "RUTG @ UCLA",
+      "result": "L",
+      "min": 16,
+      "pts": 10,
+      "adjPts": 10.7,
+      "pointsPlus": 112
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": 5242127,
+  "name": "Adrian Wooley",
+  "team": "LOU",
+  "teamName": "Louisville Cardinals",
+  "conference": "ACC",
+  "rank": 350,
+  "gp": 25,
+  "ppg": 8.3,
+  "adjPpg": 8.7,
+  "pointsPlus": 91,
+  "mpg": 21.7,
+  "position": "G",
+  "jersey": "14",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 60.4,
+  "volatilityPctile": 70,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "LOU vs SCST",
+      "result": "W",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "LOU vs JKST",
+      "result": "W",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "LOU vs UK",
+      "result": "W",
+      "min": 17,
+      "pts": 9,
+      "adjPts": 9.1,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "LOU vs OHIO",
+      "result": "W",
+      "min": 24,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "LOU vs CIN",
+      "result": "W",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "LOU vs EMU",
+      "result": "W",
+      "min": 24,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "LOU vs NJIT",
+      "result": "W",
+      "min": 22,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "LOU @ ARK",
+      "result": "L",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 4.4,
+      "pointsPlus": 46
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "LOU vs IU",
+      "result": "W",
+      "min": 19,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "LOU vs MEM",
+      "result": "W",
+      "min": 25,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "LOU @ TENN",
+      "result": "L",
+      "min": 34,
+      "pts": 19,
+      "adjPts": 20.4,
+      "pointsPlus": 213
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "LOU vs MONT",
+      "result": "W",
+      "min": 25,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "LOU @ CAL",
+      "result": "W",
+      "min": 27,
+      "pts": 21,
+      "adjPts": 21.2,
+      "pointsPlus": 221
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "LOU @ STAN",
+      "result": "L",
+      "min": 16,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "LOU vs DUKE",
+      "result": "L",
+      "min": 32,
+      "pts": 11,
+      "adjPts": 13.4,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "LOU vs BC",
+      "result": "W",
+      "min": 36,
+      "pts": 16,
+      "adjPts": 18.9,
+      "pointsPlus": 197
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "LOU vs UVA",
+      "result": "L",
+      "min": 29,
+      "pts": 5,
+      "adjPts": 5.6,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "LOU @ PITT",
+      "result": "W",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 13.2,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "LOU vs VT",
+      "result": "W",
+      "min": 21,
+      "pts": 6,
+      "adjPts": 5.8,
+      "pointsPlus": 61
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "LOU @ DUKE",
+      "result": "L",
+      "min": 23,
+      "pts": 3,
+      "adjPts": 3.7,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "LOU vs SMU",
+      "result": "W",
+      "min": 12,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "LOU vs ND",
+      "result": "W",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "LOU @ WAKE",
+      "result": "W",
+      "min": 23,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 29
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "LOU vs NCSU",
+      "result": "W",
+      "min": 11,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "LOU vs BAY",
+      "result": "W",
+      "min": 10,
+      "pts": 7,
+      "adjPts": 6.5,
+      "pointsPlus": 67
+    }
+  ]
+}

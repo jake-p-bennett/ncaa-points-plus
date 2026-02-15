@@ -1,0 +1,110 @@
+{
+  "id": 5311934,
+  "name": "Jacob Patrick",
+  "team": "UTAH",
+  "teamName": "Utah Utes",
+  "conference": "Big 12",
+  "rank": 419,
+  "gp": 10,
+  "ppg": 7.2,
+  "adjPpg": 7.2,
+  "pointsPlus": 75,
+  "mpg": 20.3,
+  "position": "G",
+  "jersey": "6",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 33.1,
+  "volatilityPctile": 7,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "UTAH vs SJSU",
+      "result": "W",
+      "min": 25,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "UTAH vs WEB",
+      "result": "W",
+      "min": 24,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "UTAH vs HC",
+      "result": "W",
+      "min": 24,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "UTAH vs SHSU",
+      "result": "W",
+      "min": 11,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "UTAH vs PFW",
+      "result": "W",
+      "min": 15,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "UTAH vs CP",
+      "result": "L",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "UTAH vs GCU",
+      "result": "L",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "UTAH vs MISS",
+      "result": "W",
+      "min": 17,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "UTAH @ CAL",
+      "result": "L",
+      "min": 21,
+      "pts": 13,
+      "adjPts": 13.1,
+      "pointsPlus": 137
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "UTAH vs CBU",
+      "result": "W",
+      "min": 26,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    }
+  ]
+}

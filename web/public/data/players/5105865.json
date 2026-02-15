@@ -1,0 +1,245 @@
+{
+  "id": 5105865,
+  "name": "Reed Bailey",
+  "team": "IU",
+  "teamName": "Indiana Hoosiers",
+  "conference": "Big Ten",
+  "rank": 318,
+  "gp": 25,
+  "ppg": 9.3,
+  "adjPpg": 9.3,
+  "pointsPlus": 97,
+  "mpg": 19.7,
+  "position": "F",
+  "jersey": "1",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 67.3,
+  "volatilityPctile": 85,
+  "gameLog": [
+    {
+      "date": "2025-11-06",
+      "matchup": "IU vs AAMU",
+      "result": "W",
+      "min": 23,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "IU vs MARQ",
+      "result": "W",
+      "min": 13,
+      "pts": 5,
+      "adjPts": 4.7,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "IU vs MILW",
+      "result": "W",
+      "min": 26,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "IU vs UIW",
+      "result": "W",
+      "min": 13,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "IU vs LIN",
+      "result": "W",
+      "min": 16,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "IU vs KSU",
+      "result": "W",
+      "min": 29,
+      "pts": 21,
+      "adjPts": 18.1,
+      "pointsPlus": 189
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "IU vs BCU",
+      "result": "W",
+      "min": 18,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "IU @ MINN",
+      "result": "L",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "IU vs LOU",
+      "result": "L",
+      "min": 24,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "IU vs PSU",
+      "result": "W",
+      "min": 21,
+      "pts": 18,
+      "adjPts": 16.5,
+      "pointsPlus": 172
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "IU @ UK",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "IU vs CHST",
+      "result": "W",
+      "min": 22,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "IU vs SIE",
+      "result": "W",
+      "min": 17,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "IU vs WASH",
+      "result": "W",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 8.3,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "IU @ MD",
+      "result": "W",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 14.2,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "IU vs NEB",
+      "result": "L",
+      "min": 30,
+      "pts": 10,
+      "adjPts": 11.7,
+      "pointsPlus": 122
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "IU @ MSU",
+      "result": "L",
+      "min": 18,
+      "pts": 5,
+      "adjPts": 5.8,
+      "pointsPlus": 60
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "IU vs IOWA",
+      "result": "L",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 4.9,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "IU @ MICH",
+      "result": "L",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 11.3,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "IU @ RUTG",
+      "result": "W",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "IU vs PUR",
+      "result": "W",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 9.7,
+      "pointsPlus": 101
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "IU @ UCLA",
+      "result": "W",
+      "min": 28,
+      "pts": 24,
+      "adjPts": 25.7,
+      "pointsPlus": 268
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "IU @ USC",
+      "result": "L",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 7.5,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "IU vs WIS",
+      "result": "W",
+      "min": 11,
+      "pts": 1,
+      "adjPts": 0.9,
+      "pointsPlus": 10
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "IU vs ORE",
+      "result": "W",
+      "min": 15,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 32
+    }
+  ]
+}

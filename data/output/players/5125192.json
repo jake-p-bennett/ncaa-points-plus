@@ -1,0 +1,254 @@
+{
+  "id": 5125192,
+  "name": "Freddie Dilione V",
+  "team": "PSU",
+  "teamName": "Penn State Nittany Lions",
+  "conference": "Big Ten",
+  "rank": 98,
+  "gp": 26,
+  "ppg": 14.4,
+  "adjPpg": 14.6,
+  "pointsPlus": 153,
+  "mpg": 27.3,
+  "position": "G",
+  "jersey": "5",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 76.3,
+  "volatilityPctile": 93,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "PSU vs FAIR",
+      "result": "W",
+      "min": 21,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "PSU @ NHVN",
+      "result": "W",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "PSU vs NAVY",
+      "result": "W",
+      "min": 27,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "PSU vs LAS",
+      "result": "W",
+      "min": 27,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "PSU vs HARV",
+      "result": "W",
+      "min": 27,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "PSU vs PROV",
+      "result": "L",
+      "min": 35,
+      "pts": 22,
+      "adjPts": 16.7,
+      "pointsPlus": 174
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "PSU vs BU",
+      "result": "W",
+      "min": 19,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "PSU vs SHU",
+      "result": "W",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "PSU vs CAM",
+      "result": "W",
+      "min": 29,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "PSU @ IU",
+      "result": "L",
+      "min": 20,
+      "pts": 14,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "PSU vs MSU",
+      "result": "L",
+      "min": 32,
+      "pts": 23,
+      "adjPts": 26.5,
+      "pointsPlus": 277
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "PSU vs PITT",
+      "result": "L",
+      "min": 34,
+      "pts": 23,
+      "adjPts": 25.3,
+      "pointsPlus": 264
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "PSU vs NCCU",
+      "result": "W",
+      "min": 32,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "PSU vs ILL",
+      "result": "L",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 9.5,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "PSU vs MICH",
+      "result": "L",
+      "min": 38,
+      "pts": 17,
+      "adjPts": 17.5,
+      "pointsPlus": 183
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "PSU @ PUR",
+      "result": "L",
+      "min": 34,
+      "pts": 25,
+      "adjPts": 27.0,
+      "pointsPlus": 282
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "PSU vs UCLA",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "PSU @ MD",
+      "result": "L",
+      "min": 15,
+      "pts": 5,
+      "adjPts": 4.7,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "PSU vs WIS",
+      "result": "L",
+      "min": 27,
+      "pts": 17,
+      "adjPts": 15.8,
+      "pointsPlus": 165
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "PSU @ OSU",
+      "result": "L",
+      "min": 13,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 82
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "PSU @ NU",
+      "result": "L",
+      "min": 26,
+      "pts": 11,
+      "adjPts": 11.5,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "PSU vs MINN",
+      "result": "W",
+      "min": 33,
+      "pts": 25,
+      "adjPts": 29.0,
+      "pointsPlus": 303
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "PSU @ MICH",
+      "result": "L",
+      "min": 40,
+      "pts": 19,
+      "adjPts": 19.6,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "PSU vs USC",
+      "result": "L",
+      "min": 38,
+      "pts": 23,
+      "adjPts": 21.6,
+      "pointsPlus": 226
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "PSU @ WASH",
+      "result": "W",
+      "min": 34,
+      "pts": 16,
+      "adjPts": 16.6,
+      "pointsPlus": 173
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "PSU @ ORE",
+      "result": "L",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 10.2,
+      "pointsPlus": 106
+    }
+  ]
+}

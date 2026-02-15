@@ -1,0 +1,245 @@
+{
+  "id": 5176280,
+  "name": "Kael Combs",
+  "team": "IOWA",
+  "teamName": "Iowa Hawkeyes",
+  "conference": "Big Ten",
+  "rank": 485,
+  "gp": 25,
+  "ppg": 5.8,
+  "adjPpg": 5.9,
+  "pointsPlus": 62,
+  "mpg": 25.2,
+  "position": "G",
+  "jersey": "11",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 43.3,
+  "volatilityPctile": 25,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "IOWA vs RMU",
+      "result": "W",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "IOWA vs WIU",
+      "result": "W",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "IOWA vs XAV",
+      "result": "W",
+      "min": 32,
+      "pts": 11,
+      "adjPts": 10.0,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "IOWA vs SEMO",
+      "result": "W",
+      "min": 16,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "IOWA vs CHST",
+      "result": "W",
+      "min": 32,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "IOWA vs MISS",
+      "result": "W",
+      "min": 38,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "IOWA vs GCU",
+      "result": "W",
+      "min": 36,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "IOWA @ MSU",
+      "result": "L",
+      "min": 28,
+      "pts": 4,
+      "adjPts": 4.6,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "IOWA vs MD",
+      "result": "W",
+      "min": 17,
+      "pts": 5,
+      "adjPts": 4.7,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "IOWA @ ISU",
+      "result": "L",
+      "min": 25,
+      "pts": 4,
+      "adjPts": 4.7,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "IOWA vs WMU",
+      "result": "W",
+      "min": 19,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "IOWA vs BUCK",
+      "result": "W",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "IOWA vs UML",
+      "result": "W",
+      "min": 30,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "IOWA vs UCLA",
+      "result": "W",
+      "min": 27,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "IOWA @ MINN",
+      "result": "L",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 16.2,
+      "pointsPlus": 170
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "IOWA vs ILL",
+      "result": "L",
+      "min": 25,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "IOWA @ PUR",
+      "result": "L",
+      "min": 38,
+      "pts": 16,
+      "adjPts": 17.3,
+      "pointsPlus": 180
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "IOWA @ IU",
+      "result": "W",
+      "min": 37,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "IOWA vs RUTG",
+      "result": "W",
+      "min": 17,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "IOWA vs USC",
+      "result": "W",
+      "min": 33,
+      "pts": 6,
+      "adjPts": 5.6,
+      "pointsPlus": 59
+    },
+    {
+      "date": "2026-02-02",
+      "matchup": "IOWA @ ORE",
+      "result": "W",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "IOWA @ WASH",
+      "result": "W",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "IOWA vs NU",
+      "result": "W",
+      "min": 29,
+      "pts": 6,
+      "adjPts": 6.3,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "IOWA @ MD",
+      "result": "L",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "IOWA vs PUR",
+      "result": "L",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    }
+  ]
+}

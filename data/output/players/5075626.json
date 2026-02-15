@@ -1,0 +1,227 @@
+{
+  "id": 5075626,
+  "name": "Baba Miller",
+  "team": "CIN",
+  "teamName": "Cincinnati Bearcats",
+  "conference": "Big 12",
+  "rank": 131,
+  "gp": 23,
+  "ppg": 13.7,
+  "adjPpg": 13.7,
+  "pointsPlus": 143,
+  "mpg": 31.1,
+  "position": "F",
+  "jersey": "18",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 61.4,
+  "volatilityPctile": 73,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "CIN vs WCU",
+      "result": "W",
+      "min": 24,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "CIN vs GAST",
+      "result": "W",
+      "min": 30,
+      "pts": 24,
+      "adjPts": 24.0,
+      "pointsPlus": 251
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "CIN vs DAY",
+      "result": "W",
+      "min": 31,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "CIN vs MSM",
+      "result": "W",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "CIN vs LOU",
+      "result": "L",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "CIN vs TAR",
+      "result": "W",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "CIN @ XAV",
+      "result": "L",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 9.1,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "CIN vs UGA",
+      "result": "L",
+      "min": 33,
+      "pts": 11,
+      "adjPts": 9.3,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "CIN vs ALST",
+      "result": "W",
+      "min": 27,
+      "pts": 26,
+      "adjPts": 26.0,
+      "pointsPlus": 272
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "CIN vs CLEM",
+      "result": "L",
+      "min": 30,
+      "pts": 7,
+      "adjPts": 8.7,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "CIN vs LIP",
+      "result": "W",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "CIN vs HOU",
+      "result": "L",
+      "min": 32,
+      "pts": 11,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "CIN @ WVU",
+      "result": "L",
+      "min": 34,
+      "pts": 4,
+      "adjPts": 5.2,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "CIN @ UCF",
+      "result": "L",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 11.7,
+      "pointsPlus": 123
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "CIN vs COLO",
+      "result": "W",
+      "min": 34,
+      "pts": 25,
+      "adjPts": 22.5,
+      "pointsPlus": 235
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "CIN vs ISU",
+      "result": "W",
+      "min": 34,
+      "pts": 8,
+      "adjPts": 9.3,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "CIN @ ARIZ",
+      "result": "L",
+      "min": 33,
+      "pts": 14,
+      "adjPts": 14.6,
+      "pointsPlus": 152
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "CIN @ ASU",
+      "result": "L",
+      "min": 34,
+      "pts": 23,
+      "adjPts": 20.6,
+      "pointsPlus": 215
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "CIN vs BAY",
+      "result": "W",
+      "min": 37,
+      "pts": 18,
+      "adjPts": 16.6,
+      "pointsPlus": 173
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "CIN @ HOU",
+      "result": "L",
+      "min": 33,
+      "pts": 2,
+      "adjPts": 2.6,
+      "pointsPlus": 27
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "CIN vs WVU",
+      "result": "L",
+      "min": 35,
+      "pts": 15,
+      "adjPts": 19.7,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "CIN vs UCF",
+      "result": "W",
+      "min": 33,
+      "pts": 17,
+      "adjPts": 15.4,
+      "pointsPlus": 160
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "CIN @ KSU",
+      "result": "W",
+      "min": 31,
+      "pts": 16,
+      "adjPts": 13.8,
+      "pointsPlus": 144
+    }
+  ]
+}

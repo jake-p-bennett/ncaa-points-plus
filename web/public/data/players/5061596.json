@@ -1,0 +1,245 @@
+{
+  "id": 5061596,
+  "name": "Robert Miller III",
+  "team": "LSU",
+  "teamName": "LSU Tigers",
+  "conference": "SEC",
+  "rank": 490,
+  "gp": 25,
+  "ppg": 6.0,
+  "adjPpg": 5.9,
+  "pointsPlus": 61,
+  "mpg": 19.2,
+  "position": "F",
+  "jersey": "6",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 32.6,
+  "volatilityPctile": 7,
+  "gameLog": [
+    {
+      "date": "2025-11-06",
+      "matchup": "LSU vs TAR",
+      "result": "W",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "LSU vs UNO",
+      "result": "W",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "LSU vs FIU",
+      "result": "W",
+      "min": 24,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "LSU vs ALCN",
+      "result": "W",
+      "min": 17,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "LSU vs OMA",
+      "result": "W",
+      "min": 7,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "LSU vs DRKE",
+      "result": "W",
+      "min": 13,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "LSU vs DEP",
+      "result": "W",
+      "min": 20,
+      "pts": 12,
+      "adjPts": 13.5,
+      "pointsPlus": 141
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "LSU @ BC",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 9.4,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "LSU vs TTU",
+      "result": "L",
+      "min": 27,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "LSU vs SMU",
+      "result": "W",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 3.5,
+      "pointsPlus": 37
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "LSU vs SELA",
+      "result": "W",
+      "min": 24,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 10
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "LSU vs PV",
+      "result": "W",
+      "min": 6,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 10
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "LSU vs USM",
+      "result": "W",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "LSU @ TA&M",
+      "result": "L",
+      "min": 14,
+      "pts": 8,
+      "adjPts": 6.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "LSU vs SC",
+      "result": "L",
+      "min": 21,
+      "pts": 9,
+      "adjPts": 8.7,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "LSU @ VAN",
+      "result": "L",
+      "min": 17,
+      "pts": 9,
+      "adjPts": 8.4,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "LSU vs UK",
+      "result": "L",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "LSU vs MIZ",
+      "result": "W",
+      "min": 27,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "LSU @ FLA",
+      "result": "L",
+      "min": 26,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "LSU @ ARK",
+      "result": "L",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 3.5,
+      "pointsPlus": 37
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "LSU vs MSST",
+      "result": "L",
+      "min": 17,
+      "pts": 4,
+      "adjPts": 3.7,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "LSU @ SC",
+      "result": "W",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 5.8,
+      "pointsPlus": 61
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "LSU vs UGA",
+      "result": "L",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 6.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "LSU vs ARK",
+      "result": "L",
+      "min": 22,
+      "pts": 10,
+      "adjPts": 8.9,
+      "pointsPlus": 92
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "LSU @ TENN",
+      "result": "L",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    }
+  ]
+}

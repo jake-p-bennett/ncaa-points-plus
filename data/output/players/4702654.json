@@ -1,0 +1,245 @@
+{
+  "id": 4702654,
+  "name": "Nick Boyd",
+  "team": "WIS",
+  "teamName": "Wisconsin Badgers",
+  "conference": "Big Ten",
+  "rank": 11,
+  "gp": 25,
+  "ppg": 20.6,
+  "adjPpg": 20.9,
+  "pointsPlus": 218,
+  "mpg": 30.9,
+  "position": "G",
+  "jersey": "2",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 63.9,
+  "volatilityPctile": 79,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "WIS vs CAM",
+      "result": "W",
+      "min": 28,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "WIS vs NIU",
+      "result": "W",
+      "min": 27,
+      "pts": 25,
+      "adjPts": 25.0,
+      "pointsPlus": 261
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "WIS vs BALL",
+      "result": "W",
+      "min": 19,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "WIS vs SIUE",
+      "result": "W",
+      "min": 28,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "WIS @ BYU",
+      "result": "L",
+      "min": 27,
+      "pts": 16,
+      "adjPts": 14.9,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "WIS vs PROV",
+      "result": "W",
+      "min": 32,
+      "pts": 36,
+      "adjPts": 27.3,
+      "pointsPlus": 285
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "WIS vs TCU",
+      "result": "L",
+      "min": 33,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 161
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "WIS vs NU",
+      "result": "W",
+      "min": 29,
+      "pts": 20,
+      "adjPts": 20.9,
+      "pointsPlus": 218
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "WIS vs MARQ",
+      "result": "W",
+      "min": 29,
+      "pts": 15,
+      "adjPts": 14.1,
+      "pointsPlus": 147
+    },
+    {
+      "date": "2025-12-11",
+      "matchup": "WIS @ NEB",
+      "result": "L",
+      "min": 30,
+      "pts": 20,
+      "adjPts": 23.3,
+      "pointsPlus": 244
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "WIS vs VILL",
+      "result": "L",
+      "min": 42,
+      "pts": 19,
+      "adjPts": 20.9,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "WIS vs CMU",
+      "result": "W",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "WIS vs MILW",
+      "result": "W",
+      "min": 22,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "WIS vs PUR",
+      "result": "L",
+      "min": 33,
+      "pts": 24,
+      "adjPts": 25.9,
+      "pointsPlus": 270
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "WIS vs UCLA",
+      "result": "W",
+      "min": 33,
+      "pts": 20,
+      "adjPts": 21.4,
+      "pointsPlus": 223
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "WIS @ MICH",
+      "result": "W",
+      "min": 31,
+      "pts": 22,
+      "adjPts": 22.7,
+      "pointsPlus": 237
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "WIS @ MINN",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 12.8,
+      "pointsPlus": 133
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "WIS vs RUTG",
+      "result": "W",
+      "min": 32,
+      "pts": 32,
+      "adjPts": 32.0,
+      "pointsPlus": 334
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "WIS @ PSU",
+      "result": "W",
+      "min": 21,
+      "pts": 11,
+      "adjPts": 10.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "WIS vs USC",
+      "result": "L",
+      "min": 38,
+      "pts": 29,
+      "adjPts": 27.2,
+      "pointsPlus": 284
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "WIS vs MINN",
+      "result": "W",
+      "min": 33,
+      "pts": 21,
+      "adjPts": 24.4,
+      "pointsPlus": 255
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "WIS vs OSU",
+      "result": "W",
+      "min": 38,
+      "pts": 21,
+      "adjPts": 20.7,
+      "pointsPlus": 216
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "WIS @ IU",
+      "result": "L",
+      "min": 41,
+      "pts": 20,
+      "adjPts": 20.5,
+      "pointsPlus": 214
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "WIS @ ILL",
+      "result": "W",
+      "min": 39,
+      "pts": 25,
+      "adjPts": 26.4,
+      "pointsPlus": 276
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "WIS vs MSU",
+      "result": "W",
+      "min": 32,
+      "pts": 29,
+      "adjPts": 33.4,
+      "pointsPlus": 349
+    }
+  ]
+}

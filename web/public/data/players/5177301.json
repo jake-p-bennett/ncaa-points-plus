@@ -1,0 +1,245 @@
+{
+  "id": 5177301,
+  "name": "Melvin Council Jr.",
+  "team": "KU",
+  "teamName": "Kansas Jayhawks",
+  "conference": "Big 12",
+  "rank": 104,
+  "gp": 25,
+  "ppg": 14.1,
+  "adjPpg": 14.4,
+  "pointsPlus": 150,
+  "mpg": 34.5,
+  "position": "G",
+  "jersey": "14",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 64.4,
+  "volatilityPctile": 80,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "KU vs GB",
+      "result": "W",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "KU @ UNC",
+      "result": "L",
+      "min": 33,
+      "pts": 6,
+      "adjPts": 6.3,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "KU vs AMCC",
+      "result": "W",
+      "min": 24,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "KU vs PRIN",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "KU vs DUKE",
+      "result": "L",
+      "min": 38,
+      "pts": 15,
+      "adjPts": 18.3,
+      "pointsPlus": 191
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "KU vs ND",
+      "result": "W",
+      "min": 38,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "KU vs SYR",
+      "result": "W",
+      "min": 36,
+      "pts": 14,
+      "adjPts": 14.6,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "KU vs TENN",
+      "result": "W",
+      "min": 38,
+      "pts": 17,
+      "adjPts": 18.3,
+      "pointsPlus": 191
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "KU vs CONN",
+      "result": "L",
+      "min": 37,
+      "pts": 12,
+      "adjPts": 14.3,
+      "pointsPlus": 149
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "KU vs MIZ",
+      "result": "W",
+      "min": 36,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 92
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "KU @ NCSU",
+      "result": "W",
+      "min": 43,
+      "pts": 36,
+      "adjPts": 34.0,
+      "pointsPlus": 355
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "KU vs TOW",
+      "result": "W",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "KU vs DAV",
+      "result": "W",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "KU @ UCF",
+      "result": "L",
+      "min": 30,
+      "pts": 20,
+      "adjPts": 18.1,
+      "pointsPlus": 189
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "KU vs TCU",
+      "result": "W",
+      "min": 41,
+      "pts": 18,
+      "adjPts": 18.5,
+      "pointsPlus": 193
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "KU @ WVU",
+      "result": "L",
+      "min": 35,
+      "pts": 11,
+      "adjPts": 14.4,
+      "pointsPlus": 151
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "KU vs ISU",
+      "result": "W",
+      "min": 37,
+      "pts": 15,
+      "adjPts": 17.5,
+      "pointsPlus": 183
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "KU vs BAY",
+      "result": "W",
+      "min": 33,
+      "pts": 6,
+      "adjPts": 5.5,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "KU @ COLO",
+      "result": "W",
+      "min": 35,
+      "pts": 18,
+      "adjPts": 16.2,
+      "pointsPlus": 169
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "KU @ KSU",
+      "result": "W",
+      "min": 38,
+      "pts": 17,
+      "adjPts": 14.7,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "KU vs BYU",
+      "result": "W",
+      "min": 37,
+      "pts": 15,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "KU @ TTU",
+      "result": "W",
+      "min": 37,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "KU vs UTAH",
+      "result": "W",
+      "min": 32,
+      "pts": 11,
+      "adjPts": 9.8,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "KU vs ARIZ",
+      "result": "W",
+      "min": 40,
+      "pts": 23,
+      "adjPts": 23.9,
+      "pointsPlus": 250
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "KU @ ISU",
+      "result": "L",
+      "min": 34,
+      "pts": 15,
+      "adjPts": 17.5,
+      "pointsPlus": 183
+    }
+  ]
+}

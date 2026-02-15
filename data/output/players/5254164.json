@@ -1,0 +1,227 @@
+{
+  "id": 5254164,
+  "name": "Kai Shinholster",
+  "team": "MINN",
+  "teamName": "Minnesota Golden Gophers",
+  "conference": "Big Ten",
+  "rank": 652,
+  "gp": 23,
+  "ppg": 2.1,
+  "adjPpg": 2.2,
+  "pointsPlus": 23,
+  "mpg": 13.2,
+  "position": "G",
+  "jersey": "9",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 26.7,
+  "volatilityPctile": 3,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "MINN vs GWEB",
+      "result": "W",
+      "min": 14,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "MINN vs ALCN",
+      "result": "W",
+      "min": 12,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "MINN @ MIZ",
+      "result": "L",
+      "min": 2,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 20
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "MINN vs CHST",
+      "result": "W",
+      "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "MINN vs STAN",
+      "result": "L",
+      "min": 16,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "MINN vs SCU",
+      "result": "L",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "MINN vs IU",
+      "result": "W",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-11",
+      "matchup": "MINN @ PUR",
+      "result": "L",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 2.2,
+      "pointsPlus": 23
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "MINN vs TXSO",
+      "result": "W",
+      "min": 21,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "MINN vs CAM",
+      "result": "W",
+      "min": 23,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "MINN vs FDU",
+      "result": "W",
+      "min": 24,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "MINN @ NU",
+      "result": "W",
+      "min": 4,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "MINN vs IOWA",
+      "result": "W",
+      "min": 15,
+      "pts": 3,
+      "adjPts": 3.6,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "MINN vs USC",
+      "result": "L",
+      "min": 23,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "MINN vs WIS",
+      "result": "L",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "MINN @ ILL",
+      "result": "L",
+      "min": 9,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "MINN @ OSU",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "MINN vs NEB",
+      "result": "L",
+      "min": 25,
+      "pts": 8,
+      "adjPts": 9.3,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "MINN @ WIS",
+      "result": "L",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "MINN @ PSU",
+      "result": "L",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "MINN vs MSU",
+      "result": "W",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "MINN vs MD",
+      "result": "L",
+      "min": 9,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 20
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "MINN @ WASH",
+      "result": "L",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    }
+  ]
+}

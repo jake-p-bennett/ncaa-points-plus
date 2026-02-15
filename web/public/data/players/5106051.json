@@ -1,0 +1,245 @@
+{
+  "id": 5106051,
+  "name": "Ezra Ausar",
+  "team": "USC",
+  "teamName": "USC Trojans",
+  "conference": "Big Ten",
+  "rank": 64,
+  "gp": 25,
+  "ppg": 15.7,
+  "adjPpg": 16.2,
+  "pointsPlus": 169,
+  "mpg": 29.2,
+  "position": "F",
+  "jersey": "2",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 57.4,
+  "volatilityPctile": 63,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "USC vs CP",
+      "result": "W",
+      "min": 23,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "USC vs MAN",
+      "result": "W",
+      "min": 19,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "USC vs ILST",
+      "result": "W",
+      "min": 15,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "USC vs TROY",
+      "result": "W",
+      "min": 28,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "USC vs BOIS",
+      "result": "W",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "USC vs HALL",
+      "result": "W",
+      "min": 38,
+      "pts": 25,
+      "adjPts": 31.1,
+      "pointsPlus": 325
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "USC vs ASU",
+      "result": "W",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 12.5,
+      "pointsPlus": 131
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "USC @ ORE",
+      "result": "W",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 13.2,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "USC vs WASH",
+      "result": "L",
+      "min": 27,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "USC @ USD",
+      "result": "W",
+      "min": 32,
+      "pts": 29,
+      "adjPts": 29.0,
+      "pointsPlus": 303
+    },
+    {
+      "date": "2025-12-15",
+      "matchup": "USC vs WSU",
+      "result": "W",
+      "min": 38,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "USC vs UTSA",
+      "result": "W",
+      "min": 32,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "USC vs UCSC",
+      "result": "W",
+      "min": 16,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "USC @ MICH",
+      "result": "L",
+      "min": 27,
+      "pts": 15,
+      "adjPts": 15.5,
+      "pointsPlus": 161
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "USC @ MSU",
+      "result": "L",
+      "min": 30,
+      "pts": 16,
+      "adjPts": 18.5,
+      "pointsPlus": 193
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "USC @ MINN",
+      "result": "W",
+      "min": 42,
+      "pts": 14,
+      "adjPts": 16.2,
+      "pointsPlus": 170
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "USC vs MD",
+      "result": "W",
+      "min": 32,
+      "pts": 12,
+      "adjPts": 11.3,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "USC vs PUR",
+      "result": "L",
+      "min": 24,
+      "pts": 11,
+      "adjPts": 11.9,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "USC vs NU",
+      "result": "L",
+      "min": 33,
+      "pts": 17,
+      "adjPts": 17.7,
+      "pointsPlus": 185
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "USC @ WIS",
+      "result": "W",
+      "min": 38,
+      "pts": 17,
+      "adjPts": 15.8,
+      "pointsPlus": 165
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "USC @ IOWA",
+      "result": "L",
+      "min": 31,
+      "pts": 10,
+      "adjPts": 12.2,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "USC vs RUTG",
+      "result": "W",
+      "min": 34,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "USC vs IU",
+      "result": "W",
+      "min": 30,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "USC @ PSU",
+      "result": "W",
+      "min": 28,
+      "pts": 13,
+      "adjPts": 11.9,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "USC @ OSU",
+      "result": "L",
+      "min": 34,
+      "pts": 13,
+      "adjPts": 12.8,
+      "pointsPlus": 134
+    }
+  ]
+}

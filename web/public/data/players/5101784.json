@@ -1,0 +1,245 @@
+{
+  "id": 5101784,
+  "name": "Akai Fleming",
+  "team": "GT",
+  "teamName": "Georgia Tech Yellow Jackets",
+  "conference": "ACC",
+  "rank": 287,
+  "gp": 25,
+  "ppg": 9.9,
+  "adjPpg": 10.1,
+  "pointsPlus": 105,
+  "mpg": 24.6,
+  "position": "G",
+  "jersey": "0",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 60.0,
+  "volatilityPctile": 69,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "GT vs UMES",
+      "result": "W",
+      "min": 12,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "GT vs BRY",
+      "result": "W",
+      "min": 21,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "GT vs SELA",
+      "result": "W",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "GT @ UGA",
+      "result": "L",
+      "min": 13,
+      "pts": 8,
+      "adjPts": 6.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "GT vs GASO",
+      "result": "W",
+      "min": 30,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "GT vs WGA",
+      "result": "W",
+      "min": 17,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 10
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "GT vs DEP",
+      "result": "L",
+      "min": 26,
+      "pts": 13,
+      "adjPts": 14.6,
+      "pointsPlus": 152
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "GT vs DRKE",
+      "result": "L",
+      "min": 34,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "GT vs MSST",
+      "result": "L",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "GT vs MONM",
+      "result": "W",
+      "min": 24,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "GT vs MRST",
+      "result": "W",
+      "min": 27,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "GT vs LAF",
+      "result": "W",
+      "min": 30,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 209
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "GT vs FAMU",
+      "result": "W",
+      "min": 30,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "GT @ DUKE",
+      "result": "L",
+      "min": 24,
+      "pts": 9,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "GT vs BC",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 9.4,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "GT vs SYR",
+      "result": "L",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 9.4,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "GT @ MIA",
+      "result": "L",
+      "min": 23,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "GT vs PITT",
+      "result": "L",
+      "min": 15,
+      "pts": 2,
+      "adjPts": 2.2,
+      "pointsPlus": 23
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "GT @ NCSU",
+      "result": "W",
+      "min": 33,
+      "pts": 16,
+      "adjPts": 15.1,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "GT vs CLEM",
+      "result": "L",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "GT vs UNC",
+      "result": "L",
+      "min": 24,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 44
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "GT @ CAL",
+      "result": "L",
+      "min": 22,
+      "pts": 19,
+      "adjPts": 19.2,
+      "pointsPlus": 200
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "GT @ STAN",
+      "result": "L",
+      "min": 33,
+      "pts": 19,
+      "adjPts": 19.8,
+      "pointsPlus": 207
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "GT vs WAKE",
+      "result": "L",
+      "min": 31,
+      "pts": 9,
+      "adjPts": 8.3,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "GT @ ND",
+      "result": "L",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 140
+    }
+  ]
+}

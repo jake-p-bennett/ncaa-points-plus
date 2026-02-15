@@ -1,0 +1,182 @@
+{
+  "id": 4432586,
+  "name": "Nate Bittle",
+  "team": "ORE",
+  "teamName": "Oregon Ducks",
+  "conference": "Big Ten",
+  "rank": 53,
+  "gp": 18,
+  "ppg": 16.9,
+  "adjPpg": 16.9,
+  "pointsPlus": 177,
+  "mpg": 29.0,
+  "position": "C",
+  "jersey": "32",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 79.0,
+  "volatilityPctile": 95,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "ORE vs HAW",
+      "result": "W",
+      "min": 31,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "ORE vs RICE",
+      "result": "W",
+      "min": 31,
+      "pts": 25,
+      "adjPts": 25.0,
+      "pointsPlus": 261
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "ORE vs SDST",
+      "result": "W",
+      "min": 31,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "ORE vs ORST",
+      "result": "W",
+      "min": 31,
+      "pts": 24,
+      "adjPts": 24.0,
+      "pointsPlus": 251
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "ORE vs AUB",
+      "result": "L",
+      "min": 33,
+      "pts": 10,
+      "adjPts": 8.7,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "ORE vs SDSU",
+      "result": "L",
+      "min": 20,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "ORE @ UCLA",
+      "result": "L",
+      "min": 25,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 34
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "ORE vs UCD",
+      "result": "W",
+      "min": 7,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "ORE vs PORT",
+      "result": "W",
+      "min": 25,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "ORE vs GONZ",
+      "result": "L",
+      "min": 37,
+      "pts": 28,
+      "adjPts": 28.0,
+      "pointsPlus": 293
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "ORE vs OMA",
+      "result": "W",
+      "min": 27,
+      "pts": 26,
+      "adjPts": 26.0,
+      "pointsPlus": 272
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "ORE @ MD",
+      "result": "W",
+      "min": 34,
+      "pts": 16,
+      "adjPts": 15.1,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "ORE @ RUTG",
+      "result": "L",
+      "min": 30,
+      "pts": 28,
+      "adjPts": 28.0,
+      "pointsPlus": 292
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "ORE vs OSU",
+      "result": "L",
+      "min": 33,
+      "pts": 14,
+      "adjPts": 13.8,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "ORE @ NEB",
+      "result": "L",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 11.7,
+      "pointsPlus": 122
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "ORE @ PUR",
+      "result": "L",
+      "min": 34,
+      "pts": 23,
+      "adjPts": 24.8,
+      "pointsPlus": 259
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "ORE @ IU",
+      "result": "L",
+      "min": 34,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 161
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "ORE vs PSU",
+      "result": "W",
+      "min": 34,
+      "pts": 22,
+      "adjPts": 20.2,
+      "pointsPlus": 211
+    }
+  ]
+}

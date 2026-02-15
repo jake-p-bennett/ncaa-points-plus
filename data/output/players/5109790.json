@@ -1,0 +1,236 @@
+{
+  "id": 5109790,
+  "name": "Christoph Tilly",
+  "team": "OSU",
+  "teamName": "Ohio State Buckeyes",
+  "conference": "Big Ten",
+  "rank": 186,
+  "gp": 24,
+  "ppg": 11.8,
+  "adjPpg": 12.2,
+  "pointsPlus": 128,
+  "mpg": 26.5,
+  "position": "C",
+  "jersey": "13",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 55.8,
+  "volatilityPctile": 60,
+  "gameLog": [
+    {
+      "date": "2025-11-03",
+      "matchup": "OSU vs IUIN",
+      "result": "W",
+      "min": 29,
+      "pts": 26,
+      "adjPts": 26.0,
+      "pointsPlus": 272
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "OSU vs PFW",
+      "result": "W",
+      "min": 23,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "OSU vs APP",
+      "result": "W",
+      "min": 30,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "OSU vs ND",
+      "result": "W",
+      "min": 28,
+      "pts": 18,
+      "adjPts": 18.5,
+      "pointsPlus": 194
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "OSU vs WMU",
+      "result": "W",
+      "min": 24,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "OSU vs MSM",
+      "result": "W",
+      "min": 14,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "OSU @ PITT",
+      "result": "L",
+      "min": 32,
+      "pts": 10,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "OSU @ NU",
+      "result": "W",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 44
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "OSU vs ILL",
+      "result": "L",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 13.7,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "OSU vs WVU",
+      "result": "W",
+      "min": 42,
+      "pts": 14,
+      "adjPts": 18.3,
+      "pointsPlus": 192
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "OSU vs UNC",
+      "result": "L",
+      "min": 28,
+      "pts": 12,
+      "adjPts": 12.5,
+      "pointsPlus": 131
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "OSU vs GRAM",
+      "result": "W",
+      "min": 23,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "OSU @ RUTG",
+      "result": "W",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "OSU vs NEB",
+      "result": "L",
+      "min": 33,
+      "pts": 8,
+      "adjPts": 9.3,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "OSU @ ORE",
+      "result": "W",
+      "min": 31,
+      "pts": 14,
+      "adjPts": 14.2,
+      "pointsPlus": 149
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "OSU @ WASH",
+      "result": "L",
+      "min": 15,
+      "pts": 8,
+      "adjPts": 8.3,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "OSU vs UCLA",
+      "result": "W",
+      "min": 32,
+      "pts": 6,
+      "adjPts": 6.4,
+      "pointsPlus": 67
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "OSU vs MINN",
+      "result": "W",
+      "min": 28,
+      "pts": 11,
+      "adjPts": 12.8,
+      "pointsPlus": 133
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "OSU @ MICH",
+      "result": "L",
+      "min": 30,
+      "pts": 17,
+      "adjPts": 17.5,
+      "pointsPlus": 183
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "OSU @ WIS",
+      "result": "L",
+      "min": 19,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "OSU @ MD",
+      "result": "W",
+      "min": 27,
+      "pts": 19,
+      "adjPts": 17.9,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "OSU vs MICH",
+      "result": "L",
+      "min": 31,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OSU vs USC",
+      "result": "W",
+      "min": 22,
+      "pts": 9,
+      "adjPts": 8.4,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "OSU vs UVA",
+      "result": "L",
+      "min": 26,
+      "pts": 11,
+      "adjPts": 12.3,
+      "pointsPlus": 128
+    }
+  ]
+}

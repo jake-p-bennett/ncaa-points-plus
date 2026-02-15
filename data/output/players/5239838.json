@@ -1,0 +1,245 @@
+{
+  "id": 5239838,
+  "name": "Matas Vokietaitis",
+  "team": "TEX",
+  "teamName": "Texas Longhorns",
+  "conference": "SEC",
+  "rank": 89,
+  "gp": 25,
+  "ppg": 15.4,
+  "adjPpg": 15.1,
+  "pointsPlus": 158,
+  "mpg": 24.9,
+  "position": "C",
+  "jersey": "8",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 60.1,
+  "volatilityPctile": 69,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "TEX vs DUKE",
+      "result": "L",
+      "min": 23,
+      "pts": 15,
+      "adjPts": 18.3,
+      "pointsPlus": 191
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "TEX vs LAF",
+      "result": "W",
+      "min": 24,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "TEX vs FDU",
+      "result": "W",
+      "min": 19,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "TEX vs KC",
+      "result": "W",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "TEX vs RID",
+      "result": "W",
+      "min": 21,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 209
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "TEX vs ASU",
+      "result": "L",
+      "min": 26,
+      "pts": 15,
+      "adjPts": 13.4,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "TEX @ CHAM",
+      "result": "W",
+      "min": 20,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "TEX vs NCSU",
+      "result": "W",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 12.3,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "TEX vs UVA",
+      "result": "L",
+      "min": 23,
+      "pts": 7,
+      "adjPts": 7.8,
+      "pointsPlus": 82
+    },
+    {
+      "date": "2025-12-09",
+      "matchup": "TEX vs SOU",
+      "result": "W",
+      "min": 25,
+      "pts": 28,
+      "adjPts": 28.0,
+      "pointsPlus": 293
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "TEX @ CONN",
+      "result": "L",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 10.7,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "TEX vs LEM",
+      "result": "W",
+      "min": 20,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "TEX vs UMES",
+      "result": "W",
+      "min": 30,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "TEX vs MSST",
+      "result": "L",
+      "min": 34,
+      "pts": 19,
+      "adjPts": 17.4,
+      "pointsPlus": 182
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "TEX @ TENN",
+      "result": "L",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 45
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "TEX @ ALA",
+      "result": "W",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "TEX vs VAN",
+      "result": "W",
+      "min": 32,
+      "pts": 22,
+      "adjPts": 20.6,
+      "pointsPlus": 216
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "TEX vs TA&M",
+      "result": "L",
+      "min": 30,
+      "pts": 14,
+      "adjPts": 11.8,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "TEX @ UK",
+      "result": "L",
+      "min": 31,
+      "pts": 15,
+      "adjPts": 15.1,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "TEX vs UGA",
+      "result": "W",
+      "min": 22,
+      "pts": 14,
+      "adjPts": 11.8,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "TEX @ AUB",
+      "result": "L",
+      "min": 30,
+      "pts": 12,
+      "adjPts": 10.4,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "TEX @ OU",
+      "result": "W",
+      "min": 24,
+      "pts": 14,
+      "adjPts": 12.5,
+      "pointsPlus": 131
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "TEX vs SC",
+      "result": "W",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 11.6,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "TEX vs MISS",
+      "result": "W",
+      "min": 35,
+      "pts": 27,
+      "adjPts": 27.8,
+      "pointsPlus": 290
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "TEX @ MIZ",
+      "result": "W",
+      "min": 25,
+      "pts": 19,
+      "adjPts": 18.5,
+      "pointsPlus": 194
+    }
+  ]
+}

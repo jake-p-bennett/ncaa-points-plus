@@ -1,0 +1,191 @@
+{
+  "id": 4433596,
+  "name": "Chance Moore",
+  "team": "WVU",
+  "teamName": "West Virginia Mountaineers",
+  "conference": "Big 12",
+  "rank": 288,
+  "gp": 19,
+  "ppg": 9.7,
+  "adjPpg": 10.0,
+  "pointsPlus": 105,
+  "mpg": 20.3,
+  "position": "G",
+  "jersey": "13",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 63.5,
+  "volatilityPctile": 78,
+  "gameLog": [
+    {
+      "date": "2025-11-21",
+      "matchup": "WVU vs CLEM",
+      "result": "L",
+      "min": 24,
+      "pts": 16,
+      "adjPts": 19.8,
+      "pointsPlus": 207
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "WVU vs XAV",
+      "result": "L",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "WVU vs MERC",
+      "result": "W",
+      "min": 16,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "WVU vs COPP",
+      "result": "W",
+      "min": 20,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "WVU vs WAKE",
+      "result": "L",
+      "min": 28,
+      "pts": 16,
+      "adjPts": 14.8,
+      "pointsPlus": 155
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "WVU vs LR",
+      "result": "W",
+      "min": 15,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "WVU vs OSU",
+      "result": "L",
+      "min": 41,
+      "pts": 14,
+      "adjPts": 13.8,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "WVU @ ISU",
+      "result": "L",
+      "min": 33,
+      "pts": 17,
+      "adjPts": 19.8,
+      "pointsPlus": 207
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "WVU vs CIN",
+      "result": "W",
+      "min": 24,
+      "pts": 14,
+      "adjPts": 16.8,
+      "pointsPlus": 175
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "WVU vs KU",
+      "result": "W",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 6.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "WVU @ HOU",
+      "result": "L",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "WVU vs COLO",
+      "result": "W",
+      "min": 9,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "WVU @ ASU",
+      "result": "W",
+      "min": 13,
+      "pts": 6,
+      "adjPts": 5.4,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "WVU @ ARIZ",
+      "result": "L",
+      "min": 22,
+      "pts": 12,
+      "adjPts": 12.5,
+      "pointsPlus": 130
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "WVU vs KSU",
+      "result": "W",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 7.8,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "WVU vs BAY",
+      "result": "L",
+      "min": 14,
+      "pts": 9,
+      "adjPts": 8.3,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "WVU @ CIN",
+      "result": "W",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.4,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "WVU vs TTU",
+      "result": "L",
+      "min": 19,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "WVU @ UCF",
+      "result": "W",
+      "min": 22,
+      "pts": 12,
+      "adjPts": 10.8,
+      "pointsPlus": 113
+    }
+  ]
+}

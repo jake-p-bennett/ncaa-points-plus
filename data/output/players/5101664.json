@@ -1,0 +1,254 @@
+{
+  "id": 5101664,
+  "name": "Nojus Indrusaitis",
+  "team": "PITT",
+  "teamName": "Pittsburgh Panthers",
+  "conference": "ACC",
+  "rank": 386,
+  "gp": 26,
+  "ppg": 7.7,
+  "adjPpg": 7.7,
+  "pointsPlus": 81,
+  "mpg": 22.7,
+  "position": "G",
+  "jersey": "25",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 53.7,
+  "volatilityPctile": 52,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "PITT vs YSU",
+      "result": "W",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "PITT vs LONG",
+      "result": "W",
+      "min": 24,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "PITT vs EMU",
+      "result": "W",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "PITT @ WVU",
+      "result": "L",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 6.6,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "PITT vs BUCK",
+      "result": "W",
+      "min": 17,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "PITT vs UCF",
+      "result": "L",
+      "min": 26,
+      "pts": 8,
+      "adjPts": 7.2,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "PITT vs QUIN",
+      "result": "L",
+      "min": 30,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "PITT vs OSU",
+      "result": "W",
+      "min": 20,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "PITT vs TA&M",
+      "result": "L",
+      "min": 25,
+      "pts": 15,
+      "adjPts": 12.7,
+      "pointsPlus": 133
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "PITT vs HOF",
+      "result": "L",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "PITT @ VILL",
+      "result": "L",
+      "min": 25,
+      "pts": 14,
+      "adjPts": 15.4,
+      "pointsPlus": 161
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "PITT vs BING",
+      "result": "W",
+      "min": 34,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "PITT vs PSU",
+      "result": "W",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 3.7,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "PITT @ MIA",
+      "result": "L",
+      "min": 22,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "PITT vs CLEM",
+      "result": "L",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "PITT vs SYR",
+      "result": "L",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "PITT @ GT",
+      "result": "W",
+      "min": 25,
+      "pts": 16,
+      "adjPts": 15.6,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "PITT vs LOU",
+      "result": "L",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "PITT @ BC",
+      "result": "L",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 11.8,
+      "pointsPlus": 123
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "PITT vs NCSU",
+      "result": "L",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 7.6,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "PITT vs WAKE",
+      "result": "W",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 7.4,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "PITT @ CLEM",
+      "result": "L",
+      "min": 17,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "PITT @ UVA",
+      "result": "L",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 12.3,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "PITT vs SMU",
+      "result": "L",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 8.8,
+      "pointsPlus": 92
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PITT vs DUKE",
+      "result": "L",
+      "min": 21,
+      "pts": 2,
+      "adjPts": 2.4,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "PITT @ UNC",
+      "result": "L",
+      "min": 26,
+      "pts": 7,
+      "adjPts": 7.3,
+      "pointsPlus": 76
+    }
+  ]
+}

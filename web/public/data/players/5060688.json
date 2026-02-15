@@ -1,0 +1,227 @@
+{
+  "id": 5060688,
+  "name": "Jamie Kaiser Jr.",
+  "team": "BUT",
+  "teamName": "Butler Bulldogs",
+  "conference": "Big East",
+  "rank": 306,
+  "gp": 23,
+  "ppg": 9.7,
+  "adjPpg": 9.6,
+  "pointsPlus": 101,
+  "mpg": 28.1,
+  "position": "G",
+  "jersey": "7",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 45.0,
+  "volatilityPctile": 29,
+  "gameLog": [
+    {
+      "date": "2025-11-06",
+      "matchup": "BUT vs USI",
+      "result": "W",
+      "min": 22,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "BUT vs IUIN",
+      "result": "W",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "BUT vs CHST",
+      "result": "W",
+      "min": 18,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "BUT @ SMU",
+      "result": "L",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 7.9,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "BUT vs SC",
+      "result": "W",
+      "min": 31,
+      "pts": 14,
+      "adjPts": 13.5,
+      "pointsPlus": 141
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "BUT vs UVA",
+      "result": "W",
+      "min": 32,
+      "pts": 5,
+      "adjPts": 5.6,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "BUT vs WRST",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "BUT vs EMU",
+      "result": "W",
+      "min": 26,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "BUT vs BOIS",
+      "result": "L",
+      "min": 32,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "BUT vs PROV",
+      "result": "W",
+      "min": 37,
+      "pts": 15,
+      "adjPts": 11.4,
+      "pointsPlus": 119
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "BUT @ CONN",
+      "result": "L",
+      "min": 21,
+      "pts": 4,
+      "adjPts": 4.8,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "BUT vs NU",
+      "result": "W",
+      "min": 22,
+      "pts": 14,
+      "adjPts": 14.6,
+      "pointsPlus": 152
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "BUT @ CREI",
+      "result": "L",
+      "min": 34,
+      "pts": 16,
+      "adjPts": 15.8,
+      "pointsPlus": 165
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "BUT vs VILL",
+      "result": "L",
+      "min": 31,
+      "pts": 6,
+      "adjPts": 6.6,
+      "pointsPlus": 69
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "BUT vs SJU",
+      "result": "L",
+      "min": 28,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "BUT @ XAV",
+      "result": "L",
+      "min": 27,
+      "pts": 4,
+      "adjPts": 3.6,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "BUT @ HALL",
+      "result": "W",
+      "min": 32,
+      "pts": 7,
+      "adjPts": 8.7,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "BUT vs DEP",
+      "result": "W",
+      "min": 29,
+      "pts": 6,
+      "adjPts": 6.7,
+      "pointsPlus": 70
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "BUT vs MARQ",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 10.3,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "BUT @ SJU",
+      "result": "L",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 11.9,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "BUT vs GTWN",
+      "result": "L",
+      "min": 35,
+      "pts": 19,
+      "adjPts": 19.6,
+      "pointsPlus": 204
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "BUT @ PROV",
+      "result": "L",
+      "min": 42,
+      "pts": 5,
+      "adjPts": 3.8,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "BUT vs CONN",
+      "result": "L",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 11.9,
+      "pointsPlus": 124
+    }
+  ]
+}

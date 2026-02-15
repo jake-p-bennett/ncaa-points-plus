@@ -1,0 +1,245 @@
+{
+  "id": 5238207,
+  "name": "Collin Chandler",
+  "team": "UK",
+  "teamName": "Kentucky Wildcats",
+  "conference": "SEC",
+  "rank": 308,
+  "gp": 25,
+  "ppg": 9.7,
+  "adjPpg": 9.6,
+  "pointsPlus": 101,
+  "mpg": 24.7,
+  "position": "G",
+  "jersey": "5",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 54.0,
+  "volatilityPctile": 53,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "UK vs NICH",
+      "result": "W",
+      "min": 24,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "UK vs VAL",
+      "result": "W",
+      "min": 23,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "UK @ LOU",
+      "result": "L",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "UK vs EIU",
+      "result": "W",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "UK vs MSU",
+      "result": "L",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 11.5,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "UK vs L-MD",
+      "result": "W",
+      "min": 21,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "UK vs TNTC",
+      "result": "W",
+      "min": 26,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "UK vs UNC",
+      "result": "L",
+      "min": 34,
+      "pts": 12,
+      "adjPts": 12.5,
+      "pointsPlus": 131
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "UK vs GONZ",
+      "result": "L",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "UK vs NCCU",
+      "result": "W",
+      "min": 32,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "UK vs IU",
+      "result": "W",
+      "min": 16,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "UK vs SJU",
+      "result": "W",
+      "min": 19,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "UK vs BELL",
+      "result": "W",
+      "min": 19,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "UK @ ALA",
+      "result": "L",
+      "min": 18,
+      "pts": 3,
+      "adjPts": 2.3,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "UK vs MIZ",
+      "result": "L",
+      "min": 5,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "UK vs MSST",
+      "result": "W",
+      "min": 19,
+      "pts": 7,
+      "adjPts": 6.4,
+      "pointsPlus": 67
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "UK @ LSU",
+      "result": "W",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 8.6,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "UK @ TENN",
+      "result": "W",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 12.9,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "UK vs TEX",
+      "result": "W",
+      "min": 32,
+      "pts": 18,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "UK vs MISS",
+      "result": "W",
+      "min": 34,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "UK @ VAN",
+      "result": "L",
+      "min": 28,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "UK @ ARK",
+      "result": "W",
+      "min": 23,
+      "pts": 13,
+      "adjPts": 11.5,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "UK vs OU",
+      "result": "W",
+      "min": 34,
+      "pts": 18,
+      "adjPts": 16.1,
+      "pointsPlus": 168
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "UK vs TENN",
+      "result": "W",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 9.7,
+      "pointsPlus": 101
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "UK @ FLA",
+      "result": "L",
+      "min": 34,
+      "pts": 18,
+      "adjPts": 17.8,
+      "pointsPlus": 186
+    }
+  ]
+}

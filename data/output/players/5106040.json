@@ -1,0 +1,173 @@
+{
+  "id": 5106040,
+  "name": "Tobi Lawal",
+  "team": "VT",
+  "teamName": "Virginia Tech Hokies",
+  "conference": "ACC",
+  "rank": 206,
+  "gp": 17,
+  "ppg": 11.8,
+  "adjPpg": 11.8,
+  "pointsPlus": 123,
+  "mpg": 28.5,
+  "position": "F",
+  "jersey": "1",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 64.4,
+  "volatilityPctile": 80,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "VT vs CHSO",
+      "result": "W",
+      "min": 29,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 209
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "VT vs PROV",
+      "result": "W",
+      "min": 38,
+      "pts": 7,
+      "adjPts": 5.3,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "VT vs JOES",
+      "result": "W",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "VT vs CLT",
+      "result": "W",
+      "min": 37,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "VT vs BRY",
+      "result": "W",
+      "min": 35,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "VT vs CSU",
+      "result": "W",
+      "min": 15,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "VT vs STAN",
+      "result": "L",
+      "min": 18,
+      "pts": 5,
+      "adjPts": 5.2,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "VT vs CAL",
+      "result": "W",
+      "min": 23,
+      "pts": 10,
+      "adjPts": 10.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "VT @ SMU",
+      "result": "L",
+      "min": 24,
+      "pts": 10,
+      "adjPts": 8.8,
+      "pointsPlus": 92
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "VT vs ND",
+      "result": "W",
+      "min": 29,
+      "pts": 22,
+      "adjPts": 22.6,
+      "pointsPlus": 237
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "VT @ SYR",
+      "result": "W",
+      "min": 30,
+      "pts": 16,
+      "adjPts": 16.7,
+      "pointsPlus": 174
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "VT @ LOU",
+      "result": "L",
+      "min": 30,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "VT vs GT",
+      "result": "W",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 9.7,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "VT vs DUKE",
+      "result": "L",
+      "min": 31,
+      "pts": 4,
+      "adjPts": 4.9,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "VT @ NCSU",
+      "result": "L",
+      "min": 30,
+      "pts": 17,
+      "adjPts": 16.0,
+      "pointsPlus": 168
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "VT @ CLEM",
+      "result": "W",
+      "min": 31,
+      "pts": 12,
+      "adjPts": 14.9,
+      "pointsPlus": 155
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "VT vs FSU",
+      "result": "L",
+      "min": 32,
+      "pts": 16,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    }
+  ]
+}

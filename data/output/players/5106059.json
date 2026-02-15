@@ -1,0 +1,218 @@
+{
+  "id": 5106059,
+  "name": "Terrance Arceneaux",
+  "team": "NCSU",
+  "teamName": "NC State Wolfpack",
+  "conference": "ACC",
+  "rank": 591,
+  "gp": 22,
+  "ppg": 4.0,
+  "adjPpg": 4.1,
+  "pointsPlus": 43,
+  "mpg": 15.8,
+  "position": "G",
+  "jersey": "21",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 41.4,
+  "volatilityPctile": 20,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "NCSU vs NCCU",
+      "result": "W",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "NCSU vs UAB",
+      "result": "W",
+      "min": 8,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "NCSU vs HALL",
+      "result": "L",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "NCSU vs BOIS",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "NCSU vs TEX",
+      "result": "L",
+      "min": 13,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "NCSU @ AUB",
+      "result": "L",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "NCSU vs UNCA",
+      "result": "W",
+      "min": 8,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 10
+    },
+    {
+      "date": "2025-12-11",
+      "matchup": "NCSU vs LIB",
+      "result": "W",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "NCSU vs KU",
+      "result": "L",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "NCSU vs TXSO",
+      "result": "W",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "NCSU vs UVA",
+      "result": "L",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 2.2,
+      "pointsPlus": 23
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "NCSU @ BC",
+      "result": "W",
+      "min": 21,
+      "pts": 12,
+      "adjPts": 14.2,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "NCSU @ FSU",
+      "result": "W",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 11.7,
+      "pointsPlus": 122
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "NCSU vs GT",
+      "result": "L",
+      "min": 17,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 30
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "NCSU @ CLEM",
+      "result": "W",
+      "min": 12,
+      "pts": 3,
+      "adjPts": 3.7,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "NCSU @ PITT",
+      "result": "W",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 2.2,
+      "pointsPlus": 23
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "NCSU vs SYR",
+      "result": "W",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "NCSU @ WAKE",
+      "result": "W",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 8.3,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "NCSU @ SMU",
+      "result": "W",
+      "min": 21,
+      "pts": 6,
+      "adjPts": 5.3,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "NCSU vs VT",
+      "result": "W",
+      "min": 12,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 20
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "NCSU @ LOU",
+      "result": "L",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "NCSU vs MIA",
+      "result": "L",
+      "min": 14,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 43
+    }
+  ]
+}

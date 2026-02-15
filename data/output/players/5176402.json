@@ -1,0 +1,236 @@
+{
+  "id": 5176402,
+  "name": "Cooper Schwieger",
+  "team": "WAKE",
+  "teamName": "Wake Forest Demon Deacons",
+  "conference": "ACC",
+  "rank": 521,
+  "gp": 24,
+  "ppg": 5.1,
+  "adjPpg": 5.2,
+  "pointsPlus": 55,
+  "mpg": 20.8,
+  "position": "F",
+  "jersey": "13",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 38.7,
+  "volatilityPctile": 15,
+  "gameLog": [
+    {
+      "date": "2025-11-08",
+      "matchup": "WAKE vs MORE",
+      "result": "W",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "WAKE vs MICH",
+      "result": "L",
+      "min": 27,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "WAKE vs UML",
+      "result": "W",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "WAKE vs TTU",
+      "result": "L",
+      "min": 30,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "WAKE vs MEM",
+      "result": "W",
+      "min": 21,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "WAKE vs CAM",
+      "result": "W",
+      "min": 16,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "WAKE vs NE",
+      "result": "W",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "WAKE vs OU",
+      "result": "L",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "WAKE vs WVU",
+      "result": "W",
+      "min": 18,
+      "pts": 5,
+      "adjPts": 6.6,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "WAKE vs QUC",
+      "result": "W",
+      "min": 11,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "WAKE vs LONG",
+      "result": "W",
+      "min": 17,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "WAKE vs VAN",
+      "result": "L",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "WAKE @ NCSU",
+      "result": "L",
+      "min": 12,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 20
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "WAKE vs VT",
+      "result": "W",
+      "min": 25,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "WAKE vs MIA",
+      "result": "L",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "WAKE @ UNC",
+      "result": "L",
+      "min": 29,
+      "pts": 9,
+      "adjPts": 9.4,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "WAKE @ FSU",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "WAKE vs SMU",
+      "result": "L",
+      "min": 23,
+      "pts": 4,
+      "adjPts": 3.5,
+      "pointsPlus": 37
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "WAKE @ DUKE",
+      "result": "L",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 14.6,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "WAKE @ PITT",
+      "result": "L",
+      "min": 43,
+      "pts": 7,
+      "adjPts": 7.7,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "WAKE vs NCSU",
+      "result": "L",
+      "min": 26,
+      "pts": 6,
+      "adjPts": 5.7,
+      "pointsPlus": 59
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "WAKE vs LOU",
+      "result": "L",
+      "min": 18,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "WAKE @ GT",
+      "result": "W",
+      "min": 27,
+      "pts": 13,
+      "adjPts": 12.6,
+      "pointsPlus": 132
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "WAKE vs STAN",
+      "result": "W",
+      "min": 25,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 44
+    }
+  ]
+}

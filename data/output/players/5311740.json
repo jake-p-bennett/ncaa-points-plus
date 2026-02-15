@@ -1,0 +1,209 @@
+{
+  "id": 5311740,
+  "name": "Sergej Macura",
+  "team": "MSST",
+  "teamName": "Mississippi State Bulldogs",
+  "conference": "SEC",
+  "rank": 527,
+  "gp": 21,
+  "ppg": 5.3,
+  "adjPpg": 5.1,
+  "pointsPlus": 53,
+  "mpg": 19.0,
+  "position": "F",
+  "jersey": "11",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 35.5,
+  "volatilityPctile": 10,
+  "gameLog": [
+    {
+      "date": "2025-11-06",
+      "matchup": "MSST vs UNA",
+      "result": "W",
+      "min": 19,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "MSST vs ISU",
+      "result": "L",
+      "min": 18,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "MSST vs SELA",
+      "result": "W",
+      "min": 16,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "MSST vs KSU",
+      "result": "L",
+      "min": 10,
+      "pts": 3,
+      "adjPts": 2.6,
+      "pointsPlus": 27
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "MSST @ GT",
+      "result": "W",
+      "min": 5,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "MSST vs SF",
+      "result": "L",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "MSST vs UTAH",
+      "result": "W",
+      "min": 14,
+      "pts": 4,
+      "adjPts": 3.6,
+      "pointsPlus": 37
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "MSST vs LIU",
+      "result": "W",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "MSST vs MEM",
+      "result": "W",
+      "min": 26,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "MSST vs ALST",
+      "result": "W",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "MSST @ TEX",
+      "result": "W",
+      "min": 30,
+      "pts": 7,
+      "adjPts": 6.6,
+      "pointsPlus": 69
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "MSST @ UK",
+      "result": "L",
+      "min": 18,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "MSST vs ALA",
+      "result": "L",
+      "min": 24,
+      "pts": 7,
+      "adjPts": 5.4,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "MSST vs MISS",
+      "result": "L",
+      "min": 24,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "MSST @ TA&M",
+      "result": "L",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 5.1,
+      "pointsPlus": 53
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "MSST vs VAN",
+      "result": "L",
+      "min": 19,
+      "pts": 8,
+      "adjPts": 7.5,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "MSST @ LSU",
+      "result": "W",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 9.5,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "MSST @ MIZ",
+      "result": "L",
+      "min": 21,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "MSST vs ARK",
+      "result": "L",
+      "min": 7,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "MSST vs TENN",
+      "result": "L",
+      "min": 20,
+      "pts": 1,
+      "adjPts": 1.1,
+      "pointsPlus": 11
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "MSST @ MISS",
+      "result": "W",
+      "min": 15,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 54
+    }
+  ]
+}

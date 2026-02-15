@@ -1,0 +1,218 @@
+{
+  "id": 4683777,
+  "name": "D.J. Wagner",
+  "team": "ARK",
+  "teamName": "Arkansas Razorbacks",
+  "conference": "SEC",
+  "rank": 396,
+  "gp": 22,
+  "ppg": 7.4,
+  "adjPpg": 7.5,
+  "pointsPlus": 79,
+  "mpg": 23.4,
+  "position": "G",
+  "jersey": "21",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 49.3,
+  "volatilityPctile": 40,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "ARK vs SOU",
+      "result": "W",
+      "min": 32,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "ARK @ MSU",
+      "result": "L",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "ARK vs CARK",
+      "result": "W",
+      "min": 29,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "ARK vs SAM",
+      "result": "W",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "ARK vs WIN",
+      "result": "W",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "ARK vs JKST",
+      "result": "W",
+      "min": 28,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "ARK vs DUKE",
+      "result": "L",
+      "min": 16,
+      "pts": 3,
+      "adjPts": 3.7,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "ARK vs LOU",
+      "result": "W",
+      "min": 19,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "ARK vs FRES",
+      "result": "W",
+      "min": 30,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "ARK vs TTU",
+      "result": "W",
+      "min": 28,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "ARK vs QUC",
+      "result": "W",
+      "min": 23,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "ARK vs HOU",
+      "result": "L",
+      "min": 35,
+      "pts": 11,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "ARK vs JMU",
+      "result": "W",
+      "min": 26,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "ARK vs TENN",
+      "result": "W",
+      "min": 14,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "ARK @ MISS",
+      "result": "W",
+      "min": 21,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "ARK @ AUB",
+      "result": "L",
+      "min": 30,
+      "pts": 4,
+      "adjPts": 3.5,
+      "pointsPlus": 36
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "ARK vs SC",
+      "result": "W",
+      "min": 21,
+      "pts": 12,
+      "adjPts": 11.6,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "ARK @ UGA",
+      "result": "L",
+      "min": 21,
+      "pts": 4,
+      "adjPts": 3.4,
+      "pointsPlus": 35
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "ARK vs VAN",
+      "result": "W",
+      "min": 16,
+      "pts": 11,
+      "adjPts": 10.3,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "ARK vs LSU",
+      "result": "W",
+      "min": 19,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 70
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "ARK @ OU",
+      "result": "W",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "ARK vs UK",
+      "result": "L",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    }
+  ]
+}

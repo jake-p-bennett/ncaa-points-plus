@@ -1,0 +1,209 @@
+{
+  "id": 4684276,
+  "name": "Aden Holloway",
+  "team": "ALA",
+  "teamName": "Alabama Crimson Tide",
+  "conference": "SEC",
+  "rank": 60,
+  "gp": 21,
+  "ppg": 17.0,
+  "adjPpg": 16.6,
+  "pointsPlus": 173,
+  "mpg": 28.5,
+  "position": "G",
+  "jersey": "2",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 71.1,
+  "volatilityPctile": 89,
+  "gameLog": [
+    {
+      "date": "2025-11-08",
+      "matchup": "ALA @ SJU",
+      "result": "W",
+      "min": 33,
+      "pts": 21,
+      "adjPts": 20.8,
+      "pointsPlus": 218
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "ALA vs PUR",
+      "result": "L",
+      "min": 35,
+      "pts": 21,
+      "adjPts": 22.6,
+      "pointsPlus": 237
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "ALA vs ILL",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 11.6,
+      "pointsPlus": 122
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "ALA vs GONZ",
+      "result": "L",
+      "min": 28,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "ALA vs UNLV",
+      "result": "W",
+      "min": 25,
+      "pts": 26,
+      "adjPts": 26.0,
+      "pointsPlus": 272
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "ALA vs MD",
+      "result": "W",
+      "min": 27,
+      "pts": 17,
+      "adjPts": 16.1,
+      "pointsPlus": 168
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "ALA vs ARIZ",
+      "result": "L",
+      "min": 21,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "ALA vs USF",
+      "result": "W",
+      "min": 29,
+      "pts": 24,
+      "adjPts": 24.0,
+      "pointsPlus": 251
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "ALA vs KENN",
+      "result": "W",
+      "min": 27,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "ALA vs YALE",
+      "result": "W",
+      "min": 27,
+      "pts": 26,
+      "adjPts": 26.0,
+      "pointsPlus": 272
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "ALA vs UK",
+      "result": "W",
+      "min": 34,
+      "pts": 26,
+      "adjPts": 26.2,
+      "pointsPlus": 274
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "ALA @ VAN",
+      "result": "L",
+      "min": 27,
+      "pts": 22,
+      "adjPts": 20.6,
+      "pointsPlus": 216
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "ALA vs TEX",
+      "result": "L",
+      "min": 29,
+      "pts": 18,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "ALA @ MSST",
+      "result": "W",
+      "min": 30,
+      "pts": 15,
+      "adjPts": 13.8,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "ALA @ OU",
+      "result": "W",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "ALA vs MIZ",
+      "result": "W",
+      "min": 24,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "ALA @ FLA",
+      "result": "L",
+      "min": 27,
+      "pts": 19,
+      "adjPts": 18.8,
+      "pointsPlus": 197
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "ALA vs TA&M",
+      "result": "W",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 16.9,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "ALA @ AUB",
+      "result": "W",
+      "min": 31,
+      "pts": 15,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "ALA @ MISS",
+      "result": "W",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "ALA vs SC",
+      "result": "W",
+      "min": 27,
+      "pts": 20,
+      "adjPts": 19.3,
+      "pointsPlus": 202
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+CLAUDE.md
+.claude/
+
+# Python
+__pycache__/
+data/raw/
+data/venv/
+
+# Node
+web/node_modules/
+web/.next/
+web/out/

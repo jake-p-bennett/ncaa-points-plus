@@ -1,0 +1,209 @@
+{
+  "id": 5240264,
+  "name": "Andrija Vukovic",
+  "team": "OKST",
+  "teamName": "Oklahoma State Cowboys",
+  "conference": "Big 12",
+  "rank": 560,
+  "gp": 21,
+  "ppg": 4.8,
+  "adjPpg": 4.7,
+  "pointsPlus": 49,
+  "mpg": 15.0,
+  "position": "F",
+  "jersey": "19",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 37.9,
+  "volatilityPctile": 13,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "OKST vs ORU",
+      "result": "W",
+      "min": 18,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "OKST vs TA&M",
+      "result": "W",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "OKST vs PV",
+      "result": "W",
+      "min": 16,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "OKST vs AMCC",
+      "result": "W",
+      "min": 24,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "OKST vs USF",
+      "result": "W",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "OKST vs NICH",
+      "result": "W",
+      "min": 19,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "OKST @ NU",
+      "result": "W",
+      "min": 9,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "OKST vs SHSU",
+      "result": "W",
+      "min": 7,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "OKST vs GCU",
+      "result": "W",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "OKST vs OU",
+      "result": "L",
+      "min": 19,
+      "pts": 6,
+      "adjPts": 5.4,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2025-12-19",
+      "matchup": "OKST vs KC",
+      "result": "W",
+      "min": 22,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "OKST vs CSUF",
+      "result": "W",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "OKST vs UCF",
+      "result": "W",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 3.6,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "OKST @ ISU",
+      "result": "L",
+      "min": 21,
+      "pts": 6,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "OKST vs BAY",
+      "result": "L",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "OKST vs KSU",
+      "result": "W",
+      "min": 14,
+      "pts": 11,
+      "adjPts": 9.5,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "OKST @ TCU",
+      "result": "L",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "OKST vs ISU",
+      "result": "L",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "OKST @ UTAH",
+      "result": "W",
+      "min": 17,
+      "pts": 7,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "OKST vs BYU",
+      "result": "W",
+      "min": 12,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 29
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OKST @ ASU",
+      "result": "L",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 3.6,
+      "pointsPlus": 37
+    }
+  ]
+}

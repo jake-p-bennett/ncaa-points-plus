@@ -1,0 +1,245 @@
+{
+  "id": 5105779,
+  "name": "Kobe MaGee",
+  "team": "FSU",
+  "teamName": "Florida State Seminoles",
+  "conference": "ACC",
+  "rank": 328,
+  "gp": 25,
+  "ppg": 9.0,
+  "adjPpg": 9.2,
+  "pointsPlus": 96,
+  "mpg": 21.2,
+  "position": "G",
+  "jersey": "5",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 63.5,
+  "volatilityPctile": 78,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "FSU vs ALCN",
+      "result": "W",
+      "min": 24,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "FSU vs ALST",
+      "result": "W",
+      "min": 24,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "FSU @ FLA",
+      "result": "L",
+      "min": 33,
+      "pts": 14,
+      "adjPts": 13.9,
+      "pointsPlus": 145
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "FSU vs UTM",
+      "result": "W",
+      "min": 32,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "FSU vs GASO",
+      "result": "W",
+      "min": 27,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "FSU vs CSUB",
+      "result": "W",
+      "min": 23,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "FSU vs TA&M",
+      "result": "L",
+      "min": 25,
+      "pts": 21,
+      "adjPts": 17.8,
+      "pointsPlus": 186
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "FSU vs UGA",
+      "result": "L",
+      "min": 25,
+      "pts": 8,
+      "adjPts": 6.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "FSU vs HOU",
+      "result": "L",
+      "min": 22,
+      "pts": 9,
+      "adjPts": 11.8,
+      "pointsPlus": 123
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "FSU vs MASS",
+      "result": "L",
+      "min": 21,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "FSU @ DAY",
+      "result": "L",
+      "min": 19,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "FSU vs MVSU",
+      "result": "W",
+      "min": 17,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "FSU vs JAX",
+      "result": "W",
+      "min": 21,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "FSU @ UNC",
+      "result": "L",
+      "min": 23,
+      "pts": 12,
+      "adjPts": 12.5,
+      "pointsPlus": 131
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "FSU vs DUKE",
+      "result": "L",
+      "min": 28,
+      "pts": 17,
+      "adjPts": 20.7,
+      "pointsPlus": 217
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "FSU vs NCSU",
+      "result": "L",
+      "min": 23,
+      "pts": 10,
+      "adjPts": 9.4,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "FSU @ SYR",
+      "result": "L",
+      "min": 32,
+      "pts": 20,
+      "adjPts": 20.9,
+      "pointsPlus": 218
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "FSU vs WAKE",
+      "result": "L",
+      "min": 18,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "FSU @ MIA",
+      "result": "W",
+      "min": 9,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "FSU @ SMU",
+      "result": "L",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "FSU vs CAL",
+      "result": "W",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "FSU vs STAN",
+      "result": "W",
+      "min": 16,
+      "pts": 10,
+      "adjPts": 10.4,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "FSU @ ND",
+      "result": "W",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "FSU vs UVA",
+      "result": "L",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 10.0,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "FSU @ VT",
+      "result": "W",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    }
+  ]
+}

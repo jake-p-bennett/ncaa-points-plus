@@ -1,0 +1,110 @@
+{
+  "id": 4703983,
+  "name": "Jacob Ognacevic",
+  "team": "WASH",
+  "teamName": "Washington Huskies",
+  "conference": "Big Ten",
+  "rank": 600,
+  "gp": 10,
+  "ppg": 3.7,
+  "adjPpg": 3.9,
+  "pointsPlus": 41,
+  "mpg": 13.8,
+  "position": "F",
+  "jersey": "41",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 44.1,
+  "volatilityPctile": 27,
+  "gameLog": [
+    {
+      "date": "2026-01-15",
+      "matchup": "WASH vs MICH",
+      "result": "L",
+      "min": 16,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "WASH vs MSU",
+      "result": "L",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "WASH @ NEB",
+      "result": "L",
+      "min": 20,
+      "pts": 5,
+      "adjPts": 5.8,
+      "pointsPlus": 61
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "WASH vs ORE",
+      "result": "W",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 12.2,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "WASH @ ILL",
+      "result": "L",
+      "min": 20,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "WASH @ NU",
+      "result": "W",
+      "min": 13,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 44
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "WASH vs IOWA",
+      "result": "L",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "WASH @ UCLA",
+      "result": "L",
+      "min": 5,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "WASH vs PSU",
+      "result": "L",
+      "min": 4,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "WASH vs MINN",
+      "result": "W",
+      "min": 13,
+      "pts": 4,
+      "adjPts": 4.6,
+      "pointsPlus": 48
+    }
+  ]
+}

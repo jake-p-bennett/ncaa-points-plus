@@ -1,0 +1,254 @@
+{
+  "id": 4873105,
+  "name": "Ben Hammond",
+  "team": "VT",
+  "teamName": "Virginia Tech Hokies",
+  "conference": "ACC",
+  "rank": 157,
+  "gp": 26,
+  "ppg": 12.7,
+  "adjPpg": 12.9,
+  "pointsPlus": 135,
+  "mpg": 30.3,
+  "position": "G",
+  "jersey": "3",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 72.7,
+  "volatilityPctile": 90,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "VT vs CHSO",
+      "result": "W",
+      "min": 24,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "VT vs PROV",
+      "result": "W",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 6.1,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "VT vs JOES",
+      "result": "W",
+      "min": 22,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "VT vs CLT",
+      "result": "W",
+      "min": 16,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "VT vs BRY",
+      "result": "W",
+      "min": 20,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "VT vs CSU",
+      "result": "W",
+      "min": 27,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "VT vs SMC",
+      "result": "L",
+      "min": 36,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "VT vs VCU",
+      "result": "L",
+      "min": 36,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "VT @ SC",
+      "result": "W",
+      "min": 31,
+      "pts": 16,
+      "adjPts": 15.5,
+      "pointsPlus": 162
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "VT vs GMU",
+      "result": "W",
+      "min": 23,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "VT vs WCU",
+      "result": "W",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "VT vs UMES",
+      "result": "W",
+      "min": 24,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "VT vs ELON",
+      "result": "W",
+      "min": 44,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "VT vs UVA",
+      "result": "W",
+      "min": 42,
+      "pts": 30,
+      "adjPts": 33.5,
+      "pointsPlus": 350
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "VT @ WAKE",
+      "result": "L",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "VT vs STAN",
+      "result": "L",
+      "min": 24,
+      "pts": 14,
+      "adjPts": 14.6,
+      "pointsPlus": 152
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "VT vs CAL",
+      "result": "W",
+      "min": 29,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "VT @ SMU",
+      "result": "L",
+      "min": 35,
+      "pts": 11,
+      "adjPts": 9.7,
+      "pointsPlus": 101
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "VT vs ND",
+      "result": "W",
+      "min": 33,
+      "pts": 16,
+      "adjPts": 16.5,
+      "pointsPlus": 172
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "VT @ SYR",
+      "result": "W",
+      "min": 37,
+      "pts": 24,
+      "adjPts": 25.0,
+      "pointsPlus": 262
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "VT @ LOU",
+      "result": "L",
+      "min": 36,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "VT vs GT",
+      "result": "W",
+      "min": 37,
+      "pts": 20,
+      "adjPts": 19.4,
+      "pointsPlus": 203
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "VT vs DUKE",
+      "result": "L",
+      "min": 40,
+      "pts": 11,
+      "adjPts": 13.4,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "VT @ NCSU",
+      "result": "L",
+      "min": 32,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "VT @ CLEM",
+      "result": "W",
+      "min": 34,
+      "pts": 19,
+      "adjPts": 23.6,
+      "pointsPlus": 246
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "VT vs FSU",
+      "result": "L",
+      "min": 35,
+      "pts": 16,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    }
+  ]
+}

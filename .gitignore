@@ -10,3 +10,8 @@ data/venv/
 web/node_modules/
 web/.next/
 web/out/
+
+# Scripts
+scripts/update-data-runner
+scripts/update-data-runner.c
+scripts/*.log

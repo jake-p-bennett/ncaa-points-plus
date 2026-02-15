@@ -1,40 +1,37 @@
 #!/bin/bash
 # NCAA Points+ Data Update Script
-# Fetches latest data from ESPN, recalculates Points+, and rebuilds the site.
+# Intended to be run by launchd on a daily schedule.
 
 set -e
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
-DATA_DIR="$PROJECT_DIR/data"
-WEB_DIR="$PROJECT_DIR/web"
-LOG_FILE="$SCRIPT_DIR/update-data.log"
+PROJECT_DIR="/Users/jacobbennett/Desktop/portfolio-projects/ncaa-dashboard"
+PYTHON="$PROJECT_DIR/data/venv/bin/python3"
+GIT="/opt/homebrew/bin/git"
+LOG_FILE="$PROJECT_DIR/scripts/update-data.log"
 
-echo "$(date): Starting NCAA Points+ data update..." | tee -a "$LOG_FILE"
+# Log start
+echo "=== Update started at $(date) ===" >> "$LOG_FILE"
 
 cd "$PROJECT_DIR"
 
-# Pull latest changes
-git pull origin main 2>&1 | tee -a "$LOG_FILE"
+# Pull latest changes first
+$GIT pull --ff-only >> "$LOG_FILE" 2>&1
 
-# Activate venv and run pipeline
-cd "$DATA_DIR"
-source venv/bin/activate
+# Run pipeline
+echo "Running data pipeline..." >> "$LOG_FILE"
+cd "$PROJECT_DIR/data"
+$PYTHON run_pipeline.py >> "$LOG_FILE" 2>&1
 
-echo "$(date): Running data pipeline..." | tee -a "$LOG_FILE"
-python run_pipeline.py 2>&1 | tee -a "$LOG_FILE"
-
-# Check if data changed
+# Commit and push if changed
 cd "$PROJECT_DIR"
-if git diff --quiet web/public/data/; then
-    echo "$(date): No data changes detected." | tee -a "$LOG_FILE"
-    exit 0
+$GIT add web/public/data/ data/output/
+if $GIT diff --staged --quiet; then
+    echo "No data changes detected." >> "$LOG_FILE"
+else
+    $GIT commit -m "Update Points+ data ($(date +%Y-%m-%d))" >> "$LOG_FILE" 2>&1
+    $GIT push >> "$LOG_FILE" 2>&1
+    echo "Data pushed successfully." >> "$LOG_FILE"
 fi
 
-# Commit and push
-echo "$(date): Data changed, committing..." | tee -a "$LOG_FILE"
-git add web/public/data/ data/output/
-git commit -m "Update Points+ data ($(date +%Y-%m-%d))"
-git push origin main
-
-echo "$(date): Update complete!" | tee -a "$LOG_FILE"
+echo "=== Update finished at $(date) ===" >> "$LOG_FILE"
+echo "" >> "$LOG_FILE"

@@ -52,7 +52,7 @@ export interface Metadata {
   conferences: string[];
 }
 
-export type SortField = "rank" | "name" | "team" | "conference" | "gp" | "ppg" | "adjPpg" | "pointsPlus" | "pointsPlusStdDev" | "mpg";
+export type SortField = "rank" | "name" | "team" | "conference" | "gp" | "ppg" | "adjPpg" | "diff" | "pointsPlus" | "pointsPlusStdDev" | "mpg";
 export type SortDirection = "asc" | "desc";
 
 export const CONFERENCES = ["ACC", "Big East", "Big Ten", "Big 12", "SEC"] as const;

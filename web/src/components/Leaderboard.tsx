@@ -15,6 +15,11 @@ export default function Leaderboard({ players }: { players: LeaderboardPlayer[] 
   const [sortDir, setSortDir] = useState<SortDirection>("asc");
   const [showAll, setShowAll] = useState(false);
 
+  const playersWithDiff = players.map((p) => ({
+    ...p,
+    diff: Math.round((p.adjPpg - p.ppg) * 10) / 10,
+  }));
+
   function handleSort(field: SortField) {
     if (sortField === field) {
       setSortDir(sortDir === "asc" ? "desc" : "asc");
@@ -24,7 +29,7 @@ export default function Leaderboard({ players }: { players: LeaderboardPlayer[] 
     }
   }
 
-  const sorted = [...players].sort((a, b) => {
+  const sorted = [...playersWithDiff].sort((a, b) => {
     const aVal = a[sortField];
     const bVal = b[sortField];
     if (aVal == null && bVal == null) return 0;
@@ -75,6 +80,7 @@ export default function Leaderboard({ players }: { players: LeaderboardPlayer[] 
               <ColHeader field="gp" label="GP" className="w-14" />
               <ColHeader field="ppg" label="PPG" className="w-16" />
               <ColHeader field="adjPpg" label="Adj PPG" className="w-20" />
+              <ColHeader field="diff" label="Diff" className="w-16" />
               <ColHeader field="pointsPlus" label="Points+" className="w-24" />
               <ColHeader field="pointsPlusStdDev" label="Std Dev" className="w-20" />
             </tr>
@@ -108,6 +114,9 @@ export default function Leaderboard({ players }: { players: LeaderboardPlayer[] 
                 <td className="px-3 py-2.5 text-sm text-slate-300">{player.gp}</td>
                 <td className="px-3 py-2.5 text-sm text-slate-300">{player.ppg}</td>
                 <td className="px-3 py-2.5 text-sm text-slate-300">{player.adjPpg}</td>
+                <td className={`px-3 py-2.5 text-sm font-medium ${player.diff > 0 ? "text-emerald-400" : player.diff < 0 ? "text-red-400" : "text-slate-300"}`}>
+                  {player.diff > 0 ? "+" : ""}{player.diff.toFixed(1)}
+                </td>
                 <td className="px-3 py-2.5">
                   <PointsPlusBadge value={player.pointsPlus} />
                 </td>

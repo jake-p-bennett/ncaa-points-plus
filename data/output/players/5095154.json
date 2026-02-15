@@ -4,17 +4,17 @@
   "team": "AUB",
   "teamName": "Auburn Tigers",
   "conference": "SEC",
-  "rank": 393,
-  "gp": 24,
-  "ppg": 7.7,
-  "adjPpg": 7.6,
-  "pointsPlus": 79,
-  "mpg": 27.8,
+  "rank": 396,
+  "gp": 25,
+  "ppg": 7.6,
+  "adjPpg": 7.5,
+  "pointsPlus": 78,
+  "mpg": 28.0,
   "position": "F",
   "jersey": "33",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 38.5,
-  "volatilityPctile": 14,
+  "pointsPlusStdDev": 38.1,
+  "volatilityPctile": 13,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -49,7 +49,7 @@
       "result": "L",
       "min": 26,
       "pts": 7,
-      "adjPts": 9.2,
+      "adjPts": 9.1,
       "pointsPlus": 96
     },
     {
@@ -131,7 +131,7 @@
       "min": 29,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-03",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 33,
       "pts": 6,
-      "adjPts": 4.7,
+      "adjPts": 4.6,
       "pointsPlus": 49
     },
     {
@@ -231,6 +231,15 @@
       "pts": 11,
       "adjPts": 10.3,
       "pointsPlus": 108
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "AUB @ ARK",
+      "result": "L",
+      "min": 34,
+      "pts": 6,
+      "adjPts": 5.3,
+      "pointsPlus": 55
     }
   ]
 }

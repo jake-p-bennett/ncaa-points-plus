@@ -4,17 +4,17 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 272,
-  "gp": 24,
+  "rank": 274,
+  "gp": 25,
   "ppg": 9.8,
   "adjPpg": 10.3,
-  "pointsPlus": 108,
-  "mpg": 24.9,
+  "pointsPlus": 107,
+  "mpg": 25.2,
   "position": "G",
   "jersey": "7",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 62.8,
-  "volatilityPctile": 76,
+  "pointsPlusStdDev": 61.7,
+  "volatilityPctile": 73,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2025-11-12",
@@ -85,7 +85,7 @@
       "result": "L",
       "min": 31,
       "pts": 6,
-      "adjPts": 4.7,
+      "adjPts": 4.6,
       "pointsPlus": 49
     },
     {
@@ -149,7 +149,7 @@
       "min": 32,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2026-01-11",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 21,
       "pts": 9,
-      "adjPts": 8.3,
+      "adjPts": 8.2,
       "pointsPlus": 86
     },
     {
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 17,
       "pts": 16,
-      "adjPts": 16.9,
-      "pointsPlus": 177
+      "adjPts": 17.2,
+      "pointsPlus": 180
     },
     {
       "date": "2026-01-24",
@@ -231,6 +231,15 @@
       "pts": 24,
       "adjPts": 29.2,
       "pointsPlus": 305
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "MD @ RUTG",
+      "result": "L",
+      "min": 34,
+      "pts": 9,
+      "adjPts": 9.1,
+      "pointsPlus": 95
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "TA&M",
   "teamName": "Texas A&M Aggies",
   "conference": "SEC",
-  "rank": 250,
+  "rank": 249,
   "gp": 23,
   "ppg": 11.3,
   "adjPpg": 10.8,
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 25,
       "pts": 15,
-      "adjPts": 13.8,
+      "adjPts": 13.7,
       "pointsPlus": 144
     },
     {
@@ -203,7 +203,7 @@
       "min": 20,
       "pts": 7,
       "adjPts": 6.9,
-      "pointsPlus": 73
+      "pointsPlus": 72
     },
     {
       "date": "2026-02-12",

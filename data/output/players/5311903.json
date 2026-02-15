@@ -4,7 +4,7 @@
   "team": "ASU",
   "teamName": "Arizona State Sun Devils",
   "conference": "Big 12",
-  "rank": 133,
+  "rank": 131,
   "gp": 25,
   "ppg": 13.9,
   "adjPpg": 13.7,
@@ -13,7 +13,7 @@
   "position": "C",
   "jersey": "35",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 44.4,
+  "pointsPlusStdDev": 44.5,
   "volatilityPctile": 28,
   "gameLog": [
     {
@@ -59,7 +59,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-25",
@@ -86,7 +86,7 @@
       "min": 31,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 128
+      "pointsPlus": 127
     },
     {
       "date": "2025-12-07",
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 23,
       "pts": 7,
-      "adjPts": 6.3,
+      "adjPts": 6.2,
       "pointsPlus": 65
     },
     {
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 32,
       "pts": 20,
-      "adjPts": 18.0,
+      "adjPts": 17.9,
       "pointsPlus": 188
     },
     {
@@ -203,7 +203,7 @@
       "min": 33,
       "pts": 8,
       "adjPts": 7.2,
-      "pointsPlus": 76
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-31",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 37,
       "pts": 15,
-      "adjPts": 13.4,
-      "pointsPlus": 140
+      "adjPts": 13.5,
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-08",

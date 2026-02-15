@@ -4,7 +4,7 @@
   "team": "OU",
   "teamName": "Oklahoma Sooners",
   "conference": "SEC",
-  "rank": 77,
+  "rank": 78,
   "gp": 25,
   "ppg": 16.1,
   "adjPpg": 15.6,
@@ -149,7 +149,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 11.9,
-      "pointsPlus": 125
+      "pointsPlus": 124
     },
     {
       "date": "2026-01-10",
@@ -194,7 +194,7 @@
       "min": 38,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 194
+      "pointsPlus": 193
     },
     {
       "date": "2026-01-28",
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 28,
       "pts": 20,
-      "adjPts": 18.8,
+      "adjPts": 18.7,
       "pointsPlus": 196
     },
     {

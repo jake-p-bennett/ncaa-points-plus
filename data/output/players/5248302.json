@@ -4,7 +4,7 @@
   "team": "ISU",
   "teamName": "Iowa State Cyclones",
   "conference": "Big 12",
-  "rank": 320,
+  "rank": 319,
   "gp": 25,
   "ppg": 9.5,
   "adjPpg": 9.3,
@@ -14,7 +14,7 @@
   "jersey": "27",
   "classYear": "Freshman",
   "pointsPlusStdDev": 47.0,
-  "volatilityPctile": 35,
+  "volatilityPctile": 34,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -58,7 +58,7 @@
       "result": "W",
       "min": 21,
       "pts": 6,
-      "adjPts": 6.0,
+      "adjPts": 5.9,
       "pointsPlus": 62
     },
     {
@@ -113,7 +113,7 @@
       "min": 30,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-21",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 34,
       "pts": 12,
-      "adjPts": 11.1,
-      "pointsPlus": 116
+      "adjPts": 11.0,
+      "pointsPlus": 115
     },
     {
       "date": "2026-01-10",

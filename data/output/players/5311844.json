@@ -113,7 +113,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 7.6,
-      "pointsPlus": 79
+      "pointsPlus": 80
     },
     {
       "date": "2025-12-22",
@@ -130,7 +130,7 @@
       "result": "L",
       "min": 35,
       "pts": 9,
-      "adjPts": 8.8,
+      "adjPts": 8.7,
       "pointsPlus": 91
     },
     {
@@ -149,7 +149,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 12.1,
-      "pointsPlus": 127
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-10",

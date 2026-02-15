@@ -4,17 +4,17 @@
   "team": "CONN",
   "teamName": "UConn Huskies",
   "conference": "Big East",
-  "rank": 132,
-  "gp": 20,
-  "ppg": 14.1,
-  "adjPpg": 13.7,
-  "pointsPlus": 143,
-  "mpg": 26.0,
+  "rank": 146,
+  "gp": 21,
+  "ppg": 13.6,
+  "adjPpg": 13.2,
+  "pointsPlus": 138,
+  "mpg": 25.7,
   "position": "C",
   "jersey": "5",
   "classYear": "Senior",
-  "pointsPlusStdDev": 52.5,
-  "volatilityPctile": 48,
+  "pointsPlusStdDev": 55.4,
+  "volatilityPctile": 58,
   "gameLog": [
     {
       "date": "2025-11-08",
@@ -41,7 +41,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 19.6,
-      "pointsPlus": 205
+      "pointsPlus": 204
     },
     {
       "date": "2025-11-28",
@@ -49,7 +49,7 @@
       "result": "W",
       "min": 15,
       "pts": 2,
-      "adjPts": 2.1,
+      "adjPts": 2.2,
       "pointsPlus": 22
     },
     {
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 33,
       "pts": 21,
-      "adjPts": 26.2,
+      "adjPts": 26.1,
       "pointsPlus": 273
     },
     {
@@ -158,7 +158,7 @@
       "min": 19,
       "pts": 19,
       "adjPts": 14.4,
-      "pointsPlus": 151
+      "pointsPlus": 150
     },
     {
       "date": "2026-02-01",
@@ -195,6 +195,15 @@
       "pts": 16,
       "adjPts": 14.6,
       "pointsPlus": 153
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "CONN vs GTWN",
+      "result": "W",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 43
     }
   ]
 }

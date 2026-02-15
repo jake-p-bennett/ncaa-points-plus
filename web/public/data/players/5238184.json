@@ -4,7 +4,7 @@
   "team": "SMU",
   "teamName": "SMU Mustangs",
   "conference": "ACC",
-  "rank": 246,
+  "rank": 247,
   "gp": 25,
   "ppg": 10.7,
   "adjPpg": 10.8,
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 32,
       "pts": 14,
-      "adjPts": 17.4,
+      "adjPts": 17.3,
       "pointsPlus": 181
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 26,
       "pts": 10,
-      "adjPts": 11.2,
-      "pointsPlus": 117
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-21",

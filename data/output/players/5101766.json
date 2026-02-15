@@ -4,7 +4,7 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 522,
+  "rank": 521,
   "gp": 22,
   "ppg": 5.2,
   "adjPpg": 5.2,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "23",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 45.4,
+  "pointsPlusStdDev": 45.5,
   "volatilityPctile": 31,
   "gameLog": [
     {
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 21,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 161
     },
     {
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 19,
       "pts": 9,
-      "adjPts": 9.5,
-      "pointsPlus": 99
+      "adjPts": 9.7,
+      "pointsPlus": 101
     },
     {
       "date": "2026-02-01",

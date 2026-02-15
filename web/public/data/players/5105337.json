@@ -4,7 +4,7 @@
   "team": "DUKE",
   "teamName": "Duke Blue Devils",
   "conference": "ACC",
-  "rank": 550,
+  "rank": 548,
   "gp": 25,
   "ppg": 4.8,
   "adjPpg": 4.8,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "6",
   "classYear": "Senior",
-  "pointsPlusStdDev": 31.1,
+  "pointsPlusStdDev": 31.2,
   "volatilityPctile": 5,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 17,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-12",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 22,
       "pts": 6,
-      "adjPts": 6.3,
+      "adjPts": 6.2,
       "pointsPlus": 65
     },
     {

@@ -4,7 +4,7 @@
   "team": "LSU",
   "teamName": "LSU Tigers",
   "conference": "SEC",
-  "rank": 143,
+  "rank": 144,
   "gp": 25,
   "ppg": 13.5,
   "adjPpg": 13.2,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "10",
   "classYear": "Senior",
-  "pointsPlusStdDev": 60.3,
-  "volatilityPctile": 70,
+  "pointsPlusStdDev": 60.4,
+  "volatilityPctile": 71,
   "gameLog": [
     {
       "date": "2025-11-06",
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 20.3,
+      "adjPts": 20.2,
       "pointsPlus": 212
     },
     {
@@ -140,7 +140,7 @@
       "min": 29,
       "pts": 3,
       "adjPts": 2.5,
-      "pointsPlus": 27
+      "pointsPlus": 26
     },
     {
       "date": "2026-01-07",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 34,
       "pts": 26,
-      "adjPts": 25.4,
+      "adjPts": 25.3,
       "pointsPlus": 265
     },
     {

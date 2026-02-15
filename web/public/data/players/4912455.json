@@ -4,7 +4,7 @@
   "team": "ND",
   "teamName": "Notre Dame Fighting Irish",
   "conference": "ACC",
-  "rank": 174,
+  "rank": 175,
   "gp": 26,
   "ppg": 12.3,
   "adjPpg": 12.5,
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 33,
       "pts": 13,
-      "adjPts": 13.0,
-      "pointsPlus": 136
+      "adjPts": 13.2,
+      "pointsPlus": 138
     },
     {
       "date": "2025-11-26",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 33,
       "pts": 22,
-      "adjPts": 26.0,
+      "adjPts": 25.9,
       "pointsPlus": 271
     },
     {

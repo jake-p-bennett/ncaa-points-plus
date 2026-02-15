@@ -4,7 +4,7 @@
   "team": "HALL",
   "teamName": "Seton Hall Pirates",
   "conference": "Big East",
-  "rank": 572,
+  "rank": 571,
   "gp": 25,
   "ppg": 4.4,
   "adjPpg": 4.4,
@@ -112,7 +112,7 @@
       "result": "W",
       "min": 16,
       "pts": 4,
-      "adjPts": 4.0,
+      "adjPts": 4.1,
       "pointsPlus": 42
     },
     {
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 19,
       "pts": 12,
-      "adjPts": 12.4,
+      "adjPts": 12.3,
       "pointsPlus": 129
     },
     {

@@ -131,7 +131,7 @@
       "min": 26,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-03",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 33,
       "pts": 14,
-      "adjPts": 10.9,
+      "adjPts": 10.8,
       "pointsPlus": 113
     }
   ]

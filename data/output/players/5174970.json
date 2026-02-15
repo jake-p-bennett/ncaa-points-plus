@@ -4,17 +4,17 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 571,
-  "gp": 23,
-  "ppg": 4.4,
-  "adjPpg": 4.4,
-  "pointsPlus": 46,
-  "mpg": 19.5,
+  "rank": 572,
+  "gp": 24,
+  "ppg": 4.3,
+  "adjPpg": 4.3,
+  "pointsPlus": 45,
+  "mpg": 18.9,
   "position": "G",
   "jersey": "12",
   "classYear": "Junior",
-  "pointsPlusStdDev": 50.2,
-  "volatilityPctile": 42,
+  "pointsPlusStdDev": 49.2,
+  "volatilityPctile": 39,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 24,
       "pts": 3,
-      "adjPts": 2.8,
+      "adjPts": 2.7,
       "pointsPlus": 29
     },
     {
@@ -222,6 +222,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "MD @ RUTG",
+      "result": "L",
+      "min": 4,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 32
     }
   ]
 }

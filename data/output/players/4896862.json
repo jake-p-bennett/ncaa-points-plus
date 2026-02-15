@@ -4,7 +4,7 @@
   "team": "TA&M",
   "teamName": "Texas A&M Aggies",
   "conference": "SEC",
-  "rank": 524,
+  "rank": 523,
   "gp": 25,
   "ppg": 5.5,
   "adjPpg": 5.2,
@@ -113,7 +113,7 @@
       "min": 13,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-21",

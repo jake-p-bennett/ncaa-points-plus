@@ -4,7 +4,7 @@
   "team": "TCU",
   "teamName": "TCU Horned Frogs",
   "conference": "Big 12",
-  "rank": 360,
+  "rank": 359,
   "gp": 25,
   "ppg": 8.5,
   "adjPpg": 8.3,
@@ -49,7 +49,7 @@
       "result": "L",
       "min": 32,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 161
     },
     {
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 37,
       "pts": 7,
-      "adjPts": 6.5,
+      "adjPts": 6.4,
       "pointsPlus": 67
     },
     {
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 32,
       "pts": 8,
-      "adjPts": 7.1,
+      "adjPts": 7.2,
       "pointsPlus": 75
     },
     {

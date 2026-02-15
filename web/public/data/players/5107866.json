@@ -4,7 +4,7 @@
   "team": "BAY",
   "teamName": "Baylor Bears",
   "conference": "Big 12",
-  "rank": 439,
+  "rank": 438,
   "gp": 25,
   "ppg": 6.7,
   "adjPpg": 6.9,
@@ -14,7 +14,7 @@
   "jersey": "44",
   "classYear": "Senior",
   "pointsPlusStdDev": 40.0,
-  "volatilityPctile": 18,
+  "volatilityPctile": 17,
   "gameLog": [
     {
       "date": "2025-11-04",

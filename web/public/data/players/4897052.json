@@ -4,7 +4,7 @@
   "team": "TEX",
   "teamName": "Texas Longhorns",
   "conference": "SEC",
-  "rank": 625,
+  "rank": 626,
   "gp": 23,
   "ppg": 3.4,
   "adjPpg": 3.4,
@@ -50,7 +50,7 @@
       "min": 23,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-19",
@@ -221,7 +221,7 @@
       "min": 16,
       "pts": 5,
       "adjPts": 4.8,
-      "pointsPlus": 51
+      "pointsPlus": 50
     }
   ]
 }

@@ -113,7 +113,7 @@
       "min": 30,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-31",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 37,
       "pts": 17,
-      "adjPts": 20.1,
-      "pointsPlus": 210
+      "adjPts": 20.0,
+      "pointsPlus": 209
     },
     {
       "date": "2026-01-07",
@@ -176,7 +176,7 @@
       "min": 34,
       "pts": 10,
       "adjPts": 12.4,
-      "pointsPlus": 130
+      "pointsPlus": 129
     },
     {
       "date": "2026-01-28",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 26,
       "pts": 6,
-      "adjPts": 6.3,
+      "adjPts": 6.2,
       "pointsPlus": 65
     },
     {
@@ -230,7 +230,7 @@
       "min": 17,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 22
+      "pointsPlus": 21
     }
   ]
 }

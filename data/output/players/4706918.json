@@ -4,7 +4,7 @@
   "team": "BC",
   "teamName": "Boston College Eagles",
   "conference": "ACC",
-  "rank": 499,
+  "rank": 498,
   "gp": 25,
   "ppg": 5.6,
   "adjPpg": 5.7,
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 24,
       "pts": 13,
-      "adjPts": 13.6,
+      "adjPts": 13.5,
       "pointsPlus": 142
     },
     {

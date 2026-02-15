@@ -4,7 +4,7 @@
   "team": "ALA",
   "teamName": "Alabama Crimson Tide",
   "conference": "SEC",
-  "rank": 9,
+  "rank": 10,
   "gp": 24,
   "ppg": 21.3,
   "adjPpg": 21.2,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "0",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 62.0,
+  "pointsPlusStdDev": 61.9,
   "volatilityPctile": 74,
   "gameLog": [
     {
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 25,
       "pts": 24,
-      "adjPts": 25.4,
-      "pointsPlus": 265
+      "adjPts": 25.8,
+      "pointsPlus": 270
     },
     {
       "date": "2025-11-25",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 25,
       "pts": 20,
-      "adjPts": 18.9,
-      "pointsPlus": 197
+      "adjPts": 19.1,
+      "pointsPlus": 200
     },
     {
       "date": "2025-12-04",
@@ -86,7 +86,7 @@
       "min": 33,
       "pts": 29,
       "adjPts": 35.9,
-      "pointsPlus": 376
+      "pointsPlus": 375
     },
     {
       "date": "2025-12-07",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 34,
       "pts": 24,
-      "adjPts": 25.0,
+      "adjPts": 24.9,
       "pointsPlus": 261
     },
     {
@@ -158,7 +158,7 @@
       "min": 33,
       "pts": 32,
       "adjPts": 29.3,
-      "pointsPlus": 307
+      "pointsPlus": 306
     },
     {
       "date": "2026-01-17",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 30,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.5,
       "pointsPlus": 183
     },
     {

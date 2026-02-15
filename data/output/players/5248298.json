@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "2",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 26.9,
+  "pointsPlusStdDev": 26.8,
   "volatilityPctile": 3,
   "gameLog": [
     {
@@ -131,7 +131,7 @@
       "min": 23,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 65
+      "pointsPlus": 64
     }
   ]
 }

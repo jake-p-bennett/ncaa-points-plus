@@ -4,7 +4,7 @@
   "team": "OU",
   "teamName": "Oklahoma Sooners",
   "conference": "SEC",
-  "rank": 553,
+  "rank": 551,
   "gp": 19,
   "ppg": 4.9,
   "adjPpg": 4.8,
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 23,
       "pts": 12,
-      "adjPts": 11.3,
+      "adjPts": 11.2,
       "pointsPlus": 118
     },
     {

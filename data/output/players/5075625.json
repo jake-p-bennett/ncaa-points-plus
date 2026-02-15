@@ -7,7 +7,7 @@
   "rank": 18,
   "gp": 23,
   "ppg": 20.7,
-  "adjPpg": 20.2,
+  "adjPpg": 20.1,
   "pointsPlus": 211,
   "mpg": 33.0,
   "position": "F",
@@ -49,7 +49,7 @@
       "result": "L",
       "min": 29,
       "pts": 20,
-      "adjPts": 26.2,
+      "adjPts": 26.1,
       "pointsPlus": 273
     },
     {
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 32,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 161
     },
     {
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 37,
       "pts": 32,
-      "adjPts": 27.1,
+      "adjPts": 27.0,
       "pointsPlus": 283
     },
     {
@@ -157,7 +157,7 @@
       "result": "L",
       "min": 38,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 102
     },
     {
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 35,
       "pts": 21,
-      "adjPts": 22.6,
+      "adjPts": 22.5,
       "pointsPlus": 236
     },
     {

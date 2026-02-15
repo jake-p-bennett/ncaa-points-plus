@@ -4,7 +4,7 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 558,
+  "rank": 557,
   "gp": 24,
   "ppg": 4.7,
   "adjPpg": 4.7,
@@ -14,7 +14,7 @@
   "jersey": "7",
   "classYear": "Senior",
   "pointsPlusStdDev": 42.7,
-  "volatilityPctile": 24,
+  "volatilityPctile": 23,
   "gameLog": [
     {
       "date": "2025-11-04",

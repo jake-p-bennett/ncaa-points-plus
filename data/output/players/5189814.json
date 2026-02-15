@@ -4,7 +4,7 @@
   "team": "STAN",
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
-  "rank": 348,
+  "rank": 347,
   "gp": 26,
   "ppg": 8.5,
   "adjPpg": 8.7,
@@ -113,7 +113,7 @@
       "min": 32,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-21",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 21,
       "pts": 20,
-      "adjPts": 20.9,
+      "adjPts": 20.8,
       "pointsPlus": 218
     },
     {
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 23,
       "pts": 16,
-      "adjPts": 15.6,
-      "pointsPlus": 163
+      "adjPts": 15.5,
+      "pointsPlus": 162
     },
     {
       "date": "2026-02-12",

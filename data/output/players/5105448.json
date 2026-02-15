@@ -4,7 +4,7 @@
   "team": "FSU",
   "teamName": "Florida State Seminoles",
   "conference": "ACC",
-  "rank": 154,
+  "rank": 156,
   "gp": 24,
   "ppg": 12.7,
   "adjPpg": 13.0,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "7",
   "classYear": "Senior",
-  "pointsPlusStdDev": 76.7,
+  "pointsPlusStdDev": 76.6,
   "volatilityPctile": 93,
   "gameLog": [
     {
@@ -212,7 +212,7 @@
       "min": 30,
       "pts": 22,
       "adjPts": 22.6,
-      "pointsPlus": 237
+      "pointsPlus": 236
     },
     {
       "date": "2026-02-11",

@@ -4,7 +4,7 @@
   "team": "CLEM",
   "teamName": "Clemson Tigers",
   "conference": "ACC",
-  "rank": 242,
+  "rank": 243,
   "gp": 26,
   "ppg": 10.5,
   "adjPpg": 10.9,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "22",
   "classYear": "Junior",
-  "pointsPlusStdDev": 50.1,
+  "pointsPlusStdDev": 50.0,
   "volatilityPctile": 42,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 15,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-08",
@@ -50,7 +50,7 @@
       "min": 27,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 151
+      "pointsPlus": 150
     },
     {
       "date": "2025-11-18",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 17,
       "pts": 2,
-      "adjPts": 1.6,
+      "adjPts": 1.5,
       "pointsPlus": 16
     },
     {
@@ -167,7 +167,7 @@
       "min": 27,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 151
+      "pointsPlus": 150
     },
     {
       "date": "2026-01-14",

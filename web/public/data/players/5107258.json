@@ -4,7 +4,7 @@
   "team": "SYR",
   "teamName": "Syracuse Orange",
   "conference": "ACC",
-  "rank": 322,
+  "rank": 321,
   "gp": 26,
   "ppg": 8.9,
   "adjPpg": 9.3,
@@ -14,7 +14,7 @@
   "jersey": "42",
   "classYear": "Senior",
   "pointsPlusStdDev": 43.7,
-  "volatilityPctile": 27,
+  "volatilityPctile": 26,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -212,7 +212,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 108
+      "pointsPlus": 107
     },
     {
       "date": "2026-02-03",

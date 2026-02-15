@@ -4,17 +4,17 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 339,
-  "gp": 24,
-  "ppg": 9.0,
-  "adjPpg": 9.1,
-  "pointsPlus": 95,
-  "mpg": 23.0,
+  "rank": 308,
+  "gp": 25,
+  "ppg": 9.6,
+  "adjPpg": 9.6,
+  "pointsPlus": 100,
+  "mpg": 23.6,
   "position": "G",
   "jersey": "24",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 42.9,
-  "volatilityPctile": 24,
+  "pointsPlusStdDev": 49.4,
+  "volatilityPctile": 40,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -50,7 +50,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-19",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 26,
       "pts": 12,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 106
     },
     {
@@ -231,6 +231,15 @@
       "pts": 13,
       "adjPts": 12.4,
       "pointsPlus": 129
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "ARK vs AUB",
+      "result": "W",
+      "min": 38,
+      "pts": 25,
+      "adjPts": 21.7,
+      "pointsPlus": 227
     }
   ]
 }

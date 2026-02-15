@@ -4,17 +4,17 @@
   "team": "ILL",
   "teamName": "Illinois Fighting Illini",
   "conference": "Big Ten",
-  "rank": 245,
-  "gp": 22,
-  "ppg": 10.4,
-  "adjPpg": 10.8,
-  "pointsPlus": 113,
-  "mpg": 25.3,
+  "rank": 235,
+  "gp": 23,
+  "ppg": 10.5,
+  "adjPpg": 11.0,
+  "pointsPlus": 115,
+  "mpg": 25.4,
   "position": "C",
   "jersey": "13",
   "classYear": "Junior",
-  "pointsPlusStdDev": 58.3,
-  "volatilityPctile": 66,
+  "pointsPlusStdDev": 57.5,
+  "volatilityPctile": 63,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -50,7 +50,7 @@
       "min": 22,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-28",
@@ -68,7 +68,7 @@
       "min": 31,
       "pts": 16,
       "adjPts": 17.2,
-      "pointsPlus": 180
+      "pointsPlus": 179
     },
     {
       "date": "2025-12-10",
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 21,
       "pts": 14,
-      "adjPts": 13.7,
+      "adjPts": 13.6,
       "pointsPlus": 143
     },
     {
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 26,
       "pts": 14,
-      "adjPts": 14.0,
-      "pointsPlus": 146
+      "adjPts": 14.2,
+      "pointsPlus": 148
     },
     {
       "date": "2026-01-11",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 30,
       "pts": 9,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-01-24",
@@ -211,8 +211,17 @@
       "result": "L",
       "min": 37,
       "pts": 19,
-      "adjPts": 17.7,
+      "adjPts": 17.6,
       "pointsPlus": 184
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "ILL vs IU",
+      "result": "W",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 14.5,
+      "pointsPlus": 151
     }
   ]
 }

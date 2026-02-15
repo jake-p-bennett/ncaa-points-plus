@@ -4,17 +4,17 @@
   "team": "GTWN",
   "teamName": "Georgetown Hoyas",
   "conference": "Big East",
-  "rank": 81,
-  "gp": 24,
-  "ppg": 15.1,
-  "adjPpg": 15.4,
-  "pointsPlus": 161,
-  "mpg": 30.2,
+  "rank": 68,
+  "gp": 25,
+  "ppg": 15.5,
+  "adjPpg": 15.9,
+  "pointsPlus": 167,
+  "mpg": 30.4,
   "position": "G",
   "jersey": "5",
   "classYear": "Junior",
-  "pointsPlusStdDev": 67.7,
-  "volatilityPctile": 85,
+  "pointsPlusStdDev": 71.5,
+  "volatilityPctile": 89,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -31,8 +31,8 @@
       "result": "W",
       "min": 33,
       "pts": 16,
-      "adjPts": 15.1,
-      "pointsPlus": 158
+      "adjPts": 15.3,
+      "pointsPlus": 160
     },
     {
       "date": "2025-11-12",
@@ -59,7 +59,7 @@
       "min": 30,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-28",
@@ -157,7 +157,7 @@
       "result": "L",
       "min": 31,
       "pts": 10,
-      "adjPts": 12.5,
+      "adjPts": 12.4,
       "pointsPlus": 130
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 32,
       "pts": 17,
-      "adjPts": 15.6,
-      "pointsPlus": 163
+      "adjPts": 15.5,
+      "pointsPlus": 162
     },
     {
       "date": "2026-02-05",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 36,
       "pts": 22,
-      "adjPts": 21.7,
+      "adjPts": 21.6,
       "pointsPlus": 226
     },
     {
@@ -231,6 +231,15 @@
       "pts": 13,
       "adjPts": 14.3,
       "pointsPlus": 150
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "GTWN @ CONN",
+      "result": "L",
+      "min": 35,
+      "pts": 24,
+      "adjPts": 28.5,
+      "pointsPlus": 298
     }
   ]
 }

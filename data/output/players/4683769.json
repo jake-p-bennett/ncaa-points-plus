@@ -4,7 +4,7 @@
   "team": "ORE",
   "teamName": "Oregon Ducks",
   "conference": "Big Ten",
-  "rank": 168,
+  "rank": 165,
   "gp": 23,
   "ppg": 12.5,
   "adjPpg": 12.7,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "10",
   "classYear": "Junior",
-  "pointsPlusStdDev": 60.6,
+  "pointsPlusStdDev": 60.5,
   "volatilityPctile": 71,
   "gameLog": [
     {
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 28,
       "pts": 11,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 100
     },
     {
@@ -86,7 +86,7 @@
       "min": 36,
       "pts": 23,
       "adjPts": 21.6,
-      "pointsPlus": 226
+      "pointsPlus": 225
     },
     {
       "date": "2025-12-13",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 33,
       "pts": 12,
-      "adjPts": 11.3,
-      "pointsPlus": 118
+      "adjPts": 11.5,
+      "pointsPlus": 120
     },
     {
       "date": "2026-01-06",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 41,
       "pts": 14,
-      "adjPts": 14.0,
-      "pointsPlus": 146
+      "adjPts": 14.2,
+      "pointsPlus": 148
     },
     {
       "date": "2026-01-09",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 39,
       "pts": 24,
-      "adjPts": 25.7,
+      "adjPts": 25.6,
       "pointsPlus": 268
     },
     {
@@ -212,7 +212,7 @@
       "min": 21,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 64
+      "pointsPlus": 65
     },
     {
       "date": "2026-02-14",

@@ -5,16 +5,16 @@
   "teamName": "Rutgers Scarlet Knights",
   "conference": "Big Ten",
   "rank": 408,
-  "gp": 24,
+  "gp": 25,
   "ppg": 7.2,
-  "adjPpg": 7.3,
+  "adjPpg": 7.4,
   "pointsPlus": 77,
-  "mpg": 27.3,
+  "mpg": 27.1,
   "position": "G",
   "jersey": "1",
   "classYear": "Junior",
-  "pointsPlusStdDev": 61.1,
-  "volatilityPctile": 72,
+  "pointsPlusStdDev": 59.9,
+  "volatilityPctile": 69,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 86
     },
     {
@@ -231,6 +231,15 @@
       "pts": 4,
       "adjPts": 4.7,
       "pointsPlus": 49
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "RUTG vs MD",
+      "result": "W",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 7.6,
+      "pointsPlus": 80
     }
   ]
 }

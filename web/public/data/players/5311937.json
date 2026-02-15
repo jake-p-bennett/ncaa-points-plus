@@ -5,11 +5,11 @@
   "teamName": "Utah Utes",
   "conference": "Big 12",
   "rank": 643,
-  "gp": 23,
-  "ppg": 2.7,
-  "adjPpg": 2.7,
-  "pointsPlus": 28,
-  "mpg": 16.5,
+  "gp": 24,
+  "ppg": 2.6,
+  "adjPpg": 2.6,
+  "pointsPlus": 27,
+  "mpg": 16.4,
   "position": "G",
   "jersey": "21",
   "classYear": "Freshman",
@@ -41,7 +41,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-16",
@@ -219,6 +219,15 @@
       "matchup": "UTAH vs HOU",
       "result": "L",
       "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "UTAH @ CIN",
+      "result": "L",
+      "min": 14,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

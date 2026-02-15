@@ -4,17 +4,17 @@
   "team": "UVA",
   "teamName": "Virginia Cavaliers",
   "conference": "ACC",
-  "rank": 496,
+  "rank": 495,
   "gp": 25,
   "ppg": 5.8,
   "adjPpg": 5.8,
-  "pointsPlus": 60,
+  "pointsPlus": 61,
   "mpg": 28.1,
   "position": "G",
   "jersey": "30",
   "classYear": "Senior",
-  "pointsPlusStdDev": 47.5,
-  "volatilityPctile": 36,
+  "pointsPlusStdDev": 47.9,
+  "volatilityPctile": 37,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 24,
       "pts": 20,
-      "adjPts": 18.9,
-      "pointsPlus": 197
+      "adjPts": 19.1,
+      "pointsPlus": 200
     },
     {
       "date": "2025-12-22",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 33,
       "pts": 6,
-      "adjPts": 6.3,
+      "adjPts": 6.2,
       "pointsPlus": 65
     },
     {

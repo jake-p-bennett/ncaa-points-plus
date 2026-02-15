@@ -4,16 +4,16 @@
   "team": "UTAH",
   "teamName": "Utah Utes",
   "conference": "Big 12",
-  "rank": 15,
-  "gp": 24,
-  "ppg": 20.8,
-  "adjPpg": 20.5,
-  "pointsPlus": 214,
-  "mpg": 32.0,
+  "rank": 17,
+  "gp": 25,
+  "ppg": 20.4,
+  "adjPpg": 20.2,
+  "pointsPlus": 211,
+  "mpg": 31.9,
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 73.1,
+  "pointsPlusStdDev": 73.2,
   "volatilityPctile": 90,
   "gameLog": [
     {
@@ -158,7 +158,7 @@
       "min": 35,
       "pts": 25,
       "adjPts": 23.3,
-      "pointsPlus": 244
+      "pointsPlus": 243
     },
     {
       "date": "2026-01-15",
@@ -221,7 +221,7 @@
       "min": 33,
       "pts": 16,
       "adjPts": 18.1,
-      "pointsPlus": 190
+      "pointsPlus": 189
     },
     {
       "date": "2026-02-11",
@@ -231,6 +231,15 @@
       "pts": 12,
       "adjPts": 15.7,
       "pointsPlus": 164
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "UTAH @ CIN",
+      "result": "L",
+      "min": 30,
+      "pts": 11,
+      "adjPts": 13.2,
+      "pointsPlus": 138
     }
   ]
 }

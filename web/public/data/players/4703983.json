@@ -4,7 +4,7 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 600,
+  "rank": 601,
   "gp": 10,
   "ppg": 3.7,
   "adjPpg": 3.9,
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 20,
       "pts": 2,
-      "adjPts": 2.1,
+      "adjPts": 2.2,
       "pointsPlus": 22
     },
     {

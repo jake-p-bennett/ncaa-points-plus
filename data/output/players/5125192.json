@@ -4,7 +4,7 @@
   "team": "PSU",
   "teamName": "Penn State Nittany Lions",
   "conference": "Big Ten",
-  "rank": 98,
+  "rank": 96,
   "gp": 26,
   "ppg": 14.4,
   "adjPpg": 14.6,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "5",
   "classYear": "Junior",
-  "pointsPlusStdDev": 76.3,
+  "pointsPlusStdDev": 76.1,
   "volatilityPctile": 93,
   "gameLog": [
     {
@@ -86,7 +86,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-02",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 20,
       "pts": 14,
-      "adjPts": 14.4,
-      "pointsPlus": 150
+      "adjPts": 14.5,
+      "pointsPlus": 151
     },
     {
       "date": "2025-12-13",
@@ -131,7 +131,7 @@
       "min": 32,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-04",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 26,
       "pts": 9,
-      "adjPts": 9.5,
-      "pointsPlus": 99
+      "adjPts": 9.7,
+      "pointsPlus": 101
     },
     {
       "date": "2026-01-07",
@@ -157,7 +157,7 @@
       "result": "L",
       "min": 34,
       "pts": 25,
-      "adjPts": 27.0,
+      "adjPts": 26.9,
       "pointsPlus": 282
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 15,
       "pts": 5,
-      "adjPts": 4.7,
-      "pointsPlus": 49
+      "adjPts": 4.8,
+      "pointsPlus": 50
     },
     {
       "date": "2026-01-23",
@@ -221,7 +221,7 @@
       "min": 40,
       "pts": 19,
       "adjPts": 19.6,
-      "pointsPlus": 205
+      "pointsPlus": 204
     },
     {
       "date": "2026-02-08",
@@ -230,7 +230,7 @@
       "min": 38,
       "pts": 23,
       "adjPts": 21.6,
-      "pointsPlus": 226
+      "pointsPlus": 225
     },
     {
       "date": "2026-02-12",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 34,
       "pts": 16,
-      "adjPts": 16.6,
+      "adjPts": 16.5,
       "pointsPlus": 173
     },
     {
@@ -247,7 +247,7 @@
       "result": "L",
       "min": 27,
       "pts": 10,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 106
     }
   ]

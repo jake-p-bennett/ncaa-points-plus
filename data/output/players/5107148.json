@@ -4,7 +4,7 @@
   "team": "XAV",
   "teamName": "Xavier Musketeers",
   "conference": "Big East",
-  "rank": 237,
+  "rank": 238,
   "gp": 25,
   "ppg": 10.6,
   "adjPpg": 10.9,
@@ -131,7 +131,7 @@
       "min": 25,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 151
+      "pointsPlus": 150
     },
     {
       "date": "2025-12-31",

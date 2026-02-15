@@ -4,7 +4,7 @@
   "team": "FSU",
   "teamName": "Florida State Seminoles",
   "conference": "ACC",
-  "rank": 90,
+  "rank": 89,
   "gp": 25,
   "ppg": 14.7,
   "adjPpg": 15.0,
@@ -40,7 +40,7 @@
       "result": "L",
       "min": 34,
       "pts": 29,
-      "adjPts": 28.8,
+      "adjPts": 28.7,
       "pointsPlus": 300
     },
     {
@@ -113,7 +113,7 @@
       "min": 23,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-20",
@@ -167,7 +167,7 @@
       "min": 30,
       "pts": 14,
       "adjPts": 14.6,
-      "pointsPlus": 153
+      "pointsPlus": 152
     },
     {
       "date": "2026-01-17",

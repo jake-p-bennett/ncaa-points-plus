@@ -4,16 +4,16 @@
   "team": "IOWA",
   "teamName": "Iowa Hawkeyes",
   "conference": "Big Ten",
-  "rank": 13,
+  "rank": 12,
   "gp": 25,
   "ppg": 20.4,
   "adjPpg": 20.8,
-  "pointsPlus": 217,
+  "pointsPlus": 218,
   "mpg": 36.6,
   "position": "G",
   "jersey": "14",
   "classYear": "Senior",
-  "pointsPlusStdDev": 77.5,
+  "pointsPlusStdDev": 77.6,
   "volatilityPctile": 94,
   "gameLog": [
     {
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 38,
       "pts": 25,
-      "adjPts": 23.6,
-      "pointsPlus": 247
+      "adjPts": 23.9,
+      "pointsPlus": 250
     },
     {
       "date": "2025-12-12",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 40,
       "pts": 10,
-      "adjPts": 11.7,
+      "adjPts": 11.6,
       "pointsPlus": 122
     },
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 29,
       "pts": 21,
-      "adjPts": 24.4,
-      "pointsPlus": 255
+      "adjPts": 24.3,
+      "pointsPlus": 254
     },
     {
       "date": "2026-01-11",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 33,
       "pts": 12,
-      "adjPts": 12.7,
-      "pointsPlus": 133
+      "adjPts": 12.9,
+      "pointsPlus": 135
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 38,
       "pts": 27,
-      "adjPts": 27.7,
-      "pointsPlus": 289
+      "adjPts": 27.9,
+      "pointsPlus": 291
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 40,
       "pts": 20,
-      "adjPts": 20.0,
-      "pointsPlus": 209
+      "adjPts": 20.3,
+      "pointsPlus": 212
     },
     {
       "date": "2026-01-29",
@@ -203,7 +203,7 @@
       "min": 38,
       "pts": 32,
       "adjPts": 32.5,
-      "pointsPlus": 340
+      "pointsPlus": 339
     },
     {
       "date": "2026-02-05",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 40,
       "pts": 22,
-      "adjPts": 22.8,
+      "adjPts": 22.7,
       "pointsPlus": 238
     },
     {
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 40,
       "pts": 32,
-      "adjPts": 30.2,
-      "pointsPlus": 316
+      "adjPts": 30.6,
+      "pointsPlus": 320
     },
     {
       "date": "2026-02-14",

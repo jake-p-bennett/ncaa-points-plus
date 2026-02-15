@@ -4,7 +4,7 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 208,
+  "rank": 209,
   "gp": 25,
   "ppg": 12.0,
   "adjPpg": 11.8,
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 26,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.5,
       "pointsPlus": 183
     },
     {

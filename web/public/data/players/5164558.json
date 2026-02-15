@@ -4,7 +4,7 @@
   "team": "PROV",
   "teamName": "Providence Friars",
   "conference": "Big East",
-  "rank": 389,
+  "rank": 391,
   "gp": 26,
   "ppg": 7.5,
   "adjPpg": 7.6,
@@ -14,7 +14,7 @@
   "jersey": "55",
   "classYear": "Sophomore",
   "pointsPlusStdDev": 38.5,
-  "volatilityPctile": 14,
+  "volatilityPctile": 15,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -104,7 +104,7 @@
       "min": 33,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-10",

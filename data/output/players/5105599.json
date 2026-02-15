@@ -4,7 +4,7 @@
   "team": "MARQ",
   "teamName": "Marquette Golden Eagles",
   "conference": "Big East",
-  "rank": 355,
+  "rank": 354,
   "gp": 25,
   "ppg": 8.3,
   "adjPpg": 8.4,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "12",
   "classYear": "Senior",
-  "pointsPlusStdDev": 53.7,
-  "volatilityPctile": 52,
+  "pointsPlusStdDev": 53.9,
+  "volatilityPctile": 53,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-09",
@@ -41,7 +41,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-11-13",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 33,
       "pts": 18,
-      "adjPts": 17.0,
-      "pointsPlus": 178
+      "adjPts": 17.2,
+      "pointsPlus": 180
     },
     {
       "date": "2025-11-20",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 36,
       "pts": 19,
-      "adjPts": 23.7,
+      "adjPts": 23.6,
       "pointsPlus": 247
     },
     {
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 32,
       "pts": 10,
-      "adjPts": 12.5,
+      "adjPts": 12.4,
       "pointsPlus": 130
     },
     {

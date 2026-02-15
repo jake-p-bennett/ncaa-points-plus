@@ -14,7 +14,7 @@
   "jersey": "22",
   "classYear": "Sophomore",
   "pointsPlusStdDev": 38.5,
-  "volatilityPctile": 14,
+  "volatilityPctile": 15,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -86,7 +86,7 @@
       "min": 15,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-04",
@@ -95,7 +95,7 @@
       "min": 31,
       "pts": 9,
       "adjPts": 8.6,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2025-12-06",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 28,
       "pts": 9,
-      "adjPts": 11.2,
+      "adjPts": 11.1,
       "pointsPlus": 117
     },
     {
@@ -239,7 +239,7 @@
       "min": 33,
       "pts": 12,
       "adjPts": 12.1,
-      "pointsPlus": 127
+      "pointsPlus": 126
     }
   ]
 }

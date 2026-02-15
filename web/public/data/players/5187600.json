@@ -8,7 +8,7 @@
   "gp": 25,
   "ppg": 18.3,
   "adjPpg": 17.3,
-  "pointsPlus": 181,
+  "pointsPlus": 180,
   "mpg": 31.8,
   "position": "G",
   "jersey": "3",
@@ -31,7 +31,7 @@
       "result": "W",
       "min": 24,
       "pts": 17,
-      "adjPts": 15.4,
+      "adjPts": 15.3,
       "pointsPlus": 160
     },
     {
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 37,
       "pts": 19,
-      "adjPts": 19.2,
+      "adjPts": 19.1,
       "pointsPlus": 200
     },
     {
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 37,
       "pts": 24,
-      "adjPts": 24.7,
+      "adjPts": 24.6,
       "pointsPlus": 258
     },
     {

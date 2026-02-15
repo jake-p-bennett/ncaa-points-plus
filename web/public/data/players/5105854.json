@@ -4,7 +4,7 @@
   "team": "PUR",
   "teamName": "Purdue Boilermakers",
   "conference": "Big Ten",
-  "rank": 95,
+  "rank": 93,
   "gp": 25,
   "ppg": 14.7,
   "adjPpg": 14.7,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 66.0,
-  "volatilityPctile": 82,
+  "pointsPlusStdDev": 66.6,
+  "volatilityPctile": 84,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 35,
       "pts": 16,
-      "adjPts": 16.0,
-      "pointsPlus": 167
+      "adjPts": 16.2,
+      "pointsPlus": 170
     },
     {
       "date": "2025-12-06",
@@ -121,7 +121,7 @@
       "result": "W",
       "min": 35,
       "pts": 11,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 100
     },
     {
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 37,
       "pts": 16,
-      "adjPts": 19.5,
+      "adjPts": 19.4,
       "pointsPlus": 203
     },
     {
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 38,
       "pts": 22,
-      "adjPts": 20.7,
+      "adjPts": 20.6,
       "pointsPlus": 216
     },
     {
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 37,
       "pts": 27,
-      "adjPts": 28.5,
-      "pointsPlus": 298
+      "adjPts": 29.0,
+      "pointsPlus": 304
     },
     {
       "date": "2026-01-28",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 39,
       "pts": 14,
-      "adjPts": 14.4,
-      "pointsPlus": 150
+      "adjPts": 14.5,
+      "pointsPlus": 151
     },
     {
       "date": "2026-02-01",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 27,
       "pts": 19,
-      "adjPts": 17.9,
-      "pointsPlus": 188
+      "adjPts": 18.2,
+      "pointsPlus": 190
     },
     {
       "date": "2026-02-07",
@@ -230,7 +230,7 @@
       "min": 40,
       "pts": 13,
       "adjPts": 15.2,
-      "pointsPlus": 159
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-14",
@@ -239,7 +239,7 @@
       "min": 36,
       "pts": 5,
       "adjPts": 6.1,
-      "pointsPlus": 64
+      "pointsPlus": 63
     }
   ]
 }

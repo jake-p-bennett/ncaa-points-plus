@@ -4,7 +4,7 @@
   "team": "UCF",
   "teamName": "UCF Knights",
   "conference": "Big 12",
-  "rank": 99,
+  "rank": 97,
   "gp": 24,
   "ppg": 14.3,
   "adjPpg": 14.6,
@@ -31,7 +31,7 @@
       "result": "L",
       "min": 34,
       "pts": 25,
-      "adjPts": 23.5,
+      "adjPts": 23.4,
       "pointsPlus": 245
     },
     {
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 35,
       "pts": 19,
-      "adjPts": 22.7,
+      "adjPts": 22.8,
       "pointsPlus": 238
     },
     {
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 24,
       "pts": 22,
-      "adjPts": 19.8,
+      "adjPts": 19.7,
       "pointsPlus": 206
     },
     {

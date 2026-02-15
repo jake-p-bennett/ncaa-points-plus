@@ -4,7 +4,7 @@
   "team": "MINN",
   "teamName": "Minnesota Golden Gophers",
   "conference": "Big Ten",
-  "rank": 299,
+  "rank": 297,
   "gp": 25,
   "ppg": 9.6,
   "adjPpg": 9.8,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "3",
   "classYear": "Junior",
-  "pointsPlusStdDev": 50.7,
+  "pointsPlusStdDev": 50.6,
   "volatilityPctile": 44,
   "gameLog": [
     {
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 37,
       "pts": 12,
-      "adjPts": 12.3,
-      "pointsPlus": 129
+      "adjPts": 12.4,
+      "pointsPlus": 130
     },
     {
       "date": "2025-12-11",
@@ -158,7 +158,7 @@
       "min": 45,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 128
+      "pointsPlus": 127
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 39,
       "pts": 5,
-      "adjPts": 5.3,
-      "pointsPlus": 55
+      "adjPts": 5.4,
+      "pointsPlus": 56
     },
     {
       "date": "2026-01-20",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 37,
       "pts": 9,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-02-15",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 40,
       "pts": 13,
-      "adjPts": 13.5,
-      "pointsPlus": 141
+      "adjPts": 13.4,
+      "pointsPlus": 140
     }
   ]
 }

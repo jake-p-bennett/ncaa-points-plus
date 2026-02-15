@@ -7,7 +7,7 @@
   "rank": 417,
   "gp": 25,
   "ppg": 7.3,
-  "adjPpg": 7.3,
+  "adjPpg": 7.2,
   "pointsPlus": 76,
   "mpg": 18.7,
   "position": "F",
@@ -59,7 +59,7 @@
       "min": 16,
       "pts": 5,
       "adjPts": 4.8,
-      "pointsPlus": 51
+      "pointsPlus": 50
     },
     {
       "date": "2025-11-23",
@@ -212,7 +212,7 @@
       "min": 21,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2026-02-05",

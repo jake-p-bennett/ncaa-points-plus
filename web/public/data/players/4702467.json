@@ -4,7 +4,7 @@
   "team": "VILL",
   "teamName": "Villanova Wildcats",
   "conference": "Big East",
-  "rank": 304,
+  "rank": 302,
   "gp": 25,
   "ppg": 9.9,
   "adjPpg": 9.7,
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 27,
       "pts": 13,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 161
     },
     {

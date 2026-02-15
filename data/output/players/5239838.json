@@ -4,7 +4,7 @@
   "team": "TEX",
   "teamName": "Texas Longhorns",
   "conference": "SEC",
-  "rank": 89,
+  "rank": 88,
   "gp": 25,
   "ppg": 15.4,
   "adjPpg": 15.1,
@@ -13,8 +13,8 @@
   "position": "C",
   "jersey": "8",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 60.1,
-  "volatilityPctile": 69,
+  "pointsPlusStdDev": 60.0,
+  "volatilityPctile": 70,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 35,
       "pts": 27,
-      "adjPts": 27.8,
+      "adjPts": 27.7,
       "pointsPlus": 290
     },
     {
@@ -239,7 +239,7 @@
       "min": 25,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 194
+      "pointsPlus": 193
     }
   ]
 }

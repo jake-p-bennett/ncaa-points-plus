@@ -4,7 +4,7 @@
   "team": "LSU",
   "teamName": "LSU Tigers",
   "conference": "SEC",
-  "rank": 587,
+  "rank": 588,
   "gp": 25,
   "ppg": 4.2,
   "adjPpg": 4.2,
@@ -14,7 +14,7 @@
   "jersey": "2",
   "classYear": "Freshman",
   "pointsPlusStdDev": 45.2,
-  "volatilityPctile": 31,
+  "volatilityPctile": 30,
   "gameLog": [
     {
       "date": "2025-11-06",

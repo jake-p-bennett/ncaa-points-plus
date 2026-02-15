@@ -4,7 +4,7 @@
   "team": "MIA",
   "teamName": "Miami Hurricanes",
   "conference": "ACC",
-  "rank": 442,
+  "rank": 441,
   "gp": 20,
   "ppg": 6.6,
   "adjPpg": 6.8,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "34",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 44.5,
+  "pointsPlusStdDev": 44.4,
   "volatilityPctile": 28,
   "gameLog": [
     {
@@ -131,7 +131,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 12.4,
-      "pointsPlus": 130
+      "pointsPlus": 129
     },
     {
       "date": "2026-01-21",
@@ -167,7 +167,7 @@
       "min": 35,
       "pts": 12,
       "adjPts": 12.1,
-      "pointsPlus": 127
+      "pointsPlus": 126
     },
     {
       "date": "2026-02-07",

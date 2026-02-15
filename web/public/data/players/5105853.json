@@ -4,7 +4,7 @@
   "team": "PUR",
   "teamName": "Purdue Boilermakers",
   "conference": "Big Ten",
-  "rank": 134,
+  "rank": 132,
   "gp": 25,
   "ppg": 13.5,
   "adjPpg": 13.7,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "2",
   "classYear": "Senior",
-  "pointsPlusStdDev": 69.4,
+  "pointsPlusStdDev": 69.8,
   "volatilityPctile": 88,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 28,
       "pts": 30,
       "adjPts": 30.0,
-      "pointsPlus": 313
+      "pointsPlus": 314
     },
     {
       "date": "2025-11-08",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 28,
       "pts": 12,
-      "adjPts": 12.0,
-      "pointsPlus": 125
+      "adjPts": 12.2,
+      "pointsPlus": 127
     },
     {
       "date": "2025-12-06",
@@ -112,7 +112,7 @@
       "result": "W",
       "min": 28,
       "pts": 15,
-      "adjPts": 14.1,
+      "adjPts": 14.0,
       "pointsPlus": 147
     },
     {
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 20,
       "pts": 6,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.5,
+      "pointsPlus": 67
     },
     {
       "date": "2026-01-28",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 32,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 86
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 27,
       "pts": 29,
-      "adjPts": 27.4,
-      "pointsPlus": 286
+      "adjPts": 27.7,
+      "pointsPlus": 290
     },
     {
       "date": "2026-02-07",

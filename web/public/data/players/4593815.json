@@ -4,7 +4,7 @@
   "team": "TA&M",
   "teamName": "Texas A&M Aggies",
   "conference": "SEC",
-  "rank": 155,
+  "rank": 158,
   "gp": 25,
   "ppg": 13.7,
   "adjPpg": 12.9,
@@ -59,7 +59,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-22",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 35,
       "pts": 13,
-      "adjPts": 11.5,
+      "adjPts": 11.4,
       "pointsPlus": 120
     },
     {
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 28,
       "pts": 14,
-      "adjPts": 12.2,
+      "adjPts": 12.1,
       "pointsPlus": 127
     },
     {

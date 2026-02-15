@@ -4,7 +4,7 @@
   "team": "WVU",
   "teamName": "West Virginia Mountaineers",
   "conference": "Big 12",
-  "rank": 492,
+  "rank": 491,
   "gp": 25,
   "ppg": 5.7,
   "adjPpg": 5.8,
@@ -212,7 +212,7 @@
       "min": 19,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 39
+      "pointsPlus": 38
     },
     {
       "date": "2026-02-06",

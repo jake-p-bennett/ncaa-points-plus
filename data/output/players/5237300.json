@@ -4,10 +4,10 @@
   "team": "PITT",
   "teamName": "Pittsburgh Panthers",
   "conference": "ACC",
-  "rank": 394,
+  "rank": 393,
   "gp": 26,
   "ppg": 7.3,
-  "adjPpg": 7.6,
+  "adjPpg": 7.5,
   "pointsPlus": 79,
   "mpg": 26.2,
   "position": "G",
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 28,
       "pts": 15,
-      "adjPts": 13.8,
+      "adjPts": 13.7,
       "pointsPlus": 144
     },
     {
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 25,
       "pts": 14,
-      "adjPts": 17.4,
+      "adjPts": 17.3,
       "pointsPlus": 181
     },
     {
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 30,
       "pts": 13,
-      "adjPts": 12.1,
+      "adjPts": 12.0,
       "pointsPlus": 126
     },
     {

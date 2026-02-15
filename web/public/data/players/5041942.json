@@ -4,7 +4,7 @@
   "team": "HOU",
   "teamName": "Houston Cougars",
   "conference": "Big 12",
-  "rank": 552,
+  "rank": 550,
   "gp": 23,
   "ppg": 4.7,
   "adjPpg": 4.8,
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 24,
       "pts": 12,
-      "adjPts": 11.1,
-      "pointsPlus": 116
+      "adjPts": 11.0,
+      "pointsPlus": 115
     },
     {
       "date": "2026-01-14",

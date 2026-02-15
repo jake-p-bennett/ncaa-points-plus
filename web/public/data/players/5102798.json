@@ -4,7 +4,7 @@
   "team": "MISS",
   "teamName": "Ole Miss Rebels",
   "conference": "SEC",
-  "rank": 628,
+  "rank": 629,
   "gp": 25,
   "ppg": 3.3,
   "adjPpg": 3.3,
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 23,
       "pts": 9,
-      "adjPts": 8.0,
-      "pointsPlus": 84
+      "adjPts": 8.1,
+      "pointsPlus": 85
     },
     {
       "date": "2025-12-03",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 11,
       "pts": 3,
-      "adjPts": 2.8,
+      "adjPts": 2.7,
       "pointsPlus": 29
     }
   ]

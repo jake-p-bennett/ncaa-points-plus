@@ -5,15 +5,15 @@
   "teamName": "Cincinnati Bearcats",
   "conference": "Big 12",
   "rank": 655,
-  "gp": 20,
-  "ppg": 1.9,
+  "gp": 21,
+  "ppg": 2.0,
   "adjPpg": 2.1,
-  "pointsPlus": 21,
-  "mpg": 13.6,
+  "pointsPlus": 22,
+  "mpg": 13.4,
   "position": "F",
   "jersey": "24",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 20.6,
+  "pointsPlusStdDev": 20.4,
   "volatilityPctile": 1,
   "gameLog": [
     {
@@ -195,6 +195,15 @@
       "pts": 2,
       "adjPts": 1.7,
       "pointsPlus": 18
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "CIN vs UTAH",
+      "result": "W",
+      "min": 10,
+      "pts": 4,
+      "adjPts": 3.6,
+      "pointsPlus": 38
     }
   ]
 }

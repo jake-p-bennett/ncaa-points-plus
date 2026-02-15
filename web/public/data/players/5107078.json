@@ -4,7 +4,7 @@
   "team": "TA&M",
   "teamName": "Texas A&M Aggies",
   "conference": "SEC",
-  "rank": 424,
+  "rank": 425,
   "gp": 25,
   "ppg": 7.4,
   "adjPpg": 7.2,
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 29,
       "pts": 17,
-      "adjPts": 14.8,
+      "adjPts": 14.7,
       "pointsPlus": 154
     },
     {
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 25,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 61
     },
     {

@@ -4,7 +4,7 @@
   "team": "COLO",
   "teamName": "Colorado Buffaloes",
   "conference": "Big 12",
-  "rank": 590,
+  "rank": 591,
   "gp": 25,
   "ppg": 4.2,
   "adjPpg": 4.1,
@@ -14,7 +14,7 @@
   "jersey": "50",
   "classYear": "Senior",
   "pointsPlusStdDev": 39.7,
-  "volatilityPctile": 17,
+  "volatilityPctile": 16,
   "gameLog": [
     {
       "date": "2025-11-04",

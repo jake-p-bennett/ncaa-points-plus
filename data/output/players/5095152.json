@@ -4,10 +4,10 @@
   "team": "BAY",
   "teamName": "Baylor Bears",
   "conference": "Big 12",
-  "rank": 28,
+  "rank": 29,
   "gp": 25,
   "ppg": 18.4,
-  "adjPpg": 18.8,
+  "adjPpg": 18.7,
   "pointsPlus": 196,
   "mpg": 32.0,
   "position": "G",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 38,
       "pts": 20,
-      "adjPts": 22.7,
+      "adjPts": 22.6,
       "pointsPlus": 237
     },
     {
@@ -203,7 +203,7 @@
       "min": 33,
       "pts": 11,
       "adjPts": 14.4,
-      "pointsPlus": 151
+      "pointsPlus": 150
     },
     {
       "date": "2026-02-05",

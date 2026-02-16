@@ -4,7 +4,7 @@
   "team": "LSU",
   "teamName": "LSU Tigers",
   "conference": "SEC",
-  "rank": 144,
+  "rank": 146,
   "gp": 25,
   "ppg": 13.5,
   "adjPpg": 13.2,
@@ -104,7 +104,7 @@
       "min": 39,
       "pts": 23,
       "adjPts": 20.2,
-      "pointsPlus": 212
+      "pointsPlus": 211
     },
     {
       "date": "2025-12-20",

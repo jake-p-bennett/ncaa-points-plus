@@ -4,7 +4,7 @@
   "team": "LOU",
   "teamName": "Louisville Cardinals",
   "conference": "ACC",
-  "rank": 218,
+  "rank": 219,
   "gp": 25,
   "ppg": 11.1,
   "adjPpg": 11.4,
@@ -221,7 +221,7 @@
       "min": 22,
       "pts": 11,
       "adjPts": 10.2,
-      "pointsPlus": 107
+      "pointsPlus": 106
     },
     {
       "date": "2026-02-10",

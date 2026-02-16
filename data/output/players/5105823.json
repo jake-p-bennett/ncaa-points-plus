@@ -4,7 +4,7 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 40,
+  "rank": 41,
   "gp": 10,
   "ppg": 17.5,
   "adjPpg": 17.5,
@@ -14,7 +14,7 @@
   "jersey": "21",
   "classYear": "Senior",
   "pointsPlusStdDev": 66.0,
-  "volatilityPctile": 82,
+  "volatilityPctile": 83,
   "gameLog": [
     {
       "date": "2025-11-03",

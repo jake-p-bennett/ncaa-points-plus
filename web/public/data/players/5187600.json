@@ -4,7 +4,7 @@
   "team": "VAN",
   "teamName": "Vanderbilt Commodores",
   "conference": "SEC",
-  "rank": 43,
+  "rank": 44,
   "gp": 25,
   "ppg": 18.3,
   "adjPpg": 17.3,
@@ -122,7 +122,7 @@
       "min": 27,
       "pts": 11,
       "adjPts": 10.2,
-      "pointsPlus": 107
+      "pointsPlus": 106
     },
     {
       "date": "2025-12-30",

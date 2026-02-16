@@ -4,7 +4,7 @@
   "team": "CREI",
   "teamName": "Creighton Bluejays",
   "conference": "Big East",
-  "rank": 192,
+  "rank": 191,
   "gp": 26,
   "ppg": 12.0,
   "adjPpg": 12.1,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 49.9,
+  "pointsPlusStdDev": 50.1,
   "volatilityPctile": 42,
   "gameLog": [
     {
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 37,
       "pts": 9,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.4,
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-04",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 36,
       "pts": 12,
-      "adjPts": 14.9,
-      "pointsPlus": 156
+      "adjPts": 15.1,
+      "pointsPlus": 158
     },
     {
       "date": "2026-01-08",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 38,
       "pts": 16,
-      "adjPts": 19.9,
-      "pointsPlus": 208
+      "adjPts": 20.1,
+      "pointsPlus": 210
     },
     {
       "date": "2026-02-12",

@@ -7,7 +7,7 @@
   "rank": 67,
   "gp": 25,
   "ppg": 15.6,
-  "adjPpg": 16.1,
+  "adjPpg": 16.0,
   "pointsPlus": 168,
   "mpg": 34.6,
   "position": "G",
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 38,
       "pts": 17,
-      "adjPts": 21.1,
+      "adjPts": 21.0,
       "pointsPlus": 220
     },
     {
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 26.1,
+      "adjPts": 26.0,
       "pointsPlus": 272
     },
     {

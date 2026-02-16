@@ -4,11 +4,11 @@
   "team": "MARQ",
   "teamName": "Marquette Golden Eagles",
   "conference": "Big East",
-  "rank": 95,
+  "rank": 94,
   "gp": 26,
   "ppg": 14.7,
   "adjPpg": 14.7,
-  "pointsPlus": 153,
+  "pointsPlus": 154,
   "mpg": 32.8,
   "position": "G",
   "jersey": "2",
@@ -59,7 +59,7 @@
       "min": 33,
       "pts": 31,
       "adjPts": 29.6,
-      "pointsPlus": 310
+      "pointsPlus": 309
     },
     {
       "date": "2025-11-20",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 36,
       "pts": 15,
-      "adjPts": 18.7,
-      "pointsPlus": 195
+      "adjPts": 18.9,
+      "pointsPlus": 197
     },
     {
       "date": "2026-01-04",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 37,
       "pts": 15,
-      "adjPts": 13.7,
-      "pointsPlus": 143
+      "adjPts": 13.9,
+      "pointsPlus": 146
     },
     {
       "date": "2026-01-28",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 36,
       "pts": 7,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.8,
+      "pointsPlus": 92
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 33,
       "pts": 19,
-      "adjPts": 17.4,
-      "pointsPlus": 182
+      "adjPts": 17.7,
+      "pointsPlus": 185
     },
     {
       "date": "2026-02-11",

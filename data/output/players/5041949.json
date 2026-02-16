@@ -4,11 +4,11 @@
   "team": "PROV",
   "teamName": "Providence Friars",
   "conference": "Big East",
-  "rank": 176,
+  "rank": 177,
   "gp": 24,
   "ppg": 12.1,
   "adjPpg": 12.5,
-  "pointsPlus": 130,
+  "pointsPlus": 131,
   "mpg": 24.1,
   "position": "F",
   "jersey": "5",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 29,
       "pts": 11,
-      "adjPts": 10.1,
-      "pointsPlus": 105
+      "adjPts": 10.2,
+      "pointsPlus": 107
     },
     {
       "date": "2025-12-19",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 28,
       "pts": 11,
-      "adjPts": 13.7,
-      "pointsPlus": 143
+      "adjPts": 13.8,
+      "pointsPlus": 145
     },
     {
       "date": "2026-01-03",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 33,
       "pts": 20,
-      "adjPts": 23.8,
+      "adjPts": 23.7,
       "pointsPlus": 248
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 30,
       "pts": 10,
-      "adjPts": 9.1,
-      "pointsPlus": 96
+      "adjPts": 9.3,
+      "pointsPlus": 97
     },
     {
       "date": "2026-02-07",

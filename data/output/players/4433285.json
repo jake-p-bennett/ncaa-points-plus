@@ -148,7 +148,7 @@
       "result": "W",
       "min": 37,
       "pts": 21,
-      "adjPts": 21.2,
+      "adjPts": 21.1,
       "pointsPlus": 221
     },
     {
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 37,
       "pts": 20,
-      "adjPts": 17.4,
+      "adjPts": 17.3,
       "pointsPlus": 181
     },
     {
@@ -239,7 +239,7 @@
       "min": 39,
       "pts": 16,
       "adjPts": 15.1,
-      "pointsPlus": 158
+      "pointsPlus": 157
     }
   ]
 }

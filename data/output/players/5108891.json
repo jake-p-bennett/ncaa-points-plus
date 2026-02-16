@@ -4,17 +4,17 @@
   "team": "HALL",
   "teamName": "Seton Hall Pirates",
   "conference": "Big East",
-  "rank": 451,
-  "gp": 25,
-  "ppg": 6.9,
-  "adjPpg": 6.6,
-  "pointsPlus": 69,
-  "mpg": 21.3,
+  "rank": 466,
+  "gp": 26,
+  "ppg": 6.7,
+  "adjPpg": 6.4,
+  "pointsPlus": 66,
+  "mpg": 21.4,
   "position": "F",
   "jersey": "6",
   "classYear": "Senior",
-  "pointsPlusStdDev": 39.0,
-  "volatilityPctile": 15,
+  "pointsPlusStdDev": 40.4,
+  "volatilityPctile": 18,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -122,7 +122,7 @@
       "min": 29,
       "pts": 18,
       "adjPts": 13.6,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2025-12-24",
@@ -176,7 +176,7 @@
       "min": 14,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 38
+      "pointsPlus": 39
     },
     {
       "date": "2026-01-21",
@@ -240,6 +240,15 @@
       "pts": 9,
       "adjPts": 6.8,
       "pointsPlus": 71
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "HALL @ BUT",
+      "result": "W",
+      "min": 23,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

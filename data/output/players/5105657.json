@@ -4,7 +4,7 @@
   "team": "STAN",
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
-  "rank": 418,
+  "rank": 417,
   "gp": 26,
   "ppg": 7.1,
   "adjPpg": 7.2,
@@ -14,7 +14,7 @@
   "jersey": "4",
   "classYear": "Senior",
   "pointsPlusStdDev": 49.3,
-  "volatilityPctile": 40,
+  "volatilityPctile": 39,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -203,7 +203,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.4,
-      "pointsPlus": 109
+      "pointsPlus": 108
     },
     {
       "date": "2026-01-31",

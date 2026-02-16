@@ -8,13 +8,13 @@
   "gp": 25,
   "ppg": 6.3,
   "adjPpg": 6.7,
-  "pointsPlus": 71,
+  "pointsPlus": 70,
   "mpg": 16.6,
   "position": "F",
   "jersey": "5",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 66.6,
-  "volatilityPctile": 84,
+  "pointsPlusStdDev": 66.5,
+  "volatilityPctile": 83,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -167,7 +167,7 @@
       "min": 22,
       "pts": 16,
       "adjPts": 20.9,
-      "pointsPlus": 219
+      "pointsPlus": 218
     },
     {
       "date": "2026-01-17",

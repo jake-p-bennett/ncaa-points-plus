@@ -4,7 +4,7 @@
   "team": "BYU",
   "teamName": "BYU Cougars",
   "conference": "Big 12",
-  "rank": 461,
+  "rank": 460,
   "gp": 23,
   "ppg": 6.4,
   "adjPpg": 6.5,
@@ -14,7 +14,7 @@
   "jersey": "13",
   "classYear": "Senior",
   "pointsPlusStdDev": 49.9,
-  "volatilityPctile": 42,
+  "volatilityPctile": 41,
   "gameLog": [
     {
       "date": "2025-11-04",

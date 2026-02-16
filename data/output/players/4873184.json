@@ -4,7 +4,7 @@
   "team": "ALA",
   "teamName": "Alabama Crimson Tide",
   "conference": "SEC",
-  "rank": 271,
+  "rank": 270,
   "gp": 24,
   "ppg": 10.5,
   "adjPpg": 10.3,
@@ -14,7 +14,7 @@
   "jersey": "22",
   "classYear": "Sophomore",
   "pointsPlusStdDev": 52.4,
-  "volatilityPctile": 48,
+  "volatilityPctile": 49,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 24,
       "pts": 22,
-      "adjPts": 20.2,
+      "adjPts": 20.1,
       "pointsPlus": 211
     },
     {

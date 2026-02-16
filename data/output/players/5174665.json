@@ -13,8 +13,8 @@
   "position": "C",
   "jersey": "44",
   "classYear": "Junior",
-  "pointsPlusStdDev": 51.5,
-  "volatilityPctile": 46,
+  "pointsPlusStdDev": 51.4,
+  "volatilityPctile": 45,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -85,7 +85,7 @@
       "result": "L",
       "min": 17,
       "pts": 4,
-      "adjPts": 4.8,
+      "adjPts": 4.7,
       "pointsPlus": 50
     },
     {
@@ -221,7 +221,7 @@
       "min": 21,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-08",

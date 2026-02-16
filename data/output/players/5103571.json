@@ -4,7 +4,7 @@
   "team": "KU",
   "teamName": "Kansas Jayhawks",
   "conference": "Big 12",
-  "rank": 593,
+  "rank": 594,
   "gp": 25,
   "ppg": 3.9,
   "adjPpg": 4.0,
@@ -14,7 +14,7 @@
   "jersey": "11",
   "classYear": "Sophomore",
   "pointsPlusStdDev": 38.5,
-  "volatilityPctile": 15,
+  "volatilityPctile": 14,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -86,7 +86,7 @@
       "min": 28,
       "pts": 7,
       "adjPts": 7.5,
-      "pointsPlus": 79
+      "pointsPlus": 78
     },
     {
       "date": "2025-12-03",

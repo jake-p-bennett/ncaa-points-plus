@@ -4,7 +4,7 @@
   "team": "DUKE",
   "teamName": "Duke Blue Devils",
   "conference": "ACC",
-  "rank": 262,
+  "rank": 263,
   "gp": 24,
   "ppg": 10.5,
   "adjPpg": 10.5,
@@ -176,7 +176,7 @@
       "min": 17,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-24",

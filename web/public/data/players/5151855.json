@@ -4,7 +4,7 @@
   "team": "BC",
   "teamName": "Boston College Eagles",
   "conference": "ACC",
-  "rank": 443,
+  "rank": 444,
   "gp": 23,
   "ppg": 6.7,
   "adjPpg": 6.8,
@@ -212,7 +212,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-14",

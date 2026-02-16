@@ -8,12 +8,12 @@
   "gp": 24,
   "ppg": 21.9,
   "adjPpg": 22.3,
-  "pointsPlus": 234,
+  "pointsPlus": 233,
   "mpg": 35.0,
   "position": "F",
   "jersey": "15",
   "classYear": "Junior",
-  "pointsPlusStdDev": 86.2,
+  "pointsPlusStdDev": 86.1,
   "volatilityPctile": 98,
   "gameLog": [
     {
@@ -49,7 +49,7 @@
       "result": "W",
       "min": 33,
       "pts": 21,
-      "adjPts": 19.5,
+      "adjPts": 19.4,
       "pointsPlus": 203
     },
     {
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 36,
       "pts": 31,
-      "adjPts": 28.0,
+      "adjPts": 27.9,
       "pointsPlus": 292
     },
     {
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 40,
       "pts": 27,
-      "adjPts": 25.2,
+      "adjPts": 25.1,
       "pointsPlus": 263
     },
     {
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 33,
       "pts": 22,
-      "adjPts": 20.3,
+      "adjPts": 20.2,
       "pointsPlus": 212
     },
     {
@@ -230,7 +230,7 @@
       "min": 44,
       "pts": 31,
       "adjPts": 32.2,
-      "pointsPlus": 337
+      "pointsPlus": 336
     }
   ]
 }

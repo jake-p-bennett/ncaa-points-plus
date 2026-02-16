@@ -4,7 +4,7 @@
   "team": "UVA",
   "teamName": "Virginia Cavaliers",
   "conference": "ACC",
-  "rank": 253,
+  "rank": 252,
   "gp": 25,
   "ppg": 10.7,
   "adjPpg": 10.7,
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 25,
       "pts": 6,
-      "adjPts": 5.5,
-      "pointsPlus": 57
+      "adjPts": 5.6,
+      "pointsPlus": 58
     },
     {
       "date": "2025-11-28",

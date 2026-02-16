@@ -4,7 +4,7 @@
   "team": "ALA",
   "teamName": "Alabama Crimson Tide",
   "conference": "SEC",
-  "rank": 217,
+  "rank": 218,
   "gp": 22,
   "ppg": 11.5,
   "adjPpg": 11.4,
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 27,
       "pts": 13,
-      "adjPts": 13.4,
-      "pointsPlus": 140
+      "adjPts": 13.3,
+      "pointsPlus": 139
     },
     {
       "date": "2026-02-15",

@@ -4,7 +4,7 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 75,
+  "rank": 77,
   "gp": 25,
   "ppg": 15.2,
   "adjPpg": 15.6,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "8",
   "classYear": "Senior",
-  "pointsPlusStdDev": 113.9,
+  "pointsPlusStdDev": 113.8,
   "volatilityPctile": 100,
   "gameLog": [
     {
@@ -113,7 +113,7 @@
       "min": 38,
       "pts": 31,
       "adjPts": 31.9,
-      "pointsPlus": 334
+      "pointsPlus": 333
     },
     {
       "date": "2025-12-20",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 20,
       "pts": 9,
-      "adjPts": 8.9,
-      "pointsPlus": 93
+      "adjPts": 8.8,
+      "pointsPlus": 92
     },
     {
       "date": "2026-02-08",

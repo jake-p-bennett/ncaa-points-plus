@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "5",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 95.5,
+  "pointsPlusStdDev": 95.4,
   "volatilityPctile": 100,
   "gameLog": [
     {
@@ -248,7 +248,7 @@
       "min": 40,
       "pts": 37,
       "adjPts": 35.9,
-      "pointsPlus": 376
+      "pointsPlus": 375
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "DEP",
   "teamName": "DePaul Blue Demons",
   "conference": "Big East",
-  "rank": 487,
+  "rank": 485,
   "gp": 25,
   "ppg": 6.1,
   "adjPpg": 5.9,
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 12,
       "pts": 7,
-      "adjPts": 6.4,
-      "pointsPlus": 67
+      "adjPts": 6.5,
+      "pointsPlus": 68
     },
     {
       "date": "2026-01-24",

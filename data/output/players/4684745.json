@@ -4,7 +4,7 @@
   "team": "STAN",
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
-  "rank": 117,
+  "rank": 118,
   "gp": 17,
   "ppg": 13.9,
   "adjPpg": 14.0,
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 29,
       "pts": 11,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 133
     },
     {

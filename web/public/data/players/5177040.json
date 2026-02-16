@@ -4,7 +4,7 @@
   "team": "VT",
   "teamName": "Virginia Tech Hokies",
   "conference": "ACC",
-  "rank": 219,
+  "rank": 220,
   "gp": 25,
   "ppg": 11.4,
   "adjPpg": 11.3,
@@ -32,7 +32,7 @@
       "min": 33,
       "pts": 18,
       "adjPts": 13.6,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2025-11-13",
@@ -194,7 +194,7 @@
       "min": 35,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 251
+      "pointsPlus": 250
     },
     {
       "date": "2026-01-28",

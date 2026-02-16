@@ -4,7 +4,7 @@
   "team": "FLA",
   "teamName": "Florida Gators",
   "conference": "SEC",
-  "rank": 230,
+  "rank": 231,
   "gp": 25,
   "ppg": 11.4,
   "adjPpg": 11.1,
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 36,
       "pts": 20,
-      "adjPts": 15.2,
+      "adjPts": 15.1,
       "pointsPlus": 158
     },
     {
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 30,
       "pts": 10,
-      "adjPts": 8.5,
+      "adjPts": 8.4,
       "pointsPlus": 88
     },
     {
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 25,
       "pts": 22,
-      "adjPts": 22.2,
+      "adjPts": 22.1,
       "pointsPlus": 232
     }
   ]

@@ -4,7 +4,7 @@
   "team": "LSU",
   "teamName": "LSU Tigers",
   "conference": "SEC",
-  "rank": 83,
+  "rank": 84,
   "gp": 16,
   "ppg": 15.2,
   "adjPpg": 15.3,
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 20,
       "pts": 12,
-      "adjPts": 13.5,
+      "adjPts": 13.4,
       "pointsPlus": 141
     },
     {

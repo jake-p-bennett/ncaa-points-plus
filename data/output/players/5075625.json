@@ -8,12 +8,12 @@
   "gp": 23,
   "ppg": 20.7,
   "adjPpg": 20.1,
-  "pointsPlus": 211,
+  "pointsPlus": 210,
   "mpg": 33.0,
   "position": "F",
   "jersey": "7",
   "classYear": "Senior",
-  "pointsPlusStdDev": 62.4,
+  "pointsPlusStdDev": 62.3,
   "volatilityPctile": 75,
   "gameLog": [
     {
@@ -185,7 +185,7 @@
       "min": 39,
       "pts": 24,
       "adjPts": 23.8,
-      "pointsPlus": 249
+      "pointsPlus": 248
     },
     {
       "date": "2026-01-29",
@@ -203,7 +203,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 22.5,
-      "pointsPlus": 236
+      "pointsPlus": 235
     },
     {
       "date": "2026-02-07",

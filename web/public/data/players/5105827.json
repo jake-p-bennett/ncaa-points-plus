@@ -4,7 +4,7 @@
   "team": "NEB",
   "teamName": "Nebraska Cornhuskers",
   "conference": "Big Ten",
-  "rank": 554,
+  "rank": 553,
   "gp": 25,
   "ppg": 4.7,
   "adjPpg": 4.7,
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 18,
       "pts": 3,
-      "adjPts": 3.0,
+      "adjPts": 2.9,
       "pointsPlus": 31
     },
     {

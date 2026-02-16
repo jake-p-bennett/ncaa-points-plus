@@ -4,7 +4,7 @@
   "team": "SMU",
   "teamName": "SMU Mustangs",
   "conference": "ACC",
-  "rank": 247,
+  "rank": 246,
   "gp": 25,
   "ppg": 10.7,
   "adjPpg": 10.8,
@@ -13,7 +13,7 @@
   "position": "C",
   "jersey": "24",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 37.2,
+  "pointsPlusStdDev": 37.3,
   "volatilityPctile": 12,
   "gameLog": [
     {
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 29,
       "pts": 14,
-      "adjPts": 12.8,
-      "pointsPlus": 134
+      "adjPts": 13.0,
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-19",

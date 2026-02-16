@@ -8,7 +8,7 @@
   "gp": 24,
   "ppg": 9.2,
   "adjPpg": 9.2,
-  "pointsPlus": 97,
+  "pointsPlus": 96,
   "mpg": 26.0,
   "position": "F",
   "jersey": "3",
@@ -68,7 +68,7 @@
       "min": 30,
       "pts": 6,
       "adjPts": 4.5,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2025-11-26",
@@ -167,7 +167,7 @@
       "min": 35,
       "pts": 9,
       "adjPts": 9.6,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-18",
@@ -185,7 +185,7 @@
       "min": 30,
       "pts": 5,
       "adjPts": 4.6,
-      "pointsPlus": 49
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-27",

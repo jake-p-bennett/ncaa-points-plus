@@ -4,11 +4,11 @@
   "team": "OU",
   "teamName": "Oklahoma Sooners",
   "conference": "SEC",
-  "rank": 78,
+  "rank": 79,
   "gp": 25,
   "ppg": 16.1,
-  "adjPpg": 15.6,
-  "pointsPlus": 163,
+  "adjPpg": 15.5,
+  "pointsPlus": 162,
   "mpg": 31.9,
   "position": "G",
   "jersey": "1",
@@ -86,7 +86,7 @@
       "min": 33,
       "pts": 11,
       "adjPts": 10.2,
-      "pointsPlus": 107
+      "pointsPlus": 106
     },
     {
       "date": "2025-12-07",
@@ -167,7 +167,7 @@
       "min": 37,
       "pts": 24,
       "adjPts": 23.8,
-      "pointsPlus": 249
+      "pointsPlus": 248
     },
     {
       "date": "2026-01-17",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 31,
       "pts": 21,
-      "adjPts": 21.2,
+      "adjPts": 21.1,
       "pointsPlus": 221
     },
     {

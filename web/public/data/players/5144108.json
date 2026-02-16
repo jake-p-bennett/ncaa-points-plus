@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "4",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 61.5,
+  "pointsPlusStdDev": 61.4,
   "volatilityPctile": 73,
   "gameLog": [
     {
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 34,
       "pts": 19,
-      "adjPts": 18.2,
+      "adjPts": 18.1,
       "pointsPlus": 190
     },
     {
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 34,
       "pts": 24,
-      "adjPts": 24.4,
-      "pointsPlus": 255
+      "adjPts": 24.3,
+      "pointsPlus": 254
     }
   ]
 }

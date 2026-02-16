@@ -4,7 +4,7 @@
   "team": "UVA",
   "teamName": "Virginia Cavaliers",
   "conference": "ACC",
-  "rank": 390,
+  "rank": 391,
   "gp": 25,
   "ppg": 7.6,
   "adjPpg": 7.6,
@@ -14,7 +14,7 @@
   "jersey": "17",
   "classYear": "Freshman",
   "pointsPlusStdDev": 43.2,
-  "volatilityPctile": 25,
+  "volatilityPctile": 24,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 17,
       "pts": 2,
-      "adjPts": 1.8,
+      "adjPts": 1.9,
       "pointsPlus": 19
     },
     {

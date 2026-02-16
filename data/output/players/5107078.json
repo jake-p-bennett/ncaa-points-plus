@@ -7,14 +7,14 @@
   "rank": 425,
   "gp": 25,
   "ppg": 7.4,
-  "adjPpg": 7.2,
+  "adjPpg": 7.1,
   "pointsPlus": 75,
   "mpg": 21.7,
   "position": "G",
   "jersey": "5",
   "classYear": "Senior",
   "pointsPlusStdDev": 51.4,
-  "volatilityPctile": 46,
+  "volatilityPctile": 45,
   "gameLog": [
     {
       "date": "2025-11-04",

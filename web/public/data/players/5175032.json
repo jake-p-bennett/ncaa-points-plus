@@ -4,7 +4,7 @@
   "team": "CIN",
   "teamName": "Cincinnati Bearcats",
   "conference": "Big 12",
-  "rank": 215,
+  "rank": 216,
   "gp": 26,
   "ppg": 11.1,
   "adjPpg": 11.5,
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 34,
       "pts": 17,
-      "adjPts": 21.1,
+      "adjPts": 21.0,
       "pointsPlus": 220
     },
     {

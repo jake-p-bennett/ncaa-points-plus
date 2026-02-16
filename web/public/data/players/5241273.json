@@ -4,7 +4,7 @@
   "team": "BAY",
   "teamName": "Baylor Bears",
   "conference": "Big 12",
-  "rank": 214,
+  "rank": 215,
   "gp": 24,
   "ppg": 11.1,
   "adjPpg": 11.5,
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 38,
       "pts": 16,
-      "adjPts": 21.0,
+      "adjPts": 20.9,
       "pointsPlus": 219
     },
     {
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 36,
       "pts": 19,
-      "adjPts": 17.1,
+      "adjPts": 17.0,
       "pointsPlus": 178
     },
     {

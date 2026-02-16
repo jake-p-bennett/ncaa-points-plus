@@ -4,16 +4,16 @@
   "team": "BUT",
   "teamName": "Butler Bulldogs",
   "conference": "Big East",
-  "rank": 597,
-  "gp": 24,
-  "ppg": 4.0,
-  "adjPpg": 4.0,
-  "pointsPlus": 41,
-  "mpg": 13.1,
+  "rank": 590,
+  "gp": 25,
+  "ppg": 4.1,
+  "adjPpg": 4.1,
+  "pointsPlus": 43,
+  "mpg": 13.6,
   "position": "G",
   "jersey": "8",
   "classYear": "Senior",
-  "pointsPlusStdDev": 29.7,
+  "pointsPlusStdDev": 30.0,
   "volatilityPctile": 4,
   "gameLog": [
     {
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 22,
       "pts": 14,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 133
     },
     {
@@ -231,6 +231,15 @@
       "pts": 4,
       "adjPts": 3.7,
       "pointsPlus": 39
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "BUT vs HALL",
+      "result": "L",
+      "min": 24,
+      "pts": 6,
+      "adjPts": 7.5,
+      "pointsPlus": 79
     }
   ]
 }

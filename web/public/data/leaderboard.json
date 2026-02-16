@@ -9,7 +9,7 @@
     "gp": 25,
     "ppg": 24.4,
     "adjPpg": 24.4,
-    "pointsPlus": 256,
+    "pointsPlus": 255,
     "mpg": 33.3,
     "position": "F",
     "jersey": "3",
@@ -32,7 +32,7 @@
     "position": "G",
     "jersey": "4",
     "classYear": "Junior",
-    "pointsPlusStdDev": 62.3,
+    "pointsPlusStdDev": 62.2,
     "volatilityPctile": 75
   },
   {
@@ -50,8 +50,8 @@
     "position": "F",
     "jersey": "12",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 58.6,
-    "volatilityPctile": 67
+    "pointsPlusStdDev": 58.5,
+    "volatilityPctile": 66
   },
   {
     "id": 5258459,
@@ -86,7 +86,7 @@
     "position": "F",
     "jersey": "2",
     "classYear": "Senior",
-    "pointsPlusStdDev": 77.2,
+    "pointsPlusStdDev": 77.1,
     "volatilityPctile": 93
   },
   {
@@ -99,12 +99,12 @@
     "gp": 24,
     "ppg": 21.9,
     "adjPpg": 22.3,
-    "pointsPlus": 234,
+    "pointsPlus": 233,
     "mpg": 35.0,
     "position": "F",
     "jersey": "15",
     "classYear": "Junior",
-    "pointsPlusStdDev": 86.2,
+    "pointsPlusStdDev": 86.1,
     "volatilityPctile": 98
   },
   {
@@ -140,7 +140,7 @@
     "position": "G",
     "jersey": "3",
     "classYear": "Senior",
-    "pointsPlusStdDev": 91.7,
+    "pointsPlusStdDev": 91.6,
     "volatilityPctile": 99
   },
   {
@@ -212,7 +212,7 @@
     "position": "G",
     "jersey": "14",
     "classYear": "Senior",
-    "pointsPlusStdDev": 77.6,
+    "pointsPlusStdDev": 77.5,
     "volatilityPctile": 94
   },
   {
@@ -230,7 +230,7 @@
     "position": "G",
     "jersey": "12",
     "classYear": "Junior",
-    "pointsPlusStdDev": 91.9,
+    "pointsPlusStdDev": 92.0,
     "volatilityPctile": 99
   },
   {
@@ -248,8 +248,8 @@
     "position": "G",
     "jersey": "2",
     "classYear": "Senior",
-    "pointsPlusStdDev": 81.7,
-    "volatilityPctile": 97
+    "pointsPlusStdDev": 81.6,
+    "volatilityPctile": 96
   },
   {
     "id": 5105798,
@@ -315,12 +315,12 @@
     "gp": 23,
     "ppg": 20.7,
     "adjPpg": 20.1,
-    "pointsPlus": 211,
+    "pointsPlus": 210,
     "mpg": 33.0,
     "position": "F",
     "jersey": "7",
     "classYear": "Senior",
-    "pointsPlusStdDev": 62.4,
+    "pointsPlusStdDev": 62.3,
     "volatilityPctile": 75
   },
   {
@@ -338,7 +338,7 @@
     "position": "G",
     "jersey": "22",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 62.6,
+    "pointsPlusStdDev": 62.5,
     "volatilityPctile": 75
   },
   {
@@ -410,7 +410,7 @@
     "position": "G",
     "jersey": "3",
     "classYear": "Junior",
-    "pointsPlusStdDev": 66.2,
+    "pointsPlusStdDev": 66.1,
     "volatilityPctile": 83
   },
   {
@@ -486,15 +486,33 @@
     "volatilityPctile": 67
   },
   {
+    "id": 4700877,
+    "name": "Chad Baker-Mazara",
+    "team": "USC",
+    "teamName": "USC Trojans",
+    "conference": "Big Ten",
+    "rank": 28,
+    "gp": 23,
+    "ppg": 18.3,
+    "adjPpg": 18.8,
+    "pointsPlus": 196,
+    "mpg": 30.1,
+    "position": "G",
+    "jersey": "4",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 83.5,
+    "volatilityPctile": 98
+  },
+  {
     "id": 5095152,
     "name": "Tounde Yessoufou",
     "team": "BAY",
     "teamName": "Baylor Bears",
     "conference": "Big 12",
-    "rank": 28,
+    "rank": 29,
     "gp": 25,
     "ppg": 18.4,
-    "adjPpg": 18.8,
+    "adjPpg": 18.7,
     "pointsPlus": 196,
     "mpg": 32.0,
     "position": "G",
@@ -504,22 +522,22 @@
     "volatilityPctile": 83
   },
   {
-    "id": 4700877,
-    "name": "Chad Baker-Mazara",
-    "team": "USC",
-    "teamName": "USC Trojans",
-    "conference": "Big Ten",
-    "rank": 29,
-    "gp": 23,
-    "ppg": 18.3,
-    "adjPpg": 18.8,
-    "pointsPlus": 196,
-    "mpg": 30.1,
-    "position": "G",
-    "jersey": "4",
+    "id": 4684289,
+    "name": "Tre Carroll",
+    "team": "XAV",
+    "teamName": "Xavier Musketeers",
+    "conference": "Big East",
+    "rank": 30,
+    "gp": 25,
+    "ppg": 18.0,
+    "adjPpg": 18.7,
+    "pointsPlus": 195,
+    "mpg": 32.1,
+    "position": "F",
+    "jersey": "12",
     "classYear": "Senior",
-    "pointsPlusStdDev": 83.4,
-    "volatilityPctile": 97
+    "pointsPlusStdDev": 76.6,
+    "volatilityPctile": 93
   },
   {
     "id": 5060709,
@@ -527,7 +545,7 @@
     "team": "BYU",
     "teamName": "BYU Cougars",
     "conference": "Big 12",
-    "rank": 30,
+    "rank": 31,
     "gp": 25,
     "ppg": 18.7,
     "adjPpg": 18.6,
@@ -538,24 +556,6 @@
     "classYear": "Sophomore",
     "pointsPlusStdDev": 68.4,
     "volatilityPctile": 86
-  },
-  {
-    "id": 4684289,
-    "name": "Tre Carroll",
-    "team": "XAV",
-    "teamName": "Xavier Musketeers",
-    "conference": "Big East",
-    "rank": 31,
-    "gp": 25,
-    "ppg": 18.0,
-    "adjPpg": 18.6,
-    "pointsPlus": 195,
-    "mpg": 32.1,
-    "position": "F",
-    "jersey": "12",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 76.2,
-    "volatilityPctile": 93
   },
   {
     "id": 5281370,
@@ -572,7 +572,7 @@
     "position": "F",
     "jersey": "6",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 59.3,
+    "pointsPlusStdDev": 59.2,
     "volatilityPctile": 68
   },
   {
@@ -609,7 +609,7 @@
     "jersey": "34",
     "classYear": "Senior",
     "pointsPlusStdDev": 66.0,
-    "volatilityPctile": 82
+    "volatilityPctile": 83
   },
   {
     "id": 5105462,
@@ -644,7 +644,7 @@
     "position": "G",
     "jersey": "0",
     "classYear": "Senior",
-    "pointsPlusStdDev": 66.7,
+    "pointsPlusStdDev": 66.6,
     "volatilityPctile": 84
   },
   {
@@ -662,7 +662,7 @@
     "position": "F",
     "jersey": "1",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 62.8,
+    "pointsPlusStdDev": 62.7,
     "volatilityPctile": 76
   },
   {
@@ -698,8 +698,26 @@
     "position": "G",
     "jersey": "0",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 95.2,
+    "pointsPlusStdDev": 95.1,
     "volatilityPctile": 99
+  },
+  {
+    "id": 4898010,
+    "name": "Jaylin Sellers",
+    "team": "PROV",
+    "teamName": "Providence Friars",
+    "conference": "Big East",
+    "rank": 40,
+    "gp": 26,
+    "ppg": 17.2,
+    "adjPpg": 17.6,
+    "pointsPlus": 184,
+    "mpg": 28.7,
+    "position": "G",
+    "jersey": "2",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 70.8,
+    "volatilityPctile": 88
   },
   {
     "id": 5105823,
@@ -707,7 +725,7 @@
     "team": "MD",
     "teamName": "Maryland Terrapins",
     "conference": "Big Ten",
-    "rank": 40,
+    "rank": 41,
     "gp": 10,
     "ppg": 17.5,
     "adjPpg": 17.5,
@@ -717,25 +735,7 @@
     "jersey": "21",
     "classYear": "Senior",
     "pointsPlusStdDev": 66.0,
-    "volatilityPctile": 82
-  },
-  {
-    "id": 4898010,
-    "name": "Jaylin Sellers",
-    "team": "PROV",
-    "teamName": "Providence Friars",
-    "conference": "Big East",
-    "rank": 41,
-    "gp": 26,
-    "ppg": 17.2,
-    "adjPpg": 17.5,
-    "pointsPlus": 183,
-    "mpg": 28.7,
-    "position": "G",
-    "jersey": "2",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 69.9,
-    "volatilityPctile": 88
+    "volatilityPctile": 83
   },
   {
     "id": 4845373,
@@ -752,8 +752,26 @@
     "position": "G",
     "jersey": "7",
     "classYear": "Junior",
-    "pointsPlusStdDev": 57.5,
+    "pointsPlusStdDev": 57.4,
     "volatilityPctile": 63
+  },
+  {
+    "id": 5175064,
+    "name": "Jason Edwards",
+    "team": "PROV",
+    "teamName": "Providence Friars",
+    "conference": "Big East",
+    "rank": 43,
+    "gp": 18,
+    "ppg": 17.3,
+    "adjPpg": 17.3,
+    "pointsPlus": 181,
+    "mpg": 27.1,
+    "position": "G",
+    "jersey": "1",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 68.5,
+    "volatilityPctile": 86
   },
   {
     "id": 5187600,
@@ -761,7 +779,7 @@
     "team": "VAN",
     "teamName": "Vanderbilt Commodores",
     "conference": "SEC",
-    "rank": 43,
+    "rank": 44,
     "gp": 25,
     "ppg": 18.3,
     "adjPpg": 17.3,
@@ -774,48 +792,12 @@
     "volatilityPctile": 76
   },
   {
-    "id": 5175064,
-    "name": "Jason Edwards",
-    "team": "PROV",
-    "teamName": "Providence Friars",
-    "conference": "Big East",
-    "rank": 44,
-    "gp": 18,
-    "ppg": 17.3,
-    "adjPpg": 17.2,
-    "pointsPlus": 180,
-    "mpg": 27.1,
-    "position": "G",
-    "jersey": "1",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 68.0,
-    "volatilityPctile": 86
-  },
-  {
-    "id": 4701189,
-    "name": "Anthony Roy",
-    "team": "OKST",
-    "teamName": "Oklahoma State Cowboys",
-    "conference": "Big 12",
-    "rank": 45,
-    "gp": 22,
-    "ppg": 17.6,
-    "adjPpg": 17.2,
-    "pointsPlus": 180,
-    "mpg": 28.8,
-    "position": "G",
-    "jersey": "9",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 53.8,
-    "volatilityPctile": 52
-  },
-  {
     "id": 4703115,
     "name": "Jaron Pierre Jr.",
     "team": "SMU",
     "teamName": "SMU Mustangs",
     "conference": "ACC",
-    "rank": 46,
+    "rank": 45,
     "gp": 25,
     "ppg": 17.4,
     "adjPpg": 17.2,
@@ -833,7 +815,7 @@
     "team": "BUT",
     "teamName": "Butler Bulldogs",
     "conference": "Big East",
-    "rank": 47,
+    "rank": 46,
     "gp": 25,
     "ppg": 17.4,
     "adjPpg": 17.2,
@@ -842,8 +824,26 @@
     "position": "G",
     "jersey": "11",
     "classYear": "Junior",
-    "pointsPlusStdDev": 78.2,
+    "pointsPlusStdDev": 78.5,
     "volatilityPctile": 95
+  },
+  {
+    "id": 4701189,
+    "name": "Anthony Roy",
+    "team": "OKST",
+    "teamName": "Oklahoma State Cowboys",
+    "conference": "Big 12",
+    "rank": 47,
+    "gp": 22,
+    "ppg": 17.6,
+    "adjPpg": 17.2,
+    "pointsPlus": 180,
+    "mpg": 28.8,
+    "position": "G",
+    "jersey": "9",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 53.8,
+    "volatilityPctile": 52
   },
   {
     "id": 5164559,
@@ -860,8 +860,8 @@
     "position": "F",
     "jersey": "10",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 58.0,
-    "volatilityPctile": 65
+    "pointsPlusStdDev": 57.9,
+    "volatilityPctile": 64
   },
   {
     "id": 5175809,
@@ -878,7 +878,7 @@
     "position": "G",
     "jersey": "0",
     "classYear": "Junior",
-    "pointsPlusStdDev": 87.4,
+    "pointsPlusStdDev": 87.3,
     "volatilityPctile": 98
   },
   {
@@ -914,8 +914,8 @@
     "position": "C",
     "jersey": "32",
     "classYear": "Senior",
-    "pointsPlusStdDev": 79.4,
-    "volatilityPctile": 95
+    "pointsPlusStdDev": 79.5,
+    "volatilityPctile": 96
   },
   {
     "id": 5105457,
@@ -932,7 +932,7 @@
     "position": "G",
     "jersey": "5",
     "classYear": "Senior",
-    "pointsPlusStdDev": 83.3,
+    "pointsPlusStdDev": 83.2,
     "volatilityPctile": 97
   },
   {
@@ -968,7 +968,7 @@
     "position": "G",
     "jersey": "3",
     "classYear": "Junior",
-    "pointsPlusStdDev": 69.9,
+    "pointsPlusStdDev": 69.7,
     "volatilityPctile": 88
   },
   {
@@ -981,12 +981,12 @@
     "gp": 25,
     "ppg": 17.5,
     "adjPpg": 16.9,
-    "pointsPlus": 177,
+    "pointsPlus": 176,
     "mpg": 33.8,
     "position": "F",
     "jersey": "10",
     "classYear": "Junior",
-    "pointsPlusStdDev": 60.8,
+    "pointsPlusStdDev": 60.7,
     "volatilityPctile": 72
   },
   {
@@ -1040,7 +1040,7 @@
     "position": "C",
     "jersey": "13",
     "classYear": "Junior",
-    "pointsPlusStdDev": 51.9,
+    "pointsPlusStdDev": 52.0,
     "volatilityPctile": 47
   },
   {
@@ -1058,7 +1058,7 @@
     "position": "G",
     "jersey": "2",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 56.4,
+    "pointsPlusStdDev": 56.3,
     "volatilityPctile": 61
   },
   {
@@ -1113,7 +1113,7 @@
     "jersey": "21",
     "classYear": "Senior",
     "pointsPlusStdDev": 65.6,
-    "volatilityPctile": 81
+    "volatilityPctile": 82
   },
   {
     "id": 5149077,
@@ -1130,7 +1130,7 @@
     "position": "G",
     "jersey": "4",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 89.6,
+    "pointsPlusStdDev": 89.5,
     "volatilityPctile": 98
   },
   {
@@ -1148,8 +1148,8 @@
     "position": "F",
     "jersey": "2",
     "classYear": "Senior",
-    "pointsPlusStdDev": 57.5,
-    "volatilityPctile": 63
+    "pointsPlusStdDev": 58.0,
+    "volatilityPctile": 65
   },
   {
     "id": 5311991,
@@ -1160,13 +1160,13 @@
     "rank": 65,
     "gp": 26,
     "ppg": 15.8,
-    "adjPpg": 16.1,
+    "adjPpg": 16.2,
     "pointsPlus": 169,
     "mpg": 31.3,
     "position": "G",
     "jersey": "7",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 56.0,
+    "pointsPlusStdDev": 56.2,
     "volatilityPctile": 60
   },
   {
@@ -1196,7 +1196,7 @@
     "rank": 67,
     "gp": 25,
     "ppg": 15.6,
-    "adjPpg": 16.1,
+    "adjPpg": 16.0,
     "pointsPlus": 168,
     "mpg": 34.6,
     "position": "G",
@@ -1220,7 +1220,7 @@
     "position": "G",
     "jersey": "5",
     "classYear": "Junior",
-    "pointsPlusStdDev": 71.5,
+    "pointsPlusStdDev": 71.4,
     "volatilityPctile": 89
   },
   {
@@ -1260,12 +1260,30 @@
     "volatilityPctile": 77
   },
   {
+    "id": 4710770,
+    "name": "Meechie Johnson",
+    "team": "SC",
+    "teamName": "South Carolina Gamecocks",
+    "conference": "SEC",
+    "rank": 71,
+    "gp": 25,
+    "ppg": 16.7,
+    "adjPpg": 15.8,
+    "pointsPlus": 165,
+    "mpg": 31.4,
+    "position": "G",
+    "jersey": "5",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 81.6,
+    "volatilityPctile": 96
+  },
+  {
     "id": 5311846,
     "name": "Thijs De Ridder",
     "team": "UVA",
     "teamName": "Virginia Cavaliers",
     "conference": "ACC",
-    "rank": 71,
+    "rank": 72,
     "gp": 25,
     "ppg": 15.7,
     "adjPpg": 15.8,
@@ -1275,24 +1293,6 @@
     "jersey": "28",
     "classYear": "Freshman",
     "pointsPlusStdDev": 79.6,
-    "volatilityPctile": 96
-  },
-  {
-    "id": 4710770,
-    "name": "Meechie Johnson",
-    "team": "SC",
-    "teamName": "South Carolina Gamecocks",
-    "conference": "SEC",
-    "rank": 72,
-    "gp": 25,
-    "ppg": 16.7,
-    "adjPpg": 15.7,
-    "pointsPlus": 165,
-    "mpg": 31.4,
-    "position": "G",
-    "jersey": "5",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 81.5,
     "volatilityPctile": 96
   },
   {
@@ -1332,12 +1332,48 @@
     "volatilityPctile": 96
   },
   {
+    "id": 5176517,
+    "name": "Michael Ajayi",
+    "team": "BUT",
+    "teamName": "Butler Bulldogs",
+    "conference": "Big East",
+    "rank": 75,
+    "gp": 26,
+    "ppg": 15.7,
+    "adjPpg": 15.7,
+    "pointsPlus": 164,
+    "mpg": 33.5,
+    "position": "F",
+    "jersey": "5",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 51.9,
+    "volatilityPctile": 47
+  },
+  {
+    "id": 5106262,
+    "name": "Zuby Ejiofor",
+    "team": "SJU",
+    "teamName": "St. John's Red Storm",
+    "conference": "Big East",
+    "rank": 76,
+    "gp": 25,
+    "ppg": 16.2,
+    "adjPpg": 15.6,
+    "pointsPlus": 163,
+    "mpg": 30.2,
+    "position": "F",
+    "jersey": "24",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 60.5,
+    "volatilityPctile": 71
+  },
+  {
     "id": 5108023,
     "name": "David Coit",
     "team": "MD",
     "teamName": "Maryland Terrapins",
     "conference": "Big Ten",
-    "rank": 75,
+    "rank": 77,
     "gp": 25,
     "ppg": 15.2,
     "adjPpg": 15.6,
@@ -1346,7 +1382,7 @@
     "position": "G",
     "jersey": "8",
     "classYear": "Senior",
-    "pointsPlusStdDev": 113.9,
+    "pointsPlusStdDev": 113.8,
     "volatilityPctile": 100
   },
   {
@@ -1355,7 +1391,7 @@
     "team": "GT",
     "teamName": "Georgia Tech Yellow Jackets",
     "conference": "ACC",
-    "rank": 76,
+    "rank": 78,
     "gp": 24,
     "ppg": 15.2,
     "adjPpg": 15.6,
@@ -1368,34 +1404,16 @@
     "volatilityPctile": 85
   },
   {
-    "id": 5106262,
-    "name": "Zuby Ejiofor",
-    "team": "SJU",
-    "teamName": "St. John's Red Storm",
-    "conference": "Big East",
-    "rank": 77,
-    "gp": 25,
-    "ppg": 16.2,
-    "adjPpg": 15.6,
-    "pointsPlus": 163,
-    "mpg": 30.2,
-    "position": "F",
-    "jersey": "24",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 60.6,
-    "volatilityPctile": 71
-  },
-  {
     "id": 5174633,
     "name": "Xzayvier Brown",
     "team": "OU",
     "teamName": "Oklahoma Sooners",
     "conference": "SEC",
-    "rank": 78,
+    "rank": 79,
     "gp": 25,
     "ppg": 16.1,
-    "adjPpg": 15.6,
-    "pointsPlus": 163,
+    "adjPpg": 15.5,
+    "pointsPlus": 162,
     "mpg": 31.9,
     "position": "G",
     "jersey": "1",
@@ -1409,7 +1427,7 @@
     "team": "ORE",
     "teamName": "Oregon Ducks",
     "conference": "Big Ten",
-    "rank": 79,
+    "rank": 80,
     "gp": 12,
     "ppg": 15.6,
     "adjPpg": 15.5,
@@ -1427,7 +1445,7 @@
     "team": "MSU",
     "teamName": "Michigan State Spartans",
     "conference": "Big Ten",
-    "rank": 80,
+    "rank": 81,
     "gp": 25,
     "ppg": 15.1,
     "adjPpg": 15.5,
@@ -1436,7 +1454,7 @@
     "position": "G",
     "jersey": "1",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 78.1,
+    "pointsPlusStdDev": 77.9,
     "volatilityPctile": 95
   },
   {
@@ -1445,7 +1463,7 @@
     "team": "BC",
     "teamName": "Boston College Eagles",
     "conference": "ACC",
-    "rank": 81,
+    "rank": 82,
     "gp": 25,
     "ppg": 15.0,
     "adjPpg": 15.5,
@@ -1454,7 +1472,7 @@
     "position": "G",
     "jersey": "5",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 63.8,
+    "pointsPlusStdDev": 63.7,
     "volatilityPctile": 79
   },
   {
@@ -1463,7 +1481,7 @@
     "team": "ARIZ",
     "teamName": "Arizona Wildcats",
     "conference": "Big 12",
-    "rank": 82,
+    "rank": 83,
     "gp": 25,
     "ppg": 15.7,
     "adjPpg": 15.4,
@@ -1481,7 +1499,7 @@
     "team": "LSU",
     "teamName": "LSU Tigers",
     "conference": "SEC",
-    "rank": 83,
+    "rank": 84,
     "gp": 16,
     "ppg": 15.2,
     "adjPpg": 15.3,
@@ -1499,35 +1517,17 @@
     "team": "OU",
     "teamName": "Oklahoma Sooners",
     "conference": "SEC",
-    "rank": 84,
+    "rank": 85,
     "gp": 25,
     "ppg": 16.0,
     "adjPpg": 15.3,
-    "pointsPlus": 160,
+    "pointsPlus": 159,
     "mpg": 29.9,
     "position": "G",
     "jersey": "9",
     "classYear": "Senior",
-    "pointsPlusStdDev": 63.2,
+    "pointsPlusStdDev": 63.1,
     "volatilityPctile": 77
-  },
-  {
-    "id": 5176517,
-    "name": "Michael Ajayi",
-    "team": "BUT",
-    "teamName": "Butler Bulldogs",
-    "conference": "Big East",
-    "rank": 85,
-    "gp": 25,
-    "ppg": 15.5,
-    "adjPpg": 15.3,
-    "pointsPlus": 159,
-    "mpg": 33.5,
-    "position": "F",
-    "jersey": "5",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 47.7,
-    "volatilityPctile": 36
   },
   {
     "id": 5196370,
@@ -1562,8 +1562,8 @@
     "position": "G",
     "jersey": "5",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 55.0,
-    "volatilityPctile": 56
+    "pointsPlusStdDev": 54.9,
+    "volatilityPctile": 55
   },
   {
     "id": 5239838,
@@ -1674,12 +1674,30 @@
     "volatilityPctile": 84
   },
   {
+    "id": 5105598,
+    "name": "Chase Ross",
+    "team": "MARQ",
+    "teamName": "Marquette Golden Eagles",
+    "conference": "Big East",
+    "rank": 94,
+    "gp": 26,
+    "ppg": 14.7,
+    "adjPpg": 14.7,
+    "pointsPlus": 154,
+    "mpg": 32.8,
+    "position": "G",
+    "jersey": "2",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 61.4,
+    "volatilityPctile": 73
+  },
+  {
     "id": 4685673,
     "name": "Amani Hansberry",
     "team": "VT",
     "teamName": "Virginia Tech Hokies",
     "conference": "ACC",
-    "rank": 94,
+    "rank": 95,
     "gp": 25,
     "ppg": 14.7,
     "adjPpg": 14.7,
@@ -1689,25 +1707,7 @@
     "jersey": "13",
     "classYear": "Junior",
     "pointsPlusStdDev": 53.9,
-    "volatilityPctile": 53
-  },
-  {
-    "id": 5105598,
-    "name": "Chase Ross",
-    "team": "MARQ",
-    "teamName": "Marquette Golden Eagles",
-    "conference": "Big East",
-    "rank": 95,
-    "gp": 26,
-    "ppg": 14.7,
-    "adjPpg": 14.7,
-    "pointsPlus": 153,
-    "mpg": 32.8,
-    "position": "G",
-    "jersey": "2",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 61.4,
-    "volatilityPctile": 73
+    "volatilityPctile": 52
   },
   {
     "id": 5125192,
@@ -1724,7 +1724,7 @@
     "position": "G",
     "jersey": "5",
     "classYear": "Junior",
-    "pointsPlusStdDev": 76.1,
+    "pointsPlusStdDev": 76.0,
     "volatilityPctile": 93
   },
   {
@@ -1764,30 +1764,12 @@
     "volatilityPctile": 66
   },
   {
-    "id": 4684155,
-    "name": "John Camden",
-    "team": "CAL",
-    "teamName": "California Golden Bears",
-    "conference": "ACC",
-    "rank": 99,
-    "gp": 26,
-    "ppg": 14.2,
-    "adjPpg": 14.6,
-    "pointsPlus": 152,
-    "mpg": 31.2,
-    "position": "F",
-    "jersey": "2",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 77.8,
-    "volatilityPctile": 94
-  },
-  {
     "id": 5175952,
     "name": "Malik Mack",
     "team": "GTWN",
     "teamName": "Georgetown Hoyas",
     "conference": "Big East",
-    "rank": 100,
+    "rank": 99,
     "gp": 25,
     "ppg": 14.2,
     "adjPpg": 14.6,
@@ -1798,6 +1780,24 @@
     "classYear": "Junior",
     "pointsPlusStdDev": 52.0,
     "volatilityPctile": 47
+  },
+  {
+    "id": 4684155,
+    "name": "John Camden",
+    "team": "CAL",
+    "teamName": "California Golden Bears",
+    "conference": "ACC",
+    "rank": 100,
+    "gp": 26,
+    "ppg": 14.2,
+    "adjPpg": 14.6,
+    "pointsPlus": 152,
+    "mpg": 31.2,
+    "position": "F",
+    "jersey": "2",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 77.8,
+    "volatilityPctile": 94
   },
   {
     "id": 5175737,
@@ -1814,7 +1814,7 @@
     "position": "F",
     "jersey": "23",
     "classYear": "Senior",
-    "pointsPlusStdDev": 63.8,
+    "pointsPlusStdDev": 63.7,
     "volatilityPctile": 79
   },
   {
@@ -1850,8 +1850,8 @@
     "position": "G",
     "jersey": "1",
     "classYear": "Junior",
-    "pointsPlusStdDev": 59.4,
-    "volatilityPctile": 68
+    "pointsPlusStdDev": 59.9,
+    "volatilityPctile": 69
   },
   {
     "id": 4684269,
@@ -1922,8 +1922,8 @@
     "position": "G",
     "jersey": "0",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 79.5,
-    "volatilityPctile": 96
+    "pointsPlusStdDev": 79.4,
+    "volatilityPctile": 95
   },
   {
     "id": 4432196,
@@ -1940,7 +1940,7 @@
     "position": "G",
     "jersey": "17",
     "classYear": "Senior",
-    "pointsPlusStdDev": 43.4,
+    "pointsPlusStdDev": 43.3,
     "volatilityPctile": 25
   },
   {
@@ -1976,7 +1976,7 @@
     "position": "G",
     "jersey": "4",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 61.5,
+    "pointsPlusStdDev": 61.4,
     "volatilityPctile": 73
   },
   {
@@ -2048,7 +2048,7 @@
     "position": "F",
     "jersey": "15",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 55.3,
+    "pointsPlusStdDev": 55.2,
     "volatilityPctile": 57
   },
   {
@@ -2084,8 +2084,26 @@
     "position": "G",
     "jersey": "3",
     "classYear": "Senior",
-    "pointsPlusStdDev": 63.4,
-    "volatilityPctile": 78
+    "pointsPlusStdDev": 63.3,
+    "volatilityPctile": 77
+  },
+  {
+    "id": 4684799,
+    "name": "Ven-Allen Lubin",
+    "team": "NCSU",
+    "teamName": "NC State Wolfpack",
+    "conference": "ACC",
+    "rank": 117,
+    "gp": 26,
+    "ppg": 13.7,
+    "adjPpg": 14.0,
+    "pointsPlus": 146,
+    "mpg": 27.6,
+    "position": "F",
+    "jersey": "22",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 57.7,
+    "volatilityPctile": 64
   },
   {
     "id": 4684745,
@@ -2093,7 +2111,7 @@
     "team": "STAN",
     "teamName": "Stanford Cardinal",
     "conference": "ACC",
-    "rank": 117,
+    "rank": 118,
     "gp": 17,
     "ppg": 13.9,
     "adjPpg": 14.0,
@@ -2111,7 +2129,7 @@
     "team": "OKST",
     "teamName": "Oklahoma State Cowboys",
     "conference": "Big 12",
-    "rank": 118,
+    "rank": 119,
     "gp": 23,
     "ppg": 14.3,
     "adjPpg": 14.0,
@@ -2120,26 +2138,8 @@
     "position": "F",
     "jersey": "22",
     "classYear": "Senior",
-    "pointsPlusStdDev": 74.0,
+    "pointsPlusStdDev": 74.1,
     "volatilityPctile": 91
-  },
-  {
-    "id": 4684799,
-    "name": "Ven-Allen Lubin",
-    "team": "NCSU",
-    "teamName": "NC State Wolfpack",
-    "conference": "ACC",
-    "rank": 119,
-    "gp": 26,
-    "ppg": 13.7,
-    "adjPpg": 14.0,
-    "pointsPlus": 146,
-    "mpg": 27.6,
-    "position": "F",
-    "jersey": "22",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 57.6,
-    "volatilityPctile": 64
   },
   {
     "id": 4837238,
@@ -2156,7 +2156,7 @@
     "position": "F",
     "jersey": "12",
     "classYear": "Senior",
-    "pointsPlusStdDev": 63.7,
+    "pointsPlusStdDev": 63.8,
     "volatilityPctile": 79
   },
   {
@@ -2246,7 +2246,7 @@
     "position": "G",
     "jersey": "2",
     "classYear": "Junior",
-    "pointsPlusStdDev": 75.8,
+    "pointsPlusStdDev": 75.6,
     "volatilityPctile": 92
   },
   {
@@ -2264,7 +2264,7 @@
     "position": "G",
     "jersey": "11",
     "classYear": "Senior",
-    "pointsPlusStdDev": 69.1,
+    "pointsPlusStdDev": 69.3,
     "volatilityPctile": 87
   },
   {
@@ -2372,7 +2372,7 @@
     "position": "G",
     "jersey": "2",
     "classYear": "Senior",
-    "pointsPlusStdDev": 69.8,
+    "pointsPlusStdDev": 69.7,
     "volatilityPctile": 88
   },
   {
@@ -2384,7 +2384,7 @@
     "rank": 133,
     "gp": 23,
     "ppg": 14.3,
-    "adjPpg": 13.7,
+    "adjPpg": 13.6,
     "pointsPlus": 143,
     "mpg": 27.3,
     "position": "G",
@@ -2426,26 +2426,8 @@
     "position": "F",
     "jersey": "21",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 61.8,
+    "pointsPlusStdDev": 61.7,
     "volatilityPctile": 73
-  },
-  {
-    "id": 5075626,
-    "name": "Baba Miller",
-    "team": "CIN",
-    "teamName": "Cincinnati Bearcats",
-    "conference": "Big 12",
-    "rank": 136,
-    "gp": 24,
-    "ppg": 13.7,
-    "adjPpg": 13.6,
-    "pointsPlus": 142,
-    "mpg": 31.2,
-    "position": "F",
-    "jersey": "18",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 60.3,
-    "volatilityPctile": 70
   },
   {
     "id": 4873151,
@@ -2453,7 +2435,7 @@
     "team": "NCSU",
     "teamName": "NC State Wolfpack",
     "conference": "ACC",
-    "rank": 137,
+    "rank": 136,
     "gp": 26,
     "ppg": 13.6,
     "adjPpg": 13.6,
@@ -2466,6 +2448,24 @@
     "volatilityPctile": 100
   },
   {
+    "id": 5075626,
+    "name": "Baba Miller",
+    "team": "CIN",
+    "teamName": "Cincinnati Bearcats",
+    "conference": "Big 12",
+    "rank": 137,
+    "gp": 24,
+    "ppg": 13.7,
+    "adjPpg": 13.6,
+    "pointsPlus": 142,
+    "mpg": 31.2,
+    "position": "F",
+    "jersey": "18",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 60.2,
+    "volatilityPctile": 70
+  },
+  {
     "id": 5182412,
     "name": "Tyler Perkins",
     "team": "VILL",
@@ -2475,12 +2475,12 @@
     "gp": 25,
     "ppg": 13.6,
     "adjPpg": 13.5,
-    "pointsPlus": 141,
+    "pointsPlus": 142,
     "mpg": 28.8,
     "position": "G",
     "jersey": "4",
     "classYear": "Junior",
-    "pointsPlusStdDev": 63.8,
+    "pointsPlusStdDev": 63.9,
     "volatilityPctile": 79
   },
   {
@@ -2516,7 +2516,7 @@
     "position": "G",
     "jersey": "9",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 75.3,
+    "pointsPlusStdDev": 75.2,
     "volatilityPctile": 92
   },
   {
@@ -2570,26 +2570,26 @@
     "position": "F",
     "jersey": "11",
     "classYear": "Senior",
-    "pointsPlusStdDev": 58.7,
+    "pointsPlusStdDev": 58.6,
     "volatilityPctile": 67
   },
   {
-    "id": 5107264,
-    "name": "Marquel Sutton",
-    "team": "LSU",
-    "teamName": "LSU Tigers",
-    "conference": "SEC",
+    "id": 5105809,
+    "name": "Tarris Reed Jr.",
+    "team": "CONN",
+    "teamName": "UConn Huskies",
+    "conference": "Big East",
     "rank": 144,
-    "gp": 25,
-    "ppg": 13.5,
-    "adjPpg": 13.2,
-    "pointsPlus": 138,
-    "mpg": 31.1,
-    "position": "F",
-    "jersey": "10",
+    "gp": 21,
+    "ppg": 13.6,
+    "adjPpg": 13.3,
+    "pointsPlus": 139,
+    "mpg": 25.7,
+    "position": "C",
+    "jersey": "5",
     "classYear": "Senior",
-    "pointsPlusStdDev": 60.4,
-    "volatilityPctile": 71
+    "pointsPlusStdDev": 55.8,
+    "volatilityPctile": 59
   },
   {
     "id": 5105552,
@@ -2610,22 +2610,22 @@
     "volatilityPctile": 77
   },
   {
-    "id": 5105809,
-    "name": "Tarris Reed Jr.",
-    "team": "CONN",
-    "teamName": "UConn Huskies",
-    "conference": "Big East",
+    "id": 5107264,
+    "name": "Marquel Sutton",
+    "team": "LSU",
+    "teamName": "LSU Tigers",
+    "conference": "SEC",
     "rank": 146,
-    "gp": 21,
-    "ppg": 13.6,
+    "gp": 25,
+    "ppg": 13.5,
     "adjPpg": 13.2,
     "pointsPlus": 138,
-    "mpg": 25.7,
-    "position": "C",
-    "jersey": "5",
+    "mpg": 31.1,
+    "position": "F",
+    "jersey": "10",
     "classYear": "Senior",
-    "pointsPlusStdDev": 55.4,
-    "volatilityPctile": 58
+    "pointsPlusStdDev": 60.4,
+    "volatilityPctile": 71
   },
   {
     "id": 5105794,
@@ -2661,7 +2661,7 @@
     "jersey": "1",
     "classYear": "Junior",
     "pointsPlusStdDev": 61.3,
-    "volatilityPctile": 73
+    "volatilityPctile": 72
   },
   {
     "id": 5106254,
@@ -2696,7 +2696,7 @@
     "position": "G",
     "jersey": "0",
     "classYear": "Senior",
-    "pointsPlusStdDev": 58.3,
+    "pointsPlusStdDev": 58.2,
     "volatilityPctile": 66
   },
   {
@@ -2751,7 +2751,7 @@
     "jersey": "2",
     "classYear": "Senior",
     "pointsPlusStdDev": 44.8,
-    "volatilityPctile": 28
+    "volatilityPctile": 29
   },
   {
     "id": 5060685,
@@ -2841,7 +2841,7 @@
     "jersey": "12",
     "classYear": "Senior",
     "pointsPlusStdDev": 52.8,
-    "volatilityPctile": 49
+    "volatilityPctile": 50
   },
   {
     "id": 5105815,
@@ -2858,7 +2858,7 @@
     "position": "F",
     "jersey": "0",
     "classYear": "Senior",
-    "pointsPlusStdDev": 46.8,
+    "pointsPlusStdDev": 46.7,
     "volatilityPctile": 34
   },
   {
@@ -2942,7 +2942,7 @@
     "rank": 164,
     "gp": 25,
     "ppg": 12.5,
-    "adjPpg": 12.8,
+    "adjPpg": 12.7,
     "pointsPlus": 133,
     "mpg": 34.0,
     "position": "G",
@@ -2966,7 +2966,7 @@
     "position": "F",
     "jersey": "10",
     "classYear": "Junior",
-    "pointsPlusStdDev": 60.5,
+    "pointsPlusStdDev": 60.4,
     "volatilityPctile": 71
   },
   {
@@ -2984,8 +2984,8 @@
     "position": "F",
     "jersey": "2",
     "classYear": "Senior",
-    "pointsPlusStdDev": 50.4,
-    "volatilityPctile": 43
+    "pointsPlusStdDev": 50.3,
+    "volatilityPctile": 42
   },
   {
     "id": 5142356,
@@ -3038,7 +3038,7 @@
     "position": "G",
     "jersey": "0",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 68.3,
+    "pointsPlusStdDev": 68.2,
     "volatilityPctile": 86
   },
   {
@@ -3087,12 +3087,12 @@
     "gp": 26,
     "ppg": 12.4,
     "adjPpg": 12.6,
-    "pointsPlus": 131,
+    "pointsPlus": 132,
     "mpg": 28.0,
     "position": "F",
     "jersey": "13",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 65.7,
+    "pointsPlusStdDev": 65.9,
     "volatilityPctile": 82
   },
   {
@@ -3146,26 +3146,8 @@
     "position": "G",
     "jersey": "11",
     "classYear": "Junior",
-    "pointsPlusStdDev": 75.1,
+    "pointsPlusStdDev": 75.2,
     "volatilityPctile": 92
-  },
-  {
-    "id": 5041949,
-    "name": "Jamier Jones",
-    "team": "PROV",
-    "teamName": "Providence Friars",
-    "conference": "Big East",
-    "rank": 176,
-    "gp": 24,
-    "ppg": 12.1,
-    "adjPpg": 12.5,
-    "pointsPlus": 130,
-    "mpg": 24.1,
-    "position": "F",
-    "jersey": "5",
-    "classYear": "Freshman",
-    "pointsPlusStdDev": 63.7,
-    "volatilityPctile": 79
   },
   {
     "id": 4870569,
@@ -3173,17 +3155,35 @@
     "team": "VILL",
     "teamName": "Villanova Wildcats",
     "conference": "Big East",
-    "rank": 177,
+    "rank": 176,
     "gp": 24,
     "ppg": 12.4,
     "adjPpg": 12.5,
-    "pointsPlus": 130,
+    "pointsPlus": 131,
     "mpg": 30.4,
     "position": "F",
     "jersey": "24",
     "classYear": "Senior",
     "pointsPlusStdDev": 50.4,
     "volatilityPctile": 43
+  },
+  {
+    "id": 5041949,
+    "name": "Jamier Jones",
+    "team": "PROV",
+    "teamName": "Providence Friars",
+    "conference": "Big East",
+    "rank": 177,
+    "gp": 24,
+    "ppg": 12.1,
+    "adjPpg": 12.5,
+    "pointsPlus": 131,
+    "mpg": 24.1,
+    "position": "F",
+    "jersey": "5",
+    "classYear": "Freshman",
+    "pointsPlusStdDev": 63.7,
+    "volatilityPctile": 79
   },
   {
     "id": 5144105,
@@ -3194,13 +3194,13 @@
     "rank": 178,
     "gp": 25,
     "ppg": 12.4,
-    "adjPpg": 12.4,
+    "adjPpg": 12.5,
     "pointsPlus": 130,
     "mpg": 30.3,
     "position": "G",
     "jersey": "55",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 64.7,
+    "pointsPlusStdDev": 64.8,
     "volatilityPctile": 81
   },
   {
@@ -3218,8 +3218,8 @@
     "position": "F",
     "jersey": "7",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 48.3,
-    "volatilityPctile": 38
+    "pointsPlusStdDev": 48.2,
+    "volatilityPctile": 37
   },
   {
     "id": 5105527,
@@ -3276,40 +3276,40 @@
     "volatilityPctile": 35
   },
   {
+    "id": 5174291,
+    "name": "Bryce Lindsay",
+    "team": "VILL",
+    "teamName": "Villanova Wildcats",
+    "conference": "Big East",
+    "rank": 183,
+    "gp": 25,
+    "ppg": 12.2,
+    "adjPpg": 12.3,
+    "pointsPlus": 129,
+    "mpg": 28.8,
+    "position": "G",
+    "jersey": "2",
+    "classYear": "Sophomore",
+    "pointsPlusStdDev": 81.2,
+    "volatilityPctile": 96
+  },
+  {
     "id": 5107312,
     "name": "LeJuan Watts",
     "team": "TTU",
     "teamName": "Texas Tech Red Raiders",
     "conference": "Big 12",
-    "rank": 183,
+    "rank": 184,
     "gp": 24,
     "ppg": 12.2,
     "adjPpg": 12.3,
-    "pointsPlus": 129,
+    "pointsPlus": 128,
     "mpg": 28.5,
     "position": "F",
     "jersey": "3",
     "classYear": "Junior",
     "pointsPlusStdDev": 82.7,
     "volatilityPctile": 97
-  },
-  {
-    "id": 5174291,
-    "name": "Bryce Lindsay",
-    "team": "VILL",
-    "teamName": "Villanova Wildcats",
-    "conference": "Big East",
-    "rank": 184,
-    "gp": 25,
-    "ppg": 12.2,
-    "adjPpg": 12.3,
-    "pointsPlus": 128,
-    "mpg": 28.8,
-    "position": "G",
-    "jersey": "2",
-    "classYear": "Sophomore",
-    "pointsPlusStdDev": 81.1,
-    "volatilityPctile": 96
   },
   {
     "id": 5109790,
@@ -3326,26 +3326,8 @@
     "position": "C",
     "jersey": "13",
     "classYear": "Senior",
-    "pointsPlusStdDev": 55.8,
-    "volatilityPctile": 59
-  },
-  {
-    "id": 5177275,
-    "name": "Adam Clark",
-    "team": "HALL",
-    "teamName": "Seton Hall Pirates",
-    "conference": "Big East",
-    "rank": 186,
-    "gp": 25,
-    "ppg": 12.7,
-    "adjPpg": 12.2,
-    "pointsPlus": 128,
-    "mpg": 29.9,
-    "position": "G",
-    "jersey": "0",
-    "classYear": "Junior",
-    "pointsPlusStdDev": 66.1,
-    "volatilityPctile": 83
+    "pointsPlusStdDev": 55.9,
+    "volatilityPctile": 60
   },
   {
     "id": 5105641,
@@ -3353,7 +3335,7 @@
     "team": "GTWN",
     "teamName": "Georgetown Hoyas",
     "conference": "Big East",
-    "rank": 187,
+    "rank": 186,
     "gp": 15,
     "ppg": 11.7,
     "adjPpg": 12.2,
@@ -3362,8 +3344,26 @@
     "position": "C",
     "jersey": "3",
     "classYear": "Senior",
-    "pointsPlusStdDev": 49.4,
+    "pointsPlusStdDev": 49.6,
     "volatilityPctile": 40
+  },
+  {
+    "id": 4683758,
+    "name": "Malik Thomas",
+    "team": "UVA",
+    "teamName": "Virginia Cavaliers",
+    "conference": "ACC",
+    "rank": 187,
+    "gp": 25,
+    "ppg": 12.2,
+    "adjPpg": 12.2,
+    "pointsPlus": 127,
+    "mpg": 23.2,
+    "position": "G",
+    "jersey": "1",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 63.2,
+    "volatilityPctile": 77
   },
   {
     "id": 5240882,
@@ -3380,7 +3380,7 @@
     "position": "G",
     "jersey": "4",
     "classYear": "Senior",
-    "pointsPlusStdDev": 76.4,
+    "pointsPlusStdDev": 76.3,
     "volatilityPctile": 93
   },
   {
@@ -3398,7 +3398,7 @@
     "position": "G",
     "jersey": "5",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 95.5,
+    "pointsPlusStdDev": 95.4,
     "volatilityPctile": 100
   },
   {
@@ -3420,30 +3420,12 @@
     "volatilityPctile": 79
   },
   {
-    "id": 4683758,
-    "name": "Malik Thomas",
-    "team": "UVA",
-    "teamName": "Virginia Cavaliers",
-    "conference": "ACC",
-    "rank": 191,
-    "gp": 25,
-    "ppg": 12.2,
-    "adjPpg": 12.2,
-    "pointsPlus": 127,
-    "mpg": 23.2,
-    "position": "G",
-    "jersey": "1",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 63.0,
-    "volatilityPctile": 77
-  },
-  {
     "id": 5105800,
     "name": "Josh Dix",
     "team": "CREI",
     "teamName": "Creighton Bluejays",
     "conference": "Big East",
-    "rank": 192,
+    "rank": 191,
     "gp": 26,
     "ppg": 12.0,
     "adjPpg": 12.1,
@@ -3452,7 +3434,7 @@
     "position": "G",
     "jersey": "4",
     "classYear": "Senior",
-    "pointsPlusStdDev": 49.9,
+    "pointsPlusStdDev": 50.1,
     "volatilityPctile": 42
   },
   {
@@ -3461,7 +3443,7 @@
     "team": "TCU",
     "teamName": "TCU Horned Frogs",
     "conference": "Big 12",
-    "rank": 193,
+    "rank": 192,
     "gp": 25,
     "ppg": 12.4,
     "adjPpg": 12.1,
@@ -3479,11 +3461,11 @@
     "team": "FSU",
     "teamName": "Florida State Seminoles",
     "conference": "ACC",
-    "rank": 194,
+    "rank": 193,
     "gp": 25,
     "ppg": 11.9,
     "adjPpg": 12.1,
-    "pointsPlus": 127,
+    "pointsPlus": 126,
     "mpg": 28.4,
     "position": "G",
     "jersey": "10",
@@ -3497,7 +3479,7 @@
     "team": "VT",
     "teamName": "Virginia Tech Hokies",
     "conference": "ACC",
-    "rank": 195,
+    "rank": 194,
     "gp": 25,
     "ppg": 12.3,
     "adjPpg": 12.1,
@@ -3510,6 +3492,24 @@
     "volatilityPctile": 80
   },
   {
+    "id": 5177275,
+    "name": "Adam Clark",
+    "team": "HALL",
+    "teamName": "Seton Hall Pirates",
+    "conference": "Big East",
+    "rank": 195,
+    "gp": 26,
+    "ppg": 12.5,
+    "adjPpg": 12.0,
+    "pointsPlus": 126,
+    "mpg": 29.8,
+    "position": "G",
+    "jersey": "0",
+    "classYear": "Junior",
+    "pointsPlusStdDev": 65.5,
+    "volatilityPctile": 81
+  },
+  {
     "id": 5101673,
     "name": "Jovan Milicevic",
     "team": "XAV",
@@ -3519,13 +3519,13 @@
     "gp": 25,
     "ppg": 11.7,
     "adjPpg": 12.0,
-    "pointsPlus": 125,
+    "pointsPlus": 126,
     "mpg": 24.7,
     "position": "F",
     "jersey": "24",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 73.6,
-    "volatilityPctile": 90
+    "pointsPlusStdDev": 73.7,
+    "volatilityPctile": 91
   },
   {
     "id": 4845368,
@@ -3632,7 +3632,7 @@
     "position": "G",
     "jersey": "2",
     "classYear": "Junior",
-    "pointsPlusStdDev": 49.2,
+    "pointsPlusStdDev": 49.3,
     "volatilityPctile": 39
   },
   {
@@ -3704,7 +3704,7 @@
     "position": "F",
     "jersey": "1",
     "classYear": "Senior",
-    "pointsPlusStdDev": 64.3,
+    "pointsPlusStdDev": 64.2,
     "volatilityPctile": 80
   },
   {
@@ -3777,7 +3777,7 @@
     "jersey": "0",
     "classYear": "Senior",
     "pointsPlusStdDev": 36.9,
-    "volatilityPctile": 11
+    "volatilityPctile": 12
   },
   {
     "id": 5196916,
@@ -3788,13 +3788,13 @@
     "rank": 211,
     "gp": 19,
     "ppg": 11.8,
-    "adjPpg": 11.6,
+    "adjPpg": 11.7,
     "pointsPlus": 122,
     "mpg": 26.6,
     "position": "G",
     "jersey": "24",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 45.2,
+    "pointsPlusStdDev": 45.3,
     "volatilityPctile": 30
   },
   {
@@ -3806,13 +3806,13 @@
     "rank": 212,
     "gp": 24,
     "ppg": 11.5,
-    "adjPpg": 11.6,
+    "adjPpg": 11.7,
     "pointsPlus": 122,
     "mpg": 22.2,
     "position": "G",
     "jersey": "1",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 92.6,
+    "pointsPlusStdDev": 92.8,
     "volatilityPctile": 99
   },
   {
@@ -3830,8 +3830,26 @@
     "position": "G",
     "jersey": "34",
     "classYear": "Senior",
-    "pointsPlusStdDev": 54.2,
+    "pointsPlusStdDev": 54.3,
     "volatilityPctile": 53
+  },
+  {
+    "id": 4703837,
+    "name": "AJ Staton-McCray",
+    "team": "HALL",
+    "teamName": "Seton Hall Pirates",
+    "conference": "Big East",
+    "rank": 214,
+    "gp": 26,
+    "ppg": 12.0,
+    "adjPpg": 11.5,
+    "pointsPlus": 120,
+    "mpg": 26.9,
+    "position": "G",
+    "jersey": "14",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 52.2,
+    "volatilityPctile": 48
   },
   {
     "id": 5241273,
@@ -3839,7 +3857,7 @@
     "team": "BAY",
     "teamName": "Baylor Bears",
     "conference": "Big 12",
-    "rank": 214,
+    "rank": 215,
     "gp": 24,
     "ppg": 11.1,
     "adjPpg": 11.5,
@@ -3857,7 +3875,7 @@
     "team": "CIN",
     "teamName": "Cincinnati Bearcats",
     "conference": "Big 12",
-    "rank": 215,
+    "rank": 216,
     "gp": 26,
     "ppg": 11.1,
     "adjPpg": 11.5,
@@ -3875,7 +3893,7 @@
     "team": "HOU",
     "teamName": "Houston Cougars",
     "conference": "Big 12",
-    "rank": 216,
+    "rank": 217,
     "gp": 25,
     "ppg": 11.2,
     "adjPpg": 11.4,
@@ -3884,7 +3902,7 @@
     "position": "G",
     "jersey": "7",
     "classYear": "Senior",
-    "pointsPlusStdDev": 62.2,
+    "pointsPlusStdDev": 62.1,
     "volatilityPctile": 75
   },
   {
@@ -3893,7 +3911,7 @@
     "team": "ALA",
     "teamName": "Alabama Crimson Tide",
     "conference": "SEC",
-    "rank": 217,
+    "rank": 218,
     "gp": 22,
     "ppg": 11.5,
     "adjPpg": 11.4,
@@ -3911,7 +3929,7 @@
     "team": "LOU",
     "teamName": "Louisville Cardinals",
     "conference": "ACC",
-    "rank": 218,
+    "rank": 219,
     "gp": 25,
     "ppg": 11.1,
     "adjPpg": 11.4,
@@ -3929,7 +3947,7 @@
     "team": "VT",
     "teamName": "Virginia Tech Hokies",
     "conference": "ACC",
-    "rank": 219,
+    "rank": 220,
     "gp": 25,
     "ppg": 11.4,
     "adjPpg": 11.3,
@@ -3947,7 +3965,7 @@
     "team": "MICH",
     "teamName": "Michigan Wolverines",
     "conference": "Big Ten",
-    "rank": 220,
+    "rank": 221,
     "gp": 25,
     "ppg": 11.3,
     "adjPpg": 11.3,
@@ -3965,7 +3983,7 @@
     "team": "WVU",
     "teamName": "West Virginia Mountaineers",
     "conference": "Big 12",
-    "rank": 221,
+    "rank": 222,
     "gp": 24,
     "ppg": 11.3,
     "adjPpg": 11.3,
@@ -3976,24 +3994,6 @@
     "classYear": "Senior",
     "pointsPlusStdDev": 58.2,
     "volatilityPctile": 66
-  },
-  {
-    "id": 4703837,
-    "name": "AJ Staton-McCray",
-    "team": "HALL",
-    "teamName": "Seton Hall Pirates",
-    "conference": "Big East",
-    "rank": 222,
-    "gp": 25,
-    "ppg": 11.7,
-    "adjPpg": 11.3,
-    "pointsPlus": 118,
-    "mpg": 26.7,
-    "position": "G",
-    "jersey": "14",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 51.4,
-    "volatilityPctile": 46
   },
   {
     "id": 5110039,
@@ -4010,7 +4010,7 @@
     "position": "F",
     "jersey": "3",
     "classYear": "Senior",
-    "pointsPlusStdDev": 55.6,
+    "pointsPlusStdDev": 55.5,
     "volatilityPctile": 59
   },
   {
@@ -4028,8 +4028,8 @@
     "position": "G",
     "jersey": "6",
     "classYear": "Senior",
-    "pointsPlusStdDev": 53.7,
-    "volatilityPctile": 52
+    "pointsPlusStdDev": 53.6,
+    "volatilityPctile": 51
   },
   {
     "id": 5174971,
@@ -4059,7 +4059,7 @@
     "gp": 25,
     "ppg": 11.0,
     "adjPpg": 11.1,
-    "pointsPlus": 117,
+    "pointsPlus": 116,
     "mpg": 28.3,
     "position": "F",
     "jersey": "25",
@@ -4101,7 +4101,7 @@
     "jersey": "52",
     "classYear": "Sophomore",
     "pointsPlusStdDev": 56.4,
-    "volatilityPctile": 61
+    "volatilityPctile": 62
   },
   {
     "id": 4610012,
@@ -4122,12 +4122,30 @@
     "volatilityPctile": 55
   },
   {
+    "id": 5054083,
+    "name": "Silas Demary Jr.",
+    "team": "CONN",
+    "teamName": "UConn Huskies",
+    "conference": "Big East",
+    "rank": 230,
+    "gp": 26,
+    "ppg": 11.3,
+    "adjPpg": 11.1,
+    "pointsPlus": 116,
+    "mpg": 28.4,
+    "position": "G",
+    "jersey": "2",
+    "classYear": "Junior",
+    "pointsPlusStdDev": 52.1,
+    "volatilityPctile": 48
+  },
+  {
     "id": 5107169,
     "name": "Xaivian Lee",
     "team": "FLA",
     "teamName": "Florida Gators",
     "conference": "SEC",
-    "rank": 230,
+    "rank": 231,
     "gp": 25,
     "ppg": 11.4,
     "adjPpg": 11.1,
@@ -4138,24 +4156,6 @@
     "classYear": "Senior",
     "pointsPlusStdDev": 69.1,
     "volatilityPctile": 87
-  },
-  {
-    "id": 5054083,
-    "name": "Silas Demary Jr.",
-    "team": "CONN",
-    "teamName": "UConn Huskies",
-    "conference": "Big East",
-    "rank": 231,
-    "gp": 26,
-    "ppg": 11.3,
-    "adjPpg": 11.0,
-    "pointsPlus": 115,
-    "mpg": 28.4,
-    "position": "G",
-    "jersey": "2",
-    "classYear": "Junior",
-    "pointsPlusStdDev": 52.1,
-    "volatilityPctile": 47
   },
   {
     "id": 4702784,
@@ -4230,12 +4230,30 @@
     "volatilityPctile": 63
   },
   {
+    "id": 5107148,
+    "name": "Roddie Anderson III",
+    "team": "XAV",
+    "teamName": "Xavier Musketeers",
+    "conference": "Big East",
+    "rank": 236,
+    "gp": 25,
+    "ppg": 10.6,
+    "adjPpg": 10.9,
+    "pointsPlus": 114,
+    "mpg": 23.2,
+    "position": "G",
+    "jersey": "0",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 75.9,
+    "volatilityPctile": 92
+  },
+  {
     "id": 5311530,
     "name": "Rub\u00e9n Dominguez",
     "team": "TA&M",
     "teamName": "Texas A&M Aggies",
     "conference": "SEC",
-    "rank": 236,
+    "rank": 237,
     "gp": 25,
     "ppg": 11.3,
     "adjPpg": 10.9,
@@ -4253,7 +4271,7 @@
     "team": "OU",
     "teamName": "Oklahoma Sooners",
     "conference": "SEC",
-    "rank": 237,
+    "rank": 238,
     "gp": 25,
     "ppg": 11.5,
     "adjPpg": 10.9,
@@ -4263,25 +4281,7 @@
     "jersey": "35",
     "classYear": "Sophomore",
     "pointsPlusStdDev": 47.6,
-    "volatilityPctile": 36
-  },
-  {
-    "id": 5107148,
-    "name": "Roddie Anderson III",
-    "team": "XAV",
-    "teamName": "Xavier Musketeers",
-    "conference": "Big East",
-    "rank": 238,
-    "gp": 25,
-    "ppg": 10.6,
-    "adjPpg": 10.9,
-    "pointsPlus": 114,
-    "mpg": 23.2,
-    "position": "G",
-    "jersey": "0",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 75.9,
-    "volatilityPctile": 92
+    "volatilityPctile": 35
   },
   {
     "id": 4895746,
@@ -4298,7 +4298,7 @@
     "position": "G",
     "jersey": "4",
     "classYear": "Junior",
-    "pointsPlusStdDev": 77.9,
+    "pointsPlusStdDev": 78.0,
     "volatilityPctile": 95
   },
   {
@@ -4334,7 +4334,7 @@
     "position": "F",
     "jersey": "9",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 68.8,
+    "pointsPlusStdDev": 68.9,
     "volatilityPctile": 87
   },
   {
@@ -4407,25 +4407,7 @@
     "jersey": "11",
     "classYear": "Junior",
     "pointsPlusStdDev": 61.8,
-    "volatilityPctile": 73
-  },
-  {
-    "id": 5144165,
-    "name": "Isaac Asuma",
-    "team": "MINN",
-    "teamName": "Minnesota Golden Gophers",
-    "conference": "Big Ten",
-    "rank": 246,
-    "gp": 25,
-    "ppg": 10.7,
-    "adjPpg": 10.8,
-    "pointsPlus": 113,
-    "mpg": 33.8,
-    "position": "G",
-    "jersey": "1",
-    "classYear": "Sophomore",
-    "pointsPlusStdDev": 47.5,
-    "volatilityPctile": 35
+    "volatilityPctile": 74
   },
   {
     "id": 5238184,
@@ -4433,7 +4415,7 @@
     "team": "SMU",
     "teamName": "SMU Mustangs",
     "conference": "ACC",
-    "rank": 247,
+    "rank": 246,
     "gp": 25,
     "ppg": 10.7,
     "adjPpg": 10.8,
@@ -4442,7 +4424,7 @@
     "position": "C",
     "jersey": "24",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 37.2,
+    "pointsPlusStdDev": 37.3,
     "volatilityPctile": 12
   },
   {
@@ -4451,7 +4433,7 @@
     "team": "XAV",
     "teamName": "Xavier Musketeers",
     "conference": "Big East",
-    "rank": 248,
+    "rank": 247,
     "gp": 25,
     "ppg": 10.7,
     "adjPpg": 10.8,
@@ -4464,22 +4446,22 @@
     "volatilityPctile": 77
   },
   {
-    "id": 4683682,
-    "name": "Rylan Griffen",
-    "team": "TA&M",
-    "teamName": "Texas A&M Aggies",
-    "conference": "SEC",
-    "rank": 249,
-    "gp": 23,
-    "ppg": 11.3,
+    "id": 5144165,
+    "name": "Isaac Asuma",
+    "team": "MINN",
+    "teamName": "Minnesota Golden Gophers",
+    "conference": "Big Ten",
+    "rank": 248,
+    "gp": 25,
+    "ppg": 10.7,
     "adjPpg": 10.8,
-    "pointsPlus": 112,
-    "mpg": 24.5,
+    "pointsPlus": 113,
+    "mpg": 33.8,
     "position": "G",
-    "jersey": "3",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 51.4,
-    "volatilityPctile": 46
+    "jersey": "1",
+    "classYear": "Sophomore",
+    "pointsPlusStdDev": 47.5,
+    "volatilityPctile": 35
   },
   {
     "id": 5105642,
@@ -4487,17 +4469,35 @@
     "team": "SJU",
     "teamName": "St. John's Red Storm",
     "conference": "Big East",
-    "rank": 250,
+    "rank": 249,
     "gp": 25,
     "ppg": 10.9,
-    "adjPpg": 10.7,
+    "adjPpg": 10.8,
     "pointsPlus": 112,
     "mpg": 30.1,
     "position": "G",
     "jersey": "4",
     "classYear": "Senior",
-    "pointsPlusStdDev": 60.6,
+    "pointsPlusStdDev": 60.4,
     "volatilityPctile": 71
+  },
+  {
+    "id": 4683682,
+    "name": "Rylan Griffen",
+    "team": "TA&M",
+    "teamName": "Texas A&M Aggies",
+    "conference": "SEC",
+    "rank": 250,
+    "gp": 23,
+    "ppg": 11.3,
+    "adjPpg": 10.7,
+    "pointsPlus": 112,
+    "mpg": 24.5,
+    "position": "G",
+    "jersey": "3",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 51.4,
+    "volatilityPctile": 45
   },
   {
     "id": 5105633,
@@ -4518,30 +4518,12 @@
     "volatilityPctile": 55
   },
   {
-    "id": 5105562,
-    "name": "Solomon Washington",
-    "team": "MD",
-    "teamName": "Maryland Terrapins",
-    "conference": "Big Ten",
-    "rank": 252,
-    "gp": 17,
-    "ppg": 10.2,
-    "adjPpg": 10.7,
-    "pointsPlus": 112,
-    "mpg": 31.8,
-    "position": "F",
-    "jersey": "9",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 38.4,
-    "volatilityPctile": 14
-  },
-  {
     "id": 5176232,
     "name": "Sam Lewis",
     "team": "UVA",
     "teamName": "Virginia Cavaliers",
     "conference": "ACC",
-    "rank": 253,
+    "rank": 252,
     "gp": 25,
     "ppg": 10.7,
     "adjPpg": 10.7,
@@ -4552,6 +4534,24 @@
     "classYear": "Junior",
     "pointsPlusStdDev": 55.1,
     "volatilityPctile": 57
+  },
+  {
+    "id": 5105562,
+    "name": "Solomon Washington",
+    "team": "MD",
+    "teamName": "Maryland Terrapins",
+    "conference": "Big Ten",
+    "rank": 253,
+    "gp": 17,
+    "ppg": 10.2,
+    "adjPpg": 10.7,
+    "pointsPlus": 112,
+    "mpg": 31.8,
+    "position": "F",
+    "jersey": "9",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 38.4,
+    "volatilityPctile": 14
   },
   {
     "id": 5312288,
@@ -4590,12 +4590,30 @@
     "volatilityPctile": 30
   },
   {
+    "id": 5105577,
+    "name": "Jasen Green",
+    "team": "CREI",
+    "teamName": "Creighton Bluejays",
+    "conference": "Big East",
+    "rank": 256,
+    "gp": 25,
+    "ppg": 10.6,
+    "adjPpg": 10.6,
+    "pointsPlus": 111,
+    "mpg": 27.8,
+    "position": "F",
+    "jersey": "0",
+    "classYear": "Junior",
+    "pointsPlusStdDev": 50.5,
+    "volatilityPctile": 43
+  },
+  {
     "id": 5243212,
     "name": "Kanon Catchings",
     "team": "UGA",
     "teamName": "Georgia Bulldogs",
     "conference": "SEC",
-    "rank": 256,
+    "rank": 257,
     "gp": 24,
     "ppg": 10.8,
     "adjPpg": 10.6,
@@ -4606,24 +4624,6 @@
     "classYear": "Sophomore",
     "pointsPlusStdDev": 65.9,
     "volatilityPctile": 82
-  },
-  {
-    "id": 5105577,
-    "name": "Jasen Green",
-    "team": "CREI",
-    "teamName": "Creighton Bluejays",
-    "conference": "Big East",
-    "rank": 257,
-    "gp": 25,
-    "ppg": 10.6,
-    "adjPpg": 10.6,
-    "pointsPlus": 111,
-    "mpg": 27.8,
-    "position": "F",
-    "jersey": "0",
-    "classYear": "Junior",
-    "pointsPlusStdDev": 50.1,
-    "volatilityPctile": 42
   },
   {
     "id": 5105811,
@@ -4640,8 +4640,8 @@
     "position": "G",
     "jersey": "0",
     "classYear": "Senior",
-    "pointsPlusStdDev": 49.7,
-    "volatilityPctile": 41
+    "pointsPlusStdDev": 49.6,
+    "volatilityPctile": 40
   },
   {
     "id": 5175021,
@@ -4698,12 +4698,30 @@
     "volatilityPctile": 49
   },
   {
+    "id": 5105619,
+    "name": "Jayden Pierre",
+    "team": "TCU",
+    "teamName": "TCU Horned Frogs",
+    "conference": "Big 12",
+    "rank": 262,
+    "gp": 25,
+    "ppg": 10.7,
+    "adjPpg": 10.5,
+    "pointsPlus": 110,
+    "mpg": 30.2,
+    "position": "G",
+    "jersey": "1",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 50.4,
+    "volatilityPctile": 43
+  },
+  {
     "id": 4873209,
     "name": "Patrick Ngongba II",
     "team": "DUKE",
     "teamName": "Duke Blue Devils",
     "conference": "ACC",
-    "rank": 262,
+    "rank": 263,
     "gp": 24,
     "ppg": 10.5,
     "adjPpg": 10.5,
@@ -4721,7 +4739,7 @@
     "team": "TA&M",
     "teamName": "Texas A&M Aggies",
     "conference": "SEC",
-    "rank": 263,
+    "rank": 264,
     "gp": 25,
     "ppg": 11.2,
     "adjPpg": 10.5,
@@ -4739,7 +4757,7 @@
     "team": "SC",
     "teamName": "South Carolina Gamecocks",
     "conference": "SEC",
-    "rank": 264,
+    "rank": 265,
     "gp": 25,
     "ppg": 10.9,
     "adjPpg": 10.5,
@@ -4748,26 +4766,8 @@
     "position": "G",
     "jersey": "55",
     "classYear": "Senior",
-    "pointsPlusStdDev": 38.7,
+    "pointsPlusStdDev": 38.8,
     "volatilityPctile": 15
-  },
-  {
-    "id": 5105619,
-    "name": "Jayden Pierre",
-    "team": "TCU",
-    "teamName": "TCU Horned Frogs",
-    "conference": "Big 12",
-    "rank": 265,
-    "gp": 25,
-    "ppg": 10.6,
-    "adjPpg": 10.5,
-    "pointsPlus": 109,
-    "mpg": 30.2,
-    "position": "G",
-    "jersey": "1",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 49.8,
-    "volatilityPctile": 41
   },
   {
     "id": 5106284,
@@ -4788,30 +4788,12 @@
     "volatilityPctile": 85
   },
   {
-    "id": 5239637,
-    "name": "Tajuan Simpkins",
-    "team": "HALL",
-    "teamName": "Seton Hall Pirates",
-    "conference": "Big East",
-    "rank": 267,
-    "gp": 25,
-    "ppg": 10.8,
-    "adjPpg": 10.4,
-    "pointsPlus": 109,
-    "mpg": 25.8,
-    "position": "G",
-    "jersey": "2",
-    "classYear": "Junior",
-    "pointsPlusStdDev": 56.3,
-    "volatilityPctile": 61
-  },
-  {
     "id": 5105569,
     "name": "Filip Borovicanin",
     "team": "XAV",
     "teamName": "Xavier Musketeers",
     "conference": "Big East",
-    "rank": 268,
+    "rank": 267,
     "gp": 25,
     "ppg": 10.1,
     "adjPpg": 10.4,
@@ -4829,7 +4811,7 @@
     "team": "WAKE",
     "teamName": "Wake Forest Demon Deacons",
     "conference": "ACC",
-    "rank": 269,
+    "rank": 268,
     "gp": 21,
     "ppg": 10.4,
     "adjPpg": 10.4,
@@ -4847,7 +4829,7 @@
     "team": "DEP",
     "teamName": "DePaul Blue Demons",
     "conference": "Big East",
-    "rank": 270,
+    "rank": 269,
     "gp": 25,
     "ppg": 10.5,
     "adjPpg": 10.4,
@@ -4865,7 +4847,7 @@
     "team": "ALA",
     "teamName": "Alabama Crimson Tide",
     "conference": "SEC",
-    "rank": 271,
+    "rank": 270,
     "gp": 24,
     "ppg": 10.5,
     "adjPpg": 10.3,
@@ -4875,7 +4857,25 @@
     "jersey": "22",
     "classYear": "Sophomore",
     "pointsPlusStdDev": 52.4,
-    "volatilityPctile": 48
+    "volatilityPctile": 49
+  },
+  {
+    "id": 5239637,
+    "name": "Tajuan Simpkins",
+    "team": "HALL",
+    "teamName": "Seton Hall Pirates",
+    "conference": "Big East",
+    "rank": 271,
+    "gp": 26,
+    "ppg": 10.7,
+    "adjPpg": 10.3,
+    "pointsPlus": 108,
+    "mpg": 25.8,
+    "position": "G",
+    "jersey": "2",
+    "classYear": "Junior",
+    "pointsPlusStdDev": 55.6,
+    "volatilityPctile": 59
   },
   {
     "id": 5150404,
@@ -4892,7 +4892,7 @@
     "position": "G",
     "jersey": "2",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 39.5,
+    "pointsPlusStdDev": 39.4,
     "volatilityPctile": 16
   },
   {
@@ -4946,8 +4946,8 @@
     "position": "G",
     "jersey": "11",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 52.6,
-    "volatilityPctile": 49
+    "pointsPlusStdDev": 52.8,
+    "volatilityPctile": 50
   },
   {
     "id": 5311523,
@@ -5022,12 +5022,30 @@
     "volatilityPctile": 86
   },
   {
+    "id": 5106863,
+    "name": "Nik Graves",
+    "team": "CREI",
+    "teamName": "Creighton Bluejays",
+    "conference": "Big East",
+    "rank": 280,
+    "gp": 26,
+    "ppg": 10.0,
+    "adjPpg": 10.2,
+    "pointsPlus": 106,
+    "mpg": 25.6,
+    "position": "G",
+    "jersey": "5",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 47.1,
+    "volatilityPctile": 35
+  },
+  {
     "id": 5103631,
     "name": "Boden Kapke",
     "team": "BC",
     "teamName": "Boston College Eagles",
     "conference": "ACC",
-    "rank": 280,
+    "rank": 281,
     "gp": 25,
     "ppg": 9.8,
     "adjPpg": 10.1,
@@ -5037,25 +5055,7 @@
     "jersey": "33",
     "classYear": "Junior",
     "pointsPlusStdDev": 53.9,
-    "volatilityPctile": 53
-  },
-  {
-    "id": 5106863,
-    "name": "Nik Graves",
-    "team": "CREI",
-    "teamName": "Creighton Bluejays",
-    "conference": "Big East",
-    "rank": 281,
-    "gp": 26,
-    "ppg": 10.0,
-    "adjPpg": 10.1,
-    "pointsPlus": 106,
-    "mpg": 25.6,
-    "position": "G",
-    "jersey": "5",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 47.1,
-    "volatilityPctile": 35
+    "volatilityPctile": 52
   },
   {
     "id": 5174555,
@@ -5090,7 +5090,7 @@
     "position": "G",
     "jersey": "5",
     "classYear": "Senior",
-    "pointsPlusStdDev": 61.2,
+    "pointsPlusStdDev": 61.3,
     "volatilityPctile": 72
   },
   {
@@ -5108,7 +5108,7 @@
     "position": "C",
     "jersey": "15",
     "classYear": "Senior",
-    "pointsPlusStdDev": 53.8,
+    "pointsPlusStdDev": 53.7,
     "volatilityPctile": 52
   },
   {
@@ -5156,7 +5156,7 @@
     "rank": 287,
     "gp": 25,
     "ppg": 9.9,
-    "adjPpg": 10.1,
+    "adjPpg": 10.0,
     "pointsPlus": 105,
     "mpg": 24.6,
     "position": "G",
@@ -5325,7 +5325,7 @@
     "jersey": "1",
     "classYear": "Senior",
     "pointsPlusStdDev": 49.9,
-    "volatilityPctile": 42
+    "volatilityPctile": 41
   },
   {
     "id": 5174568,
@@ -5346,12 +5346,30 @@
     "volatilityPctile": 44
   },
   {
+    "id": 5241737,
+    "name": "Brandon Maclin",
+    "team": "DEP",
+    "teamName": "DePaul Blue Demons",
+    "conference": "Big East",
+    "rank": 298,
+    "gp": 22,
+    "ppg": 9.7,
+    "adjPpg": 9.7,
+    "pointsPlus": 102,
+    "mpg": 25.6,
+    "position": "G",
+    "jersey": "0",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 54.8,
+    "volatilityPctile": 55
+  },
+  {
     "id": 4699440,
     "name": "Nick Davidson",
     "team": "CLEM",
     "teamName": "Clemson Tigers",
     "conference": "ACC",
-    "rank": 298,
+    "rank": 299,
     "gp": 26,
     "ppg": 9.5,
     "adjPpg": 9.7,
@@ -5364,24 +5382,6 @@
     "volatilityPctile": 77
   },
   {
-    "id": 5241737,
-    "name": "Brandon Maclin",
-    "team": "DEP",
-    "teamName": "DePaul Blue Demons",
-    "conference": "Big East",
-    "rank": 299,
-    "gp": 22,
-    "ppg": 9.7,
-    "adjPpg": 9.7,
-    "pointsPlus": 102,
-    "mpg": 25.6,
-    "position": "G",
-    "jersey": "0",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 54.7,
-    "volatilityPctile": 54
-  },
-  {
     "id": 5105555,
     "name": "Tobe Awaka",
     "team": "ARIZ",
@@ -5391,7 +5391,7 @@
     "gp": 25,
     "ppg": 10.0,
     "adjPpg": 9.7,
-    "pointsPlus": 102,
+    "pointsPlus": 101,
     "mpg": 21.2,
     "position": "F",
     "jersey": "30",
@@ -5432,8 +5432,26 @@
     "position": "G",
     "jersey": "5",
     "classYear": "Senior",
-    "pointsPlusStdDev": 67.9,
+    "pointsPlusStdDev": 67.8,
     "volatilityPctile": 86
+  },
+  {
+    "id": 5060688,
+    "name": "Jamie Kaiser Jr.",
+    "team": "BUT",
+    "teamName": "Butler Bulldogs",
+    "conference": "Big East",
+    "rank": 303,
+    "gp": 24,
+    "ppg": 9.6,
+    "adjPpg": 9.7,
+    "pointsPlus": 101,
+    "mpg": 28.3,
+    "position": "G",
+    "jersey": "7",
+    "classYear": "Sophomore",
+    "pointsPlusStdDev": 44.0,
+    "volatilityPctile": 27
   },
   {
     "id": 5238200,
@@ -5441,7 +5459,7 @@
     "team": "FLA",
     "teamName": "Florida Gators",
     "conference": "SEC",
-    "rank": 303,
+    "rank": 304,
     "gp": 25,
     "ppg": 10.1,
     "adjPpg": 9.6,
@@ -5452,24 +5470,6 @@
     "classYear": "Junior",
     "pointsPlusStdDev": 54.2,
     "volatilityPctile": 53
-  },
-  {
-    "id": 5060688,
-    "name": "Jamie Kaiser Jr.",
-    "team": "BUT",
-    "teamName": "Butler Bulldogs",
-    "conference": "Big East",
-    "rank": 304,
-    "gp": 23,
-    "ppg": 9.7,
-    "adjPpg": 9.6,
-    "pointsPlus": 101,
-    "mpg": 28.1,
-    "position": "G",
-    "jersey": "7",
-    "classYear": "Sophomore",
-    "pointsPlusStdDev": 45.0,
-    "volatilityPctile": 29
   },
   {
     "id": 4791227,
@@ -5499,7 +5499,7 @@
     "gp": 25,
     "ppg": 9.7,
     "adjPpg": 9.6,
-    "pointsPlus": 101,
+    "pointsPlus": 100,
     "mpg": 24.7,
     "position": "G",
     "jersey": "5",
@@ -5576,7 +5576,7 @@
     "position": "C",
     "jersey": "11",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 72.8,
+    "pointsPlusStdDev": 72.6,
     "volatilityPctile": 90
   },
   {
@@ -5595,7 +5595,7 @@
     "jersey": "11",
     "classYear": "Freshman",
     "pointsPlusStdDev": 67.8,
-    "volatilityPctile": 85
+    "volatilityPctile": 86
   },
   {
     "id": 5061569,
@@ -5612,8 +5612,8 @@
     "position": "F",
     "jersey": "4",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 55.5,
-    "volatilityPctile": 59
+    "pointsPlusStdDev": 55.4,
+    "volatilityPctile": 58
   },
   {
     "id": 4897715,
@@ -5630,7 +5630,7 @@
     "position": "F",
     "jersey": "21",
     "classYear": "Senior",
-    "pointsPlusStdDev": 47.7,
+    "pointsPlusStdDev": 47.8,
     "volatilityPctile": 36
   },
   {
@@ -5721,7 +5721,7 @@
     "jersey": "0",
     "classYear": "Junior",
     "pointsPlusStdDev": 52.8,
-    "volatilityPctile": 49
+    "volatilityPctile": 50
   },
   {
     "id": 5248302,
@@ -5778,30 +5778,12 @@
     "volatilityPctile": 26
   },
   {
-    "id": 5060730,
-    "name": "Jaeden Mustaf",
-    "team": "GT",
-    "teamName": "Georgia Tech Yellow Jackets",
-    "conference": "ACC",
-    "rank": 322,
-    "gp": 24,
-    "ppg": 9.0,
-    "adjPpg": 9.3,
-    "pointsPlus": 97,
-    "mpg": 26.4,
-    "position": "G",
-    "jersey": "3",
-    "classYear": "Sophomore",
-    "pointsPlusStdDev": 35.7,
-    "volatilityPctile": 10
-  },
-  {
     "id": 5106283,
     "name": "Dillon Mitchell",
     "team": "SJU",
     "teamName": "St. John's Red Storm",
     "conference": "Big East",
-    "rank": 323,
+    "rank": 322,
     "gp": 25,
     "ppg": 9.2,
     "adjPpg": 9.3,
@@ -5810,8 +5792,44 @@
     "position": "F",
     "jersey": "1",
     "classYear": "Senior",
-    "pointsPlusStdDev": 54.6,
-    "volatilityPctile": 54
+    "pointsPlusStdDev": 54.8,
+    "volatilityPctile": 55
+  },
+  {
+    "id": 5175588,
+    "name": "Matt Hodge",
+    "team": "VILL",
+    "teamName": "Villanova Wildcats",
+    "conference": "Big East",
+    "rank": 323,
+    "gp": 25,
+    "ppg": 9.4,
+    "adjPpg": 9.3,
+    "pointsPlus": 97,
+    "mpg": 27.8,
+    "position": "F",
+    "jersey": "33",
+    "classYear": "Freshman",
+    "pointsPlusStdDev": 53.1,
+    "volatilityPctile": 50
+  },
+  {
+    "id": 5060730,
+    "name": "Jaeden Mustaf",
+    "team": "GT",
+    "teamName": "Georgia Tech Yellow Jackets",
+    "conference": "ACC",
+    "rank": 324,
+    "gp": 24,
+    "ppg": 9.0,
+    "adjPpg": 9.3,
+    "pointsPlus": 97,
+    "mpg": 26.4,
+    "position": "G",
+    "jersey": "3",
+    "classYear": "Sophomore",
+    "pointsPlusStdDev": 35.6,
+    "volatilityPctile": 10
   },
   {
     "id": 5165275,
@@ -5819,7 +5837,7 @@
     "team": "VT",
     "teamName": "Virginia Tech Hokies",
     "conference": "ACC",
-    "rank": 324,
+    "rank": 325,
     "gp": 13,
     "ppg": 9.5,
     "adjPpg": 9.2,
@@ -5832,24 +5850,6 @@
     "volatilityPctile": 20
   },
   {
-    "id": 5175588,
-    "name": "Matt Hodge",
-    "team": "VILL",
-    "teamName": "Villanova Wildcats",
-    "conference": "Big East",
-    "rank": 325,
-    "gp": 25,
-    "ppg": 9.4,
-    "adjPpg": 9.2,
-    "pointsPlus": 97,
-    "mpg": 27.8,
-    "position": "F",
-    "jersey": "33",
-    "classYear": "Freshman",
-    "pointsPlusStdDev": 52.9,
-    "volatilityPctile": 50
-  },
-  {
     "id": 5312025,
     "name": "Ivan Juric",
     "team": "PSU",
@@ -5859,7 +5859,7 @@
     "gp": 24,
     "ppg": 9.2,
     "adjPpg": 9.2,
-    "pointsPlus": 97,
+    "pointsPlus": 96,
     "mpg": 26.0,
     "position": "F",
     "jersey": "3",
@@ -5936,7 +5936,7 @@
     "position": "G",
     "jersey": "15",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 45.1,
+    "pointsPlusStdDev": 45.2,
     "volatilityPctile": 30
   },
   {
@@ -5972,7 +5972,7 @@
     "position": "F",
     "jersey": "13",
     "classYear": "Senior",
-    "pointsPlusStdDev": 56.4,
+    "pointsPlusStdDev": 56.3,
     "volatilityPctile": 61
   },
   {
@@ -6012,30 +6012,12 @@
     "volatilityPctile": 100
   },
   {
-    "id": 4433138,
-    "name": "Nimari Burnett",
-    "team": "MICH",
-    "teamName": "Michigan Wolverines",
-    "conference": "Big Ten",
-    "rank": 335,
-    "gp": 25,
-    "ppg": 9.2,
-    "adjPpg": 9.1,
-    "pointsPlus": 95,
-    "mpg": 19.4,
-    "position": "G",
-    "jersey": "4",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 58.9,
-    "volatilityPctile": 67
-  },
-  {
     "id": 5156117,
     "name": "Ryan Mela",
     "team": "PROV",
     "teamName": "Providence Friars",
     "conference": "Big East",
-    "rank": 336,
+    "rank": 335,
     "gp": 26,
     "ppg": 8.8,
     "adjPpg": 9.1,
@@ -6046,6 +6028,24 @@
     "classYear": "Sophomore",
     "pointsPlusStdDev": 61.5,
     "volatilityPctile": 73
+  },
+  {
+    "id": 4433138,
+    "name": "Nimari Burnett",
+    "team": "MICH",
+    "teamName": "Michigan Wolverines",
+    "conference": "Big Ten",
+    "rank": 336,
+    "gp": 25,
+    "ppg": 9.2,
+    "adjPpg": 9.1,
+    "pointsPlus": 95,
+    "mpg": 19.4,
+    "position": "G",
+    "jersey": "4",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 58.9,
+    "volatilityPctile": 67
   },
   {
     "id": 5174935,
@@ -6207,7 +6207,7 @@
     "jersey": "11",
     "classYear": "Junior",
     "pointsPlusStdDev": 50.2,
-    "volatilityPctile": 43
+    "volatilityPctile": 42
   },
   {
     "id": 4711256,
@@ -6243,7 +6243,7 @@
     "jersey": "25",
     "classYear": "Senior",
     "pointsPlusStdDev": 68.5,
-    "volatilityPctile": 87
+    "volatilityPctile": 86
   },
   {
     "id": 5196877,
@@ -6260,7 +6260,7 @@
     "position": "G",
     "jersey": "3",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 48.9,
+    "pointsPlusStdDev": 49.1,
     "volatilityPctile": 39
   },
   {
@@ -6318,30 +6318,12 @@
     "volatilityPctile": 58
   },
   {
-    "id": 4433625,
-    "name": "Jalen Washington",
-    "team": "VAN",
-    "teamName": "Vanderbilt Commodores",
-    "conference": "SEC",
-    "rank": 352,
-    "gp": 25,
-    "ppg": 9.0,
-    "adjPpg": 8.6,
-    "pointsPlus": 89,
-    "mpg": 20.4,
-    "position": "C",
-    "jersey": "13",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 58.5,
-    "volatilityPctile": 66
-  },
-  {
     "id": 5243101,
     "name": "Blake Harper",
     "team": "CREI",
     "teamName": "Creighton Bluejays",
     "conference": "Big East",
-    "rank": 353,
+    "rank": 352,
     "gp": 26,
     "ppg": 8.6,
     "adjPpg": 8.6,
@@ -6352,6 +6334,24 @@
     "classYear": "Sophomore",
     "pointsPlusStdDev": 57.1,
     "volatilityPctile": 63
+  },
+  {
+    "id": 4433625,
+    "name": "Jalen Washington",
+    "team": "VAN",
+    "teamName": "Vanderbilt Commodores",
+    "conference": "SEC",
+    "rank": 353,
+    "gp": 25,
+    "ppg": 9.0,
+    "adjPpg": 8.5,
+    "pointsPlus": 89,
+    "mpg": 20.4,
+    "position": "C",
+    "jersey": "13",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 58.5,
+    "volatilityPctile": 66
   },
   {
     "id": 5105599,
@@ -6368,7 +6368,7 @@
     "position": "F",
     "jersey": "12",
     "classYear": "Senior",
-    "pointsPlusStdDev": 53.9,
+    "pointsPlusStdDev": 54.3,
     "volatilityPctile": 53
   },
   {
@@ -6444,30 +6444,12 @@
     "volatilityPctile": 91
   },
   {
-    "id": 5103589,
-    "name": "Brock Harding",
-    "team": "TCU",
-    "teamName": "TCU Horned Frogs",
-    "conference": "Big 12",
-    "rank": 359,
-    "gp": 25,
-    "ppg": 8.5,
-    "adjPpg": 8.3,
-    "pointsPlus": 87,
-    "mpg": 31.9,
-    "position": "G",
-    "jersey": "2",
-    "classYear": "Junior",
-    "pointsPlusStdDev": 51.1,
-    "volatilityPctile": 45
-  },
-  {
     "id": 4683672,
     "name": "Lee Dort",
     "team": "CAL",
     "teamName": "California Golden Bears",
     "conference": "ACC",
-    "rank": 360,
+    "rank": 359,
     "gp": 20,
     "ppg": 8.2,
     "adjPpg": 8.3,
@@ -6476,8 +6458,26 @@
     "position": "F",
     "jersey": "34",
     "classYear": "Senior",
-    "pointsPlusStdDev": 44.3,
-    "volatilityPctile": 27
+    "pointsPlusStdDev": 44.4,
+    "volatilityPctile": 28
+  },
+  {
+    "id": 5226071,
+    "name": "Tre Singleton",
+    "team": "NU",
+    "teamName": "Northwestern Wildcats",
+    "conference": "Big Ten",
+    "rank": 360,
+    "gp": 26,
+    "ppg": 8.1,
+    "adjPpg": 8.3,
+    "pointsPlus": 87,
+    "mpg": 25.0,
+    "position": "F",
+    "jersey": "8",
+    "classYear": "Freshman",
+    "pointsPlusStdDev": 47.3,
+    "volatilityPctile": 35
   },
   {
     "id": 5177211,
@@ -6498,30 +6498,12 @@
     "volatilityPctile": 72
   },
   {
-    "id": 5226071,
-    "name": "Tre Singleton",
-    "team": "NU",
-    "teamName": "Northwestern Wildcats",
-    "conference": "Big Ten",
-    "rank": 362,
-    "gp": 26,
-    "ppg": 8.1,
-    "adjPpg": 8.3,
-    "pointsPlus": 87,
-    "mpg": 25.0,
-    "position": "F",
-    "jersey": "8",
-    "classYear": "Freshman",
-    "pointsPlusStdDev": 47.3,
-    "volatilityPctile": 35
-  },
-  {
     "id": 5107375,
     "name": "Sam Alexis",
     "team": "IU",
     "teamName": "Indiana Hoosiers",
     "conference": "Big Ten",
-    "rank": 363,
+    "rank": 362,
     "gp": 26,
     "ppg": 8.1,
     "adjPpg": 8.3,
@@ -6539,7 +6521,7 @@
     "team": "BAY",
     "teamName": "Baylor Bears",
     "conference": "Big 12",
-    "rank": 364,
+    "rank": 363,
     "gp": 25,
     "ppg": 8.2,
     "adjPpg": 8.3,
@@ -6552,12 +6534,48 @@
     "volatilityPctile": 39
   },
   {
+    "id": 5107274,
+    "name": "Jacari White",
+    "team": "UVA",
+    "teamName": "Virginia Cavaliers",
+    "conference": "ACC",
+    "rank": 364,
+    "gp": 20,
+    "ppg": 8.4,
+    "adjPpg": 8.3,
+    "pointsPlus": 86,
+    "mpg": 16.8,
+    "position": "G",
+    "jersey": "6",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 64.1,
+    "volatilityPctile": 80
+  },
+  {
+    "id": 5103589,
+    "name": "Brock Harding",
+    "team": "TCU",
+    "teamName": "TCU Horned Frogs",
+    "conference": "Big 12",
+    "rank": 365,
+    "gp": 25,
+    "ppg": 8.4,
+    "adjPpg": 8.3,
+    "pointsPlus": 86,
+    "mpg": 31.9,
+    "position": "G",
+    "jersey": "2",
+    "classYear": "Junior",
+    "pointsPlusStdDev": 50.6,
+    "volatilityPctile": 44
+  },
+  {
     "id": 5312026,
     "name": "Melih Tunca",
     "team": "PSU",
     "teamName": "Penn State Nittany Lions",
     "conference": "Big Ten",
-    "rank": 365,
+    "rank": 366,
     "gp": 26,
     "ppg": 8.2,
     "adjPpg": 8.3,
@@ -6570,24 +6588,6 @@
     "volatilityPctile": 76
   },
   {
-    "id": 5107274,
-    "name": "Jacari White",
-    "team": "UVA",
-    "teamName": "Virginia Cavaliers",
-    "conference": "ACC",
-    "rank": 366,
-    "gp": 20,
-    "ppg": 8.4,
-    "adjPpg": 8.3,
-    "pointsPlus": 86,
-    "mpg": 16.8,
-    "position": "G",
-    "jersey": "6",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 64.0,
-    "volatilityPctile": 80
-  },
-  {
     "id": 5241430,
     "name": "All Wright",
     "team": "XAV",
@@ -6596,13 +6596,13 @@
     "rank": 367,
     "gp": 25,
     "ppg": 8.0,
-    "adjPpg": 8.2,
+    "adjPpg": 8.3,
     "pointsPlus": 86,
     "mpg": 23.4,
     "position": "G",
     "jersey": "3",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 62.1,
+    "pointsPlusStdDev": 62.0,
     "volatilityPctile": 74
   },
   {
@@ -6621,7 +6621,7 @@
     "jersey": "2",
     "classYear": "Junior",
     "pointsPlusStdDev": 49.9,
-    "volatilityPctile": 42
+    "volatilityPctile": 41
   },
   {
     "id": 5144099,
@@ -6638,7 +6638,7 @@
     "position": "G",
     "jersey": "23",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 55.7,
+    "pointsPlusStdDev": 55.8,
     "volatilityPctile": 59
   },
   {
@@ -6674,7 +6674,7 @@
     "position": "G",
     "jersey": "11",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 56.4,
+    "pointsPlusStdDev": 56.3,
     "volatilityPctile": 61
   },
   {
@@ -6728,7 +6728,7 @@
     "position": "G",
     "jersey": "3",
     "classYear": "Senior",
-    "pointsPlusStdDev": 61.0,
+    "pointsPlusStdDev": 60.9,
     "volatilityPctile": 72
   },
   {
@@ -6746,8 +6746,8 @@
     "position": "G",
     "jersey": "21",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 55.0,
-    "volatilityPctile": 56
+    "pointsPlusStdDev": 54.9,
+    "volatilityPctile": 55
   },
   {
     "id": 4685687,
@@ -6920,7 +6920,7 @@
     "rank": 385,
     "gp": 26,
     "ppg": 7.7,
-    "adjPpg": 7.8,
+    "adjPpg": 7.7,
     "pointsPlus": 81,
     "mpg": 28.5,
     "position": "G",
@@ -6963,7 +6963,7 @@
     "jersey": "12",
     "classYear": "Junior",
     "pointsPlusStdDev": 49.7,
-    "volatilityPctile": 41
+    "volatilityPctile": 40
   },
   {
     "id": 5105612,
@@ -6980,8 +6980,26 @@
     "position": "G",
     "jersey": "5",
     "classYear": "Junior",
-    "pointsPlusStdDev": 35.2,
+    "pointsPlusStdDev": 35.4,
     "volatilityPctile": 10
+  },
+  {
+    "id": 5164558,
+    "name": "Oswin Erhunmwunse",
+    "team": "PROV",
+    "teamName": "Providence Friars",
+    "conference": "Big East",
+    "rank": 389,
+    "gp": 26,
+    "ppg": 7.5,
+    "adjPpg": 7.7,
+    "pointsPlus": 80,
+    "mpg": 24.6,
+    "position": "F",
+    "jersey": "55",
+    "classYear": "Sophomore",
+    "pointsPlusStdDev": 38.5,
+    "volatilityPctile": 14
   },
   {
     "id": 4702994,
@@ -6989,7 +7007,7 @@
     "team": "OSU",
     "teamName": "Ohio State Buckeyes",
     "conference": "Big Ten",
-    "rank": 389,
+    "rank": 390,
     "gp": 14,
     "ppg": 7.4,
     "adjPpg": 7.6,
@@ -7007,7 +7025,7 @@
     "team": "UVA",
     "teamName": "Virginia Cavaliers",
     "conference": "ACC",
-    "rank": 390,
+    "rank": 391,
     "gp": 25,
     "ppg": 7.6,
     "adjPpg": 7.6,
@@ -7017,43 +7035,7 @@
     "jersey": "17",
     "classYear": "Freshman",
     "pointsPlusStdDev": 43.2,
-    "volatilityPctile": 25
-  },
-  {
-    "id": 5164558,
-    "name": "Oswin Erhunmwunse",
-    "team": "PROV",
-    "teamName": "Providence Friars",
-    "conference": "Big East",
-    "rank": 391,
-    "gp": 26,
-    "ppg": 7.5,
-    "adjPpg": 7.6,
-    "pointsPlus": 80,
-    "mpg": 24.6,
-    "position": "F",
-    "jersey": "55",
-    "classYear": "Sophomore",
-    "pointsPlusStdDev": 38.5,
-    "volatilityPctile": 15
-  },
-  {
-    "id": 5184903,
-    "name": "Evan Haywood",
-    "team": "BUT",
-    "teamName": "Butler Bulldogs",
-    "conference": "Big East",
-    "rank": 392,
-    "gp": 25,
-    "ppg": 7.6,
-    "adjPpg": 7.6,
-    "pointsPlus": 79,
-    "mpg": 19.6,
-    "position": "G",
-    "jersey": "1",
-    "classYear": "Sophomore",
-    "pointsPlusStdDev": 50.9,
-    "volatilityPctile": 44
+    "volatilityPctile": 24
   },
   {
     "id": 5237300,
@@ -7061,7 +7043,7 @@
     "team": "PITT",
     "teamName": "Pittsburgh Panthers",
     "conference": "ACC",
-    "rank": 393,
+    "rank": 392,
     "gp": 26,
     "ppg": 7.3,
     "adjPpg": 7.5,
@@ -7070,8 +7052,26 @@
     "position": "G",
     "jersey": "8",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 46.0,
-    "volatilityPctile": 33
+    "pointsPlusStdDev": 45.9,
+    "volatilityPctile": 32
+  },
+  {
+    "id": 5184903,
+    "name": "Evan Haywood",
+    "team": "BUT",
+    "teamName": "Butler Bulldogs",
+    "conference": "Big East",
+    "rank": 393,
+    "gp": 26,
+    "ppg": 7.5,
+    "adjPpg": 7.5,
+    "pointsPlus": 79,
+    "mpg": 19.7,
+    "position": "G",
+    "jersey": "1",
+    "classYear": "Sophomore",
+    "pointsPlusStdDev": 50.0,
+    "volatilityPctile": 42
   },
   {
     "id": 5105836,
@@ -7089,7 +7089,7 @@
     "jersey": "11",
     "classYear": "Senior",
     "pointsPlusStdDev": 39.7,
-    "volatilityPctile": 17
+    "volatilityPctile": 16
   },
   {
     "id": 5144388,
@@ -7110,12 +7110,30 @@
     "volatilityPctile": 89
   },
   {
+    "id": 5196920,
+    "name": "Adrien Stevens",
+    "team": "MARQ",
+    "teamName": "Marquette Golden Eagles",
+    "conference": "Big East",
+    "rank": 396,
+    "gp": 26,
+    "ppg": 7.5,
+    "adjPpg": 7.5,
+    "pointsPlus": 78,
+    "mpg": 25.0,
+    "position": "G",
+    "jersey": "10",
+    "classYear": "Freshman",
+    "pointsPlusStdDev": 47.8,
+    "volatilityPctile": 36
+  },
+  {
     "id": 5095154,
     "name": "Sebastian Williams-Adams",
     "team": "AUB",
     "teamName": "Auburn Tigers",
     "conference": "SEC",
-    "rank": 396,
+    "rank": 397,
     "gp": 25,
     "ppg": 7.6,
     "adjPpg": 7.5,
@@ -7133,7 +7151,7 @@
     "team": "MIZ",
     "teamName": "Missouri Tigers",
     "conference": "SEC",
-    "rank": 397,
+    "rank": 398,
     "gp": 25,
     "ppg": 7.9,
     "adjPpg": 7.5,
@@ -7144,24 +7162,6 @@
     "classYear": "Sophomore",
     "pointsPlusStdDev": 48.7,
     "volatilityPctile": 38
-  },
-  {
-    "id": 5196920,
-    "name": "Adrien Stevens",
-    "team": "MARQ",
-    "teamName": "Marquette Golden Eagles",
-    "conference": "Big East",
-    "rank": 398,
-    "gp": 26,
-    "ppg": 7.5,
-    "adjPpg": 7.5,
-    "pointsPlus": 78,
-    "mpg": 25.0,
-    "position": "G",
-    "jersey": "10",
-    "classYear": "Freshman",
-    "pointsPlusStdDev": 47.6,
-    "volatilityPctile": 36
   },
   {
     "id": 4897898,
@@ -7179,7 +7179,7 @@
     "jersey": "8",
     "classYear": "Senior",
     "pointsPlusStdDev": 36.9,
-    "volatilityPctile": 11
+    "volatilityPctile": 12
   },
   {
     "id": 4598611,
@@ -7200,22 +7200,22 @@
     "volatilityPctile": 54
   },
   {
-    "id": 5105537,
-    "name": "Shawn Phillips Jr.",
-    "team": "MIZ",
-    "teamName": "Missouri Tigers",
-    "conference": "SEC",
+    "id": 4869741,
+    "name": "Yohan Traore",
+    "team": "BUT",
+    "teamName": "Butler Bulldogs",
+    "conference": "Big East",
     "rank": 401,
-    "gp": 23,
-    "ppg": 7.7,
+    "gp": 26,
+    "ppg": 7.3,
     "adjPpg": 7.4,
     "pointsPlus": 77,
-    "mpg": 19.6,
-    "position": "C",
-    "jersey": "15",
+    "mpg": 19.2,
+    "position": "F",
+    "jersey": "21",
     "classYear": "Senior",
-    "pointsPlusStdDev": 41.7,
-    "volatilityPctile": 21
+    "pointsPlusStdDev": 55.6,
+    "volatilityPctile": 59
   },
   {
     "id": 5176755,
@@ -7236,12 +7236,30 @@
     "volatilityPctile": 76
   },
   {
+    "id": 5105537,
+    "name": "Shawn Phillips Jr.",
+    "team": "MIZ",
+    "teamName": "Missouri Tigers",
+    "conference": "SEC",
+    "rank": 403,
+    "gp": 23,
+    "ppg": 7.7,
+    "adjPpg": 7.4,
+    "pointsPlus": 77,
+    "mpg": 19.6,
+    "position": "C",
+    "jersey": "15",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 41.7,
+    "volatilityPctile": 21
+  },
+  {
     "id": 5264730,
     "name": "Harun Zrno",
     "team": "RUTG",
     "teamName": "Rutgers Scarlet Knights",
     "conference": "Big Ten",
-    "rank": 403,
+    "rank": 404,
     "gp": 25,
     "ppg": 7.0,
     "adjPpg": 7.4,
@@ -7250,7 +7268,7 @@
     "position": "G",
     "jersey": "13",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 67.0,
+    "pointsPlusStdDev": 67.2,
     "volatilityPctile": 84
   },
   {
@@ -7259,7 +7277,7 @@
     "team": "ALA",
     "teamName": "Alabama Crimson Tide",
     "conference": "SEC",
-    "rank": 404,
+    "rank": 405,
     "gp": 20,
     "ppg": 7.2,
     "adjPpg": 7.4,
@@ -7270,24 +7288,6 @@
     "classYear": "Junior",
     "pointsPlusStdDev": 51.8,
     "volatilityPctile": 47
-  },
-  {
-    "id": 5143607,
-    "name": "Drayton Jones",
-    "team": "BUT",
-    "teamName": "Butler Bulldogs",
-    "conference": "Big East",
-    "rank": 405,
-    "gp": 25,
-    "ppg": 7.2,
-    "adjPpg": 7.4,
-    "pointsPlus": 77,
-    "mpg": 20.1,
-    "position": "C",
-    "jersey": "13",
-    "classYear": "Junior",
-    "pointsPlusStdDev": 46.9,
-    "volatilityPctile": 34
   },
   {
     "id": 5311912,
@@ -7322,7 +7322,7 @@
     "position": "F",
     "jersey": "1",
     "classYear": "Junior",
-    "pointsPlusStdDev": 59.3,
+    "pointsPlusStdDev": 59.2,
     "volatilityPctile": 68
   },
   {
@@ -7376,7 +7376,7 @@
     "position": "G",
     "jersey": "0",
     "classYear": "Senior",
-    "pointsPlusStdDev": 56.1,
+    "pointsPlusStdDev": 56.2,
     "volatilityPctile": 60
   },
   {
@@ -7412,8 +7412,8 @@
     "position": "C",
     "jersey": "44",
     "classYear": "Junior",
-    "pointsPlusStdDev": 51.5,
-    "volatilityPctile": 46
+    "pointsPlusStdDev": 51.4,
+    "volatilityPctile": 45
   },
   {
     "id": 5177104,
@@ -7488,30 +7488,12 @@
     "volatilityPctile": 41
   },
   {
-    "id": 4869741,
-    "name": "Yohan Traore",
-    "team": "BUT",
-    "teamName": "Butler Bulldogs",
-    "conference": "Big East",
-    "rank": 417,
-    "gp": 25,
-    "ppg": 7.3,
-    "adjPpg": 7.2,
-    "pointsPlus": 76,
-    "mpg": 18.7,
-    "position": "F",
-    "jersey": "21",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 56.1,
-    "volatilityPctile": 60
-  },
-  {
     "id": 5105657,
     "name": "AJ Rohosy",
     "team": "STAN",
     "teamName": "Stanford Cardinal",
     "conference": "ACC",
-    "rank": 418,
+    "rank": 417,
     "gp": 26,
     "ppg": 7.1,
     "adjPpg": 7.2,
@@ -7521,7 +7503,7 @@
     "jersey": "4",
     "classYear": "Senior",
     "pointsPlusStdDev": 49.3,
-    "volatilityPctile": 40
+    "volatilityPctile": 39
   },
   {
     "id": 5248301,
@@ -7529,7 +7511,7 @@
     "team": "RUTG",
     "teamName": "Rutgers Scarlet Knights",
     "conference": "Big Ten",
-    "rank": 419,
+    "rank": 418,
     "gp": 20,
     "ppg": 6.9,
     "adjPpg": 7.2,
@@ -7539,7 +7521,7 @@
     "jersey": "3",
     "classYear": "Freshman",
     "pointsPlusStdDev": 56.4,
-    "volatilityPctile": 61
+    "volatilityPctile": 62
   },
   {
     "id": 5311934,
@@ -7547,7 +7529,7 @@
     "team": "UTAH",
     "teamName": "Utah Utes",
     "conference": "Big 12",
-    "rank": 420,
+    "rank": 419,
     "gp": 10,
     "ppg": 7.2,
     "adjPpg": 7.2,
@@ -7565,7 +7547,7 @@
     "team": "BYU",
     "teamName": "BYU Cougars",
     "conference": "Big 12",
-    "rank": 421,
+    "rank": 420,
     "gp": 22,
     "ppg": 7.2,
     "adjPpg": 7.2,
@@ -7576,6 +7558,24 @@
     "classYear": "Junior",
     "pointsPlusStdDev": 51.6,
     "volatilityPctile": 46
+  },
+  {
+    "id": 5174319,
+    "name": "Mike Williams",
+    "team": "HALL",
+    "teamName": "Seton Hall Pirates",
+    "conference": "Big East",
+    "rank": 421,
+    "gp": 26,
+    "ppg": 7.2,
+    "adjPpg": 7.2,
+    "pointsPlus": 75,
+    "mpg": 20.4,
+    "position": "G",
+    "jersey": "23",
+    "classYear": "Junior",
+    "pointsPlusStdDev": 52.1,
+    "volatilityPctile": 48
   },
   {
     "id": 4873141,
@@ -7592,7 +7592,7 @@
     "position": "F",
     "jersey": "5",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 59.8,
+    "pointsPlusStdDev": 59.7,
     "volatilityPctile": 69
   },
   {
@@ -7629,7 +7629,7 @@
     "jersey": "2",
     "classYear": "Sophomore",
     "pointsPlusStdDev": 47.8,
-    "volatilityPctile": 37
+    "volatilityPctile": 36
   },
   {
     "id": 5107078,
@@ -7640,14 +7640,14 @@
     "rank": 425,
     "gp": 25,
     "ppg": 7.4,
-    "adjPpg": 7.2,
+    "adjPpg": 7.1,
     "pointsPlus": 75,
     "mpg": 21.7,
     "position": "G",
     "jersey": "5",
     "classYear": "Senior",
     "pointsPlusStdDev": 51.4,
-    "volatilityPctile": 46
+    "volatilityPctile": 45
   },
   {
     "id": 4711270,
@@ -7682,26 +7682,26 @@
     "position": "F",
     "jersey": "13",
     "classYear": "Junior",
-    "pointsPlusStdDev": 54.9,
+    "pointsPlusStdDev": 54.8,
     "volatilityPctile": 55
   },
   {
-    "id": 5174319,
-    "name": "Mike Williams",
-    "team": "HALL",
-    "teamName": "Seton Hall Pirates",
+    "id": 5143607,
+    "name": "Drayton Jones",
+    "team": "BUT",
+    "teamName": "Butler Bulldogs",
     "conference": "Big East",
     "rank": 428,
-    "gp": 25,
-    "ppg": 7.1,
+    "gp": 26,
+    "ppg": 6.9,
     "adjPpg": 7.1,
     "pointsPlus": 74,
-    "mpg": 20.4,
-    "position": "G",
-    "jersey": "23",
+    "mpg": 19.7,
+    "position": "C",
+    "jersey": "13",
     "classYear": "Junior",
-    "pointsPlusStdDev": 52.9,
-    "volatilityPctile": 50
+    "pointsPlusStdDev": 48.4,
+    "volatilityPctile": 38
   },
   {
     "id": 4683785,
@@ -7736,7 +7736,7 @@
     "position": "G",
     "jersey": "0",
     "classYear": "Junior",
-    "pointsPlusStdDev": 57.7,
+    "pointsPlusStdDev": 57.8,
     "volatilityPctile": 64
   },
   {
@@ -7938,12 +7938,30 @@
     "volatilityPctile": 28
   },
   {
+    "id": 4712866,
+    "name": "Isaac Traudt",
+    "team": "CREI",
+    "teamName": "Creighton Bluejays",
+    "conference": "Big East",
+    "rank": 442,
+    "gp": 26,
+    "ppg": 6.8,
+    "adjPpg": 6.8,
+    "pointsPlus": 71,
+    "mpg": 18.7,
+    "position": "F",
+    "jersey": "41",
+    "classYear": "Junior",
+    "pointsPlusStdDev": 61.5,
+    "volatilityPctile": 73
+  },
+  {
     "id": 5105790,
     "name": "Sencire Harris",
     "team": "CIN",
     "teamName": "Cincinnati Bearcats",
     "conference": "Big 12",
-    "rank": 442,
+    "rank": 443,
     "gp": 24,
     "ppg": 6.7,
     "adjPpg": 6.8,
@@ -7953,7 +7971,7 @@
     "jersey": "5",
     "classYear": "Junior",
     "pointsPlusStdDev": 40.1,
-    "volatilityPctile": 18
+    "volatilityPctile": 17
   },
   {
     "id": 5151855,
@@ -7961,7 +7979,7 @@
     "team": "BC",
     "teamName": "Boston College Eagles",
     "conference": "ACC",
-    "rank": 443,
+    "rank": 444,
     "gp": 23,
     "ppg": 6.7,
     "adjPpg": 6.8,
@@ -7972,24 +7990,6 @@
     "classYear": "Sophomore",
     "pointsPlusStdDev": 57.8,
     "volatilityPctile": 64
-  },
-  {
-    "id": 4712866,
-    "name": "Isaac Traudt",
-    "team": "CREI",
-    "teamName": "Creighton Bluejays",
-    "conference": "Big East",
-    "rank": 444,
-    "gp": 26,
-    "ppg": 6.8,
-    "adjPpg": 6.8,
-    "pointsPlus": 71,
-    "mpg": 18.7,
-    "position": "F",
-    "jersey": "41",
-    "classYear": "Junior",
-    "pointsPlusStdDev": 61.1,
-    "volatilityPctile": 72
   },
   {
     "id": 4873183,
@@ -8007,7 +8007,7 @@
     "jersey": "3",
     "classYear": "Sophomore",
     "pointsPlusStdDev": 62.1,
-    "volatilityPctile": 74
+    "volatilityPctile": 75
   },
   {
     "id": 4685671,
@@ -8024,8 +8024,8 @@
     "position": "F",
     "jersey": "22",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 38.5,
-    "volatilityPctile": 15
+    "pointsPlusStdDev": 38.4,
+    "volatilityPctile": 14
   },
   {
     "id": 5311938,
@@ -8037,31 +8037,13 @@
     "gp": 25,
     "ppg": 6.3,
     "adjPpg": 6.7,
-    "pointsPlus": 71,
+    "pointsPlus": 70,
     "mpg": 16.6,
     "position": "F",
     "jersey": "5",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 66.6,
-    "volatilityPctile": 84
-  },
-  {
-    "id": 5106288,
-    "name": "Elijah Fisher",
-    "team": "HALL",
-    "teamName": "Seton Hall Pirates",
-    "conference": "Big East",
-    "rank": 448,
-    "gp": 25,
-    "ppg": 7.0,
-    "adjPpg": 6.7,
-    "pointsPlus": 70,
-    "mpg": 21.3,
-    "position": "G",
-    "jersey": "22",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 52.7,
-    "volatilityPctile": 49
+    "pointsPlusStdDev": 66.5,
+    "volatilityPctile": 83
   },
   {
     "id": 5174982,
@@ -8069,7 +8051,7 @@
     "team": "NEB",
     "teamName": "Nebraska Cornhuskers",
     "conference": "Big Ten",
-    "rank": 449,
+    "rank": 448,
     "gp": 24,
     "ppg": 6.7,
     "adjPpg": 6.7,
@@ -8087,7 +8069,7 @@
     "team": "LOU",
     "teamName": "Louisville Cardinals",
     "conference": "ACC",
-    "rank": 450,
+    "rank": 449,
     "gp": 21,
     "ppg": 6.6,
     "adjPpg": 6.6,
@@ -8100,22 +8082,22 @@
     "volatilityPctile": 60
   },
   {
-    "id": 5108891,
-    "name": "Stephon Payne",
+    "id": 5106288,
+    "name": "Elijah Fisher",
     "team": "HALL",
     "teamName": "Seton Hall Pirates",
     "conference": "Big East",
-    "rank": 451,
-    "gp": 25,
-    "ppg": 6.9,
+    "rank": 450,
+    "gp": 26,
+    "ppg": 6.8,
     "adjPpg": 6.6,
     "pointsPlus": 69,
     "mpg": 21.3,
-    "position": "F",
-    "jersey": "6",
+    "position": "G",
+    "jersey": "22",
     "classYear": "Senior",
-    "pointsPlusStdDev": 39.0,
-    "volatilityPctile": 15
+    "pointsPlusStdDev": 52.0,
+    "volatilityPctile": 47
   },
   {
     "id": 5105855,
@@ -8123,7 +8105,7 @@
     "team": "TEX",
     "teamName": "Texas Longhorns",
     "conference": "SEC",
-    "rank": 452,
+    "rank": 451,
     "gp": 24,
     "ppg": 6.9,
     "adjPpg": 6.6,
@@ -8141,7 +8123,7 @@
     "team": "STAN",
     "teamName": "Stanford Cardinal",
     "conference": "ACC",
-    "rank": 453,
+    "rank": 452,
     "gp": 25,
     "ppg": 6.4,
     "adjPpg": 6.6,
@@ -8159,7 +8141,7 @@
     "team": "CLEM",
     "teamName": "Clemson Tigers",
     "conference": "ACC",
-    "rank": 454,
+    "rank": 453,
     "gp": 12,
     "ppg": 6.9,
     "adjPpg": 6.6,
@@ -8177,10 +8159,10 @@
     "team": "ASU",
     "teamName": "Arizona State Sun Devils",
     "conference": "Big 12",
-    "rank": 455,
+    "rank": 454,
     "gp": 22,
     "ppg": 6.4,
-    "adjPpg": 6.6,
+    "adjPpg": 6.5,
     "pointsPlus": 68,
     "mpg": 26.5,
     "position": "G",
@@ -8195,7 +8177,7 @@
     "team": "ND",
     "teamName": "Notre Dame Fighting Irish",
     "conference": "ACC",
-    "rank": 456,
+    "rank": 455,
     "gp": 26,
     "ppg": 6.3,
     "adjPpg": 6.5,
@@ -8213,7 +8195,7 @@
     "team": "DUKE",
     "teamName": "Duke Blue Devils",
     "conference": "ACC",
-    "rank": 457,
+    "rank": 456,
     "gp": 25,
     "ppg": 6.4,
     "adjPpg": 6.5,
@@ -8231,7 +8213,7 @@
     "team": "UVA",
     "teamName": "Virginia Cavaliers",
     "conference": "ACC",
-    "rank": 458,
+    "rank": 457,
     "gp": 25,
     "ppg": 6.5,
     "adjPpg": 6.5,
@@ -8249,7 +8231,7 @@
     "team": "MISS",
     "teamName": "Ole Miss Rebels",
     "conference": "SEC",
-    "rank": 459,
+    "rank": 458,
     "gp": 23,
     "ppg": 6.6,
     "adjPpg": 6.5,
@@ -8267,7 +8249,7 @@
     "team": "WIS",
     "teamName": "Wisconsin Badgers",
     "conference": "Big Ten",
-    "rank": 460,
+    "rank": 459,
     "gp": 24,
     "ppg": 6.4,
     "adjPpg": 6.5,
@@ -8285,7 +8267,7 @@
     "team": "BYU",
     "teamName": "BYU Cougars",
     "conference": "Big 12",
-    "rank": 461,
+    "rank": 460,
     "gp": 23,
     "ppg": 6.4,
     "adjPpg": 6.5,
@@ -8295,7 +8277,7 @@
     "jersey": "13",
     "classYear": "Senior",
     "pointsPlusStdDev": 49.9,
-    "volatilityPctile": 42
+    "volatilityPctile": 41
   },
   {
     "id": 4884257,
@@ -8303,7 +8285,7 @@
     "team": "OKST",
     "teamName": "Oklahoma State Cowboys",
     "conference": "Big 12",
-    "rank": 462,
+    "rank": 461,
     "gp": 24,
     "ppg": 6.5,
     "adjPpg": 6.5,
@@ -8321,7 +8303,7 @@
     "team": "WASH",
     "teamName": "Washington Huskies",
     "conference": "Big Ten",
-    "rank": 463,
+    "rank": 462,
     "gp": 19,
     "ppg": 6.2,
     "adjPpg": 6.4,
@@ -8339,7 +8321,7 @@
     "team": "TENN",
     "teamName": "Tennessee Volunteers",
     "conference": "SEC",
-    "rank": 464,
+    "rank": 463,
     "gp": 22,
     "ppg": 6.5,
     "adjPpg": 6.4,
@@ -8350,6 +8332,24 @@
     "classYear": "Sophomore",
     "pointsPlusStdDev": 31.1,
     "volatilityPctile": 5
+  },
+  {
+    "id": 5239575,
+    "name": "Angelo Ciaravino",
+    "team": "NU",
+    "teamName": "Northwestern Wildcats",
+    "conference": "Big Ten",
+    "rank": 464,
+    "gp": 25,
+    "ppg": 6.3,
+    "adjPpg": 6.4,
+    "pointsPlus": 67,
+    "mpg": 21.4,
+    "position": "G",
+    "jersey": "44",
+    "classYear": "Sophomore",
+    "pointsPlusStdDev": 45.6,
+    "volatilityPctile": 31
   },
   {
     "id": 5105841,
@@ -8370,22 +8370,22 @@
     "volatilityPctile": 22
   },
   {
-    "id": 5239575,
-    "name": "Angelo Ciaravino",
-    "team": "NU",
-    "teamName": "Northwestern Wildcats",
-    "conference": "Big Ten",
+    "id": 5108891,
+    "name": "Stephon Payne",
+    "team": "HALL",
+    "teamName": "Seton Hall Pirates",
+    "conference": "Big East",
     "rank": 466,
-    "gp": 25,
-    "ppg": 6.3,
+    "gp": 26,
+    "ppg": 6.7,
     "adjPpg": 6.4,
-    "pointsPlus": 67,
+    "pointsPlus": 66,
     "mpg": 21.4,
-    "position": "G",
-    "jersey": "44",
-    "classYear": "Sophomore",
-    "pointsPlusStdDev": 45.7,
-    "volatilityPctile": 31
+    "position": "F",
+    "jersey": "6",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 40.4,
+    "volatilityPctile": 18
   },
   {
     "id": 4433340,
@@ -8438,7 +8438,7 @@
     "position": "G",
     "jersey": "23",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 51.5,
+    "pointsPlusStdDev": 51.7,
     "volatilityPctile": 46
   },
   {
@@ -8528,7 +8528,7 @@
     "position": "F",
     "jersey": "5",
     "classYear": "Senior",
-    "pointsPlusStdDev": 53.4,
+    "pointsPlusStdDev": 53.3,
     "volatilityPctile": 51
   },
   {
@@ -8601,7 +8601,7 @@
     "jersey": "0",
     "classYear": "Freshman",
     "pointsPlusStdDev": 48.3,
-    "volatilityPctile": 38
+    "volatilityPctile": 37
   },
   {
     "id": 5144139,
@@ -8654,8 +8654,8 @@
     "position": "G",
     "jersey": "2",
     "classYear": "Senior",
-    "pointsPlusStdDev": 45.1,
-    "volatilityPctile": 30
+    "pointsPlusStdDev": 45.0,
+    "volatilityPctile": 29
   },
   {
     "id": 5175009,
@@ -8709,25 +8709,25 @@
     "jersey": "11",
     "classYear": "Junior",
     "pointsPlusStdDev": 43.2,
-    "volatilityPctile": 25
+    "volatilityPctile": 24
   },
   {
-    "id": 5292602,
-    "name": "Najai Hines",
-    "team": "HALL",
-    "teamName": "Seton Hall Pirates",
+    "id": 5105795,
+    "name": "Kaleb Banks",
+    "team": "DEP",
+    "teamName": "DePaul Blue Demons",
     "conference": "Big East",
     "rank": 485,
-    "gp": 23,
-    "ppg": 6.0,
+    "gp": 25,
+    "ppg": 6.1,
     "adjPpg": 5.9,
     "pointsPlus": 62,
-    "mpg": 16.5,
+    "mpg": 17.0,
     "position": "F",
-    "jersey": "25",
-    "classYear": "Freshman",
-    "pointsPlusStdDev": 37.8,
-    "volatilityPctile": 13
+    "jersey": "1",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 57.7,
+    "volatilityPctile": 64
   },
   {
     "id": 4915060,
@@ -8745,25 +8745,25 @@
     "jersey": "7",
     "classYear": "Sophomore",
     "pointsPlusStdDev": 40.1,
-    "volatilityPctile": 18
+    "volatilityPctile": 17
   },
   {
-    "id": 5105795,
-    "name": "Kaleb Banks",
-    "team": "DEP",
-    "teamName": "DePaul Blue Demons",
+    "id": 5292602,
+    "name": "Najai Hines",
+    "team": "HALL",
+    "teamName": "Seton Hall Pirates",
     "conference": "Big East",
     "rank": 487,
-    "gp": 25,
-    "ppg": 6.1,
+    "gp": 24,
+    "ppg": 6.0,
     "adjPpg": 5.9,
     "pointsPlus": 62,
-    "mpg": 17.0,
+    "mpg": 16.5,
     "position": "F",
-    "jersey": "1",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 57.7,
-    "volatilityPctile": 64
+    "jersey": "25",
+    "classYear": "Freshman",
+    "pointsPlusStdDev": 37.1,
+    "volatilityPctile": 12
   },
   {
     "id": 5061596,
@@ -8901,7 +8901,7 @@
     "gp": 25,
     "ppg": 5.8,
     "adjPpg": 5.8,
-    "pointsPlus": 61,
+    "pointsPlus": 60,
     "mpg": 28.1,
     "position": "G",
     "jersey": "30",
@@ -8925,7 +8925,7 @@
     "jersey": "11",
     "classYear": "Senior",
     "pointsPlusStdDev": 52.4,
-    "volatilityPctile": 48
+    "volatilityPctile": 49
   },
   {
     "id": 5196931,
@@ -9032,8 +9032,8 @@
     "position": "F",
     "jersey": "7",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 49.6,
-    "volatilityPctile": 40
+    "pointsPlusStdDev": 49.8,
+    "volatilityPctile": 41
   },
   {
     "id": 5174977,
@@ -9104,7 +9104,7 @@
     "position": "G",
     "jersey": "17",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 36.3,
+    "pointsPlusStdDev": 36.4,
     "volatilityPctile": 11
   },
   {
@@ -9140,7 +9140,7 @@
     "position": "G",
     "jersey": "13",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 56.5,
+    "pointsPlusStdDev": 56.4,
     "volatilityPctile": 62
   },
   {
@@ -9177,7 +9177,7 @@
     "jersey": "3",
     "classYear": "Freshman",
     "pointsPlusStdDev": 35.0,
-    "volatilityPctile": 10
+    "volatilityPctile": 9
   },
   {
     "id": 5106715,
@@ -9284,7 +9284,7 @@
     "position": "G",
     "jersey": "12",
     "classYear": "Senior",
-    "pointsPlusStdDev": 34.3,
+    "pointsPlusStdDev": 34.2,
     "volatilityPctile": 8
   },
   {
@@ -9320,7 +9320,7 @@
     "position": "G",
     "jersey": "4",
     "classYear": "Senior",
-    "pointsPlusStdDev": 41.4,
+    "pointsPlusStdDev": 41.3,
     "volatilityPctile": 20
   },
   {
@@ -9519,7 +9519,7 @@
     "jersey": "0",
     "classYear": "Senior",
     "pointsPlusStdDev": 35.7,
-    "volatilityPctile": 10
+    "volatilityPctile": 11
   },
   {
     "id": 4703887,
@@ -9594,12 +9594,30 @@
     "volatilityPctile": 13
   },
   {
+    "id": 4703393,
+    "name": "Devin Tillis",
+    "team": "UVA",
+    "teamName": "Virginia Cavaliers",
+    "conference": "ACC",
+    "rank": 534,
+    "gp": 21,
+    "ppg": 5.1,
+    "adjPpg": 5.0,
+    "pointsPlus": 52,
+    "mpg": 17.6,
+    "position": "F",
+    "jersey": "11",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 43.2,
+    "volatilityPctile": 24
+  },
+  {
     "id": 4872739,
     "name": "Elmarko Jackson",
     "team": "KU",
     "teamName": "Kansas Jayhawks",
     "conference": "Big 12",
-    "rank": 534,
+    "rank": 535,
     "gp": 24,
     "ppg": 4.8,
     "adjPpg": 5.0,
@@ -9610,24 +9628,6 @@
     "classYear": "Sophomore",
     "pointsPlusStdDev": 53.4,
     "volatilityPctile": 51
-  },
-  {
-    "id": 4703393,
-    "name": "Devin Tillis",
-    "team": "UVA",
-    "teamName": "Virginia Cavaliers",
-    "conference": "ACC",
-    "rank": 535,
-    "gp": 21,
-    "ppg": 5.1,
-    "adjPpg": 5.0,
-    "pointsPlus": 52,
-    "mpg": 17.6,
-    "position": "F",
-    "jersey": "11",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 43.2,
-    "volatilityPctile": 25
   },
   {
     "id": 5105540,
@@ -9648,12 +9648,30 @@
     "volatilityPctile": 20
   },
   {
+    "id": 4565204,
+    "name": "Duncan Powell",
+    "team": "PROV",
+    "teamName": "Providence Friars",
+    "conference": "Big East",
+    "rank": 537,
+    "gp": 20,
+    "ppg": 4.8,
+    "adjPpg": 5.0,
+    "pointsPlus": 52,
+    "mpg": 17.6,
+    "position": "F",
+    "jersey": "31",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 42.6,
+    "volatilityPctile": 23
+  },
+  {
     "id": 5075230,
     "name": "Fedor Zugic",
     "team": "CREI",
     "teamName": "Creighton Bluejays",
     "conference": "Big East",
-    "rank": 537,
+    "rank": 538,
     "gp": 26,
     "ppg": 4.9,
     "adjPpg": 5.0,
@@ -9662,8 +9680,8 @@
     "position": "G",
     "jersey": "7",
     "classYear": "Junior",
-    "pointsPlusStdDev": 37.3,
-    "volatilityPctile": 12
+    "pointsPlusStdDev": 37.5,
+    "volatilityPctile": 13
   },
   {
     "id": 5144372,
@@ -9671,10 +9689,10 @@
     "team": "FLA",
     "teamName": "Florida Gators",
     "conference": "SEC",
-    "rank": 538,
+    "rank": 539,
     "gp": 22,
     "ppg": 5.4,
-    "adjPpg": 5.0,
+    "adjPpg": 4.9,
     "pointsPlus": 52,
     "mpg": 12.2,
     "position": "G",
@@ -9682,24 +9700,6 @@
     "classYear": "Sophomore",
     "pointsPlusStdDev": 39.1,
     "volatilityPctile": 16
-  },
-  {
-    "id": 4565204,
-    "name": "Duncan Powell",
-    "team": "PROV",
-    "teamName": "Providence Friars",
-    "conference": "Big East",
-    "rank": 539,
-    "gp": 20,
-    "ppg": 4.8,
-    "adjPpg": 4.9,
-    "pointsPlus": 52,
-    "mpg": 17.6,
-    "position": "F",
-    "jersey": "31",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 42.5,
-    "volatilityPctile": 23
   },
   {
     "id": 5101762,
@@ -9716,7 +9716,7 @@
     "position": "G",
     "jersey": "8",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 43.1,
+    "pointsPlusStdDev": 43.0,
     "volatilityPctile": 24
   },
   {
@@ -9837,13 +9837,13 @@
     "gp": 25,
     "ppg": 4.8,
     "adjPpg": 4.8,
-    "pointsPlus": 51,
+    "pointsPlus": 50,
     "mpg": 16.1,
     "position": "G",
     "jersey": "11",
     "classYear": "Sophomore",
     "pointsPlusStdDev": 39.7,
-    "volatilityPctile": 17
+    "volatilityPctile": 16
   },
   {
     "id": 5105337,
@@ -9936,30 +9936,12 @@
     "volatilityPctile": 21
   },
   {
-    "id": 4897451,
-    "name": "Conor Enright",
-    "team": "IU",
-    "teamName": "Indiana Hoosiers",
-    "conference": "Big Ten",
-    "rank": 553,
-    "gp": 26,
-    "ppg": 4.7,
-    "adjPpg": 4.7,
-    "pointsPlus": 49,
-    "mpg": 30.4,
-    "position": "G",
-    "jersey": "5",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 39.6,
-    "volatilityPctile": 16
-  },
-  {
     "id": 5105827,
     "name": "Cale Jacobsen",
     "team": "NEB",
     "teamName": "Nebraska Cornhuskers",
     "conference": "Big Ten",
-    "rank": 554,
+    "rank": 553,
     "gp": 25,
     "ppg": 4.7,
     "adjPpg": 4.7,
@@ -9972,12 +9954,48 @@
     "volatilityPctile": 12
   },
   {
+    "id": 4897451,
+    "name": "Conor Enright",
+    "team": "IU",
+    "teamName": "Indiana Hoosiers",
+    "conference": "Big Ten",
+    "rank": 554,
+    "gp": 26,
+    "ppg": 4.7,
+    "adjPpg": 4.7,
+    "pointsPlus": 49,
+    "mpg": 30.4,
+    "position": "G",
+    "jersey": "5",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 39.6,
+    "volatilityPctile": 16
+  },
+  {
+    "id": 4897261,
+    "name": "Isaiah Walker",
+    "team": "XAV",
+    "teamName": "Xavier Musketeers",
+    "conference": "Big East",
+    "rank": 555,
+    "gp": 24,
+    "ppg": 4.3,
+    "adjPpg": 4.7,
+    "pointsPlus": 49,
+    "mpg": 15.7,
+    "position": "G",
+    "jersey": "7",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 38.7,
+    "volatilityPctile": 15
+  },
+  {
     "id": 5186456,
     "name": "Dwayne Aristode",
     "team": "ARIZ",
     "teamName": "Arizona Wildcats",
     "conference": "Big 12",
-    "rank": 555,
+    "rank": 556,
     "gp": 24,
     "ppg": 4.7,
     "adjPpg": 4.7,
@@ -9988,24 +10006,6 @@
     "classYear": "Freshman",
     "pointsPlusStdDev": 51.0,
     "volatilityPctile": 45
-  },
-  {
-    "id": 4897261,
-    "name": "Isaiah Walker",
-    "team": "XAV",
-    "teamName": "Xavier Musketeers",
-    "conference": "Big East",
-    "rank": 556,
-    "gp": 24,
-    "ppg": 4.3,
-    "adjPpg": 4.7,
-    "pointsPlus": 49,
-    "mpg": 15.7,
-    "position": "G",
-    "jersey": "7",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 38.4,
-    "volatilityPctile": 14
   },
   {
     "id": 5107490,
@@ -10166,7 +10166,7 @@
     "position": "F",
     "jersey": "32",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 44.6,
+    "pointsPlusStdDev": 44.5,
     "volatilityPctile": 28
   },
   {
@@ -10242,12 +10242,30 @@
     "volatilityPctile": 13
   },
   {
+    "id": 5238170,
+    "name": "Trey Parker",
+    "team": "HALL",
+    "teamName": "Seton Hall Pirates",
+    "conference": "Big East",
+    "rank": 570,
+    "gp": 26,
+    "ppg": 4.4,
+    "adjPpg": 4.4,
+    "pointsPlus": 46,
+    "mpg": 16.0,
+    "position": "G",
+    "jersey": "13",
+    "classYear": "Sophomore",
+    "pointsPlusStdDev": 31.3,
+    "volatilityPctile": 5
+  },
+  {
     "id": 5242943,
     "name": "Max Green",
     "team": "NU",
     "teamName": "Northwestern Wildcats",
     "conference": "Big Ten",
-    "rank": 570,
+    "rank": 571,
     "gp": 23,
     "ppg": 4.3,
     "adjPpg": 4.4,
@@ -10256,26 +10274,8 @@
     "position": "G",
     "jersey": "10",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 45.1,
-    "volatilityPctile": 30
-  },
-  {
-    "id": 5238170,
-    "name": "Trey Parker",
-    "team": "HALL",
-    "teamName": "Seton Hall Pirates",
-    "conference": "Big East",
-    "rank": 571,
-    "gp": 25,
-    "ppg": 4.4,
-    "adjPpg": 4.4,
-    "pointsPlus": 46,
-    "mpg": 16.1,
-    "position": "G",
-    "jersey": "13",
-    "classYear": "Sophomore",
-    "pointsPlusStdDev": 31.8,
-    "volatilityPctile": 6
+    "pointsPlusStdDev": 45.0,
+    "volatilityPctile": 29
   },
   {
     "id": 5174970,
@@ -10310,8 +10310,8 @@
     "position": "G",
     "jersey": "7",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 43.1,
-    "volatilityPctile": 24
+    "pointsPlusStdDev": 43.4,
+    "volatilityPctile": 25
   },
   {
     "id": 4711306,
@@ -10328,7 +10328,7 @@
     "position": "F",
     "jersey": "10",
     "classYear": "Junior",
-    "pointsPlusStdDev": 42.3,
+    "pointsPlusStdDev": 42.2,
     "volatilityPctile": 22
   },
   {
@@ -10436,7 +10436,7 @@
     "position": "G",
     "jersey": "3",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 49.5,
+    "pointsPlusStdDev": 49.4,
     "volatilityPctile": 40
   },
   {
@@ -10458,22 +10458,22 @@
     "volatilityPctile": 25
   },
   {
-    "id": 5108992,
-    "name": "Micah Handlogten",
-    "team": "FLA",
-    "teamName": "Florida Gators",
-    "conference": "SEC",
+    "id": 4895753,
+    "name": "Jayden Ross",
+    "team": "CONN",
+    "teamName": "UConn Huskies",
+    "conference": "Big East",
     "rank": 582,
     "gp": 24,
-    "ppg": 4.4,
+    "ppg": 4.3,
     "adjPpg": 4.2,
     "pointsPlus": 44,
-    "mpg": 14.8,
-    "position": "C",
-    "jersey": "3",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 43.2,
-    "volatilityPctile": 25
+    "mpg": 15.4,
+    "position": "F",
+    "jersey": "23",
+    "classYear": "Junior",
+    "pointsPlusStdDev": 38.5,
+    "volatilityPctile": 14
   },
   {
     "id": 5254178,
@@ -10494,22 +10494,22 @@
     "volatilityPctile": 18
   },
   {
-    "id": 4895753,
-    "name": "Jayden Ross",
-    "team": "CONN",
-    "teamName": "UConn Huskies",
-    "conference": "Big East",
+    "id": 5108992,
+    "name": "Micah Handlogten",
+    "team": "FLA",
+    "teamName": "Florida Gators",
+    "conference": "SEC",
     "rank": 584,
     "gp": 24,
-    "ppg": 4.3,
+    "ppg": 4.4,
     "adjPpg": 4.2,
     "pointsPlus": 44,
-    "mpg": 15.4,
-    "position": "F",
-    "jersey": "23",
-    "classYear": "Junior",
-    "pointsPlusStdDev": 38.3,
-    "volatilityPctile": 14
+    "mpg": 14.8,
+    "position": "C",
+    "jersey": "3",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 43.2,
+    "volatilityPctile": 24
   },
   {
     "id": 5061581,
@@ -10575,7 +10575,7 @@
     "gp": 25,
     "ppg": 4.2,
     "adjPpg": 4.2,
-    "pointsPlus": 44,
+    "pointsPlus": 43,
     "mpg": 19.0,
     "position": "G",
     "jersey": "2",
@@ -10602,12 +10602,30 @@
     "volatilityPctile": 28
   },
   {
+    "id": 4700880,
+    "name": "Yame Butler",
+    "team": "BUT",
+    "teamName": "Butler Bulldogs",
+    "conference": "Big East",
+    "rank": 590,
+    "gp": 25,
+    "ppg": 4.1,
+    "adjPpg": 4.1,
+    "pointsPlus": 43,
+    "mpg": 13.6,
+    "position": "G",
+    "jersey": "8",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 30.0,
+    "volatilityPctile": 4
+  },
+  {
     "id": 5115357,
     "name": "Elijah Malone",
     "team": "COLO",
     "teamName": "Colorado Buffaloes",
     "conference": "Big 12",
-    "rank": 590,
+    "rank": 591,
     "gp": 25,
     "ppg": 4.2,
     "adjPpg": 4.1,
@@ -10617,7 +10635,7 @@
     "jersey": "50",
     "classYear": "Senior",
     "pointsPlusStdDev": 39.7,
-    "volatilityPctile": 17
+    "volatilityPctile": 16
   },
   {
     "id": 5106059,
@@ -10625,7 +10643,7 @@
     "team": "NCSU",
     "teamName": "NC State Wolfpack",
     "conference": "ACC",
-    "rank": 591,
+    "rank": 592,
     "gp": 22,
     "ppg": 4.0,
     "adjPpg": 4.1,
@@ -10643,7 +10661,7 @@
     "team": "KSU",
     "teamName": "Kansas State Wildcats",
     "conference": "Big 12",
-    "rank": 592,
+    "rank": 593,
     "gp": 15,
     "ppg": 4.1,
     "adjPpg": 4.1,
@@ -10661,7 +10679,7 @@
     "team": "KU",
     "teamName": "Kansas Jayhawks",
     "conference": "Big 12",
-    "rank": 593,
+    "rank": 594,
     "gp": 25,
     "ppg": 3.9,
     "adjPpg": 4.0,
@@ -10671,7 +10689,7 @@
     "jersey": "11",
     "classYear": "Sophomore",
     "pointsPlusStdDev": 38.5,
-    "volatilityPctile": 15
+    "volatilityPctile": 14
   },
   {
     "id": 5171788,
@@ -10679,7 +10697,7 @@
     "team": "MISS",
     "teamName": "Ole Miss Rebels",
     "conference": "SEC",
-    "rank": 594,
+    "rank": 595,
     "gp": 25,
     "ppg": 4.2,
     "adjPpg": 4.0,
@@ -10688,26 +10706,8 @@
     "position": "G",
     "jersey": "8",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 43.0,
+    "pointsPlusStdDev": 42.9,
     "volatilityPctile": 24
-  },
-  {
-    "id": 5311946,
-    "name": "Efeosa Oliogu-Elabor",
-    "team": "BUT",
-    "teamName": "Butler Bulldogs",
-    "conference": "Big East",
-    "rank": 595,
-    "gp": 18,
-    "ppg": 3.9,
-    "adjPpg": 4.0,
-    "pointsPlus": 41,
-    "mpg": 13.9,
-    "position": "F",
-    "jersey": "4",
-    "classYear": "Freshman",
-    "pointsPlusStdDev": 35.9,
-    "volatilityPctile": 11
   },
   {
     "id": 5105543,
@@ -10728,30 +10728,12 @@
     "volatilityPctile": 3
   },
   {
-    "id": 4700880,
-    "name": "Yame Butler",
-    "team": "BUT",
-    "teamName": "Butler Bulldogs",
-    "conference": "Big East",
-    "rank": 597,
-    "gp": 24,
-    "ppg": 4.0,
-    "adjPpg": 4.0,
-    "pointsPlus": 41,
-    "mpg": 13.1,
-    "position": "G",
-    "jersey": "8",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 29.7,
-    "volatilityPctile": 4
-  },
-  {
     "id": 5101668,
     "name": "Kayvaun Mulready",
     "team": "GTWN",
     "teamName": "Georgetown Hoyas",
     "conference": "Big East",
-    "rank": 598,
+    "rank": 597,
     "gp": 23,
     "ppg": 3.8,
     "adjPpg": 3.9,
@@ -10760,7 +10742,7 @@
     "position": "G",
     "jersey": "45",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 48.2,
+    "pointsPlusStdDev": 48.3,
     "volatilityPctile": 37
   },
   {
@@ -10769,7 +10751,7 @@
     "team": "TENN",
     "teamName": "Tennessee Volunteers",
     "conference": "SEC",
-    "rank": 599,
+    "rank": 598,
     "gp": 10,
     "ppg": 3.8,
     "adjPpg": 3.9,
@@ -10787,7 +10769,7 @@
     "team": "TTU",
     "teamName": "Texas Tech Red Raiders",
     "conference": "Big 12",
-    "rank": 600,
+    "rank": 599,
     "gp": 24,
     "ppg": 4.1,
     "adjPpg": 3.9,
@@ -10805,7 +10787,7 @@
     "team": "WASH",
     "teamName": "Washington Huskies",
     "conference": "Big Ten",
-    "rank": 601,
+    "rank": 600,
     "gp": 10,
     "ppg": 3.7,
     "adjPpg": 3.9,
@@ -10823,7 +10805,7 @@
     "team": "ND",
     "teamName": "Notre Dame Fighting Irish",
     "conference": "ACC",
-    "rank": 602,
+    "rank": 601,
     "gp": 26,
     "ppg": 3.8,
     "adjPpg": 3.9,
@@ -10834,6 +10816,24 @@
     "classYear": "Sophomore",
     "pointsPlusStdDev": 27.3,
     "volatilityPctile": 3
+  },
+  {
+    "id": 5311946,
+    "name": "Efeosa Oliogu-Elabor",
+    "team": "BUT",
+    "teamName": "Butler Bulldogs",
+    "conference": "Big East",
+    "rank": 602,
+    "gp": 19,
+    "ppg": 3.8,
+    "adjPpg": 3.9,
+    "pointsPlus": 41,
+    "mpg": 14.3,
+    "position": "F",
+    "jersey": "4",
+    "classYear": "Freshman",
+    "pointsPlusStdDev": 35.1,
+    "volatilityPctile": 10
   },
   {
     "id": 5312293,
@@ -10851,7 +10851,7 @@
     "jersey": "15",
     "classYear": "Freshman",
     "pointsPlusStdDev": 40.1,
-    "volatilityPctile": 18
+    "volatilityPctile": 17
   },
   {
     "id": 5174946,
@@ -10868,7 +10868,7 @@
     "position": "G",
     "jersey": "11",
     "classYear": "Senior",
-    "pointsPlusStdDev": 35.5,
+    "pointsPlusStdDev": 35.4,
     "volatilityPctile": 10
   },
   {
@@ -10922,8 +10922,8 @@
     "position": "F",
     "jersey": "21",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 39.0,
-    "volatilityPctile": 15
+    "pointsPlusStdDev": 39.2,
+    "volatilityPctile": 16
   },
   {
     "id": 4897890,
@@ -10952,13 +10952,13 @@
     "rank": 609,
     "gp": 25,
     "ppg": 3.7,
-    "adjPpg": 3.7,
+    "adjPpg": 3.8,
     "pointsPlus": 39,
     "mpg": 14.4,
     "position": "F",
     "jersey": "0",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 34.9,
+    "pointsPlusStdDev": 35.0,
     "volatilityPctile": 9
   },
   {
@@ -11012,8 +11012,8 @@
     "position": "F",
     "jersey": "0",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 38.2,
-    "volatilityPctile": 14
+    "pointsPlusStdDev": 38.1,
+    "volatilityPctile": 13
   },
   {
     "id": 5101650,
@@ -11025,13 +11025,13 @@
     "gp": 13,
     "ppg": 3.8,
     "adjPpg": 3.7,
-    "pointsPlus": 38,
+    "pointsPlus": 39,
     "mpg": 13.3,
     "position": "G",
     "jersey": "24",
     "classYear": "Sophomore",
     "pointsPlusStdDev": 31.7,
-    "volatilityPctile": 5
+    "volatilityPctile": 6
   },
   {
     "id": 5241440,
@@ -11102,7 +11102,7 @@
     "position": "G",
     "jersey": "2",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 40.3,
+    "pointsPlusStdDev": 40.4,
     "volatilityPctile": 18
   },
   {
@@ -11156,7 +11156,7 @@
     "position": "C",
     "jersey": "22",
     "classYear": "Junior",
-    "pointsPlusStdDev": 33.2,
+    "pointsPlusStdDev": 33.3,
     "volatilityPctile": 8
   },
   {
@@ -11178,30 +11178,12 @@
     "volatilityPctile": 32
   },
   {
-    "id": 5105681,
-    "name": "Josh Rivera",
-    "team": "HALL",
-    "teamName": "Seton Hall Pirates",
-    "conference": "Big East",
-    "rank": 622,
-    "gp": 22,
-    "ppg": 3.5,
-    "adjPpg": 3.5,
-    "pointsPlus": 37,
-    "mpg": 12.3,
-    "position": "F",
-    "jersey": "7",
-    "classYear": "Senior",
-    "pointsPlusStdDev": 37.0,
-    "volatilityPctile": 12
-  },
-  {
     "id": 5107878,
     "name": "C.J. Jones",
     "team": "KSU",
     "teamName": "Kansas State Wildcats",
     "conference": "Big 12",
-    "rank": 623,
+    "rank": 622,
     "gp": 24,
     "ppg": 3.3,
     "adjPpg": 3.5,
@@ -11210,7 +11192,7 @@
     "position": "G",
     "jersey": "3",
     "classYear": "Senior",
-    "pointsPlusStdDev": 37.4,
+    "pointsPlusStdDev": 37.5,
     "volatilityPctile": 13
   },
   {
@@ -11219,7 +11201,7 @@
     "team": "RUTG",
     "teamName": "Rutgers Scarlet Knights",
     "conference": "Big Ten",
-    "rank": 624,
+    "rank": 623,
     "gp": 21,
     "ppg": 3.4,
     "adjPpg": 3.5,
@@ -11230,6 +11212,24 @@
     "classYear": "Freshman",
     "pointsPlusStdDev": 49.8,
     "volatilityPctile": 41
+  },
+  {
+    "id": 5105681,
+    "name": "Josh Rivera",
+    "team": "HALL",
+    "teamName": "Seton Hall Pirates",
+    "conference": "Big East",
+    "rank": 624,
+    "gp": 23,
+    "ppg": 3.4,
+    "adjPpg": 3.5,
+    "pointsPlus": 36,
+    "mpg": 12.1,
+    "position": "F",
+    "jersey": "7",
+    "classYear": "Senior",
+    "pointsPlusStdDev": 36.5,
+    "volatilityPctile": 11
   },
   {
     "id": 4433265,
@@ -11331,7 +11331,7 @@
     "gp": 24,
     "ppg": 3.3,
     "adjPpg": 3.2,
-    "pointsPlus": 34,
+    "pointsPlus": 33,
     "mpg": 12.3,
     "position": "F",
     "jersey": "5",
@@ -11552,7 +11552,7 @@
     "position": "G",
     "jersey": "11",
     "classYear": "Junior",
-    "pointsPlusStdDev": 30.8,
+    "pointsPlusStdDev": 30.7,
     "volatilityPctile": 5
   },
   {
@@ -11588,7 +11588,7 @@
     "position": "F",
     "jersey": "4",
     "classYear": "Sophomore",
-    "pointsPlusStdDev": 25.2,
+    "pointsPlusStdDev": 25.3,
     "volatilityPctile": 3
   },
   {
@@ -11637,7 +11637,7 @@
     "gp": 24,
     "ppg": 2.5,
     "adjPpg": 2.4,
-    "pointsPlus": 26,
+    "pointsPlus": 25,
     "mpg": 12.4,
     "position": "G",
     "jersey": "5",
@@ -11732,7 +11732,7 @@
     "position": "G",
     "jersey": "9",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 26.7,
+    "pointsPlusStdDev": 26.6,
     "volatilityPctile": 3
   },
   {
@@ -11750,7 +11750,7 @@
     "position": "F",
     "jersey": "13",
     "classYear": "Senior",
-    "pointsPlusStdDev": 25.4,
+    "pointsPlusStdDev": 25.5,
     "volatilityPctile": 3
   },
   {
@@ -11912,7 +11912,7 @@
     "position": "G",
     "jersey": "11",
     "classYear": "Freshman",
-    "pointsPlusStdDev": 21.9,
+    "pointsPlusStdDev": 21.8,
     "volatilityPctile": 1
   }
 ]

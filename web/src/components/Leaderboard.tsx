@@ -76,7 +76,7 @@ export default function Leaderboard({ players }: { players: LeaderboardPlayer[] 
               <ColHeader field="rank" label="#" className="w-12" />
               <ColHeader field="name" label="Player" />
               <ColHeader field="team" label="Team" className="w-16" />
-              <ColHeader field="conference" label="Conf" className="w-20" />
+              <ColHeader field="conference" label="Conf" className="w-24" />
               <ColHeader field="gp" label="GP" className="w-14" />
               <ColHeader field="ppg" label="PPG" className="w-16" />
               <ColHeader field="adjPpg" label="Adj PPG" className="w-20" />
@@ -107,7 +107,7 @@ export default function Leaderboard({ players }: { players: LeaderboardPlayer[] 
                 </td>
                 <td className="px-3 py-2.5 text-sm text-slate-300">{player.team}</td>
                 <td className="px-3 py-2.5">
-                  <span className={`inline-block rounded-full px-2 py-0.5 text-xs font-medium text-white ${getConferenceColor(player.conference)}`}>
+                  <span className={`inline-block whitespace-nowrap rounded-full px-2 py-0.5 text-xs font-medium text-white ${getConferenceColor(player.conference)}`}>
                     {player.conference}
                   </span>
                 </td>

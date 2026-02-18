@@ -4,17 +4,17 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 257,
-  "gp": 24,
-  "ppg": 10.8,
-  "adjPpg": 10.6,
-  "pointsPlus": 111,
+  "rank": 262,
+  "gp": 25,
+  "ppg": 10.6,
+  "adjPpg": 10.4,
+  "pointsPlus": 109,
   "mpg": 23.0,
   "position": "F",
   "jersey": "6",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 65.9,
-  "volatilityPctile": 82,
+  "pointsPlusStdDev": 65.3,
+  "volatilityPctile": 81,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -68,7 +68,7 @@
       "min": 17,
       "pts": 3,
       "adjPts": 2.7,
-      "pointsPlus": 29
+      "pointsPlus": 28
     },
     {
       "date": "2025-11-23",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 27,
       "pts": 12,
-      "adjPts": 11.9,
-      "pointsPlus": 124
+      "adjPts": 12.0,
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-10",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 30,
       "pts": 20,
-      "adjPts": 19.3,
-      "pointsPlus": 202
+      "adjPts": 19.4,
+      "pointsPlus": 203
     },
     {
       "date": "2026-01-15",
@@ -158,7 +158,7 @@
       "min": 33,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 182
+      "pointsPlus": 183
     },
     {
       "date": "2026-01-17",
@@ -185,7 +185,7 @@
       "min": 17,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 30
+      "pointsPlus": 29
     },
     {
       "date": "2026-01-29",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 29,
       "pts": 23,
-      "adjPts": 21.9,
-      "pointsPlus": 229
+      "adjPts": 21.6,
+      "pointsPlus": 226
     },
     {
       "date": "2026-02-12",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 30,
       "pts": 11,
-      "adjPts": 10.9,
-      "pointsPlus": 114
+      "adjPts": 11.0,
+      "pointsPlus": 115
     },
     {
       "date": "2026-02-14",
@@ -231,6 +231,15 @@
       "pts": 3,
       "adjPts": 2.7,
       "pointsPlus": 28
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UGA @ UK",
+      "result": "W",
+      "min": 24,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
     }
   ]
 }

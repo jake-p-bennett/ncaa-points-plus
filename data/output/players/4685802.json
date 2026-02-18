@@ -4,17 +4,17 @@
   "team": "FSU",
   "teamName": "Florida State Seminoles",
   "conference": "ACC",
-  "rank": 89,
-  "gp": 25,
-  "ppg": 14.7,
-  "adjPpg": 15.0,
-  "pointsPlus": 157,
-  "mpg": 28.0,
+  "rank": 77,
+  "gp": 26,
+  "ppg": 15.2,
+  "adjPpg": 15.6,
+  "pointsPlus": 164,
+  "mpg": 28.2,
   "position": "G",
   "jersey": "6",
   "classYear": "Senior",
-  "pointsPlusStdDev": 65.1,
-  "volatilityPctile": 81,
+  "pointsPlusStdDev": 72.2,
+  "volatilityPctile": 89,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -23,7 +23,7 @@
       "min": 29,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-12",
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 34,
       "pts": 29,
-      "adjPts": 28.7,
-      "pointsPlus": 300
+      "adjPts": 29.0,
+      "pointsPlus": 304
     },
     {
       "date": "2025-11-19",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 34,
       "pts": 16,
-      "adjPts": 20.9,
+      "adjPts": 20.8,
       "pointsPlus": 218
     },
     {
@@ -104,7 +104,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-17",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 33,
       "pts": 11,
-      "adjPts": 11.5,
+      "adjPts": 11.4,
       "pointsPlus": 120
     },
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 31,
       "pts": 22,
-      "adjPts": 26.8,
-      "pointsPlus": 280
+      "adjPts": 26.6,
+      "pointsPlus": 279
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 21,
       "pts": 10,
-      "adjPts": 9.4,
-      "pointsPlus": 99
+      "adjPts": 9.6,
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 30,
       "pts": 14,
-      "adjPts": 14.6,
-      "pointsPlus": 152
+      "adjPts": 14.3,
+      "pointsPlus": 150
     },
     {
       "date": "2026-01-17",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 31,
       "pts": 20,
-      "adjPts": 20.8,
-      "pointsPlus": 217
+      "adjPts": 20.9,
+      "pointsPlus": 219
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 32,
       "pts": 21,
-      "adjPts": 18.5,
-      "pointsPlus": 193
+      "adjPts": 18.3,
+      "pointsPlus": 192
     },
     {
       "date": "2026-01-29",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 28,
       "pts": 17,
-      "adjPts": 16.5,
-      "pointsPlus": 173
+      "adjPts": 16.7,
+      "pointsPlus": 174
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "FSU vs BC",
+      "result": "W",
+      "min": 32,
+      "pts": 27,
+      "adjPts": 31.5,
+      "pointsPlus": 330
     }
   ]
 }

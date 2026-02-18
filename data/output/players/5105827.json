@@ -4,16 +4,16 @@
   "team": "NEB",
   "teamName": "Nebraska Cornhuskers",
   "conference": "Big Ten",
-  "rank": 553,
-  "gp": 25,
+  "rank": 547,
+  "gp": 26,
   "ppg": 4.7,
-  "adjPpg": 4.7,
-  "pointsPlus": 49,
-  "mpg": 20.6,
+  "adjPpg": 4.8,
+  "pointsPlus": 51,
+  "mpg": 20.7,
   "position": "G",
   "jersey": "31",
   "classYear": "Junior",
-  "pointsPlusStdDev": 37.0,
+  "pointsPlusStdDev": 36.8,
   "volatilityPctile": 12,
   "gameLog": [
     {
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 22,
       "pts": 4,
-      "adjPts": 3.4,
+      "adjPts": 3.5,
       "pointsPlus": 36
     },
     {
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 19,
       "pts": 2,
-      "adjPts": 1.9,
+      "adjPts": 1.8,
       "pointsPlus": 19
     },
     {
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 18,
       "pts": 3,
-      "adjPts": 2.9,
+      "adjPts": 3.0,
       "pointsPlus": 31
     },
     {
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 20,
       "pts": 9,
-      "adjPts": 9.1,
-      "pointsPlus": 95
+      "adjPts": 9.3,
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-17",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 25,
       "pts": 7,
-      "adjPts": 8.1,
-      "pointsPlus": 85
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-28",
@@ -203,7 +203,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 8.2,
-      "pointsPlus": 86
+      "pointsPlus": 85
     },
     {
       "date": "2026-02-01",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 14,
       "pts": 6,
-      "adjPts": 6.5,
-      "pointsPlus": 68
+      "adjPts": 6.4,
+      "pointsPlus": 66
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 10,
       "adjPts": 10.4,
       "pointsPlus": 109
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "NEB @ IOWA",
+      "result": "L",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 7.4,
+      "pointsPlus": 78
     }
   ]
 }

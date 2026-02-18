@@ -4,17 +4,17 @@
   "team": "MIA",
   "teamName": "Miami Hurricanes",
   "conference": "ACC",
-  "rank": 441,
-  "gp": 20,
-  "ppg": 6.6,
-  "adjPpg": 6.8,
-  "pointsPlus": 71,
-  "mpg": 23.0,
+  "rank": 435,
+  "gp": 21,
+  "ppg": 6.8,
+  "adjPpg": 7.0,
+  "pointsPlus": 73,
+  "mpg": 23.4,
   "position": "G",
   "jersey": "34",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 44.4,
-  "volatilityPctile": 28,
+  "pointsPlusStdDev": 44.0,
+  "volatilityPctile": 26,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-11",
@@ -131,7 +131,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 12.4,
-      "pointsPlus": 129
+      "pointsPlus": 130
     },
     {
       "date": "2026-01-21",
@@ -167,7 +167,7 @@
       "min": 35,
       "pts": 12,
       "adjPts": 12.1,
-      "pointsPlus": 126
+      "pointsPlus": 127
     },
     {
       "date": "2026-02-07",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 35,
       "pts": 7,
-      "adjPts": 8.3,
-      "pointsPlus": 86
+      "adjPts": 8.2,
+      "pointsPlus": 85
     },
     {
       "date": "2026-02-11",
@@ -194,7 +194,16 @@
       "min": 22,
       "pts": 6,
       "adjPts": 5.7,
-      "pointsPlus": 59
+      "pointsPlus": 60
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "MIA vs VT",
+      "result": "W",
+      "min": 30,
+      "pts": 10,
+      "adjPts": 9.8,
+      "pointsPlus": 103
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 433,
-  "gp": 25,
-  "ppg": 7.1,
-  "adjPpg": 7.0,
-  "pointsPlus": 73,
-  "mpg": 21.2,
+  "rank": 443,
+  "gp": 26,
+  "ppg": 6.8,
+  "adjPpg": 6.8,
+  "pointsPlus": 71,
+  "mpg": 21.0,
   "position": "G",
   "jersey": "3",
   "classYear": "Junior",
-  "pointsPlusStdDev": 44.0,
-  "volatilityPctile": 27,
+  "pointsPlusStdDev": 45.4,
+  "volatilityPctile": 30,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 23,
       "pts": 6,
-      "adjPts": 5.5,
-      "pointsPlus": 57
+      "adjPts": 5.4,
+      "pointsPlus": 56
     },
     {
       "date": "2025-11-23",
@@ -86,7 +86,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-03",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 29,
       "pts": 13,
-      "adjPts": 12.9,
-      "pointsPlus": 135
+      "adjPts": 13.0,
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-10",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 24,
       "pts": 11,
-      "adjPts": 10.4,
-      "pointsPlus": 108
+      "adjPts": 10.3,
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-29",
@@ -240,6 +240,15 @@
       "pts": 8,
       "adjPts": 7.1,
       "pointsPlus": 75
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UGA @ UK",
+      "result": "W",
+      "min": 15,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

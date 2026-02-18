@@ -4,7 +4,7 @@
   "team": "TA&M",
   "teamName": "Texas A&M Aggies",
   "conference": "SEC",
-  "rank": 264,
+  "rank": 260,
   "gp": 25,
   "ppg": 11.2,
   "adjPpg": 10.5,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 55.4,
-  "volatilityPctile": 58,
+  "pointsPlusStdDev": 55.3,
+  "volatilityPctile": 57,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 28,
       "pts": 14,
-      "adjPts": 12.6,
-      "pointsPlus": 132
+      "adjPts": 12.7,
+      "pointsPlus": 133
     },
     {
       "date": "2025-11-19",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 36,
       "pts": 25,
-      "adjPts": 22.0,
-      "pointsPlus": 230
+      "adjPts": 21.8,
+      "pointsPlus": 228
     },
     {
       "date": "2025-12-15",
@@ -113,7 +113,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-21",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 21,
       "pts": 7,
-      "adjPts": 6.7,
-      "pointsPlus": 70
+      "adjPts": 6.6,
+      "pointsPlus": 69
     },
     {
       "date": "2026-01-07",
@@ -194,7 +194,7 @@
       "min": 22,
       "pts": 5,
       "adjPts": 4.8,
-      "pointsPlus": 50
+      "pointsPlus": 51
     },
     {
       "date": "2026-01-31",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 23,
       "pts": 17,
-      "adjPts": 16.8,
-      "pointsPlus": 176
+      "adjPts": 17.0,
+      "pointsPlus": 178
     },
     {
       "date": "2026-02-12",
@@ -230,7 +230,7 @@
       "min": 29,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 81
+      "pointsPlus": 82
     },
     {
       "date": "2026-02-14",

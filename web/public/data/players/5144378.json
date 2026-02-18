@@ -4,17 +4,17 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 274,
+  "rank": 270,
   "gp": 25,
   "ppg": 9.8,
   "adjPpg": 10.3,
-  "pointsPlus": 107,
+  "pointsPlus": 108,
   "mpg": 25.2,
   "position": "G",
   "jersey": "7",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 61.7,
-  "volatilityPctile": 73,
+  "pointsPlusStdDev": 62.2,
+  "volatilityPctile": 74,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 64
+      "pointsPlus": 65
     },
     {
       "date": "2025-11-12",
@@ -59,7 +59,7 @@
       "min": 36,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-25",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 21,
       "pts": 11,
-      "adjPts": 13.4,
-      "pointsPlus": 140
+      "adjPts": 13.6,
+      "pointsPlus": 142
     },
     {
       "date": "2025-12-14",
@@ -140,7 +140,7 @@
       "min": 26,
       "pts": 4,
       "adjPts": 4.1,
-      "pointsPlus": 42
+      "pointsPlus": 43
     },
     {
       "date": "2026-01-07",
@@ -194,7 +194,7 @@
       "min": 15,
       "pts": 5,
       "adjPts": 5.8,
-      "pointsPlus": 60
+      "pointsPlus": 61
     },
     {
       "date": "2026-02-01",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 30,
       "pts": 18,
-      "adjPts": 19.4,
-      "pointsPlus": 203
+      "adjPts": 19.1,
+      "pointsPlus": 199
     },
     {
       "date": "2026-02-06",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 22,
       "pts": 12,
-      "adjPts": 13.9,
-      "pointsPlus": 145
+      "adjPts": 14.2,
+      "pointsPlus": 149
     },
     {
       "date": "2026-02-11",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 40,
       "pts": 24,
-      "adjPts": 29.1,
-      "pointsPlus": 305
+      "adjPts": 29.6,
+      "pointsPlus": 310
     },
     {
       "date": "2026-02-15",
@@ -239,7 +239,7 @@
       "min": 34,
       "pts": 9,
       "adjPts": 9.1,
-      "pointsPlus": 95
+      "pointsPlus": 96
     }
   ]
 }

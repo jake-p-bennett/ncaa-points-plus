@@ -4,17 +4,17 @@
   "team": "HOU",
   "teamName": "Houston Cougars",
   "conference": "Big 12",
-  "rank": 315,
-  "gp": 25,
-  "ppg": 9.6,
+  "rank": 316,
+  "gp": 26,
+  "ppg": 9.5,
   "adjPpg": 9.4,
   "pointsPlus": 98,
   "mpg": 24.7,
   "position": "F",
   "jersey": "5",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 45.9,
-  "volatilityPctile": 32,
+  "pointsPlusStdDev": 45.3,
+  "volatilityPctile": 29,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-08",
@@ -59,7 +59,7 @@
       "min": 15,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-24",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 30,
       "pts": 8,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.2,
+      "pointsPlus": 86
     },
     {
       "date": "2025-11-25",
@@ -95,7 +95,7 @@
       "min": 28,
       "pts": 15,
       "adjPts": 13.5,
-      "pointsPlus": 141
+      "pointsPlus": 142
     },
     {
       "date": "2025-12-11",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 31,
       "pts": 11,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 23,
       "pts": 11,
-      "adjPts": 10.1,
-      "pointsPlus": 106
+      "adjPts": 10.0,
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 27,
       "pts": 18,
-      "adjPts": 16.1,
-      "pointsPlus": 168
+      "adjPts": 16.3,
+      "pointsPlus": 170
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 34,
       "pts": 8,
       "adjPts": 8.2,
-      "pointsPlus": 86
+      "pointsPlus": 85
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 29,
       "pts": 14,
-      "adjPts": 12.6,
-      "pointsPlus": 132
+      "adjPts": 12.7,
+      "pointsPlus": 133
     },
     {
       "date": "2026-02-08",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 23,
       "pts": 9,
-      "adjPts": 7.7,
+      "adjPts": 7.8,
       "pointsPlus": 81
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "HOU @ ISU",
+      "result": "L",
+      "min": 25,
+      "pts": 7,
+      "adjPts": 8.2,
+      "pointsPlus": 85
     }
   ]
 }

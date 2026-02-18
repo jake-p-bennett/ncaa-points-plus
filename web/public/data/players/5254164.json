@@ -5,15 +5,15 @@
   "teamName": "Minnesota Golden Gophers",
   "conference": "Big Ten",
   "rank": 652,
-  "gp": 23,
+  "gp": 24,
   "ppg": 2.1,
   "adjPpg": 2.2,
   "pointsPlus": 23,
-  "mpg": 13.2,
+  "mpg": 13.3,
   "position": "G",
   "jersey": "9",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 26.6,
+  "pointsPlusStdDev": 26.3,
   "volatilityPctile": 3,
   "gameLog": [
     {
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 18,
       "pts": 2,
-      "adjPts": 2.2,
-      "pointsPlus": 23
+      "adjPts": 2.1,
+      "pointsPlus": 22
     },
     {
       "date": "2025-12-14",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 15,
       "pts": 3,
-      "adjPts": 3.6,
-      "pointsPlus": 38
+      "adjPts": 3.7,
+      "pointsPlus": 39
     },
     {
       "date": "2026-01-10",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 25,
       "pts": 8,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.5,
+      "pointsPlus": 99
     },
     {
       "date": "2026-01-29",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 19,
       "pts": 2,
-      "adjPts": 1.9,
+      "adjPts": 1.8,
       "pointsPlus": 19
     },
     {
@@ -222,6 +222,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "MINN @ ORE",
+      "result": "W",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
     }
   ]
 }

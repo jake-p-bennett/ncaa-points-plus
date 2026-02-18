@@ -4,16 +4,16 @@
   "team": "BC",
   "teamName": "Boston College Eagles",
   "conference": "ACC",
-  "rank": 444,
-  "gp": 23,
-  "ppg": 6.7,
-  "adjPpg": 6.8,
-  "pointsPlus": 71,
-  "mpg": 20.2,
+  "rank": 432,
+  "gp": 24,
+  "ppg": 7.0,
+  "adjPpg": 7.0,
+  "pointsPlus": 74,
+  "mpg": 20.8,
   "position": "G",
   "jersey": "10",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 57.8,
+  "pointsPlusStdDev": 58.0,
   "volatilityPctile": 64,
   "gameLog": [
     {
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 27,
       "pts": 14,
-      "adjPts": 13.3,
-      "pointsPlus": 139
+      "adjPts": 13.2,
+      "pointsPlus": 138
     },
     {
       "date": "2025-12-06",
@@ -86,7 +86,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-11",
@@ -104,7 +104,7 @@
       "min": 32,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-28",
@@ -131,7 +131,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 5.7,
-      "pointsPlus": 59
+      "pointsPlus": 60
     },
     {
       "date": "2026-01-10",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 21,
       "pts": 11,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 10.8,
+      "pointsPlus": 113
     },
     {
       "date": "2026-01-14",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 21,
       "pts": 5,
-      "adjPts": 5.2,
-      "pointsPlus": 54
+      "adjPts": 5.1,
+      "pointsPlus": 53
     },
     {
       "date": "2026-01-22",
@@ -176,7 +176,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 150
+      "pointsPlus": 151
     },
     {
       "date": "2026-01-31",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 12,
       "pts": 4,
-      "adjPts": 4.9,
+      "adjPts": 4.8,
       "pointsPlus": 51
     },
     {
@@ -212,7 +212,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 141
+      "pointsPlus": 142
     },
     {
       "date": "2026-02-14",
@@ -221,7 +221,16 @@
       "min": 30,
       "pts": 12,
       "adjPts": 12.1,
-      "pointsPlus": 126
+      "pointsPlus": 127
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "BC @ FSU",
+      "result": "L",
+      "min": 36,
+      "pts": 14,
+      "adjPts": 12.6,
+      "pointsPlus": 132
     }
   ]
 }

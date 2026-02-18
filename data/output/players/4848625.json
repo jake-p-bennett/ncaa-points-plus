@@ -4,17 +4,17 @@
   "team": "TEX",
   "teamName": "Texas Longhorns",
   "conference": "SEC",
-  "rank": 54,
-  "gp": 25,
-  "ppg": 17.6,
-  "adjPpg": 16.9,
-  "pointsPlus": 177,
-  "mpg": 31.6,
+  "rank": 52,
+  "gp": 26,
+  "ppg": 17.7,
+  "adjPpg": 17.0,
+  "pointsPlus": 178,
+  "mpg": 31.2,
   "position": "G",
   "jersey": "3",
   "classYear": "Junior",
-  "pointsPlusStdDev": 69.7,
-  "volatilityPctile": 88,
+  "pointsPlusStdDev": 68.6,
+  "volatilityPctile": 87,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -22,8 +22,8 @@
       "result": "L",
       "min": 36,
       "pts": 16,
-      "adjPts": 19.5,
-      "pointsPlus": 204
+      "adjPts": 19.4,
+      "pointsPlus": 203
     },
     {
       "date": "2025-11-08",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 35,
       "pts": 24,
-      "adjPts": 21.5,
-      "pointsPlus": 224
+      "adjPts": 21.7,
+      "pointsPlus": 227
     },
     {
       "date": "2025-11-26",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 29,
       "pts": 14,
-      "adjPts": 13.2,
-      "pointsPlus": 138
+      "adjPts": 13.4,
+      "pointsPlus": 140
     },
     {
       "date": "2025-12-04",
@@ -140,7 +140,7 @@
       "min": 37,
       "pts": 34,
       "adjPts": 31.1,
-      "pointsPlus": 325
+      "pointsPlus": 326
     },
     {
       "date": "2026-01-07",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 36,
       "pts": 29,
-      "adjPts": 29.2,
-      "pointsPlus": 305
+      "adjPts": 28.9,
+      "pointsPlus": 302
     },
     {
       "date": "2026-01-24",
@@ -221,7 +221,7 @@
       "min": 38,
       "pts": 22,
       "adjPts": 21.3,
-      "pointsPlus": 222
+      "pointsPlus": 223
     },
     {
       "date": "2026-02-07",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 37,
       "pts": 25,
-      "adjPts": 24.3,
-      "pointsPlus": 254
+      "adjPts": 24.4,
+      "pointsPlus": 255
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "TEX vs LSU",
+      "result": "W",
+      "min": 21,
+      "pts": 21,
+      "adjPts": 19.8,
+      "pointsPlus": 207
     }
   ]
 }

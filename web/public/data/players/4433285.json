@@ -4,7 +4,7 @@
   "team": "MIZ",
   "teamName": "Missouri Tigers",
   "conference": "SEC",
-  "rank": 56,
+  "rank": 55,
   "gp": 25,
   "ppg": 17.2,
   "adjPpg": 16.8,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "25",
   "classYear": "Senior",
-  "pointsPlusStdDev": 64.2,
+  "pointsPlusStdDev": 64.4,
   "volatilityPctile": 80,
   "gameLog": [
     {
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 36,
       "pts": 18,
-      "adjPts": 20.9,
-      "pointsPlus": 218
+      "adjPts": 21.4,
+      "pointsPlus": 224
     },
     {
       "date": "2025-11-18",
@@ -95,7 +95,7 @@
       "min": 38,
       "pts": 26,
       "adjPts": 26.7,
-      "pointsPlus": 279
+      "pointsPlus": 280
     },
     {
       "date": "2025-12-07",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 36,
       "pts": 14,
-      "adjPts": 13.9,
-      "pointsPlus": 145
+      "adjPts": 14.0,
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-08",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 37,
       "pts": 21,
-      "adjPts": 21.1,
-      "pointsPlus": 221
+      "adjPts": 20.9,
+      "pointsPlus": 219
     },
     {
       "date": "2026-01-10",
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 37,
       "pts": 20,
-      "adjPts": 17.3,
+      "adjPts": 17.4,
       "pointsPlus": 181
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 25,
       "pts": 13,
-      "adjPts": 12.4,
-      "pointsPlus": 129
+      "adjPts": 12.2,
+      "pointsPlus": 128
     },
     {
       "date": "2026-01-21",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 36,
       "pts": 20,
-      "adjPts": 19.3,
-      "pointsPlus": 202
+      "adjPts": 19.4,
+      "pointsPlus": 203
     },
     {
       "date": "2026-02-12",
@@ -230,7 +230,7 @@
       "min": 38,
       "pts": 9,
       "adjPts": 7.6,
-      "pointsPlus": 79
+      "pointsPlus": 80
     },
     {
       "date": "2026-02-15",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 39,
       "pts": 16,
-      "adjPts": 15.1,
-      "pointsPlus": 157
+      "adjPts": 14.9,
+      "pointsPlus": 156
     }
   ]
 }

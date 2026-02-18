@@ -4,7 +4,7 @@
   "team": "NU",
   "teamName": "Northwestern Wildcats",
   "conference": "Big Ten",
-  "rank": 233,
+  "rank": 230,
   "gp": 25,
   "ppg": 10.7,
   "adjPpg": 11.0,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "22",
   "classYear": "Junior",
-  "pointsPlusStdDev": 74.4,
+  "pointsPlusStdDev": 74.7,
   "volatilityPctile": 91,
   "gameLog": [
     {
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 31,
       "pts": 21,
-      "adjPts": 19.5,
-      "pointsPlus": 204
+      "adjPts": 19.4,
+      "pointsPlus": 203
     },
     {
       "date": "2025-12-06",
@@ -104,7 +104,7 @@
       "min": 19,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-17",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 31,
       "pts": 19,
-      "adjPts": 22.0,
-      "pointsPlus": 230
+      "adjPts": 22.6,
+      "pointsPlus": 236
     },
     {
       "date": "2026-01-08",
@@ -149,7 +149,7 @@
       "min": 21,
       "pts": 14,
       "adjPts": 14.2,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-15",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 7,
       "pts": 2,
-      "adjPts": 2.4,
-      "pointsPlus": 25
+      "adjPts": 2.5,
+      "pointsPlus": 26
     },
     {
       "date": "2026-02-12",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 26,
       "pts": 11,
-      "adjPts": 11.3,
-      "pointsPlus": 118
+      "adjPts": 11.2,
+      "pointsPlus": 117
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 21,
       "pts": 6,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 7.1,
+      "pointsPlus": 74
     }
   ]
 }

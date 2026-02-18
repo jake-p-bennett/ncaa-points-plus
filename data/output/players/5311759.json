@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "7",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 32.8,
+  "pointsPlusStdDev": 32.7,
   "volatilityPctile": 7,
   "gameLog": [
     {
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 7,
       "pts": 2,
-      "adjPts": 1.8,
+      "adjPts": 1.7,
       "pointsPlus": 18
     },
     {
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 7,
       "pts": 1,
-      "adjPts": 1.0,
+      "adjPts": 0.9,
       "pointsPlus": 10
     },
     {
@@ -176,7 +176,7 @@
       "min": 1,
       "pts": 2,
       "adjPts": 1.8,
-      "pointsPlus": 18
+      "pointsPlus": 19
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 27,
       "pts": 11,
-      "adjPts": 11.1,
-      "pointsPlus": 116
+      "adjPts": 11.0,
+      "pointsPlus": 115
     },
     {
       "date": "2026-01-31",

@@ -4,17 +4,17 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 332,
+  "rank": 330,
   "gp": 25,
   "ppg": 8.9,
   "adjPpg": 9.1,
-  "pointsPlus": 95,
+  "pointsPlus": 96,
   "mpg": 29.3,
   "position": "F",
   "jersey": "13",
   "classYear": "Senior",
-  "pointsPlusStdDev": 56.3,
-  "volatilityPctile": 61,
+  "pointsPlusStdDev": 56.4,
+  "volatilityPctile": 60,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -41,7 +41,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-15",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 32,
       "pts": 5,
-      "adjPts": 6.1,
-      "pointsPlus": 63
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2025-12-14",
@@ -113,7 +113,7 @@
       "min": 30,
       "pts": 8,
       "adjPts": 8.2,
-      "pointsPlus": 86
+      "pointsPlus": 85
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 11.1,
-      "pointsPlus": 116
+      "pointsPlus": 117
     },
     {
       "date": "2025-12-28",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 32,
       "pts": 3,
-      "adjPts": 3.0,
+      "adjPts": 3.1,
       "pointsPlus": 32
     },
     {
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 34,
       "pts": 17,
-      "adjPts": 18.2,
-      "pointsPlus": 190
+      "adjPts": 18.1,
+      "pointsPlus": 189
     },
     {
       "date": "2026-01-14",
@@ -185,7 +185,7 @@
       "min": 27,
       "pts": 6,
       "adjPts": 6.5,
-      "pointsPlus": 67
+      "pointsPlus": 68
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 15.0,
-      "pointsPlus": 157
+      "adjPts": 15.1,
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-01",
@@ -212,7 +212,7 @@
       "min": 28,
       "pts": 20,
       "adjPts": 19.7,
-      "pointsPlus": 205
+      "pointsPlus": 206
     },
     {
       "date": "2026-02-08",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 26,
       "pts": 2,
-      "adjPts": 2.3,
-      "pointsPlus": 24
+      "adjPts": 2.4,
+      "pointsPlus": 25
     },
     {
       "date": "2026-02-11",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 39,
       "pts": 12,
-      "adjPts": 14.6,
-      "pointsPlus": 152
+      "adjPts": 14.8,
+      "pointsPlus": 155
     },
     {
       "date": "2026-02-15",

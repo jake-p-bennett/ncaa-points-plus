@@ -4,16 +4,16 @@
   "team": "LOU",
   "teamName": "Louisville Cardinals",
   "conference": "ACC",
-  "rank": 24,
-  "gp": 24,
-  "ppg": 18.7,
-  "adjPpg": 19.3,
-  "pointsPlus": 202,
-  "mpg": 30.0,
+  "rank": 27,
+  "gp": 25,
+  "ppg": 18.4,
+  "adjPpg": 19.0,
+  "pointsPlus": 198,
+  "mpg": 30.1,
   "position": "G",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 73.7,
+  "pointsPlusStdDev": 74.5,
   "volatilityPctile": 91,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 19,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-07",
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 32,
       "pts": 24,
-      "adjPts": 24.2,
-      "pointsPlus": 253
+      "adjPts": 23.9,
+      "pointsPlus": 250
     },
     {
       "date": "2025-11-15",
@@ -59,7 +59,7 @@
       "min": 34,
       "pts": 25,
       "adjPts": 30.0,
-      "pointsPlus": 313
+      "pointsPlus": 314
     },
     {
       "date": "2025-11-25",
@@ -77,7 +77,7 @@
       "min": 24,
       "pts": 32,
       "adjPts": 32.0,
-      "pointsPlus": 334
+      "pointsPlus": 335
     },
     {
       "date": "2025-12-04",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 33,
       "pts": 24,
-      "adjPts": 29.2,
-      "pointsPlus": 305
+      "adjPts": 29.1,
+      "pointsPlus": 304
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 32,
       "pts": 15,
-      "adjPts": 14.6,
-      "pointsPlus": 152
+      "adjPts": 14.7,
+      "pointsPlus": 154
     },
     {
       "date": "2026-01-27",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 37,
       "pts": 18,
-      "adjPts": 21.9,
-      "pointsPlus": 229
+      "adjPts": 21.8,
+      "pointsPlus": 228
     },
     {
       "date": "2026-01-31",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 34,
       "pts": 12,
-      "adjPts": 10.6,
+      "adjPts": 10.5,
       "pointsPlus": 110
     },
     {
@@ -212,7 +212,7 @@
       "min": 26,
       "pts": 11,
       "adjPts": 10.2,
-      "pointsPlus": 106
+      "pointsPlus": 107
     },
     {
       "date": "2026-02-10",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 29,
       "pts": 31,
-      "adjPts": 29.2,
-      "pointsPlus": 305
+      "adjPts": 29.6,
+      "pointsPlus": 310
     },
     {
       "date": "2026-02-14",
@@ -229,8 +229,17 @@
       "result": "W",
       "min": 31,
       "pts": 14,
-      "adjPts": 12.9,
-      "pointsPlus": 135
+      "adjPts": 12.8,
+      "pointsPlus": 134
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "LOU @ SMU",
+      "result": "L",
+      "min": 33,
+      "pts": 12,
+      "adjPts": 10.5,
+      "pointsPlus": 110
     }
   ]
 }

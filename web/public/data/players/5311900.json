@@ -4,17 +4,17 @@
   "team": "ASU",
   "teamName": "Arizona State Sun Devils",
   "conference": "Big 12",
-  "rank": 411,
-  "gp": 25,
-  "ppg": 7.3,
-  "adjPpg": 7.3,
-  "pointsPlus": 77,
-  "mpg": 20.2,
+  "rank": 428,
+  "gp": 26,
+  "ppg": 7.1,
+  "adjPpg": 7.1,
+  "pointsPlus": 74,
+  "mpg": 19.8,
   "position": "F",
   "jersey": "14",
   "classYear": "Junior",
-  "pointsPlusStdDev": 41.5,
-  "volatilityPctile": 21,
+  "pointsPlusStdDev": 42.0,
+  "volatilityPctile": 22,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -68,7 +68,7 @@
       "min": 31,
       "pts": 8,
       "adjPts": 7.5,
-      "pointsPlus": 79
+      "pointsPlus": 78
     },
     {
       "date": "2025-11-26",
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 36,
       "pts": 13,
-      "adjPts": 13.9,
+      "adjPts": 13.8,
       "pointsPlus": 145
     },
     {
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 24,
       "pts": 4,
-      "adjPts": 3.4,
+      "adjPts": 3.5,
       "pointsPlus": 36
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 16,
       "pts": 14,
-      "adjPts": 18.3,
-      "pointsPlus": 191
+      "adjPts": 18.2,
+      "pointsPlus": 190
     },
     {
       "date": "2026-01-22",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 14,
       "pts": 7,
-      "adjPts": 6.3,
+      "adjPts": 6.4,
       "pointsPlus": 66
     },
     {
@@ -240,6 +240,15 @@
       "pts": 11,
       "adjPts": 9.1,
       "pointsPlus": 95
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "ASU vs TTU",
+      "result": "W",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "ILL",
   "teamName": "Illinois Fighting Illini",
   "conference": "Big Ten",
-  "rank": 412,
+  "rank": 409,
   "gp": 26,
   "ppg": 7.0,
-  "adjPpg": 7.3,
-  "pointsPlus": 76,
+  "adjPpg": 7.4,
+  "pointsPlus": 77,
   "mpg": 17.7,
   "position": "C",
   "jersey": "44",
   "classYear": "Junior",
-  "pointsPlusStdDev": 51.4,
-  "volatilityPctile": 45,
+  "pointsPlusStdDev": 52.2,
+  "volatilityPctile": 47,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 24,
       "pts": 11,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2025-11-15",
@@ -85,7 +85,7 @@
       "result": "L",
       "min": 17,
       "pts": 4,
-      "adjPts": 4.7,
+      "adjPts": 4.8,
       "pointsPlus": 50
     },
     {
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 11,
       "pts": 7,
-      "adjPts": 8.2,
-      "pointsPlus": 85
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2025-12-23",
@@ -122,7 +122,7 @@
       "min": 17,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 81
+      "pointsPlus": 82
     },
     {
       "date": "2025-12-29",
@@ -140,7 +140,7 @@
       "min": 23,
       "pts": 6,
       "adjPts": 5.5,
-      "pointsPlus": 57
+      "pointsPlus": 58
     },
     {
       "date": "2026-01-09",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 15,
       "pts": 8,
-      "adjPts": 9.7,
-      "pointsPlus": 102
+      "adjPts": 9.9,
+      "pointsPlus": 103
     },
     {
       "date": "2026-01-15",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 18,
       "pts": 18,
-      "adjPts": 20.9,
-      "pointsPlus": 218
+      "adjPts": 21.4,
+      "pointsPlus": 224
     },
     {
       "date": "2026-01-22",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 20,
       "pts": 4,
-      "adjPts": 4.3,
-      "pointsPlus": 45
+      "adjPts": 4.2,
+      "pointsPlus": 44
     },
     {
       "date": "2026-01-30",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 20,
       "pts": 7,
-      "adjPts": 8.2,
-      "pointsPlus": 85
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-02-05",
@@ -221,7 +221,7 @@
       "min": 21,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 141
+      "pointsPlus": 142
     },
     {
       "date": "2026-02-08",
@@ -230,7 +230,7 @@
       "min": 26,
       "pts": 5,
       "adjPts": 5.8,
-      "pointsPlus": 60
+      "pointsPlus": 61
     },
     {
       "date": "2026-02-11",

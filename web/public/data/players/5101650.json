@@ -4,7 +4,7 @@
   "team": "NU",
   "teamName": "Northwestern Wildcats",
   "conference": "Big Ten",
-  "rank": 613,
+  "rank": 610,
   "gp": 13,
   "ppg": 3.8,
   "adjPpg": 3.7,
@@ -14,7 +14,7 @@
   "jersey": "24",
   "classYear": "Sophomore",
   "pointsPlusStdDev": 31.7,
-  "volatilityPctile": 6,
+  "volatilityPctile": 5,
   "gameLog": [
     {
       "date": "2025-11-04",

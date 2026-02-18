@@ -4,7 +4,7 @@
   "team": "MSST",
   "teamName": "Mississippi State Bulldogs",
   "conference": "SEC",
-  "rank": 483,
+  "rank": 484,
   "gp": 25,
   "ppg": 6.2,
   "adjPpg": 5.9,
@@ -13,7 +13,7 @@
   "position": "C",
   "jersey": "15",
   "classYear": "Senior",
-  "pointsPlusStdDev": 33.9,
+  "pointsPlusStdDev": 33.8,
   "volatilityPctile": 8,
   "gameLog": [
     {
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 32,
       "pts": 12,
-      "adjPts": 10.6,
+      "adjPts": 10.5,
       "pointsPlus": 110
     },
     {
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 23,
       "pts": 13,
-      "adjPts": 12.4,
-      "pointsPlus": 129
+      "adjPts": 12.2,
+      "pointsPlus": 128
     },
     {
       "date": "2026-01-31",

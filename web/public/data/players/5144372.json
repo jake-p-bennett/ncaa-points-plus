@@ -5,16 +5,16 @@
   "teamName": "Florida Gators",
   "conference": "SEC",
   "rank": 539,
-  "gp": 22,
-  "ppg": 5.4,
+  "gp": 23,
+  "ppg": 5.3,
   "adjPpg": 4.9,
   "pointsPlus": 52,
   "mpg": 12.2,
   "position": "G",
   "jersey": "20",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 39.1,
-  "volatilityPctile": 16,
+  "pointsPlusStdDev": 38.2,
+  "volatilityPctile": 13,
   "gameLog": [
     {
       "date": "2025-11-07",
@@ -68,7 +68,7 @@
       "min": 12,
       "pts": 6,
       "adjPts": 4.5,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2025-12-13",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 14,
       "pts": 8,
-      "adjPts": 7.6,
+      "adjPts": 7.5,
       "pointsPlus": 79
     },
     {
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 16,
       "pts": 12,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 106
     },
     {
@@ -213,6 +213,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "FLA vs SC",
+      "result": "W",
+      "min": 13,
+      "pts": 5,
+      "adjPts": 4.8,
+      "pointsPlus": 51
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "CLEM",
   "teamName": "Clemson Tigers",
   "conference": "ACC",
-  "rank": 503,
+  "rank": 506,
   "gp": 26,
   "ppg": 5.7,
   "adjPpg": 5.6,
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 24,
       "pts": 6,
-      "adjPts": 6.3,
-      "pointsPlus": 65
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-03",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 18,
       "pts": 7,
-      "adjPts": 6.2,
+      "adjPts": 6.1,
       "pointsPlus": 64
     },
     {
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 21,
       "pts": 8,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-21",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 17,
       "pts": 5,
-      "adjPts": 4.7,
-      "pointsPlus": 49
+      "adjPts": 4.8,
+      "pointsPlus": 50
     },
     {
       "date": "2026-01-24",

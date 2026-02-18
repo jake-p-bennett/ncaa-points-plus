@@ -4,7 +4,7 @@
   "team": "UTAH",
   "teamName": "Utah Utes",
   "conference": "Big 12",
-  "rank": 17,
+  "rank": 16,
   "gp": 25,
   "ppg": 20.4,
   "adjPpg": 20.2,
@@ -23,7 +23,7 @@
       "min": 33,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-09",
@@ -32,7 +32,7 @@
       "min": 37,
       "pts": 36,
       "adjPts": 36.0,
-      "pointsPlus": 376
+      "pointsPlus": 377
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 30,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-16",
@@ -112,7 +112,7 @@
       "result": "L",
       "min": 30,
       "pts": 22,
-      "adjPts": 20.1,
+      "adjPts": 20.2,
       "pointsPlus": 211
     },
     {
@@ -140,7 +140,7 @@
       "min": 33,
       "pts": 26,
       "adjPts": 27.0,
-      "pointsPlus": 282
+      "pointsPlus": 283
     },
     {
       "date": "2026-01-08",
@@ -158,7 +158,7 @@
       "min": 35,
       "pts": 25,
       "adjPts": 23.3,
-      "pointsPlus": 243
+      "pointsPlus": 244
     },
     {
       "date": "2026-01-15",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 29,
       "pts": 17,
-      "adjPts": 17.0,
-      "pointsPlus": 178
+      "adjPts": 17.1,
+      "pointsPlus": 179
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 33,
       "pts": 26,
-      "adjPts": 26.7,
-      "pointsPlus": 279
+      "adjPts": 26.6,
+      "pointsPlus": 278
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 32,
       "pts": 33,
-      "adjPts": 28.4,
-      "pointsPlus": 297
+      "adjPts": 28.5,
+      "pointsPlus": 298
     },
     {
       "date": "2026-01-24",
@@ -212,7 +212,7 @@
       "min": 31,
       "pts": 6,
       "adjPts": 5.4,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2026-02-07",
@@ -221,7 +221,7 @@
       "min": 33,
       "pts": 16,
       "adjPts": 18.1,
-      "pointsPlus": 189
+      "pointsPlus": 190
     },
     {
       "date": "2026-02-11",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 31,
       "pts": 12,
-      "adjPts": 15.7,
-      "pointsPlus": 164
+      "adjPts": 15.6,
+      "pointsPlus": 163
     },
     {
       "date": "2026-02-15",

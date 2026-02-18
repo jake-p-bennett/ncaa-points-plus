@@ -4,7 +4,7 @@
   "team": "USC",
   "teamName": "USC Trojans",
   "conference": "Big Ten",
-  "rank": 618,
+  "rank": 616,
   "gp": 24,
   "ppg": 3.5,
   "adjPpg": 3.6,
@@ -13,7 +13,7 @@
   "position": "C",
   "jersey": "45",
   "classYear": "Junior",
-  "pointsPlusStdDev": 48.4,
+  "pointsPlusStdDev": 48.5,
   "volatilityPctile": 38,
   "gameLog": [
     {
@@ -131,7 +131,7 @@
       "min": 24,
       "pts": 5,
       "adjPts": 5.1,
-      "pointsPlus": 54
+      "pointsPlus": 53
     },
     {
       "date": "2026-01-06",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 37,
       "pts": 9,
-      "adjPts": 10.4,
-      "pointsPlus": 109
+      "adjPts": 10.7,
+      "pointsPlus": 112
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 28,
       "pts": 8,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.5,
+      "pointsPlus": 89
     },
     {
       "date": "2026-01-22",
@@ -194,7 +194,7 @@
       "min": 9,
       "pts": 4,
       "adjPts": 4.9,
-      "pointsPlus": 51
+      "pointsPlus": 52
     },
     {
       "date": "2026-02-01",

@@ -4,17 +4,17 @@
   "team": "MSU",
   "teamName": "Michigan State Spartans",
   "conference": "Big Ten",
-  "rank": 424,
-  "gp": 25,
-  "ppg": 7.0,
-  "adjPpg": 7.2,
-  "pointsPlus": 75,
-  "mpg": 16.2,
+  "rank": 414,
+  "gp": 26,
+  "ppg": 7.1,
+  "adjPpg": 7.3,
+  "pointsPlus": 76,
+  "mpg": 16.3,
   "position": "G",
   "jersey": "2",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 47.8,
-  "volatilityPctile": 36,
+  "pointsPlusStdDev": 47.2,
+  "volatilityPctile": 35,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 18,
       "pts": 15,
-      "adjPts": 15.1,
-      "pointsPlus": 158
+      "adjPts": 15.0,
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-21",
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 13,
       "pts": 6,
-      "adjPts": 6.3,
+      "adjPts": 6.2,
       "pointsPlus": 65
     },
     {
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 16,
       "pts": 7,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2025-12-06",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 28,
       "pts": 12,
-      "adjPts": 14.0,
-      "pointsPlus": 146
+      "adjPts": 14.2,
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-06",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 18,
       "pts": 3,
-      "adjPts": 3.5,
-      "pointsPlus": 36
+      "adjPts": 3.6,
+      "pointsPlus": 37
     },
     {
       "date": "2026-02-08",
@@ -230,7 +230,7 @@
       "min": 16,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 12,
       "adjPts": 11.1,
       "pointsPlus": 116
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "MSU vs UCLA",
+      "result": "W",
+      "min": 19,
+      "pts": 9,
+      "adjPts": 9.6,
+      "pointsPlus": 100
     }
   ]
 }

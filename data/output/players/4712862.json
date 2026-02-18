@@ -4,17 +4,17 @@
   "team": "MISS",
   "teamName": "Ole Miss Rebels",
   "conference": "SEC",
-  "rank": 163,
+  "rank": 164,
   "gp": 25,
   "ppg": 13.2,
   "adjPpg": 12.8,
-  "pointsPlus": 133,
+  "pointsPlus": 134,
   "mpg": 23.5,
   "position": "F",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 77.3,
-  "volatilityPctile": 93,
+  "pointsPlusStdDev": 77.4,
+  "volatilityPctile": 94,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 16,
       "pts": 2,
-      "adjPts": 2.4,
-      "pointsPlus": 25
+      "adjPts": 2.5,
+      "pointsPlus": 26
     },
     {
       "date": "2025-11-27",
@@ -85,7 +85,7 @@
       "result": "L",
       "min": 18,
       "pts": 9,
-      "adjPts": 9.3,
+      "adjPts": 9.4,
       "pointsPlus": 98
     },
     {
@@ -95,7 +95,7 @@
       "min": 27,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 186
+      "pointsPlus": 187
     },
     {
       "date": "2025-12-13",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 29,
       "pts": 20,
-      "adjPts": 18.9,
-      "pointsPlus": 197
+      "adjPts": 19.1,
+      "pointsPlus": 200
     },
     {
       "date": "2025-12-30",
@@ -131,7 +131,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-03",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 27,
       "pts": 16,
-      "adjPts": 14.1,
+      "adjPts": 14.2,
       "pointsPlus": 148
     },
     {
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 21,
       "pts": 16,
-      "adjPts": 16.1,
-      "pointsPlus": 168
+      "adjPts": 16.0,
+      "pointsPlus": 167
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 19,
       "pts": 7,
       "adjPts": 7.5,
-      "pointsPlus": 78
+      "pointsPlus": 79
     },
     {
       "date": "2026-02-07",
@@ -239,7 +239,7 @@
       "min": 30,
       "pts": 32,
       "adjPts": 29.3,
-      "pointsPlus": 306
+      "pointsPlus": 307
     }
   ]
 }

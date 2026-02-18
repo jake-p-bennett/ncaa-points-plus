@@ -4,17 +4,17 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 9,
+  "rank": 11,
   "gp": 25,
   "ppg": 21.2,
-  "adjPpg": 21.2,
+  "adjPpg": 21.1,
   "pointsPlus": 221,
   "mpg": 34.1,
   "position": "G",
   "jersey": "5",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 60.4,
-  "volatilityPctile": 71,
+  "pointsPlusStdDev": 60.0,
+  "volatilityPctile": 69,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -31,8 +31,8 @@
       "result": "L",
       "min": 33,
       "pts": 16,
-      "adjPts": 18.4,
-      "pointsPlus": 193
+      "adjPts": 18.5,
+      "pointsPlus": 194
     },
     {
       "date": "2025-11-12",
@@ -41,7 +41,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-15",
@@ -59,7 +59,7 @@
       "min": 33,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-22",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 38,
       "pts": 21,
-      "adjPts": 25.6,
-      "pointsPlus": 267
+      "adjPts": 25.4,
+      "pointsPlus": 266
     },
     {
       "date": "2025-12-04",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 36,
       "pts": 17,
-      "adjPts": 17.0,
-      "pointsPlus": 177
+      "adjPts": 16.7,
+      "pointsPlus": 174
     },
     {
       "date": "2025-12-06",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 34,
       "pts": 20,
-      "adjPts": 20.0,
-      "pointsPlus": 209
+      "adjPts": 20.1,
+      "pointsPlus": 210
     },
     {
       "date": "2025-12-17",
@@ -113,7 +113,7 @@
       "min": 31,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 240
+      "pointsPlus": 241
     },
     {
       "date": "2025-12-20",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 39,
       "pts": 27,
-      "adjPts": 35.3,
-      "pointsPlus": 369
+      "adjPts": 35.1,
+      "pointsPlus": 367
     },
     {
       "date": "2025-12-30",
@@ -140,7 +140,7 @@
       "min": 36,
       "pts": 29,
       "adjPts": 31.1,
-      "pointsPlus": 325
+      "pointsPlus": 326
     },
     {
       "date": "2026-01-08",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 30,
       "pts": 18,
-      "adjPts": 17.4,
-      "pointsPlus": 182
+      "adjPts": 17.5,
+      "pointsPlus": 183
     },
     {
       "date": "2026-01-17",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 35,
       "pts": 31,
-      "adjPts": 29.5,
-      "pointsPlus": 308
+      "adjPts": 29.2,
+      "pointsPlus": 305
     },
     {
       "date": "2026-01-28",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 39,
       "pts": 22,
-      "adjPts": 22.1,
-      "pointsPlus": 232
+      "adjPts": 21.9,
+      "pointsPlus": 229
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 36,
       "pts": 28,
-      "adjPts": 26.6,
-      "pointsPlus": 278
+      "adjPts": 26.3,
+      "pointsPlus": 276
     },
     {
       "date": "2026-02-15",

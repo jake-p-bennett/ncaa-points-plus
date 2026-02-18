@@ -4,7 +4,7 @@
   "team": "CREI",
   "teamName": "Creighton Bluejays",
   "conference": "Big East",
-  "rank": 191,
+  "rank": 192,
   "gp": 26,
   "ppg": 12.0,
   "adjPpg": 12.1,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 50.1,
-  "volatilityPctile": 42,
+  "pointsPlusStdDev": 49.7,
+  "volatilityPctile": 40,
   "gameLog": [
     {
       "date": "2025-11-06",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 39,
       "pts": 15,
-      "adjPts": 13.8,
-      "pointsPlus": 144
+      "adjPts": 13.7,
+      "pointsPlus": 143
     },
     {
       "date": "2025-11-25",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 35,
       "pts": 8,
-      "adjPts": 8.1,
-      "pointsPlus": 85
+      "adjPts": 8.3,
+      "pointsPlus": 86
     },
     {
       "date": "2025-12-03",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 32,
       "pts": 9,
-      "adjPts": 10.5,
-      "pointsPlus": 110
+      "adjPts": 10.7,
+      "pointsPlus": 111
     },
     {
       "date": "2025-12-13",
@@ -104,7 +104,7 @@
       "min": 35,
       "pts": 18,
       "adjPts": 15.5,
-      "pointsPlus": 162
+      "pointsPlus": 163
     },
     {
       "date": "2025-12-17",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 29,
       "pts": 9,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.1,
+      "pointsPlus": 85
     },
     {
       "date": "2025-12-21",
@@ -140,7 +140,7 @@
       "min": 37,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 87
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-04",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 34,
       "pts": 17,
-      "adjPts": 18.7,
-      "pointsPlus": 196
+      "adjPts": 18.3,
+      "pointsPlus": 192
     },
     {
       "date": "2026-01-10",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 36,
       "pts": 19,
-      "adjPts": 17.3,
-      "pointsPlus": 181
+      "adjPts": 17.1,
+      "pointsPlus": 179
     },
     {
       "date": "2026-01-28",
@@ -230,7 +230,7 @@
       "min": 38,
       "pts": 16,
       "adjPts": 20.1,
-      "pointsPlus": 210
+      "pointsPlus": 211
     },
     {
       "date": "2026-02-12",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 36,
       "pts": 14,
-      "adjPts": 15.4,
-      "pointsPlus": 161
+      "adjPts": 15.1,
+      "pointsPlus": 158
     }
   ]
 }

@@ -5,16 +5,16 @@
   "teamName": "Villanova Wildcats",
   "conference": "Big East",
   "rank": 323,
-  "gp": 25,
+  "gp": 26,
   "ppg": 9.4,
-  "adjPpg": 9.3,
+  "adjPpg": 9.2,
   "pointsPlus": 97,
-  "mpg": 27.8,
+  "mpg": 28.2,
   "position": "F",
   "jersey": "33",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 53.1,
-  "volatilityPctile": 50,
+  "pointsPlusStdDev": 52.1,
+  "volatilityPctile": 47,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -68,7 +68,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-01",
@@ -86,7 +86,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-09",
@@ -185,7 +185,7 @@
       "min": 24,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 21
+      "pointsPlus": 22
     },
     {
       "date": "2026-01-24",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 30,
       "pts": 12,
-      "adjPts": 14.2,
+      "adjPts": 14.3,
       "pointsPlus": 149
     },
     {
@@ -240,6 +240,15 @@
       "pts": 7,
       "adjPts": 6.9,
       "pointsPlus": 72
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "VILL @ XAV",
+      "result": "W",
+      "min": 36,
+      "pts": 10,
+      "adjPts": 9.0,
+      "pointsPlus": 94
     }
   ]
 }

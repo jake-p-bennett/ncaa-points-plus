@@ -4,7 +4,7 @@
   "team": "RUTG",
   "teamName": "Rutgers Scarlet Knights",
   "conference": "Big Ten",
-  "rank": 644,
+  "rank": 645,
   "gp": 25,
   "ppg": 2.4,
   "adjPpg": 2.5,
@@ -95,7 +95,7 @@
       "min": 13,
       "pts": 3,
       "adjPts": 3.2,
-      "pointsPlus": 34
+      "pointsPlus": 33
     },
     {
       "date": "2025-12-06",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 14,
       "pts": 2,
-      "adjPts": 2.1,
-      "pointsPlus": 22
+      "adjPts": 2.0,
+      "pointsPlus": 21
     },
     {
       "date": "2025-12-14",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 17,
       "pts": 6,
-      "adjPts": 5.6,
+      "adjPts": 5.5,
       "pointsPlus": 58
     },
     {

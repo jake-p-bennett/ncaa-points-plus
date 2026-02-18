@@ -4,17 +4,17 @@
   "team": "TCU",
   "teamName": "TCU Horned Frogs",
   "conference": "Big 12",
-  "rank": 382,
-  "gp": 24,
-  "ppg": 7.8,
-  "adjPpg": 7.8,
-  "pointsPlus": 81,
-  "mpg": 23.4,
+  "rank": 392,
+  "gp": 25,
+  "ppg": 7.6,
+  "adjPpg": 7.6,
+  "pointsPlus": 79,
+  "mpg": 23.2,
   "position": "G",
   "jersey": "3",
   "classYear": "Junior",
-  "pointsPlusStdDev": 59.8,
-  "volatilityPctile": 69,
+  "pointsPlusStdDev": 59.6,
+  "volatilityPctile": 68,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 22,
       "pts": 9,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.2,
+      "pointsPlus": 96
     },
     {
       "date": "2025-11-20",
@@ -77,7 +77,7 @@
       "min": 28,
       "pts": 11,
       "adjPts": 10.2,
-      "pointsPlus": 107
+      "pointsPlus": 106
     },
     {
       "date": "2025-12-06",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 21,
       "pts": 11,
-      "adjPts": 10.1,
-      "pointsPlus": 106
+      "adjPts": 10.0,
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-07",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 39,
       "pts": 23,
-      "adjPts": 26.0,
-      "pointsPlus": 272
+      "adjPts": 26.1,
+      "pointsPlus": 273
     },
     {
       "date": "2026-01-10",
@@ -176,7 +176,7 @@
       "min": 30,
       "pts": 10,
       "adjPts": 8.3,
-      "pointsPlus": 86
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-24",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 28,
       "pts": 9,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.2,
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-29",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 25,
       "pts": 8,
-      "adjPts": 10.5,
+      "adjPts": 10.4,
       "pointsPlus": 109
     },
     {
@@ -231,6 +231,15 @@
       "pts": 8,
       "adjPts": 6.6,
       "pointsPlus": 69
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "TCU @ UCF",
+      "result": "L",
+      "min": 17,
+      "pts": 3,
+      "adjPts": 2.7,
+      "pointsPlus": 28
     }
   ]
 }

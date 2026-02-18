@@ -4,17 +4,17 @@
   "team": "PUR",
   "teamName": "Purdue Boilermakers",
   "conference": "Big Ten",
-  "rank": 93,
-  "gp": 25,
-  "ppg": 14.7,
-  "adjPpg": 14.7,
-  "pointsPlus": 154,
+  "rank": 90,
+  "gp": 26,
+  "ppg": 14.9,
+  "adjPpg": 15.0,
+  "pointsPlus": 157,
   "mpg": 33.8,
   "position": "G",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 66.6,
-  "volatilityPctile": 84,
+  "pointsPlusStdDev": 66.4,
+  "volatilityPctile": 83,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 32,
       "pts": 15,
-      "adjPts": 17.4,
-      "pointsPlus": 182
+      "adjPts": 17.8,
+      "pointsPlus": 186
     },
     {
       "date": "2025-12-13",
@@ -113,7 +113,7 @@
       "min": 31,
       "pts": 7,
       "adjPts": 6.6,
-      "pointsPlus": 68
+      "pointsPlus": 69
     },
     {
       "date": "2025-12-20",
@@ -131,7 +131,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-04",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 37,
       "pts": 14,
-      "adjPts": 13.0,
-      "pointsPlus": 136
+      "adjPts": 12.9,
+      "pointsPlus": 135
     },
     {
       "date": "2026-01-08",
@@ -149,7 +149,7 @@
       "min": 28,
       "pts": 23,
       "adjPts": 23.8,
-      "pointsPlus": 248
+      "pointsPlus": 249
     },
     {
       "date": "2026-01-10",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 37,
       "pts": 16,
-      "adjPts": 19.4,
-      "pointsPlus": 203
+      "adjPts": 19.8,
+      "pointsPlus": 207
     },
     {
       "date": "2026-01-17",
@@ -194,7 +194,7 @@
       "min": 37,
       "pts": 27,
       "adjPts": 29.0,
-      "pointsPlus": 303
+      "pointsPlus": 304
     },
     {
       "date": "2026-01-28",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 27,
       "pts": 19,
-      "adjPts": 18.1,
+      "adjPts": 18.2,
       "pointsPlus": 190
     },
     {
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 38,
       "pts": 13,
-      "adjPts": 13.2,
-      "pointsPlus": 138
+      "adjPts": 13.4,
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-11",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 40,
       "pts": 13,
-      "adjPts": 15.2,
-      "pointsPlus": 158
+      "adjPts": 15.4,
+      "pointsPlus": 161
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 36,
       "pts": 5,
-      "adjPts": 6.1,
-      "pointsPlus": 63
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "PUR vs MICH",
+      "result": "L",
+      "min": 35,
+      "pts": 20,
+      "adjPts": 20.4,
+      "pointsPlus": 213
     }
   ]
 }

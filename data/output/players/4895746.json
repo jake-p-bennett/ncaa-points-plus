@@ -4,7 +4,7 @@
   "team": "NU",
   "teamName": "Northwestern Wildcats",
   "conference": "Big Ten",
-  "rank": 239,
+  "rank": 238,
   "gp": 26,
   "ppg": 10.4,
   "adjPpg": 10.9,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "4",
   "classYear": "Junior",
-  "pointsPlusStdDev": 78.0,
+  "pointsPlusStdDev": 78.1,
   "volatilityPctile": 95,
   "gameLog": [
     {
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 31,
       "pts": 8,
-      "adjPts": 7.7,
+      "adjPts": 7.8,
       "pointsPlus": 81
     },
     {
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 29,
       "pts": 9,
-      "adjPts": 7.4,
+      "adjPts": 7.5,
       "pointsPlus": 78
     },
     {
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 31,
       "pts": 9,
-      "adjPts": 8.8,
-      "pointsPlus": 92
+      "adjPts": 8.9,
+      "pointsPlus": 93
     },
     {
       "date": "2025-12-13",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 32,
       "pts": 19,
-      "adjPts": 22.0,
-      "pointsPlus": 230
+      "adjPts": 22.6,
+      "pointsPlus": 236
     },
     {
       "date": "2026-01-08",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 9.2,
-      "pointsPlus": 96
+      "adjPts": 9.3,
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-11",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 26,
       "pts": 7,
-      "adjPts": 8.2,
-      "pointsPlus": 85
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-22",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 32,
       "pts": 7,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-02-12",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 28,
       "pts": 20,
-      "adjPts": 20.6,
-      "pointsPlus": 215
+      "adjPts": 20.4,
+      "pointsPlus": 213
     },
     {
       "date": "2026-02-14",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 22,
       "pts": 7,
-      "adjPts": 8.2,
-      "pointsPlus": 85
+      "adjPts": 8.3,
+      "pointsPlus": 87
     }
   ]
 }

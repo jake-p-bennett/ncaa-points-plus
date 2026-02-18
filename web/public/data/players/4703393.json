@@ -4,7 +4,7 @@
   "team": "UVA",
   "teamName": "Virginia Cavaliers",
   "conference": "ACC",
-  "rank": 534,
+  "rank": 532,
   "gp": 21,
   "ppg": 5.1,
   "adjPpg": 5.0,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "11",
   "classYear": "Senior",
-  "pointsPlusStdDev": 43.2,
-  "volatilityPctile": 24,
+  "pointsPlusStdDev": 43.3,
+  "volatilityPctile": 25,
   "gameLog": [
     {
       "date": "2025-11-21",
@@ -95,7 +95,7 @@
       "min": 39,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 81
+      "pointsPlus": 82
     },
     {
       "date": "2026-01-03",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 24,
       "pts": 10,
-      "adjPts": 9.4,
-      "pointsPlus": 99
+      "adjPts": 9.6,
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-08",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 14,
       "pts": 11,
-      "adjPts": 9.7,
+      "adjPts": 9.6,
       "pointsPlus": 101
     },
     {
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 16,
       "pts": 2,
-      "adjPts": 2.4,
-      "pointsPlus": 25
+      "adjPts": 2.3,
+      "pointsPlus": 24
     },
     {
       "date": "2026-02-04",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 15,
       "pts": 4,
-      "adjPts": 4.2,
-      "pointsPlus": 44
+      "adjPts": 4.1,
+      "pointsPlus": 43
     },
     {
       "date": "2026-02-11",
@@ -203,7 +203,7 @@
       "min": 14,
       "pts": 5,
       "adjPts": 4.9,
-      "pointsPlus": 51
+      "pointsPlus": 52
     }
   ]
 }

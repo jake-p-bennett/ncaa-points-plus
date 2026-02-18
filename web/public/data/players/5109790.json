@@ -4,17 +4,17 @@
   "team": "OSU",
   "teamName": "Ohio State Buckeyes",
   "conference": "Big Ten",
-  "rank": 185,
-  "gp": 24,
-  "ppg": 11.8,
-  "adjPpg": 12.3,
-  "pointsPlus": 128,
-  "mpg": 26.5,
+  "rank": 200,
+  "gp": 25,
+  "ppg": 11.4,
+  "adjPpg": 11.9,
+  "pointsPlus": 124,
+  "mpg": 26.2,
   "position": "C",
   "jersey": "13",
   "classYear": "Senior",
-  "pointsPlusStdDev": 55.9,
-  "volatilityPctile": 60,
+  "pointsPlusStdDev": 58.7,
+  "volatilityPctile": 67,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -50,7 +50,7 @@
       "min": 28,
       "pts": 18,
       "adjPts": 18.5,
-      "pointsPlus": 193
+      "pointsPlus": 194
     },
     {
       "date": "2025-11-21",
@@ -68,7 +68,7 @@
       "min": 14,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-29",
@@ -113,7 +113,7 @@
       "min": 28,
       "pts": 12,
       "adjPts": 12.5,
-      "pointsPlus": 131
+      "pointsPlus": 130
     },
     {
       "date": "2025-12-23",
@@ -131,7 +131,7 @@
       "min": 20,
       "pts": 9,
       "adjPts": 9.1,
-      "pointsPlus": 95
+      "pointsPlus": 96
     },
     {
       "date": "2026-01-05",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 33,
       "pts": 8,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.5,
+      "pointsPlus": 99
     },
     {
       "date": "2026-01-09",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 31,
       "pts": 14,
-      "adjPts": 14.2,
-      "pointsPlus": 148
+      "adjPts": 14.5,
+      "pointsPlus": 151
     },
     {
       "date": "2026-01-11",
@@ -158,7 +158,7 @@
       "min": 15,
       "pts": 8,
       "adjPts": 8.3,
-      "pointsPlus": 86
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 28,
       "pts": 11,
-      "adjPts": 12.7,
-      "pointsPlus": 133
+      "adjPts": 13.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-24",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 30,
       "pts": 17,
-      "adjPts": 17.5,
-      "pointsPlus": 183
+      "adjPts": 17.3,
+      "pointsPlus": 181
     },
     {
       "date": "2026-01-31",
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 27,
       "pts": 19,
-      "adjPts": 18.1,
+      "adjPts": 18.2,
       "pointsPlus": 190
     },
     {
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 31,
       "pts": 10,
-      "adjPts": 10.3,
-      "pointsPlus": 108
+      "adjPts": 10.2,
+      "pointsPlus": 107
     },
     {
       "date": "2026-02-11",
@@ -231,6 +231,15 @@
       "pts": 11,
       "adjPts": 12.3,
       "pointsPlus": 128
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "OSU vs WIS",
+      "result": "W",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
     }
   ]
 }

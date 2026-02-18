@@ -4,17 +4,17 @@
   "team": "IOWA",
   "teamName": "Iowa Hawkeyes",
   "conference": "Big Ten",
-  "rank": 437,
-  "gp": 25,
-  "ppg": 6.7,
-  "adjPpg": 6.9,
-  "pointsPlus": 72,
-  "mpg": 26.0,
+  "rank": 426,
+  "gp": 26,
+  "ppg": 6.8,
+  "adjPpg": 7.1,
+  "pointsPlus": 75,
+  "mpg": 26.2,
   "position": "F",
   "jersey": "8",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 39.3,
-  "volatilityPctile": 16,
+  "pointsPlusStdDev": 40.1,
+  "volatilityPctile": 17,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 30,
       "pts": 6,
-      "adjPts": 6.9,
-      "pointsPlus": 72
+      "adjPts": 7.0,
+      "pointsPlus": 73
     },
     {
       "date": "2025-12-06",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 39,
       "pts": 9,
-      "adjPts": 10.4,
-      "pointsPlus": 109
+      "adjPts": 10.7,
+      "pointsPlus": 112
     },
     {
       "date": "2026-01-11",
@@ -158,7 +158,7 @@
       "min": 34,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 31,
       "pts": 5,
-      "adjPts": 5.4,
-      "pointsPlus": 56
+      "adjPts": 5.3,
+      "pointsPlus": 55
     },
     {
       "date": "2026-01-17",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 30,
       "pts": 10,
-      "adjPts": 10.1,
-      "pointsPlus": 106
+      "adjPts": 10.3,
+      "pointsPlus": 108
     },
     {
       "date": "2026-02-05",
@@ -239,7 +239,16 @@
       "min": 19,
       "pts": 3,
       "adjPts": 3.2,
-      "pointsPlus": 34
+      "pointsPlus": 33
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "IOWA vs NEB",
+      "result": "W",
+      "min": 32,
+      "pts": 10,
+      "adjPts": 11.8,
+      "pointsPlus": 124
     }
   ]
 }

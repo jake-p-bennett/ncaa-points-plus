@@ -4,7 +4,7 @@
   "team": "IU",
   "teamName": "Indiana Hoosiers",
   "conference": "Big Ten",
-  "rank": 362,
+  "rank": 357,
   "gp": 26,
   "ppg": 8.1,
   "adjPpg": 8.3,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 56.3,
-  "volatilityPctile": 61,
+  "pointsPlusStdDev": 56.7,
+  "volatilityPctile": 62,
   "gameLog": [
     {
       "date": "2025-11-06",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 19,
       "pts": 10,
-      "adjPts": 11.6,
-      "pointsPlus": 121
+      "adjPts": 11.9,
+      "pointsPlus": 124
     },
     {
       "date": "2025-12-06",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 17,
       "pts": 6,
-      "adjPts": 6.0,
-      "pointsPlus": 63
+      "adjPts": 5.9,
+      "pointsPlus": 62
     },
     {
       "date": "2025-12-10",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 10,
       "pts": 2,
-      "adjPts": 2.3,
-      "pointsPlus": 24
+      "adjPts": 2.4,
+      "pointsPlus": 25
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 16,
       "pts": 6,
-      "adjPts": 6.9,
-      "pointsPlus": 72
+      "adjPts": 7.0,
+      "pointsPlus": 73
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 28,
       "pts": 13,
-      "adjPts": 15.8,
-      "pointsPlus": 165
+      "adjPts": 16.1,
+      "pointsPlus": 168
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 19,
       "pts": 11,
-      "adjPts": 11.3,
-      "pointsPlus": 118
+      "adjPts": 11.2,
+      "pointsPlus": 117
     },
     {
       "date": "2026-01-23",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 14,
       "pts": 2,
-      "adjPts": 2.2,
-      "pointsPlus": 23
+      "adjPts": 2.1,
+      "pointsPlus": 22
     },
     {
       "date": "2026-01-31",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 22,
       "pts": 7,
-      "adjPts": 7.5,
+      "adjPts": 7.4,
       "pointsPlus": 78
     },
     {
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 25,
       "pts": 16,
-      "adjPts": 16.2,
-      "pointsPlus": 170
+      "adjPts": 16.5,
+      "pointsPlus": 173
     },
     {
       "date": "2026-02-15",

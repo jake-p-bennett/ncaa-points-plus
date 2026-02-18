@@ -4,17 +4,17 @@
   "team": "MARQ",
   "teamName": "Marquette Golden Eagles",
   "conference": "Big East",
-  "rank": 172,
+  "rank": 174,
   "gp": 26,
   "ppg": 12.4,
-  "adjPpg": 12.6,
-  "pointsPlus": 132,
+  "adjPpg": 12.5,
+  "pointsPlus": 131,
   "mpg": 28.0,
   "position": "F",
   "jersey": "13",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 65.9,
-  "volatilityPctile": 82,
+  "pointsPlusStdDev": 65.0,
+  "volatilityPctile": 81,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -50,7 +50,7 @@
       "min": 18,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-15",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 26,
       "pts": 10,
-      "adjPts": 9.3,
+      "adjPts": 9.2,
       "pointsPlus": 97
     },
     {
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 27,
       "pts": 19,
-      "adjPts": 20.5,
-      "pointsPlus": 214
+      "adjPts": 20.1,
+      "pointsPlus": 210
     },
     {
       "date": "2025-12-18",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 36,
       "pts": 14,
-      "adjPts": 12.7,
-      "pointsPlus": 133
+      "adjPts": 12.6,
+      "pointsPlus": 132
     },
     {
       "date": "2026-01-10",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 37,
       "pts": 17,
-      "adjPts": 18.7,
-      "pointsPlus": 196
+      "adjPts": 18.3,
+      "pointsPlus": 192
     },
     {
       "date": "2026-01-13",
@@ -194,7 +194,7 @@
       "min": 41,
       "pts": 18,
       "adjPts": 13.6,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-24",
@@ -212,7 +212,7 @@
       "min": 32,
       "pts": 19,
       "adjPts": 18.7,
-      "pointsPlus": 195
+      "pointsPlus": 196
     },
     {
       "date": "2026-01-31",
@@ -221,7 +221,7 @@
       "min": 38,
       "pts": 17,
       "adjPts": 21.4,
-      "pointsPlus": 223
+      "pointsPlus": 224
     },
     {
       "date": "2026-02-07",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 37,
       "pts": 26,
-      "adjPts": 28.6,
-      "pointsPlus": 299
+      "adjPts": 28.1,
+      "pointsPlus": 294
     },
     {
       "date": "2026-02-14",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 35,
       "pts": 24,
-      "adjPts": 21.9,
-      "pointsPlus": 228
+      "adjPts": 21.6,
+      "pointsPlus": 226
     }
   ]
 }

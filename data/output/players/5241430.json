@@ -5,16 +5,16 @@
   "teamName": "Xavier Musketeers",
   "conference": "Big East",
   "rank": 367,
-  "gp": 25,
-  "ppg": 8.0,
-  "adjPpg": 8.3,
-  "pointsPlus": 86,
-  "mpg": 23.4,
+  "gp": 26,
+  "ppg": 7.8,
+  "adjPpg": 8.1,
+  "pointsPlus": 85,
+  "mpg": 23.3,
   "position": "G",
   "jersey": "3",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 62.0,
-  "volatilityPctile": 74,
+  "pointsPlusStdDev": 61.1,
+  "volatilityPctile": 72,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 28,
       "pts": 7,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2025-11-19",
@@ -68,7 +68,7 @@
       "min": 34,
       "pts": 17,
       "adjPts": 14.4,
-      "pointsPlus": 150
+      "pointsPlus": 151
     },
     {
       "date": "2025-11-23",
@@ -131,7 +131,7 @@
       "min": 14,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 21
+      "pointsPlus": 22
     },
     {
       "date": "2025-12-31",
@@ -240,6 +240,15 @@
       "pts": 19,
       "adjPts": 17.8,
       "pointsPlus": 186
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "XAV vs VILL",
+      "result": "L",
+      "min": 21,
+      "pts": 5,
+      "adjPts": 5.4,
+      "pointsPlus": 56
     }
   ]
 }

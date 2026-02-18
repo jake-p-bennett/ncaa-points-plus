@@ -4,17 +4,17 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 209,
-  "gp": 25,
-  "ppg": 12.0,
-  "adjPpg": 11.8,
-  "pointsPlus": 123,
-  "mpg": 25.2,
+  "rank": 201,
+  "gp": 26,
+  "ppg": 12.1,
+  "adjPpg": 11.9,
+  "pointsPlus": 124,
+  "mpg": 25.3,
   "position": "G",
   "jersey": "4",
   "classYear": "Junior",
-  "pointsPlusStdDev": 55.6,
-  "volatilityPctile": 59,
+  "pointsPlusStdDev": 54.9,
+  "volatilityPctile": 55,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 23,
       "pts": 12,
-      "adjPts": 10.9,
-      "pointsPlus": 114
+      "adjPts": 10.8,
+      "pointsPlus": 113
     },
     {
       "date": "2025-11-23",
@@ -122,7 +122,7 @@
       "min": 22,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-30",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 28,
       "pts": 18,
-      "adjPts": 17.8,
-      "pointsPlus": 186
+      "adjPts": 18.0,
+      "pointsPlus": 188
     },
     {
       "date": "2026-01-10",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 28,
       "pts": 9,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-29",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 29,
       "pts": 5,
-      "adjPts": 4.8,
-      "pointsPlus": 50
+      "adjPts": 4.7,
+      "pointsPlus": 49
     },
     {
       "date": "2026-02-12",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 35,
       "pts": 15,
-      "adjPts": 14.9,
-      "pointsPlus": 155
+      "adjPts": 15.0,
+      "pointsPlus": 157
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 16,
       "adjPts": 14.3,
       "pointsPlus": 149
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UGA @ UK",
+      "result": "W",
+      "min": 28,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "KU",
   "teamName": "Kansas Jayhawks",
   "conference": "Big 12",
-  "rank": 594,
+  "rank": 593,
   "gp": 25,
   "ppg": 3.9,
   "adjPpg": 4.0,
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 34,
       "pts": 9,
-      "adjPts": 9.4,
-      "pointsPlus": 98
+      "adjPts": 9.2,
+      "pointsPlus": 96
     },
     {
       "date": "2025-11-27",
@@ -86,7 +86,7 @@
       "min": 28,
       "pts": 7,
       "adjPts": 7.5,
-      "pointsPlus": 78
+      "pointsPlus": 79
     },
     {
       "date": "2025-12-03",
@@ -149,7 +149,7 @@
       "min": 14,
       "pts": 5,
       "adjPts": 5.1,
-      "pointsPlus": 54
+      "pointsPlus": 53
     },
     {
       "date": "2026-01-10",
@@ -167,7 +167,7 @@
       "min": 25,
       "pts": 8,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-17",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 17,
       "pts": 3,
-      "adjPts": 2.8,
+      "adjPts": 2.7,
       "pointsPlus": 29
     },
     {

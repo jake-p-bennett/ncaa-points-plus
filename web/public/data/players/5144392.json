@@ -4,7 +4,7 @@
   "team": "COLO",
   "teamName": "Colorado Buffaloes",
   "conference": "Big 12",
-  "rank": 179,
+  "rank": 178,
   "gp": 26,
   "ppg": 12.5,
   "adjPpg": 12.4,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "7",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 48.2,
+  "pointsPlusStdDev": 48.3,
   "volatilityPctile": 37,
   "gameLog": [
     {
@@ -86,7 +86,7 @@
       "min": 30,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-06",
@@ -113,7 +113,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-21",
@@ -122,7 +122,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 14.6,
-      "pointsPlus": 152
+      "pointsPlus": 153
     },
     {
       "date": "2025-12-28",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 28,
       "pts": 18,
-      "adjPts": 16.1,
-      "pointsPlus": 168
+      "adjPts": 16.3,
+      "pointsPlus": 170
     },
     {
       "date": "2026-01-08",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 13.0,
-      "pointsPlus": 136
+      "adjPts": 13.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-15",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 30,
       "pts": 20,
-      "adjPts": 18.0,
-      "pointsPlus": 189
+      "adjPts": 18.1,
+      "pointsPlus": 190
     },
     {
       "date": "2026-01-30",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 25,
       "pts": 17,
-      "adjPts": 17.5,
+      "adjPts": 17.4,
       "pointsPlus": 182
     },
     {
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 30,
       "pts": 17,
-      "adjPts": 15.2,
-      "pointsPlus": 159
+      "adjPts": 15.4,
+      "pointsPlus": 161
     },
     {
       "date": "2026-02-12",
@@ -239,7 +239,7 @@
       "min": 25,
       "pts": 3,
       "adjPts": 3.0,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2026-02-14",

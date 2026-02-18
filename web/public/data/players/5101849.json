@@ -4,16 +4,16 @@
   "team": "UK",
   "teamName": "Kentucky Wildcats",
   "conference": "SEC",
-  "rank": 355,
-  "gp": 25,
-  "ppg": 8.5,
-  "adjPpg": 8.4,
-  "pointsPlus": 88,
-  "mpg": 22.2,
+  "rank": 360,
+  "gp": 26,
+  "ppg": 8.4,
+  "adjPpg": 8.3,
+  "pointsPlus": 87,
+  "mpg": 22.5,
   "position": "C",
   "jersey": "24",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 41.9,
+  "pointsPlusStdDev": 41.7,
   "volatilityPctile": 21,
   "gameLog": [
     {
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 17,
       "pts": 8,
-      "adjPts": 8.0,
-      "pointsPlus": 83
+      "adjPts": 7.8,
+      "pointsPlus": 82
     },
     {
       "date": "2025-11-15",
@@ -59,7 +59,7 @@
       "min": 20,
       "pts": 9,
       "adjPts": 10.4,
-      "pointsPlus": 108
+      "pointsPlus": 109
     },
     {
       "date": "2025-11-22",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 20,
       "pts": 10,
-      "adjPts": 9.5,
-      "pointsPlus": 99
+      "adjPts": 9.4,
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-17",
@@ -185,7 +185,7 @@
       "min": 26,
       "pts": 8,
       "adjPts": 7.5,
-      "pointsPlus": 79
+      "pointsPlus": 78
     },
     {
       "date": "2026-01-24",
@@ -238,8 +238,17 @@
       "result": "L",
       "min": 21,
       "pts": 11,
-      "adjPts": 10.9,
-      "pointsPlus": 114
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UK vs UGA",
+      "result": "L",
+      "min": 29,
+      "pts": 6,
+      "adjPts": 5.1,
+      "pointsPlus": 53
     }
   ]
 }

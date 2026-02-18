@@ -4,17 +4,17 @@
   "team": "BC",
   "teamName": "Boston College Eagles",
   "conference": "ACC",
-  "rank": 498,
-  "gp": 25,
-  "ppg": 5.6,
-  "adjPpg": 5.7,
-  "pointsPlus": 60,
-  "mpg": 21.2,
+  "rank": 483,
+  "gp": 26,
+  "ppg": 6.0,
+  "adjPpg": 6.0,
+  "pointsPlus": 63,
+  "mpg": 21.8,
   "position": "G",
   "jersey": "9",
   "classYear": "Senior",
-  "pointsPlusStdDev": 59.8,
-  "volatilityPctile": 69,
+  "pointsPlusStdDev": 60.2,
+  "volatilityPctile": 70,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 30,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-12",
@@ -113,7 +113,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-23",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 24,
       "pts": 13,
-      "adjPts": 13.5,
-      "pointsPlus": 142
+      "adjPts": 13.3,
+      "pointsPlus": 139
     },
     {
       "date": "2026-01-22",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 13,
       "pts": 3,
-      "adjPts": 3.7,
+      "adjPts": 3.6,
       "pointsPlus": 38
     },
     {
@@ -240,6 +240,15 @@
       "pts": 14,
       "adjPts": 14.1,
       "pointsPlus": 148
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "BC @ FSU",
+      "result": "L",
+      "min": 36,
+      "pts": 14,
+      "adjPts": 12.6,
+      "pointsPlus": 132
     }
   ]
 }

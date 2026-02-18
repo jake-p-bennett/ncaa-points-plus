@@ -4,17 +4,17 @@
   "team": "MICH",
   "teamName": "Michigan Wolverines",
   "conference": "Big Ten",
-  "rank": 101,
-  "gp": 25,
+  "rank": 100,
+  "gp": 26,
   "ppg": 14.4,
   "adjPpg": 14.5,
   "pointsPlus": 152,
-  "mpg": 28.6,
+  "mpg": 28.8,
   "position": "F",
   "jersey": "23",
   "classYear": "Senior",
-  "pointsPlusStdDev": 63.7,
-  "volatilityPctile": 79,
+  "pointsPlusStdDev": 62.7,
+  "volatilityPctile": 76,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 22,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-11",
@@ -40,7 +40,7 @@
       "result": "W",
       "min": 29,
       "pts": 14,
-      "adjPts": 14.4,
+      "adjPts": 14.3,
       "pointsPlus": 150
     },
     {
@@ -50,7 +50,7 @@
       "min": 28,
       "pts": 25,
       "adjPts": 25.0,
-      "pointsPlus": 261
+      "pointsPlus": 262
     },
     {
       "date": "2025-11-25",
@@ -86,7 +86,7 @@
       "min": 27,
       "pts": 14,
       "adjPts": 14.2,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2025-12-09",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 25,
       "pts": 9,
-      "adjPts": 9.9,
-      "pointsPlus": 104
+      "adjPts": 9.7,
+      "pointsPlus": 102
     },
     {
       "date": "2025-12-14",
@@ -104,7 +104,7 @@
       "min": 37,
       "pts": 29,
       "adjPts": 27.7,
-      "pointsPlus": 289
+      "pointsPlus": 290
     },
     {
       "date": "2025-12-21",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 31,
       "pts": 14,
-      "adjPts": 13.0,
-      "pointsPlus": 136
+      "adjPts": 12.9,
+      "pointsPlus": 135
     },
     {
       "date": "2026-01-15",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 34,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 64
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2026-01-21",
@@ -185,7 +185,7 @@
       "min": 31,
       "pts": 18,
       "adjPts": 17.7,
-      "pointsPlus": 185
+      "pointsPlus": 186
     },
     {
       "date": "2026-01-28",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 33,
       "pts": 10,
-      "adjPts": 11.7,
-      "pointsPlus": 122
+      "adjPts": 11.8,
+      "pointsPlus": 124
     },
     {
       "date": "2026-01-31",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 35,
       "pts": 26,
-      "adjPts": 29.9,
-      "pointsPlus": 313
+      "adjPts": 30.1,
+      "pointsPlus": 315
     },
     {
       "date": "2026-02-05",
@@ -212,7 +212,7 @@
       "min": 25,
       "pts": 6,
       "adjPts": 5.5,
-      "pointsPlus": 57
+      "pointsPlus": 58
     },
     {
       "date": "2026-02-08",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 30,
       "pts": 17,
-      "adjPts": 18.2,
-      "pointsPlus": 190
+      "adjPts": 18.1,
+      "pointsPlus": 189
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "MICH @ PUR",
+      "result": "W",
+      "min": 36,
+      "pts": 13,
+      "adjPts": 13.8,
+      "pointsPlus": 144
     }
   ]
 }

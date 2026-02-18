@@ -4,17 +4,17 @@
   "team": "TCU",
   "teamName": "TCU Horned Frogs",
   "conference": "Big 12",
-  "rank": 114,
-  "gp": 24,
+  "rank": 119,
+  "gp": 25,
   "ppg": 14.2,
   "adjPpg": 14.0,
-  "pointsPlus": 147,
-  "mpg": 29.9,
+  "pointsPlus": 146,
+  "mpg": 29.7,
   "position": "F",
   "jersey": "15",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 55.2,
-  "volatilityPctile": 57,
+  "pointsPlusStdDev": 54.3,
+  "volatilityPctile": 53,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -41,7 +41,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-15",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 36,
       "pts": 19,
-      "adjPts": 18.8,
-      "pointsPlus": 197
+      "adjPts": 19.0,
+      "pointsPlus": 199
     },
     {
       "date": "2025-11-28",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 32,
       "pts": 17,
-      "adjPts": 15.8,
-      "pointsPlus": 165
+      "adjPts": 15.7,
+      "pointsPlus": 164
     },
     {
       "date": "2025-12-06",
@@ -95,7 +95,7 @@
       "min": 34,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-16",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 30,
       "pts": 11,
-      "adjPts": 10.1,
-      "pointsPlus": 106
+      "adjPts": 10.0,
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-07",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 34,
       "pts": 20,
-      "adjPts": 22.6,
+      "adjPts": 22.7,
       "pointsPlus": 237
     },
     {
@@ -176,7 +176,7 @@
       "min": 29,
       "pts": 22,
       "adjPts": 19.8,
-      "pointsPlus": 207
+      "pointsPlus": 208
     },
     {
       "date": "2026-01-21",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 29,
       "pts": 16,
-      "adjPts": 20.9,
+      "adjPts": 20.8,
       "pointsPlus": 218
     },
     {
@@ -221,7 +221,7 @@
       "min": 31,
       "pts": 8,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2026-02-14",
@@ -230,7 +230,16 @@
       "min": 37,
       "pts": 19,
       "adjPts": 15.7,
-      "pointsPlus": 164
+      "pointsPlus": 165
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "TCU @ UCF",
+      "result": "L",
+      "min": 25,
+      "pts": 14,
+      "adjPts": 12.7,
+      "pointsPlus": 133
     }
   ]
 }

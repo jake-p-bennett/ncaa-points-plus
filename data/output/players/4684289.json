@@ -4,17 +4,17 @@
   "team": "XAV",
   "teamName": "Xavier Musketeers",
   "conference": "Big East",
-  "rank": 30,
-  "gp": 25,
-  "ppg": 18.0,
-  "adjPpg": 18.7,
-  "pointsPlus": 195,
-  "mpg": 32.1,
+  "rank": 25,
+  "gp": 26,
+  "ppg": 18.4,
+  "adjPpg": 19.1,
+  "pointsPlus": 200,
+  "mpg": 32.3,
   "position": "F",
   "jersey": "12",
   "classYear": "Senior",
-  "pointsPlusStdDev": 76.6,
-  "volatilityPctile": 93,
+  "pointsPlusStdDev": 78.6,
+  "volatilityPctile": 95,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -41,7 +41,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-15",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 35,
       "pts": 12,
-      "adjPts": 14.6,
-      "pointsPlus": 152
+      "adjPts": 14.8,
+      "pointsPlus": 155
     },
     {
       "date": "2025-11-19",
@@ -95,7 +95,7 @@
       "min": 30,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-06",
@@ -131,7 +131,7 @@
       "min": 28,
       "pts": 22,
       "adjPts": 22.6,
-      "pointsPlus": 236
+      "pointsPlus": 237
     },
     {
       "date": "2025-12-31",
@@ -158,7 +158,7 @@
       "min": 34,
       "pts": 12,
       "adjPts": 11.2,
-      "pointsPlus": 117
+      "pointsPlus": 118
     },
     {
       "date": "2026-01-10",
@@ -167,7 +167,7 @@
       "min": 36,
       "pts": 18,
       "adjPts": 13.6,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-14",
@@ -194,7 +194,7 @@
       "min": 35,
       "pts": 31,
       "adjPts": 30.7,
-      "pointsPlus": 321
+      "pointsPlus": 322
     },
     {
       "date": "2026-01-29",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 28,
       "pts": 18,
-      "adjPts": 16.8,
+      "adjPts": 16.9,
       "pointsPlus": 176
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "XAV vs VILL",
+      "result": "L",
+      "min": 39,
+      "pts": 28,
+      "adjPts": 30.2,
+      "pointsPlus": 316
     }
   ]
 }

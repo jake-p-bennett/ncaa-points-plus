@@ -4,17 +4,17 @@
   "team": "DEP",
   "teamName": "DePaul Blue Demons",
   "conference": "Big East",
-  "rank": 126,
+  "rank": 125,
   "gp": 25,
   "ppg": 13.8,
-  "adjPpg": 13.9,
+  "adjPpg": 13.8,
   "pointsPlus": 145,
   "mpg": 27.8,
   "position": "G",
   "jersey": "11",
   "classYear": "Senior",
-  "pointsPlusStdDev": 69.3,
-  "volatilityPctile": 87,
+  "pointsPlusStdDev": 69.2,
+  "volatilityPctile": 88,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-08",
@@ -50,7 +50,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 141
+      "pointsPlus": 142
     },
     {
       "date": "2025-11-19",
@@ -85,7 +85,7 @@
       "result": "L",
       "min": 23,
       "pts": 9,
-      "adjPts": 8.6,
+      "adjPts": 8.5,
       "pointsPlus": 89
     },
     {
@@ -95,7 +95,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-10",
@@ -122,7 +122,7 @@
       "min": 32,
       "pts": 15,
       "adjPts": 14.9,
-      "pointsPlus": 155
+      "pointsPlus": 156
     },
     {
       "date": "2025-12-21",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 30,
       "pts": 15,
-      "adjPts": 16.5,
-      "pointsPlus": 173
+      "adjPts": 16.2,
+      "pointsPlus": 169
     },
     {
       "date": "2026-01-03",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 33,
       "pts": 22,
-      "adjPts": 20.0,
-      "pointsPlus": 209
+      "adjPts": 19.8,
+      "pointsPlus": 207
     },
     {
       "date": "2026-01-07",
@@ -176,7 +176,7 @@
       "min": 39,
       "pts": 31,
       "adjPts": 29.0,
-      "pointsPlus": 303
+      "pointsPlus": 304
     },
     {
       "date": "2026-01-21",
@@ -185,7 +185,7 @@
       "min": 32,
       "pts": 16,
       "adjPts": 14.9,
-      "pointsPlus": 155
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-24",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 29,
       "pts": 19,
-      "adjPts": 17.3,
-      "pointsPlus": 181
+      "adjPts": 17.1,
+      "pointsPlus": 179
     },
     {
       "date": "2026-02-04",

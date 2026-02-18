@@ -4,17 +4,17 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 308,
+  "rank": 309,
   "gp": 25,
   "ppg": 9.6,
-  "adjPpg": 9.6,
+  "adjPpg": 9.5,
   "pointsPlus": 100,
   "mpg": 23.6,
   "position": "G",
   "jersey": "24",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 49.4,
-  "volatilityPctile": 40,
+  "pointsPlusStdDev": 49.3,
+  "volatilityPctile": 39,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -31,8 +31,8 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 9.2,
-      "pointsPlus": 96
+      "adjPts": 9.3,
+      "pointsPlus": 97
     },
     {
       "date": "2025-11-12",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 24,
       "pts": 11,
-      "adjPts": 13.4,
-      "pointsPlus": 140
+      "adjPts": 13.3,
+      "pointsPlus": 139
     },
     {
       "date": "2025-12-04",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 27,
       "pts": 10,
-      "adjPts": 10.0,
-      "pointsPlus": 104
+      "adjPts": 9.8,
+      "pointsPlus": 103
     },
     {
       "date": "2025-12-06",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 15.7,
-      "pointsPlus": 164
+      "adjPts": 15.6,
+      "pointsPlus": 163
     },
     {
       "date": "2025-12-30",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 24,
       "pts": 13,
-      "adjPts": 13.3,
-      "pointsPlus": 139
+      "adjPts": 13.4,
+      "pointsPlus": 140
     },
     {
       "date": "2026-01-10",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 26,
       "pts": 12,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 106
     },
     {
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 28,
       "pts": 11,
-      "adjPts": 10.5,
-      "pointsPlus": 109
+      "adjPts": 10.4,
+      "pointsPlus": 108
     },
     {
       "date": "2026-01-28",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 28,
       "pts": 14,
-      "adjPts": 14.1,
-      "pointsPlus": 147
+      "adjPts": 14.0,
+      "pointsPlus": 146
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 36,
       "pts": 13,
-      "adjPts": 12.4,
-      "pointsPlus": 129
+      "adjPts": 12.2,
+      "pointsPlus": 128
     },
     {
       "date": "2026-02-15",

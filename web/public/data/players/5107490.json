@@ -4,16 +4,16 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 557,
-  "gp": 24,
-  "ppg": 4.7,
-  "adjPpg": 4.7,
-  "pointsPlus": 49,
-  "mpg": 14.0,
+  "rank": 565,
+  "gp": 25,
+  "ppg": 4.5,
+  "adjPpg": 4.5,
+  "pointsPlus": 47,
+  "mpg": 13.5,
   "position": "G",
   "jersey": "7",
   "classYear": "Senior",
-  "pointsPlusStdDev": 42.7,
+  "pointsPlusStdDev": 42.9,
   "volatilityPctile": 23,
   "gameLog": [
     {
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 5.5,
-      "pointsPlus": 57
+      "adjPts": 5.4,
+      "pointsPlus": 56
     },
     {
       "date": "2025-11-23",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 10,
       "pts": 3,
-      "adjPts": 2.9,
+      "adjPts": 2.8,
       "pointsPlus": 30
     },
     {
@@ -221,7 +221,7 @@
       "min": 21,
       "pts": 4,
       "adjPts": 4.0,
-      "pointsPlus": 41
+      "pointsPlus": 42
     },
     {
       "date": "2026-02-14",
@@ -231,6 +231,15 @@
       "pts": 3,
       "adjPts": 2.7,
       "pointsPlus": 28
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UGA @ UK",
+      "result": "W",
+      "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

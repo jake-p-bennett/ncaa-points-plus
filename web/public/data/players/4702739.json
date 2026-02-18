@@ -4,17 +4,17 @@
   "team": "LOU",
   "teamName": "Louisville Cardinals",
   "conference": "ACC",
-  "rank": 615,
-  "gp": 25,
-  "ppg": 3.4,
-  "adjPpg": 3.7,
-  "pointsPlus": 38,
-  "mpg": 12.4,
+  "rank": 620,
+  "gp": 26,
+  "ppg": 3.3,
+  "adjPpg": 3.5,
+  "pointsPlus": 37,
+  "mpg": 12.5,
   "position": "C",
   "jersey": "15",
   "classYear": "Senior",
-  "pointsPlusStdDev": 50.4,
-  "volatilityPctile": 43,
+  "pointsPlusStdDev": 49.8,
+  "volatilityPctile": 41,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 20,
       "pts": 17,
-      "adjPts": 20.7,
-      "pointsPlus": 216
+      "adjPts": 20.6,
+      "pointsPlus": 215
     },
     {
       "date": "2026-01-10",
@@ -185,7 +185,7 @@
       "min": 14,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 30
+      "pointsPlus": 31
     },
     {
       "date": "2026-01-27",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 11,
       "pts": 3,
-      "adjPts": 3.7,
+      "adjPts": 3.6,
       "pointsPlus": 38
     },
     {
@@ -203,7 +203,7 @@
       "min": 14,
       "pts": 8,
       "adjPts": 7.0,
-      "pointsPlus": 74
+      "pointsPlus": 73
     },
     {
       "date": "2026-02-05",
@@ -212,7 +212,7 @@
       "min": 10,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 21
+      "pointsPlus": 22
     },
     {
       "date": "2026-02-07",
@@ -237,6 +237,15 @@
       "matchup": "LOU vs BAY",
       "result": "W",
       "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "LOU @ SMU",
+      "result": "L",
+      "min": 15,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

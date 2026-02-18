@@ -4,7 +4,7 @@
   "team": "UNC",
   "teamName": "North Carolina Tar Heels",
   "conference": "ACC",
-  "rank": 58,
+  "rank": 59,
   "gp": 24,
   "ppg": 16.4,
   "adjPpg": 16.6,
@@ -13,8 +13,8 @@
   "position": "C",
   "jersey": "13",
   "classYear": "Junior",
-  "pointsPlusStdDev": 52.0,
-  "volatilityPctile": 47,
+  "pointsPlusStdDev": 51.9,
+  "volatilityPctile": 46,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -31,7 +31,7 @@
       "result": "W",
       "min": 38,
       "pts": 20,
-      "adjPts": 22.6,
+      "adjPts": 22.7,
       "pointsPlus": 237
     },
     {
@@ -50,7 +50,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-19",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 29,
       "pts": 13,
-      "adjPts": 15.0,
-      "pointsPlus": 157
+      "adjPts": 15.1,
+      "pointsPlus": 158
     },
     {
       "date": "2025-12-03",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 36,
       "pts": 17,
-      "adjPts": 17.1,
-      "pointsPlus": 179
+      "adjPts": 17.0,
+      "pointsPlus": 177
     },
     {
       "date": "2025-12-07",
@@ -95,7 +95,7 @@
       "min": 37,
       "pts": 18,
       "adjPts": 18.5,
-      "pointsPlus": 193
+      "pointsPlus": 194
     },
     {
       "date": "2025-12-13",
@@ -121,7 +121,7 @@
       "result": "W",
       "min": 32,
       "pts": 17,
-      "adjPts": 16.7,
+      "adjPts": 16.8,
       "pointsPlus": 175
     },
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 32,
       "pts": 14,
-      "adjPts": 12.3,
-      "pointsPlus": 129
+      "adjPts": 12.2,
+      "pointsPlus": 128
     },
     {
       "date": "2026-01-10",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 30,
       "pts": 17,
-      "adjPts": 17.7,
-      "pointsPlus": 185
+      "adjPts": 17.4,
+      "pointsPlus": 182
     },
     {
       "date": "2026-02-07",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 35,
       "pts": 13,
-      "adjPts": 15.8,
+      "adjPts": 15.7,
       "pointsPlus": 165
     },
     {
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 33,
       "pts": 11,
-      "adjPts": 11.4,
-      "pointsPlus": 119
+      "adjPts": 11.5,
+      "pointsPlus": 120
     }
   ]
 }

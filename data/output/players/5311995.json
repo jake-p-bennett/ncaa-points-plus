@@ -4,8 +4,8 @@
   "team": "NCSU",
   "teamName": "NC State Wolfpack",
   "conference": "ACC",
-  "rank": 641,
-  "gp": 26,
+  "rank": 639,
+  "gp": 27,
   "ppg": 2.8,
   "adjPpg": 2.8,
   "pointsPlus": 29,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "13",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 26.6,
+  "pointsPlusStdDev": 25.9,
   "volatilityPctile": 3,
   "gameLog": [
     {
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 14,
       "pts": 10,
-      "adjPts": 10.4,
-      "pointsPlus": 109
+      "adjPts": 10.2,
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-31",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 12,
       "pts": 2,
-      "adjPts": 1.8,
+      "adjPts": 1.7,
       "pointsPlus": 18
     },
     {
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 14,
       "pts": 4,
-      "adjPts": 4.0,
-      "pointsPlus": 42
+      "adjPts": 3.9,
+      "pointsPlus": 41
     },
     {
       "date": "2026-02-14",
@@ -249,6 +249,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "NCSU vs UNC",
+      "result": "W",
+      "min": 13,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 33
     }
   ]
 }

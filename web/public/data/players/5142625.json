@@ -4,7 +4,7 @@
   "team": "SJU",
   "teamName": "St. John's Red Storm",
   "conference": "Big East",
-  "rank": 372,
+  "rank": 368,
   "gp": 25,
   "ppg": 8.2,
   "adjPpg": 8.1,
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 19,
       "pts": 12,
-      "adjPts": 12.1,
-      "pointsPlus": 126
+      "adjPts": 12.0,
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-23",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 6.6,
-      "pointsPlus": 69
+      "adjPts": 6.5,
+      "pointsPlus": 68
     },
     {
       "date": "2026-01-21",
@@ -221,7 +221,7 @@
       "min": 24,
       "pts": 6,
       "adjPts": 7.1,
-      "pointsPlus": 74
+      "pointsPlus": 75
     },
     {
       "date": "2026-02-09",

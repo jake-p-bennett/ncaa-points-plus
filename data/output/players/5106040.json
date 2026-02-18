@@ -4,17 +4,17 @@
   "team": "VT",
   "teamName": "Virginia Tech Hokies",
   "conference": "ACC",
-  "rank": 206,
-  "gp": 17,
-  "ppg": 11.8,
-  "adjPpg": 11.8,
-  "pointsPlus": 123,
-  "mpg": 28.5,
+  "rank": 212,
+  "gp": 18,
+  "ppg": 11.6,
+  "adjPpg": 11.6,
+  "pointsPlus": 121,
+  "mpg": 28.2,
   "position": "F",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 64.2,
-  "volatilityPctile": 80,
+  "pointsPlusStdDev": 63.1,
+  "volatilityPctile": 77,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 24,
       "pts": 10,
-      "adjPts": 8.8,
-      "pointsPlus": 92
+      "adjPts": 8.7,
+      "pointsPlus": 91
     },
     {
       "date": "2026-01-17",
@@ -104,7 +104,7 @@
       "min": 29,
       "pts": 22,
       "adjPts": 22.6,
-      "pointsPlus": 236
+      "pointsPlus": 237
     },
     {
       "date": "2026-01-22",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 30,
       "pts": 16,
-      "adjPts": 16.7,
-      "pointsPlus": 174
+      "adjPts": 16.4,
+      "pointsPlus": 171
     },
     {
       "date": "2026-01-24",
@@ -131,7 +131,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 9.7,
-      "pointsPlus": 101
+      "pointsPlus": 102
     },
     {
       "date": "2026-01-31",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 31,
       "pts": 4,
-      "adjPts": 4.9,
+      "adjPts": 4.8,
       "pointsPlus": 51
     },
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 30,
       "pts": 17,
-      "adjPts": 16.0,
-      "pointsPlus": 167
+      "adjPts": 16.2,
+      "pointsPlus": 170
     },
     {
       "date": "2026-02-12",
@@ -167,7 +167,16 @@
       "min": 32,
       "pts": 16,
       "adjPts": 14.4,
-      "pointsPlus": 150
+      "pointsPlus": 151
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "VT @ MIA",
+      "result": "L",
+      "min": 24,
+      "pts": 8,
+      "adjPts": 8.4,
+      "pointsPlus": 88
     }
   ]
 }

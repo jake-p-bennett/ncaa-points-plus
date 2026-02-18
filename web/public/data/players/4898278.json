@@ -4,17 +4,17 @@
   "team": "KSU",
   "teamName": "Kansas State Wildcats",
   "conference": "Big 12",
-  "rank": 213,
-  "gp": 25,
-  "ppg": 11.1,
-  "adjPpg": 11.5,
-  "pointsPlus": 121,
-  "mpg": 31.8,
+  "rank": 185,
+  "gp": 26,
+  "ppg": 12.0,
+  "adjPpg": 12.3,
+  "pointsPlus": 128,
+  "mpg": 32.1,
   "position": "G",
   "jersey": "34",
   "classYear": "Senior",
-  "pointsPlusStdDev": 54.3,
-  "volatilityPctile": 53,
+  "pointsPlusStdDev": 65.0,
+  "volatilityPctile": 81,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 37,
       "pts": 12,
-      "adjPts": 14.0,
-      "pointsPlus": 146
+      "adjPts": 14.2,
+      "pointsPlus": 149
     },
     {
       "date": "2025-11-26",
@@ -158,7 +158,7 @@
       "min": 26,
       "pts": 7,
       "adjPts": 6.3,
-      "pointsPlus": 65
+      "pointsPlus": 66
     },
     {
       "date": "2026-01-15",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 30,
       "pts": 7,
-      "adjPts": 6.3,
+      "adjPts": 6.4,
       "pointsPlus": 66
     },
     {
@@ -212,7 +212,7 @@
       "min": 32,
       "pts": 8,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2026-02-07",
@@ -221,7 +221,7 @@
       "min": 37,
       "pts": 13,
       "adjPts": 13.3,
-      "pointsPlus": 140
+      "pointsPlus": 139
     },
     {
       "date": "2026-02-12",
@@ -238,8 +238,17 @@
       "result": "L",
       "min": 40,
       "pts": 12,
-      "adjPts": 15.7,
-      "pointsPlus": 164
+      "adjPts": 15.6,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "KSU vs BAY",
+      "result": "W",
+      "min": 39,
+      "pts": 33,
+      "adjPts": 30.1,
+      "pointsPlus": 315
     }
   ]
 }

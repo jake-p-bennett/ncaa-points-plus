@@ -4,7 +4,7 @@
   "team": "TENN",
   "teamName": "Tennessee Volunteers",
   "conference": "SEC",
-  "rank": 598,
+  "rank": 597,
   "gp": 10,
   "ppg": 3.8,
   "adjPpg": 3.9,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "12",
   "classYear": "Junior",
-  "pointsPlusStdDev": 25.1,
+  "pointsPlusStdDev": 25.0,
   "volatilityPctile": 2,
   "gameLog": [
     {
@@ -104,7 +104,7 @@
       "min": 18,
       "pts": 2,
       "adjPts": 2.2,
-      "pointsPlus": 22
+      "pointsPlus": 23
     }
   ]
 }

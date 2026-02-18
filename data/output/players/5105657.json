@@ -4,7 +4,7 @@
   "team": "STAN",
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
-  "rank": 417,
+  "rank": 415,
   "gp": 26,
   "ppg": 7.1,
   "adjPpg": 7.2,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 49.3,
-  "volatilityPctile": 39,
+  "pointsPlusStdDev": 49.4,
+  "volatilityPctile": 40,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -32,7 +32,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-13",
@@ -59,7 +59,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-28",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 20,
       "pts": 8,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.5,
+      "pointsPlus": 99
     },
     {
       "date": "2025-11-29",
@@ -140,7 +140,7 @@
       "min": 15,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 21
+      "pointsPlus": 22
     },
     {
       "date": "2026-01-03",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 14,
       "pts": 4,
-      "adjPts": 4.0,
-      "pointsPlus": 42
+      "adjPts": 3.9,
+      "pointsPlus": 41
     },
     {
       "date": "2026-01-08",
@@ -185,7 +185,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 9.7,
-      "pointsPlus": 102
+      "pointsPlus": 101
     },
     {
       "date": "2026-01-25",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 24,
       "pts": 10,
-      "adjPts": 10.4,
-      "pointsPlus": 108
+      "adjPts": 10.5,
+      "pointsPlus": 109
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 15,
       "pts": 11,
       "adjPts": 9.9,
-      "pointsPlus": 103
+      "pointsPlus": 104
     },
     {
       "date": "2026-02-05",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 18,
       "pts": 6,
-      "adjPts": 7.1,
-      "pointsPlus": 74
+      "adjPts": 7.0,
+      "pointsPlus": 73
     },
     {
       "date": "2026-02-14",

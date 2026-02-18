@@ -4,17 +4,17 @@
   "team": "UCLA",
   "teamName": "UCLA Bruins",
   "conference": "Big Ten",
-  "rank": 169,
-  "gp": 24,
-  "ppg": 12.7,
-  "adjPpg": 12.7,
-  "pointsPlus": 133,
-  "mpg": 28.2,
+  "rank": 171,
+  "gp": 25,
+  "ppg": 12.5,
+  "adjPpg": 12.6,
+  "pointsPlus": 132,
+  "mpg": 28.0,
   "position": "G",
   "jersey": "0",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 68.2,
-  "volatilityPctile": 86,
+  "pointsPlusStdDev": 67.0,
+  "volatilityPctile": 84,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 9,
       "pts": 2,
-      "adjPts": 2.0,
-      "pointsPlus": 21
+      "adjPts": 2.1,
+      "pointsPlus": 22
     },
     {
       "date": "2025-12-14",
@@ -104,7 +104,7 @@
       "min": 14,
       "pts": 8,
       "adjPts": 7.2,
-      "pointsPlus": 75
+      "pointsPlus": 76
     },
     {
       "date": "2025-12-20",
@@ -113,7 +113,7 @@
       "min": 19,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-23",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 24,
       "pts": 7,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-01-07",
@@ -158,7 +158,7 @@
       "min": 38,
       "pts": 30,
       "adjPts": 27.5,
-      "pointsPlus": 287
+      "pointsPlus": 288
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 38,
       "pts": 11,
-      "adjPts": 11.8,
-      "pointsPlus": 124
+      "adjPts": 11.6,
+      "pointsPlus": 122
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 36,
       "pts": 12,
-      "adjPts": 12.2,
-      "pointsPlus": 127
+      "adjPts": 12.4,
+      "pointsPlus": 130
     },
     {
       "date": "2026-01-31",
@@ -221,7 +221,7 @@
       "min": 37,
       "pts": 23,
       "adjPts": 23.8,
-      "pointsPlus": 248
+      "pointsPlus": 249
     },
     {
       "date": "2026-02-14",
@@ -229,8 +229,17 @@
       "result": "L",
       "min": 33,
       "pts": 14,
-      "adjPts": 14.4,
-      "pointsPlus": 151
+      "adjPts": 14.3,
+      "pointsPlus": 149
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UCLA @ MSU",
+      "result": "L",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 10.4,
+      "pointsPlus": 109
     }
   ]
 }

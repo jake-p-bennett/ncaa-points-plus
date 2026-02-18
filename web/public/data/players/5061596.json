@@ -4,17 +4,17 @@
   "team": "LSU",
   "teamName": "LSU Tigers",
   "conference": "SEC",
-  "rank": 488,
-  "gp": 25,
-  "ppg": 6.0,
-  "adjPpg": 5.9,
+  "rank": 492,
+  "gp": 26,
+  "ppg": 5.9,
+  "adjPpg": 5.8,
   "pointsPlus": 61,
   "mpg": 19.2,
   "position": "F",
   "jersey": "6",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 32.7,
-  "volatilityPctile": 7,
+  "pointsPlusStdDev": 32.3,
+  "volatilityPctile": 6,
   "gameLog": [
     {
       "date": "2025-11-06",
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 20,
       "pts": 12,
-      "adjPts": 13.4,
+      "adjPts": 13.5,
       "pointsPlus": 141
     },
     {
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 28,
       "pts": 8,
-      "adjPts": 9.4,
-      "pointsPlus": 99
+      "adjPts": 9.3,
+      "pointsPlus": 98
     },
     {
       "date": "2025-12-07",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 26,
       "pts": 8,
-      "adjPts": 7.9,
-      "pointsPlus": 83
+      "adjPts": 8.0,
+      "pointsPlus": 84
     },
     {
       "date": "2026-01-24",
@@ -230,7 +230,7 @@
       "min": 22,
       "pts": 10,
       "adjPts": 8.8,
-      "pointsPlus": 92
+      "pointsPlus": 93
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 2,
       "adjPts": 2.1,
       "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "LSU @ TEX",
+      "result": "L",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 3.7,
+      "pointsPlus": 39
     }
   ]
 }

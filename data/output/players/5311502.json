@@ -4,17 +4,17 @@
   "team": "AUB",
   "teamName": "Auburn Tigers",
   "conference": "SEC",
-  "rank": 339,
+  "rank": 337,
   "gp": 25,
   "ppg": 9.2,
   "adjPpg": 9.0,
-  "pointsPlus": 94,
+  "pointsPlus": 95,
   "mpg": 25.2,
   "position": "G",
   "jersey": "6",
   "classYear": "Sophomore",
   "pointsPlusStdDev": 63.5,
-  "volatilityPctile": 78,
+  "volatilityPctile": 79,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -41,7 +41,7 @@
       "min": 28,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-16",
@@ -50,7 +50,7 @@
       "min": 30,
       "pts": 7,
       "adjPts": 9.1,
-      "pointsPlus": 96
+      "pointsPlus": 95
     },
     {
       "date": "2025-11-20",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 29,
       "pts": 8,
-      "adjPts": 8.1,
-      "pointsPlus": 85
+      "adjPts": 8.3,
+      "pointsPlus": 86
     },
     {
       "date": "2025-11-26",
@@ -95,7 +95,7 @@
       "min": 18,
       "pts": 6,
       "adjPts": 5.7,
-      "pointsPlus": 59
+      "pointsPlus": 60
     },
     {
       "date": "2025-12-07",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 22,
       "pts": 6,
-      "adjPts": 6.5,
-      "pointsPlus": 68
+      "adjPts": 6.4,
+      "pointsPlus": 66
     },
     {
       "date": "2025-12-30",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 23,
       "pts": 14,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 124
     },
     {
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 27,
       "pts": 6,
-      "adjPts": 5.9,
-      "pointsPlus": 62
+      "adjPts": 6.0,
+      "pointsPlus": 63
     },
     {
       "date": "2026-01-29",
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 19,
       "pts": 10,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 98
     },
     {
@@ -212,7 +212,7 @@
       "min": 28,
       "pts": 7,
       "adjPts": 7.5,
-      "pointsPlus": 78
+      "pointsPlus": 79
     },
     {
       "date": "2026-02-07",
@@ -221,7 +221,7 @@
       "min": 16,
       "pts": 5,
       "adjPts": 3.9,
-      "pointsPlus": 40
+      "pointsPlus": 41
     },
     {
       "date": "2026-02-11",

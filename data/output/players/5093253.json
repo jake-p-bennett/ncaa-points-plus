@@ -4,17 +4,17 @@
   "team": "UNC",
   "teamName": "North Carolina Tar Heels",
   "conference": "ACC",
-  "rank": 546,
-  "gp": 25,
-  "ppg": 4.8,
-  "adjPpg": 4.8,
-  "pointsPlus": 51,
-  "mpg": 19.6,
+  "rank": 557,
+  "gp": 26,
+  "ppg": 4.6,
+  "adjPpg": 4.7,
+  "pointsPlus": 49,
+  "mpg": 19.5,
   "position": "G",
   "jersey": "0",
   "classYear": "Junior",
-  "pointsPlusStdDev": 47.5,
-  "volatilityPctile": 35,
+  "pointsPlusStdDev": 47.7,
+  "volatilityPctile": 36,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -140,7 +140,7 @@
       "min": 23,
       "pts": 15,
       "adjPts": 13.5,
-      "pointsPlus": 141
+      "pointsPlus": 142
     },
     {
       "date": "2026-01-03",
@@ -149,7 +149,7 @@
       "min": 14,
       "pts": 3,
       "adjPts": 2.6,
-      "pointsPlus": 28
+      "pointsPlus": 27
     },
     {
       "date": "2026-01-10",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 10,
       "pts": 9,
-      "adjPts": 9.2,
+      "adjPts": 9.3,
       "pointsPlus": 97
     },
     {
@@ -229,14 +229,23 @@
       "result": "L",
       "min": 19,
       "pts": 8,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-02-14",
       "matchup": "UNC vs PITT",
       "result": "W",
       "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UNC @ NCSU",
+      "result": "L",
+      "min": 15,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

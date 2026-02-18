@@ -4,17 +4,17 @@
   "team": "MICH",
   "teamName": "Michigan Wolverines",
   "conference": "Big Ten",
-  "rank": 293,
-  "gp": 25,
-  "ppg": 9.9,
-  "adjPpg": 9.9,
-  "pointsPlus": 103,
+  "rank": 286,
+  "gp": 26,
+  "ppg": 10.0,
+  "adjPpg": 10.0,
+  "pointsPlus": 105,
   "mpg": 21.0,
   "position": "G",
   "jersey": "1",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 51.1,
-  "volatilityPctile": 45,
+  "pointsPlusStdDev": 50.8,
+  "volatilityPctile": 44,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 28,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-11",
@@ -32,7 +32,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 7.4,
-      "pointsPlus": 77
+      "pointsPlus": 78
     },
     {
       "date": "2025-11-15",
@@ -40,7 +40,7 @@
       "result": "W",
       "min": 23,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.2,
       "pointsPlus": 118
     },
     {
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 20,
       "pts": 10,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 10.8,
+      "pointsPlus": 113
     },
     {
       "date": "2025-12-14",
@@ -167,7 +167,7 @@
       "min": 14,
       "pts": 4,
       "adjPts": 4.1,
-      "pointsPlus": 42
+      "pointsPlus": 43
     },
     {
       "date": "2026-01-21",
@@ -185,7 +185,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 123
+      "pointsPlus": 124
     },
     {
       "date": "2026-01-28",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 22,
       "pts": 11,
-      "adjPts": 12.8,
-      "pointsPlus": 134
+      "adjPts": 13.0,
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-31",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 23,
       "pts": 10,
-      "adjPts": 11.5,
-      "pointsPlus": 120
+      "adjPts": 11.6,
+      "pointsPlus": 121
     },
     {
       "date": "2026-02-05",
@@ -221,7 +221,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 123
+      "pointsPlus": 124
     },
     {
       "date": "2026-02-12",
@@ -240,6 +240,15 @@
       "pts": 2,
       "adjPts": 2.1,
       "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "MICH @ PUR",
+      "result": "W",
+      "min": 21,
+      "pts": 13,
+      "adjPts": 13.8,
+      "pointsPlus": 144
     }
   ]
 }

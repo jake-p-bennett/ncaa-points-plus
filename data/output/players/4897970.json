@@ -4,16 +4,16 @@
   "team": "OKST",
   "teamName": "Oklahoma State Cowboys",
   "conference": "Big 12",
-  "rank": 119,
+  "rank": 116,
   "gp": 23,
   "ppg": 14.3,
   "adjPpg": 14.0,
-  "pointsPlus": 146,
+  "pointsPlus": 147,
   "mpg": 25.7,
   "position": "F",
   "jersey": "22",
   "classYear": "Senior",
-  "pointsPlusStdDev": 74.1,
+  "pointsPlusStdDev": 74.0,
   "volatilityPctile": 91,
   "gameLog": [
     {
@@ -68,7 +68,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-28",
@@ -77,7 +77,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 141
+      "pointsPlus": 142
     },
     {
       "date": "2025-12-03",
@@ -95,7 +95,7 @@
       "min": 32,
       "pts": 25,
       "adjPts": 25.0,
-      "pointsPlus": 261
+      "pointsPlus": 262
     },
     {
       "date": "2025-12-13",
@@ -113,7 +113,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-03",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 25,
       "pts": 20,
-      "adjPts": 20.0,
-      "pointsPlus": 209
+      "adjPts": 20.1,
+      "pointsPlus": 210
     },
     {
       "date": "2026-01-07",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 33,
       "pts": 24,
-      "adjPts": 21.7,
-      "pointsPlus": 226
+      "adjPts": 21.8,
+      "pointsPlus": 228
     },
     {
       "date": "2026-01-10",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 28,
       "pts": 18,
-      "adjPts": 16.6,
-      "pointsPlus": 173
+      "adjPts": 16.4,
+      "pointsPlus": 172
     },
     {
       "date": "2026-01-18",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 30,
       "pts": 17,
-      "adjPts": 14.6,
-      "pointsPlus": 153
+      "adjPts": 14.7,
+      "pointsPlus": 154
     },
     {
       "date": "2026-01-21",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 25,
       "pts": 2,
-      "adjPts": 2.1,
+      "adjPts": 2.0,
       "pointsPlus": 21
     },
     {
@@ -185,7 +185,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 11.7,
-      "pointsPlus": 122
+      "pointsPlus": 123
     },
     {
       "date": "2026-02-05",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 26,
       "pts": 16,
-      "adjPts": 14.3,
-      "pointsPlus": 150
+      "adjPts": 14.5,
+      "pointsPlus": 151
     },
     {
       "date": "2026-02-14",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 36,
       "pts": 27,
-      "adjPts": 27.7,
-      "pointsPlus": 290
+      "adjPts": 27.6,
+      "pointsPlus": 288
     }
   ]
 }

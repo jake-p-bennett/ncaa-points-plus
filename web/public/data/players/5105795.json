@@ -4,7 +4,7 @@
   "team": "DEP",
   "teamName": "DePaul Blue Demons",
   "conference": "Big East",
-  "rank": 485,
+  "rank": 486,
   "gp": 25,
   "ppg": 6.1,
   "adjPpg": 5.9,
@@ -14,7 +14,7 @@
   "jersey": "1",
   "classYear": "Senior",
   "pointsPlusStdDev": 57.7,
-  "volatilityPctile": 64,
+  "volatilityPctile": 63,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 18,
       "pts": 6,
-      "adjPts": 5.7,
-      "pointsPlus": 60
+      "adjPts": 5.6,
+      "pointsPlus": 59
     },
     {
       "date": "2025-12-07",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 23,
       "pts": 11,
-      "adjPts": 10.0,
-      "pointsPlus": 105
+      "adjPts": 9.9,
+      "pointsPlus": 103
     },
     {
       "date": "2026-01-07",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 7,
       "pts": 5,
-      "adjPts": 4.6,
-      "pointsPlus": 48
+      "adjPts": 4.5,
+      "pointsPlus": 47
     },
     {
       "date": "2026-02-04",

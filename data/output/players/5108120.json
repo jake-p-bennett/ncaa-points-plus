@@ -4,17 +4,17 @@
   "team": "TTU",
   "teamName": "Texas Tech Red Raiders",
   "conference": "Big 12",
-  "rank": 599,
-  "gp": 24,
-  "ppg": 4.1,
-  "adjPpg": 3.9,
-  "pointsPlus": 41,
-  "mpg": 18.7,
+  "rank": 605,
+  "gp": 25,
+  "ppg": 3.9,
+  "adjPpg": 3.8,
+  "pointsPlus": 39,
+  "mpg": 18.0,
   "position": "G",
   "jersey": "1",
   "classYear": "Senior",
   "pointsPlusStdDev": 42.5,
-  "volatilityPctile": 23,
+  "volatilityPctile": 22,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -32,7 +32,7 @@
       "min": 28,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-12",
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 18,
       "pts": 3,
-      "adjPts": 2.9,
+      "adjPts": 2.8,
       "pointsPlus": 30
     },
     {
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 18,
       "pts": 9,
-      "adjPts": 7.4,
+      "adjPts": 7.5,
       "pointsPlus": 78
     },
     {
@@ -228,6 +228,15 @@
       "matchup": "TTU @ ARIZ",
       "result": "W",
       "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "TTU @ ASU",
+      "result": "L",
+      "min": 2,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

@@ -4,17 +4,17 @@
   "team": "SYR",
   "teamName": "Syracuse Orange",
   "conference": "ACC",
-  "rank": 170,
-  "gp": 24,
-  "ppg": 12.1,
+  "rank": 173,
+  "gp": 25,
+  "ppg": 12.0,
   "adjPpg": 12.6,
-  "pointsPlus": 132,
-  "mpg": 30.0,
+  "pointsPlus": 131,
+  "mpg": 29.8,
   "position": "G",
   "jersey": "2",
   "classYear": "Senior",
-  "pointsPlusStdDev": 55.4,
-  "volatilityPctile": 58,
+  "pointsPlusStdDev": 54.5,
+  "volatilityPctile": 54,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -40,7 +40,7 @@
       "result": "L",
       "min": 31,
       "pts": 11,
-      "adjPts": 14.4,
+      "adjPts": 14.3,
       "pointsPlus": 150
     },
     {
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 29,
       "pts": 10,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 122
     },
     {
@@ -149,7 +149,7 @@
       "min": 33,
       "pts": 15,
       "adjPts": 13.5,
-      "pointsPlus": 141
+      "pointsPlus": 142
     },
     {
       "date": "2026-01-17",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 42,
       "pts": 12,
-      "adjPts": 14.1,
-      "pointsPlus": 148
+      "adjPts": 14.0,
+      "pointsPlus": 146
     },
     {
       "date": "2026-01-22",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 23,
       "pts": 12,
-      "adjPts": 11.7,
-      "pointsPlus": 122
+      "adjPts": 11.8,
+      "pointsPlus": 123
     },
     {
       "date": "2026-01-24",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 27,
       "pts": 8,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-28",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 28,
       "pts": 17,
-      "adjPts": 16.0,
-      "pointsPlus": 167
+      "adjPts": 16.2,
+      "pointsPlus": 170
     },
     {
       "date": "2026-01-31",
@@ -203,7 +203,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-07",
@@ -212,7 +212,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 14.5,
-      "pointsPlus": 151
+      "pointsPlus": 152
     },
     {
       "date": "2026-02-12",
@@ -221,7 +221,7 @@
       "min": 44,
       "pts": 21,
       "adjPts": 21.2,
-      "pointsPlus": 221
+      "pointsPlus": 222
     },
     {
       "date": "2026-02-14",
@@ -231,6 +231,15 @@
       "pts": 4,
       "adjPts": 3.5,
       "pointsPlus": 37
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "SYR @ DUKE",
+      "result": "L",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 10.9,
+      "pointsPlus": 114
     }
   ]
 }

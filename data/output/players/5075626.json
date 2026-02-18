@@ -4,7 +4,7 @@
   "team": "CIN",
   "teamName": "Cincinnati Bearcats",
   "conference": "Big 12",
-  "rank": 137,
+  "rank": 134,
   "gp": 24,
   "ppg": 13.7,
   "adjPpg": 13.6,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "18",
   "classYear": "Senior",
-  "pointsPlusStdDev": 60.2,
+  "pointsPlusStdDev": 60.4,
   "volatilityPctile": 70,
   "gameLog": [
     {
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 25,
       "pts": 9,
-      "adjPts": 9.0,
-      "pointsPlus": 94
+      "adjPts": 8.8,
+      "pointsPlus": 92
     },
     {
       "date": "2025-12-02",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 28,
       "pts": 10,
-      "adjPts": 9.1,
-      "pointsPlus": 95
+      "adjPts": 9.0,
+      "pointsPlus": 94
     },
     {
       "date": "2025-12-13",
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 32,
       "pts": 11,
-      "adjPts": 14.4,
+      "adjPts": 14.3,
       "pointsPlus": 150
     },
     {
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 29,
       "pts": 13,
-      "adjPts": 11.7,
+      "adjPts": 11.8,
       "pointsPlus": 123
     },
     {
@@ -149,7 +149,7 @@
       "min": 34,
       "pts": 25,
       "adjPts": 22.4,
-      "pointsPlus": 234
+      "pointsPlus": 235
     },
     {
       "date": "2026-01-17",
@@ -158,7 +158,7 @@
       "min": 34,
       "pts": 8,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-22",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 34,
       "pts": 23,
-      "adjPts": 20.6,
-      "pointsPlus": 215
+      "adjPts": 20.8,
+      "pointsPlus": 217
     },
     {
       "date": "2026-01-28",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 37,
       "pts": 18,
-      "adjPts": 16.6,
-      "pointsPlus": 173
+      "adjPts": 16.4,
+      "pointsPlus": 172
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 33,
       "pts": 17,
-      "adjPts": 15.3,
-      "pointsPlus": 160
+      "adjPts": 15.4,
+      "pointsPlus": 161
     },
     {
       "date": "2026-02-12",
@@ -230,7 +230,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 11.7,
-      "pointsPlus": 122
+      "pointsPlus": 123
     }
   ]
 }

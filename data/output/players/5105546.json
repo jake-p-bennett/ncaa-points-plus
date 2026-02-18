@@ -4,7 +4,7 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 316,
+  "rank": 315,
   "gp": 25,
   "ppg": 9.4,
   "adjPpg": 9.4,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "12",
   "classYear": "Senior",
-  "pointsPlusStdDev": 62.0,
+  "pointsPlusStdDev": 62.1,
   "volatilityPctile": 74,
   "gameLog": [
     {
@@ -68,7 +68,7 @@
       "min": 14,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-28",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 18,
       "pts": 12,
-      "adjPts": 12.0,
-      "pointsPlus": 125
+      "adjPts": 11.8,
+      "pointsPlus": 123
     },
     {
       "date": "2025-12-06",
@@ -104,7 +104,7 @@
       "min": 18,
       "pts": 9,
       "adjPts": 9.0,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2025-12-17",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 28,
       "pts": 20,
-      "adjPts": 26.1,
-      "pointsPlus": 273
+      "adjPts": 26.0,
+      "pointsPlus": 272
     },
     {
       "date": "2025-12-30",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 15,
       "pts": 18,
-      "adjPts": 17.4,
-      "pointsPlus": 182
+      "adjPts": 17.5,
+      "pointsPlus": 183
     },
     {
       "date": "2026-01-17",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 20,
       "pts": 12,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 106
     },
     {
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 5.7,
-      "pointsPlus": 60
+      "adjPts": 5.6,
+      "pointsPlus": 59
     },
     {
       "date": "2026-01-28",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 25,
       "pts": 11,
-      "adjPts": 11.1,
-      "pointsPlus": 116
+      "adjPts": 11.0,
+      "pointsPlus": 115
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 18,
       "pts": 6,
-      "adjPts": 5.7,
-      "pointsPlus": 60
+      "adjPts": 5.6,
+      "pointsPlus": 59
     },
     {
       "date": "2026-02-15",

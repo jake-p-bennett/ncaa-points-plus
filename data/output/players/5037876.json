@@ -4,17 +4,17 @@
   "team": "TCU",
   "teamName": "TCU Horned Frogs",
   "conference": "Big 12",
-  "rank": 294,
-  "gp": 25,
-  "ppg": 10.0,
-  "adjPpg": 9.9,
-  "pointsPlus": 103,
-  "mpg": 24.9,
+  "rank": 278,
+  "gp": 26,
+  "ppg": 10.4,
+  "adjPpg": 10.2,
+  "pointsPlus": 107,
+  "mpg": 25.2,
   "position": "F",
   "jersey": "5",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 50.8,
-  "volatilityPctile": 44,
+  "pointsPlusStdDev": 52.6,
+  "volatilityPctile": 49,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 22,
       "pts": 12,
-      "adjPts": 12.3,
-      "pointsPlus": 129
+      "adjPts": 12.2,
+      "pointsPlus": 128
     },
     {
       "date": "2025-11-20",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 30,
       "pts": 8,
-      "adjPts": 7.9,
-      "pointsPlus": 83
+      "adjPts": 8.0,
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-28",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 31,
       "pts": 13,
-      "adjPts": 12.0,
-      "pointsPlus": 125
+      "adjPts": 11.9,
+      "pointsPlus": 124
     },
     {
       "date": "2026-01-07",
@@ -149,7 +149,7 @@
       "min": 29,
       "pts": 16,
       "adjPts": 18.1,
-      "pointsPlus": 189
+      "pointsPlus": 190
     },
     {
       "date": "2026-01-10",
@@ -194,7 +194,7 @@
       "min": 35,
       "pts": 6,
       "adjPts": 5.5,
-      "pointsPlus": 58
+      "pointsPlus": 57
     },
     {
       "date": "2026-01-29",
@@ -240,6 +240,15 @@
       "pts": 11,
       "adjPts": 9.1,
       "pointsPlus": 95
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "TCU @ UCF",
+      "result": "L",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 18.1,
+      "pointsPlus": 190
     }
   ]
 }

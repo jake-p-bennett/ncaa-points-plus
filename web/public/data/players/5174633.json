@@ -4,16 +4,16 @@
   "team": "OU",
   "teamName": "Oklahoma Sooners",
   "conference": "SEC",
-  "rank": 79,
+  "rank": 82,
   "gp": 25,
   "ppg": 16.1,
-  "adjPpg": 15.5,
-  "pointsPlus": 162,
+  "adjPpg": 15.6,
+  "pointsPlus": 163,
   "mpg": 31.9,
   "position": "G",
   "jersey": "1",
   "classYear": "Junior",
-  "pointsPlusStdDev": 66.7,
+  "pointsPlusStdDev": 67.0,
   "volatilityPctile": 84,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 31,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-12",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 35,
       "pts": 20,
-      "adjPts": 23.3,
-      "pointsPlus": 244
+      "adjPts": 23.7,
+      "pointsPlus": 248
     },
     {
       "date": "2025-11-21",
@@ -86,7 +86,7 @@
       "min": 33,
       "pts": 11,
       "adjPts": 10.2,
-      "pointsPlus": 106
+      "pointsPlus": 107
     },
     {
       "date": "2025-12-07",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 33,
       "pts": 11,
-      "adjPts": 9.8,
-      "pointsPlus": 103
+      "adjPts": 9.9,
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-13",
@@ -113,7 +113,7 @@
       "min": 30,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-23",
@@ -149,7 +149,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 11.9,
-      "pointsPlus": 124
+      "pointsPlus": 125
     },
     {
       "date": "2026-01-10",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 37,
       "pts": 24,
-      "adjPts": 23.8,
-      "pointsPlus": 248
+      "adjPts": 24.0,
+      "pointsPlus": 251
     },
     {
       "date": "2026-01-17",
@@ -185,7 +185,7 @@
       "min": 37,
       "pts": 22,
       "adjPts": 21.3,
-      "pointsPlus": 222
+      "pointsPlus": 223
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 38,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 193
+      "pointsPlus": 194
     },
     {
       "date": "2026-01-28",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 35,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 148
+      "adjPts": 14.0,
+      "pointsPlus": 147
     },
     {
       "date": "2026-02-05",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 31,
       "pts": 21,
-      "adjPts": 21.1,
-      "pointsPlus": 221
+      "adjPts": 20.9,
+      "pointsPlus": 219
     },
     {
       "date": "2026-02-07",

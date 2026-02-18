@@ -4,17 +4,17 @@
   "team": "TEX",
   "teamName": "Texas Longhorns",
   "conference": "SEC",
-  "rank": 451,
-  "gp": 24,
+  "rank": 447,
+  "gp": 25,
   "ppg": 6.9,
   "adjPpg": 6.6,
   "pointsPlus": 69,
-  "mpg": 23.0,
+  "mpg": 23.5,
   "position": "F",
   "jersey": "5",
   "classYear": "Junior",
-  "pointsPlusStdDev": 58.1,
-  "volatilityPctile": 65,
+  "pointsPlusStdDev": 57.1,
+  "volatilityPctile": 62,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -59,7 +59,7 @@
       "min": 27,
       "pts": 7,
       "adjPts": 6.3,
-      "pointsPlus": 65
+      "pointsPlus": 66
     },
     {
       "date": "2025-11-26",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 22,
       "pts": 11,
-      "adjPts": 10.4,
-      "pointsPlus": 108
+      "adjPts": 10.5,
+      "pointsPlus": 110
     },
     {
       "date": "2025-12-04",
@@ -140,7 +140,7 @@
       "min": 35,
       "pts": 16,
       "adjPts": 17.2,
-      "pointsPlus": 179
+      "pointsPlus": 180
     },
     {
       "date": "2026-01-11",
@@ -167,7 +167,7 @@
       "min": 27,
       "pts": 3,
       "adjPts": 2.5,
-      "pointsPlus": 26
+      "pointsPlus": 27
     },
     {
       "date": "2026-01-22",
@@ -212,7 +212,7 @@
       "min": 35,
       "pts": 12,
       "adjPts": 11.6,
-      "pointsPlus": 121
+      "pointsPlus": 122
     },
     {
       "date": "2026-02-07",
@@ -231,6 +231,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "TEX vs LSU",
+      "result": "W",
+      "min": 37,
+      "pts": 8,
+      "adjPts": 7.5,
+      "pointsPlus": 79
     }
   ]
 }

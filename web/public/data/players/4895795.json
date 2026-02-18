@@ -4,16 +4,16 @@
   "team": "LSU",
   "teamName": "LSU Tigers",
   "conference": "SEC",
-  "rank": 157,
-  "gp": 25,
-  "ppg": 13.1,
-  "adjPpg": 12.9,
-  "pointsPlus": 135,
+  "rank": 156,
+  "gp": 26,
+  "ppg": 13.2,
+  "adjPpg": 13.0,
+  "pointsPlus": 136,
   "mpg": 20.8,
   "position": "F",
   "jersey": "1",
   "classYear": "Junior",
-  "pointsPlusStdDev": 70.3,
+  "pointsPlusStdDev": 69.2,
   "volatilityPctile": 88,
   "gameLog": [
     {
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 25,
       "pts": 12,
-      "adjPts": 14.1,
-      "pointsPlus": 148
+      "adjPts": 14.0,
+      "pointsPlus": 146
     },
     {
       "date": "2025-12-07",
@@ -104,7 +104,7 @@
       "min": 14,
       "pts": 8,
       "adjPts": 7.0,
-      "pointsPlus": 74
+      "pointsPlus": 73
     },
     {
       "date": "2025-12-20",
@@ -140,7 +140,7 @@
       "min": 26,
       "pts": 21,
       "adjPts": 17.7,
-      "pointsPlus": 185
+      "pointsPlus": 186
     },
     {
       "date": "2026-01-07",
@@ -167,7 +167,7 @@
       "min": 20,
       "pts": 3,
       "adjPts": 3.0,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2026-01-17",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 23,
       "pts": 17,
-      "adjPts": 16.8,
-      "pointsPlus": 176
+      "adjPts": 17.0,
+      "pointsPlus": 178
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 27,
       "pts": 14,
       "adjPts": 12.4,
-      "pointsPlus": 129
+      "pointsPlus": 130
     },
     {
       "date": "2026-01-29",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 23,
       "pts": 21,
-      "adjPts": 20.3,
-      "pointsPlus": 212
+      "adjPts": 20.4,
+      "pointsPlus": 213
     },
     {
       "date": "2026-02-07",
@@ -240,6 +240,15 @@
       "pts": 10,
       "adjPts": 10.7,
       "pointsPlus": 112
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "LSU @ TEX",
+      "result": "L",
+      "min": 20,
+      "pts": 15,
+      "adjPts": 14.0,
+      "pointsPlus": 147
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "CONN",
   "teamName": "UConn Huskies",
   "conference": "Big East",
-  "rank": 434,
+  "rank": 433,
   "gp": 26,
   "ppg": 7.1,
   "adjPpg": 7.0,
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 15,
       "pts": 9,
-      "adjPts": 8.9,
-      "pointsPlus": 93
+      "adjPts": 9.0,
+      "pointsPlus": 94
     },
     {
       "date": "2025-12-13",
@@ -112,7 +112,7 @@
       "result": "W",
       "min": 10,
       "pts": 4,
-      "adjPts": 3.8,
+      "adjPts": 3.7,
       "pointsPlus": 39
     },
     {
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 17,
       "pts": 5,
-      "adjPts": 4.6,
-      "pointsPlus": 48
+      "adjPts": 4.5,
+      "pointsPlus": 47
     },
     {
       "date": "2026-01-04",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 14,
       "pts": 4,
-      "adjPts": 4.4,
-      "pointsPlus": 46
+      "adjPts": 4.3,
+      "pointsPlus": 45
     },
     {
       "date": "2026-01-28",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 17,
       "pts": 14,
-      "adjPts": 12.7,
-      "pointsPlus": 133
+      "adjPts": 12.6,
+      "pointsPlus": 132
     },
     {
       "date": "2026-02-07",
@@ -248,7 +248,7 @@
       "min": 22,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 107
+      "pointsPlus": 108
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "CAL",
   "teamName": "California Golden Bears",
   "conference": "ACC",
-  "rank": 42,
+  "rank": 44,
   "gp": 26,
   "ppg": 17.1,
   "adjPpg": 17.3,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "7",
   "classYear": "Junior",
-  "pointsPlusStdDev": 57.4,
+  "pointsPlusStdDev": 57.5,
   "volatilityPctile": 63,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 31,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 240
+      "pointsPlus": 241
     },
     {
       "date": "2025-11-11",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 32,
       "pts": 25,
-      "adjPts": 21.5,
-      "pointsPlus": 225
+      "adjPts": 21.6,
+      "pointsPlus": 226
     },
     {
       "date": "2025-11-19",
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 24,
       "pts": 14,
-      "adjPts": 15.0,
+      "adjPts": 14.9,
       "pointsPlus": 156
     },
     {
@@ -131,7 +131,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-31",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 33,
       "pts": 11,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 10.8,
+      "pointsPlus": 113
     },
     {
       "date": "2026-01-03",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 29,
       "pts": 21,
-      "adjPts": 20.4,
-      "pointsPlus": 213
+      "adjPts": 20.6,
+      "pointsPlus": 215
     },
     {
       "date": "2026-01-15",
@@ -176,7 +176,7 @@
       "min": 33,
       "pts": 8,
       "adjPts": 9.7,
-      "pointsPlus": 102
+      "pointsPlus": 101
     },
     {
       "date": "2026-01-17",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 32,
       "pts": 19,
-      "adjPts": 19.8,
-      "pointsPlus": 207
+      "adjPts": 19.7,
+      "pointsPlus": 206
     },
     {
       "date": "2026-01-25",
@@ -203,7 +203,7 @@
       "min": 35,
       "pts": 11,
       "adjPts": 9.9,
-      "pointsPlus": 103
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 28,
       "pts": 14,
-      "adjPts": 14.5,
-      "pointsPlus": 152
+      "adjPts": 14.6,
+      "pointsPlus": 153
     },
     {
       "date": "2026-02-05",
@@ -221,7 +221,7 @@
       "min": 31,
       "pts": 29,
       "adjPts": 28.2,
-      "pointsPlus": 294
+      "pointsPlus": 295
     },
     {
       "date": "2026-02-08",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 45,
       "pts": 23,
-      "adjPts": 24.0,
-      "pointsPlus": 250
+      "adjPts": 23.5,
+      "pointsPlus": 246
     },
     {
       "date": "2026-02-14",
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 32,
       "pts": 15,
-      "adjPts": 17.7,
-      "pointsPlus": 185
+      "adjPts": 17.5,
+      "pointsPlus": 183
     }
   ]
 }

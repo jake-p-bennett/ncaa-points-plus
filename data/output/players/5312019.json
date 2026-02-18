@@ -4,17 +4,17 @@
   "team": "ORE",
   "teamName": "Oregon Ducks",
   "conference": "Big Ten",
-  "rank": 431,
-  "gp": 24,
-  "ppg": 6.8,
-  "adjPpg": 7.0,
-  "pointsPlus": 74,
-  "mpg": 18.1,
+  "rank": 437,
+  "gp": 25,
+  "ppg": 6.6,
+  "adjPpg": 6.9,
+  "pointsPlus": 72,
+  "mpg": 18.3,
   "position": "G",
   "jersey": "23",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 55.2,
-  "volatilityPctile": 57,
+  "pointsPlusStdDev": 55.1,
+  "volatilityPctile": 55,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 38,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.9,
       "pointsPlus": 103
     },
     {
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 27,
       "pts": 14,
-      "adjPts": 16.3,
-      "pointsPlus": 171
+      "adjPts": 16.6,
+      "pointsPlus": 173
     },
     {
       "date": "2026-01-17",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 33,
       "pts": 11,
-      "adjPts": 11.3,
-      "pointsPlus": 118
+      "adjPts": 11.2,
+      "pointsPlus": 117
     },
     {
       "date": "2026-01-21",
@@ -176,7 +176,7 @@
       "min": 23,
       "pts": 7,
       "adjPts": 8.1,
-      "pointsPlus": 84
+      "pointsPlus": 85
     },
     {
       "date": "2026-01-25",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 12,
       "pts": 5,
-      "adjPts": 6.1,
-      "pointsPlus": 63
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2026-02-07",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 18,
       "pts": 7,
-      "adjPts": 7.5,
-      "pointsPlus": 79
+      "adjPts": 7.4,
+      "pointsPlus": 78
     },
     {
       "date": "2026-02-10",
@@ -231,6 +231,15 @@
       "pts": 5,
       "adjPts": 4.6,
       "pointsPlus": 48
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "ORE vs MINN",
+      "result": "L",
+      "min": 23,
+      "pts": 2,
+      "adjPts": 2.4,
+      "pointsPlus": 25
     }
   ]
 }

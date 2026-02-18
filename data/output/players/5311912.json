@@ -4,7 +4,7 @@
   "team": "COLO",
   "teamName": "Colorado Buffaloes",
   "conference": "Big 12",
-  "rank": 406,
+  "rank": 405,
   "gp": 24,
   "ppg": 7.5,
   "adjPpg": 7.4,
@@ -31,7 +31,7 @@
       "result": "W",
       "min": 23,
       "pts": 20,
-      "adjPts": 15.1,
+      "adjPts": 15.2,
       "pointsPlus": 158
     },
     {
@@ -122,7 +122,7 @@
       "min": 17,
       "pts": 6,
       "adjPts": 5.4,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2026-01-08",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 4,
       "pts": 2,
-      "adjPts": 2.1,
+      "adjPts": 2.0,
       "pointsPlus": 21
     },
     {

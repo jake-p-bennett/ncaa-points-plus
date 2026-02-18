@@ -4,17 +4,17 @@
   "team": "ISU",
   "teamName": "Iowa State Cyclones",
   "conference": "Big 12",
-  "rank": 319,
-  "gp": 25,
-  "ppg": 9.5,
-  "adjPpg": 9.3,
-  "pointsPlus": 97,
-  "mpg": 26.6,
+  "rank": 328,
+  "gp": 26,
+  "ppg": 9.3,
+  "adjPpg": 9.2,
+  "pointsPlus": 96,
+  "mpg": 26.5,
   "position": "G",
   "jersey": "27",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 47.0,
-  "volatilityPctile": 34,
+  "pointsPlusStdDev": 45.8,
+  "volatilityPctile": 31,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 31,
       "pts": 19,
-      "adjPts": 19.8,
-      "pointsPlus": 207
+      "adjPts": 19.4,
+      "pointsPlus": 203
     },
     {
       "date": "2025-12-04",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 28,
       "pts": 13,
-      "adjPts": 14.0,
-      "pointsPlus": 146
+      "adjPts": 13.8,
+      "pointsPlus": 144
     },
     {
       "date": "2025-12-12",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 30,
       "pts": 7,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2025-12-14",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 31,
       "pts": 12,
-      "adjPts": 10.8,
-      "pointsPlus": 113
+      "adjPts": 10.9,
+      "pointsPlus": 114
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 30,
       "pts": 10,
       "adjPts": 8.3,
-      "pointsPlus": 86
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-30",
@@ -230,7 +230,7 @@
       "min": 26,
       "pts": 5,
       "adjPts": 5.1,
-      "pointsPlus": 54
+      "pointsPlus": 53
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 7,
       "adjPts": 7.9,
       "pointsPlus": 83
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "ISU vs HOU",
+      "result": "W",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 7.8,
+      "pointsPlus": 82
     }
   ]
 }

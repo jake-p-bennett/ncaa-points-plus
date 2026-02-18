@@ -4,17 +4,17 @@
   "team": "WIS",
   "teamName": "Wisconsin Badgers",
   "conference": "Big Ten",
-  "rank": 410,
-  "gp": 24,
-  "ppg": 7.1,
-  "adjPpg": 7.3,
-  "pointsPlus": 77,
-  "mpg": 16.5,
+  "rank": 382,
+  "gp": 25,
+  "ppg": 7.6,
+  "adjPpg": 7.8,
+  "pointsPlus": 82,
+  "mpg": 17.0,
   "position": "G",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 56.2,
-  "volatilityPctile": 60,
+  "pointsPlusStdDev": 61.4,
+  "volatilityPctile": 73,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -41,7 +41,7 @@
       "min": 18,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-18",
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 18,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.1,
       "pointsPlus": 64
     },
     {
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 8,
       "pts": 6,
-      "adjPts": 6.5,
-      "pointsPlus": 68
+      "adjPts": 6.4,
+      "pointsPlus": 66
     },
     {
       "date": "2026-01-07",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 27,
       "pts": 12,
-      "adjPts": 12.3,
-      "pointsPlus": 129
+      "adjPts": 12.2,
+      "pointsPlus": 128
     },
     {
       "date": "2026-01-14",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 27,
       "pts": 21,
-      "adjPts": 24.3,
-      "pointsPlus": 254
+      "adjPts": 24.9,
+      "pointsPlus": 261
     },
     {
       "date": "2026-01-17",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 27,
       "pts": 7,
-      "adjPts": 8.1,
-      "pointsPlus": 85
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-31",
@@ -230,7 +230,16 @@
       "min": 19,
       "pts": 9,
       "adjPts": 10.4,
-      "pointsPlus": 108
+      "pointsPlus": 109
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "WIS @ OSU",
+      "result": "L",
+      "min": 28,
+      "pts": 20,
+      "adjPts": 19.7,
+      "pointsPlus": 206
     }
   ]
 }

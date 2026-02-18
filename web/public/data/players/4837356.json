@@ -4,17 +4,17 @@
   "team": "MIA",
   "teamName": "Miami Hurricanes",
   "conference": "ACC",
-  "rank": 69,
-  "gp": 25,
-  "ppg": 15.8,
-  "adjPpg": 15.9,
-  "pointsPlus": 166,
-  "mpg": 33.9,
+  "rank": 63,
+  "gp": 26,
+  "ppg": 16.4,
+  "adjPpg": 16.5,
+  "pointsPlus": 173,
+  "mpg": 34.0,
   "position": "G",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 51.1,
-  "volatilityPctile": 45,
+  "pointsPlusStdDev": 59.0,
+  "volatilityPctile": 67,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 27,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 240
+      "pointsPlus": 241
     },
     {
       "date": "2025-11-11",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 37,
       "pts": 13,
-      "adjPts": 12.9,
-      "pointsPlus": 135
+      "adjPts": 13.0,
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-21",
@@ -68,7 +68,7 @@
       "min": 19,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-27",
@@ -104,7 +104,7 @@
       "min": 40,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-13",
@@ -131,7 +131,7 @@
       "min": 32,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-31",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 36,
       "pts": 21,
-      "adjPts": 19.4,
-      "pointsPlus": 203
+      "adjPts": 19.5,
+      "pointsPlus": 204
     },
     {
       "date": "2026-01-10",
@@ -185,7 +185,7 @@
       "min": 38,
       "pts": 11,
       "adjPts": 9.9,
-      "pointsPlus": 103
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 29,
       "pts": 16,
-      "adjPts": 16.7,
-      "pointsPlus": 174
+      "adjPts": 16.4,
+      "pointsPlus": 171
     },
     {
       "date": "2026-01-29",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 37,
       "pts": 14,
-      "adjPts": 16.5,
-      "pointsPlus": 172
+      "adjPts": 16.3,
+      "pointsPlus": 171
     },
     {
       "date": "2026-02-11",
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 36,
       "pts": 14,
-      "adjPts": 14.6,
+      "adjPts": 14.5,
       "pointsPlus": 152
     },
     {
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 39,
       "pts": 14,
-      "adjPts": 13.2,
-      "pointsPlus": 138
+      "adjPts": 13.4,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "MIA vs VT",
+      "result": "W",
+      "min": 36,
+      "pts": 32,
+      "adjPts": 31.4,
+      "pointsPlus": 328
     }
   ]
 }

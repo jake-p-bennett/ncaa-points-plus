@@ -4,17 +4,17 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 317,
-  "gp": 25,
-  "ppg": 9.5,
-  "adjPpg": 9.4,
-  "pointsPlus": 98,
-  "mpg": 21.0,
+  "rank": 307,
+  "gp": 26,
+  "ppg": 9.7,
+  "adjPpg": 9.6,
+  "pointsPlus": 100,
+  "mpg": 21.2,
   "position": "C",
   "jersey": "2",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 40.5,
-  "volatilityPctile": 18,
+  "pointsPlusStdDev": 40.9,
+  "volatilityPctile": 19,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -59,7 +59,7 @@
       "min": 16,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-22",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 16,
       "pts": 6,
-      "adjPts": 5.5,
-      "pointsPlus": 57
+      "adjPts": 5.4,
+      "pointsPlus": 56
     },
     {
       "date": "2025-11-23",
@@ -77,7 +77,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 13.6,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2025-11-29",
@@ -95,7 +95,7 @@
       "min": 20,
       "pts": 9,
       "adjPts": 8.1,
-      "pointsPlus": 84
+      "pointsPlus": 85
     },
     {
       "date": "2025-12-13",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 22,
       "pts": 18,
-      "adjPts": 17.4,
-      "pointsPlus": 182
+      "adjPts": 17.5,
+      "pointsPlus": 183
     },
     {
       "date": "2026-01-15",
@@ -176,7 +176,7 @@
       "min": 27,
       "pts": 6,
       "adjPts": 5.3,
-      "pointsPlus": 55
+      "pointsPlus": 56
     },
     {
       "date": "2026-01-21",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 25,
       "pts": 12,
-      "adjPts": 11.3,
-      "pointsPlus": 118
+      "adjPts": 11.2,
+      "pointsPlus": 117
     },
     {
       "date": "2026-01-29",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 17,
       "pts": 12,
-      "adjPts": 11.4,
-      "pointsPlus": 119
+      "adjPts": 11.3,
+      "pointsPlus": 118
     },
     {
       "date": "2026-02-12",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 18,
       "pts": 10,
-      "adjPts": 9.9,
-      "pointsPlus": 104
+      "adjPts": 10.0,
+      "pointsPlus": 105
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 9,
       "adjPts": 8.0,
       "pointsPlus": 84
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UGA @ UK",
+      "result": "W",
+      "min": 26,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
     }
   ]
 }

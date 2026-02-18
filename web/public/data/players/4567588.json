@@ -4,8 +4,8 @@
   "team": "UCF",
   "teamName": "UCF Knights",
   "conference": "Big 12",
-  "rank": 492,
-  "gp": 24,
+  "rank": 489,
+  "gp": 25,
   "ppg": 5.8,
   "adjPpg": 5.8,
   "pointsPlus": 61,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "35",
   "classYear": "Senior",
-  "pointsPlusStdDev": 42.5,
-  "volatilityPctile": 23,
+  "pointsPlusStdDev": 41.7,
+  "volatilityPctile": 21,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -176,7 +176,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-24",
@@ -231,6 +231,15 @@
       "pts": 5,
       "adjPts": 6.5,
       "pointsPlus": 68
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UCF vs TCU",
+      "result": "W",
+      "min": 17,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 64
     }
   ]
 }

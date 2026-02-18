@@ -4,7 +4,7 @@
   "team": "STAN",
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
-  "rank": 482,
+  "rank": 481,
   "gp": 26,
   "ppg": 5.7,
   "adjPpg": 6.0,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "52",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 48.9,
+  "pointsPlusStdDev": 49.0,
   "volatilityPctile": 39,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-13",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 28,
       "pts": 9,
-      "adjPts": 10.4,
-      "pointsPlus": 109
+      "adjPts": 10.7,
+      "pointsPlus": 112
     },
     {
       "date": "2025-11-29",
@@ -140,7 +140,7 @@
       "min": 9,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 21
+      "pointsPlus": 22
     },
     {
       "date": "2026-01-03",
@@ -176,7 +176,7 @@
       "min": 24,
       "pts": 4,
       "adjPts": 4.2,
-      "pointsPlus": 44
+      "pointsPlus": 43
     },
     {
       "date": "2026-01-17",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 15,
       "pts": 3,
-      "adjPts": 3.7,
+      "adjPts": 3.6,
       "pointsPlus": 38
     },
     {
@@ -203,7 +203,7 @@
       "min": 29,
       "pts": 5,
       "adjPts": 5.2,
-      "pointsPlus": 54
+      "pointsPlus": 55
     },
     {
       "date": "2026-01-31",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 30,
       "pts": 8,
-      "adjPts": 9.4,
-      "pointsPlus": 99
+      "adjPts": 9.3,
+      "pointsPlus": 98
     },
     {
       "date": "2026-02-14",

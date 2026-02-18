@@ -5,11 +5,11 @@
   "teamName": "Iowa State Cyclones",
   "conference": "Big 12",
   "rank": 57,
-  "gp": 25,
-  "ppg": 16.7,
-  "adjPpg": 16.7,
+  "gp": 26,
+  "ppg": 16.5,
+  "adjPpg": 16.6,
   "pointsPlus": 174,
-  "mpg": 31.4,
+  "mpg": 31.5,
   "position": "F",
   "jersey": "5",
   "classYear": "Senior",
@@ -50,7 +50,7 @@
       "min": 31,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 240
+      "pointsPlus": 241
     },
     {
       "date": "2025-11-24",
@@ -58,7 +58,7 @@
       "result": "W",
       "min": 36,
       "pts": 17,
-      "adjPts": 16.8,
+      "adjPts": 16.9,
       "pointsPlus": 176
     },
     {
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 28,
       "pts": 13,
-      "adjPts": 13.5,
-      "pointsPlus": 142
+      "adjPts": 13.3,
+      "pointsPlus": 139
     },
     {
       "date": "2025-12-04",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 22,
       "pts": 11,
-      "adjPts": 11.8,
-      "pointsPlus": 124
+      "adjPts": 11.6,
+      "pointsPlus": 122
     },
     {
       "date": "2025-12-12",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 35,
       "pts": 24,
-      "adjPts": 29.1,
-      "pointsPlus": 305
+      "adjPts": 29.6,
+      "pointsPlus": 310
     },
     {
       "date": "2025-12-14",
@@ -131,7 +131,7 @@
       "min": 33,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 240
+      "pointsPlus": 241
     },
     {
       "date": "2026-01-03",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 38,
       "pts": 19,
-      "adjPts": 17.5,
-      "pointsPlus": 183
+      "adjPts": 17.4,
+      "pointsPlus": 182
     },
     {
       "date": "2026-01-10",
@@ -158,7 +158,7 @@
       "min": 36,
       "pts": 19,
       "adjPts": 15.7,
-      "pointsPlus": 164
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-14",
@@ -176,7 +176,7 @@
       "min": 35,
       "pts": 16,
       "adjPts": 19.2,
-      "pointsPlus": 200
+      "pointsPlus": 201
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 34,
       "pts": 17,
-      "adjPts": 15.3,
-      "pointsPlus": 160
+      "adjPts": 15.4,
+      "pointsPlus": 161
     },
     {
       "date": "2026-01-24",
@@ -212,7 +212,7 @@
       "min": 34,
       "pts": 19,
       "adjPts": 16.4,
-      "pointsPlus": 171
+      "pointsPlus": 172
     },
     {
       "date": "2026-02-07",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 35,
       "pts": 15,
-      "adjPts": 13.8,
-      "pointsPlus": 144
+      "adjPts": 13.7,
+      "pointsPlus": 143
     },
     {
       "date": "2026-02-11",
@@ -230,7 +230,7 @@
       "min": 38,
       "pts": 12,
       "adjPts": 12.3,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 11,
       "adjPts": 12.5,
       "pointsPlus": 130
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "ISU vs HOU",
+      "result": "W",
+      "min": 33,
+      "pts": 12,
+      "adjPts": 15.6,
+      "pointsPlus": 163
     }
   ]
 }

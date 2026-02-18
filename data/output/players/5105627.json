@@ -4,16 +4,16 @@
   "team": "BAY",
   "teamName": "Baylor Bears",
   "conference": "Big 12",
-  "rank": 363,
-  "gp": 25,
-  "ppg": 8.2,
-  "adjPpg": 8.3,
-  "pointsPlus": 87,
-  "mpg": 26.6,
+  "rank": 370,
+  "gp": 26,
+  "ppg": 8.0,
+  "adjPpg": 8.1,
+  "pointsPlus": 85,
+  "mpg": 26.2,
   "position": "G",
   "jersey": "12",
   "classYear": "Senior",
-  "pointsPlusStdDev": 49.1,
+  "pointsPlusStdDev": 49.2,
   "volatilityPctile": 39,
   "gameLog": [
     {
@@ -131,7 +131,7 @@
       "min": 22,
       "pts": 5,
       "adjPts": 5.1,
-      "pointsPlus": 54
+      "pointsPlus": 53
     },
     {
       "date": "2026-01-08",
@@ -140,7 +140,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-10",
@@ -158,7 +158,7 @@
       "min": 36,
       "pts": 19,
       "adjPts": 15.7,
-      "pointsPlus": 164
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 30,
       "pts": 7,
       "adjPts": 7.0,
-      "pointsPlus": 73
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-24",
@@ -238,8 +238,17 @@
       "result": "L",
       "min": 27,
       "pts": 11,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 10.8,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "BAY @ KSU",
+      "result": "L",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 3.5,
+      "pointsPlus": 36
     }
   ]
 }

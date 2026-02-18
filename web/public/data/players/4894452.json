@@ -4,7 +4,7 @@
   "team": "WAKE",
   "teamName": "Wake Forest Demon Deacons",
   "conference": "ACC",
-  "rank": 198,
+  "rank": 196,
   "gp": 25,
   "ppg": 12.0,
   "adjPpg": 12.0,
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 13.4,
-      "pointsPlus": 140
+      "adjPts": 13.3,
+      "pointsPlus": 139
     },
     {
       "date": "2025-11-16",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 31,
       "pts": 19,
-      "adjPts": 19.0,
-      "pointsPlus": 199
+      "adjPts": 19.1,
+      "pointsPlus": 200
     },
     {
       "date": "2025-11-22",
@@ -104,7 +104,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 10.5,
-      "pointsPlus": 109
+      "pointsPlus": 110
     },
     {
       "date": "2025-12-14",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 22,
       "pts": 13,
-      "adjPts": 12.3,
-      "pointsPlus": 128
+      "adjPts": 12.4,
+      "pointsPlus": 130
     },
     {
       "date": "2026-01-03",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 26,
       "pts": 7,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.9,
+      "pointsPlus": 72
     },
     {
       "date": "2026-01-08",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 37,
       "pts": 13,
-      "adjPts": 13.5,
-      "pointsPlus": 141
+      "adjPts": 13.6,
+      "pointsPlus": 142
     },
     {
       "date": "2026-01-10",
@@ -176,7 +176,7 @@
       "min": 37,
       "pts": 15,
       "adjPts": 13.5,
-      "pointsPlus": 141
+      "pointsPlus": 142
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 27,
       "pts": 17,
-      "adjPts": 15.0,
-      "pointsPlus": 156
+      "adjPts": 14.8,
+      "pointsPlus": 155
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 26,
       "pts": 5,
       "adjPts": 6.1,
-      "pointsPlus": 64
+      "pointsPlus": 63
     },
     {
       "date": "2026-01-27",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 32,
       "pts": 9,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-02-07",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 29,
       "pts": 10,
-      "adjPts": 10.0,
-      "pointsPlus": 104
+      "adjPts": 9.8,
+      "pointsPlus": 103
     },
     {
       "date": "2026-02-12",

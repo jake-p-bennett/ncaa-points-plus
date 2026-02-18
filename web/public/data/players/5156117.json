@@ -4,7 +4,7 @@
   "team": "PROV",
   "teamName": "Providence Friars",
   "conference": "Big East",
-  "rank": 335,
+  "rank": 334,
   "gp": 26,
   "ppg": 8.8,
   "adjPpg": 9.1,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "11",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 61.5,
+  "pointsPlusStdDev": 61.6,
   "volatilityPctile": 73,
   "gameLog": [
     {
@@ -31,8 +31,8 @@
       "result": "L",
       "min": 22,
       "pts": 6,
-      "adjPts": 5.8,
-      "pointsPlus": 61
+      "adjPts": 5.9,
+      "pointsPlus": 62
     },
     {
       "date": "2025-11-12",
@@ -59,7 +59,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-22",
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 13,
       "pts": 2,
-      "adjPts": 1.9,
+      "adjPts": 1.8,
       "pointsPlus": 19
     },
     {
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 29,
       "pts": 17,
-      "adjPts": 16.8,
-      "pointsPlus": 176
+      "adjPts": 17.0,
+      "pointsPlus": 178
     },
     {
       "date": "2025-12-03",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 7.3,
-      "pointsPlus": 76
+      "adjPts": 7.2,
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-13",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 22,
       "pts": 5,
-      "adjPts": 5.5,
-      "pointsPlus": 58
+      "adjPts": 5.4,
+      "pointsPlus": 56
     },
     {
       "date": "2026-01-16",
@@ -203,7 +203,7 @@
       "min": 26,
       "pts": 6,
       "adjPts": 7.1,
-      "pointsPlus": 74
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 32,
       "pts": 14,
-      "adjPts": 15.4,
-      "pointsPlus": 161
+      "adjPts": 15.1,
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-05",
@@ -230,7 +230,7 @@
       "min": 24,
       "pts": 16,
       "adjPts": 17.9,
-      "pointsPlus": 187
+      "pointsPlus": 188
     },
     {
       "date": "2026-02-12",

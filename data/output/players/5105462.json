@@ -4,7 +4,7 @@
   "team": "BYU",
   "teamName": "BYU Cougars",
   "conference": "Big 12",
-  "rank": 35,
+  "rank": 36,
   "gp": 25,
   "ppg": 18.0,
   "adjPpg": 18.0,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "15",
   "classYear": "Senior",
-  "pointsPlusStdDev": 83.5,
-  "volatilityPctile": 98,
+  "pointsPlusStdDev": 83.7,
+  "volatilityPctile": 97,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -22,8 +22,8 @@
       "result": "W",
       "min": 29,
       "pts": 15,
-      "adjPts": 16.5,
-      "pointsPlus": 173
+      "adjPts": 16.2,
+      "pointsPlus": 169
     },
     {
       "date": "2025-11-09",
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 36,
       "pts": 26,
-      "adjPts": 24.1,
-      "pointsPlus": 252
+      "adjPts": 24.0,
+      "pointsPlus": 251
     },
     {
       "date": "2025-11-27",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 32,
       "pts": 8,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2025-11-29",
@@ -122,7 +122,7 @@
       "min": 31,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-23",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 32,
       "pts": 31,
-      "adjPts": 27.7,
-      "pointsPlus": 290
+      "adjPts": 28.0,
+      "pointsPlus": 293
     },
     {
       "date": "2026-01-11",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 26,
       "pts": 18,
-      "adjPts": 18.5,
-      "pointsPlus": 193
+      "adjPts": 18.4,
+      "pointsPlus": 192
     },
     {
       "date": "2026-01-18",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 39,
       "pts": 18,
-      "adjPts": 18.0,
-      "pointsPlus": 188
+      "adjPts": 18.1,
+      "pointsPlus": 189
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 35,
       "pts": 18,
       "adjPts": 18.7,
-      "pointsPlus": 195
+      "pointsPlus": 196
     },
     {
       "date": "2026-01-31",
@@ -221,7 +221,7 @@
       "min": 33,
       "pts": 7,
       "adjPts": 9.1,
-      "pointsPlus": 96
+      "pointsPlus": 95
     },
     {
       "date": "2026-02-11",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 36,
       "pts": 15,
-      "adjPts": 13.8,
-      "pointsPlus": 144
+      "adjPts": 13.7,
+      "pointsPlus": 143
     },
     {
       "date": "2026-02-14",

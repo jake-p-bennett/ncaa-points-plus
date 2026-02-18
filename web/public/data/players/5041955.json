@@ -4,7 +4,7 @@
   "team": "KU",
   "teamName": "Kansas Jayhawks",
   "conference": "Big 12",
-  "rank": 19,
+  "rank": 18,
   "gp": 14,
   "ppg": 19.8,
   "adjPpg": 20.0,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "22",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 62.5,
-  "volatilityPctile": 75,
+  "pointsPlusStdDev": 62.2,
+  "volatilityPctile": 74,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 22,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 28,
       "pts": 22,
       "adjPts": 22.9,
-      "pointsPlus": 240
+      "pointsPlus": 239
     },
     {
       "date": "2025-12-07",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 31,
       "pts": 17,
-      "adjPts": 16.0,
-      "pointsPlus": 167
+      "adjPts": 16.2,
+      "pointsPlus": 170
     },
     {
       "date": "2026-01-03",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 23,
       "pts": 26,
-      "adjPts": 23.5,
-      "pointsPlus": 245
+      "adjPts": 23.6,
+      "pointsPlus": 247
     },
     {
       "date": "2026-01-07",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 32,
       "pts": 32,
-      "adjPts": 32.9,
-      "pointsPlus": 343
+      "adjPts": 32.7,
+      "pointsPlus": 342
     },
     {
       "date": "2026-01-10",
@@ -85,7 +85,7 @@
       "result": "W",
       "min": 27,
       "pts": 16,
-      "adjPts": 18.6,
+      "adjPts": 18.7,
       "pointsPlus": 195
     },
     {
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 23,
       "pts": 26,
-      "adjPts": 23.9,
-      "pointsPlus": 250
+      "adjPts": 23.7,
+      "pointsPlus": 248
     },
     {
       "date": "2026-01-21",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 35,
       "pts": 19,
-      "adjPts": 19.0,
-      "pointsPlus": 199
+      "adjPts": 19.1,
+      "pointsPlus": 200
     },
     {
       "date": "2026-02-07",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 24,
       "pts": 10,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 122
     }
   ]

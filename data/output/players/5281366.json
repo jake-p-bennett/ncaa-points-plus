@@ -4,17 +4,17 @@
   "team": "MIA",
   "teamName": "Miami Hurricanes",
   "conference": "ACC",
-  "rank": 532,
-  "gp": 25,
-  "ppg": 5.0,
-  "adjPpg": 5.1,
-  "pointsPlus": 53,
-  "mpg": 17.1,
+  "rank": 543,
+  "gp": 26,
+  "ppg": 4.8,
+  "adjPpg": 4.9,
+  "pointsPlus": 51,
+  "mpg": 16.9,
   "position": "F",
   "jersey": "88",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 46.9,
-  "volatilityPctile": 34,
+  "pointsPlusStdDev": 47.2,
+  "volatilityPctile": 35,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -41,7 +41,7 @@
       "min": 18,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-17",
@@ -113,7 +113,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-17",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 14,
       "pts": 6,
-      "adjPts": 6.3,
-      "pointsPlus": 65
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-29",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 15,
       "pts": 6,
-      "adjPts": 7.1,
-      "pointsPlus": 74
+      "adjPts": 7.0,
+      "pointsPlus": 73
     },
     {
       "date": "2026-02-11",
@@ -235,6 +235,15 @@
     {
       "date": "2026-02-14",
       "matchup": "MIA @ NCSU",
+      "result": "W",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "MIA vs VT",
       "result": "W",
       "min": 13,
       "pts": 0,

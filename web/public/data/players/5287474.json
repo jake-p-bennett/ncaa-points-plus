@@ -4,17 +4,17 @@
   "team": "DUKE",
   "teamName": "Duke Blue Devils",
   "conference": "ACC",
-  "rank": 489,
-  "gp": 25,
-  "ppg": 5.8,
-  "adjPpg": 5.9,
+  "rank": 494,
+  "gp": 26,
+  "ppg": 5.7,
+  "adjPpg": 5.8,
   "pointsPlus": 61,
-  "mpg": 21.0,
+  "mpg": 21.1,
   "position": "G",
   "jersey": "7",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 45.0,
-  "volatilityPctile": 29,
+  "pointsPlusStdDev": 44.2,
+  "volatilityPctile": 27,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -23,7 +23,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 7.5,
-      "pointsPlus": 79
+      "pointsPlus": 78
     },
     {
       "date": "2025-11-08",
@@ -122,7 +122,7 @@
       "min": 10,
       "pts": 9,
       "adjPts": 9.0,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2025-12-31",
@@ -140,7 +140,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 11.7,
-      "pointsPlus": 122
+      "pointsPlus": 123
     },
     {
       "date": "2026-01-07",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 26,
       "pts": 4,
-      "adjPts": 4.0,
-      "pointsPlus": 42
+      "adjPts": 3.9,
+      "pointsPlus": 41
     },
     {
       "date": "2026-01-10",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 18,
       "pts": 6,
-      "adjPts": 5.3,
+      "adjPts": 5.2,
       "pointsPlus": 55
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 19,
       "pts": 6,
-      "adjPts": 7.1,
-      "pointsPlus": 74
+      "adjPts": 7.0,
+      "pointsPlus": 73
     },
     {
       "date": "2026-02-07",
@@ -221,7 +221,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-11",
@@ -240,6 +240,15 @@
       "pts": 6,
       "adjPts": 7.4,
       "pointsPlus": 78
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "DUKE vs SYR",
+      "result": "W",
+      "min": 24,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 43
     }
   ]
 }

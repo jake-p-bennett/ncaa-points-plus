@@ -4,17 +4,17 @@
   "team": "CREI",
   "teamName": "Creighton Bluejays",
   "conference": "Big East",
-  "rank": 538,
+  "rank": 537,
   "gp": 26,
   "ppg": 4.9,
-  "adjPpg": 5.0,
+  "adjPpg": 4.9,
   "pointsPlus": 52,
   "mpg": 14.1,
   "position": "G",
   "jersey": "7",
   "classYear": "Junior",
-  "pointsPlusStdDev": 37.5,
-  "volatilityPctile": 13,
+  "pointsPlusStdDev": 37.3,
+  "volatilityPctile": 12,
   "gameLog": [
     {
       "date": "2025-11-06",
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 9,
       "pts": 3,
-      "adjPts": 2.8,
+      "adjPts": 2.7,
       "pointsPlus": 29
     },
     {
@@ -77,7 +77,7 @@
       "min": 9,
       "pts": 4,
       "adjPts": 4.1,
-      "pointsPlus": 42
+      "pointsPlus": 43
     },
     {
       "date": "2025-12-03",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 12,
       "pts": 5,
-      "adjPts": 5.8,
-      "pointsPlus": 61
+      "adjPts": 5.9,
+      "pointsPlus": 62
     },
     {
       "date": "2025-12-13",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 5.5,
-      "pointsPlus": 57
+      "adjPts": 5.4,
+      "pointsPlus": 56
     },
     {
       "date": "2025-12-21",
@@ -122,7 +122,7 @@
       "min": 15,
       "pts": 7,
       "adjPts": 6.6,
-      "pointsPlus": 68
+      "pointsPlus": 69
     },
     {
       "date": "2025-12-23",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 13,
       "pts": 5,
-      "adjPts": 5.5,
-      "pointsPlus": 58
+      "adjPts": 5.4,
+      "pointsPlus": 56
     },
     {
       "date": "2026-01-10",
@@ -176,7 +176,7 @@
       "min": 14,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 21
+      "pointsPlus": 22
     },
     {
       "date": "2026-01-16",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 20,
       "pts": 11,
-      "adjPts": 10.0,
-      "pointsPlus": 105
+      "adjPts": 9.9,
+      "pointsPlus": 103
     },
     {
       "date": "2026-01-28",
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 22,
       "pts": 13,
-      "adjPts": 16.3,
+      "adjPts": 16.4,
       "pointsPlus": 171
     },
     {
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 14,
       "pts": 7,
-      "adjPts": 7.7,
-      "pointsPlus": 81
+      "adjPts": 7.6,
+      "pointsPlus": 79
     }
   ]
 }

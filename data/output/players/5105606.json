@@ -4,17 +4,17 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 152,
+  "rank": 153,
   "gp": 12,
   "ppg": 13.3,
-  "adjPpg": 13.1,
-  "pointsPlus": 137,
+  "adjPpg": 13.0,
+  "pointsPlus": 136,
   "mpg": 27.6,
   "position": "G",
   "jersey": "1",
   "classYear": "Senior",
   "pointsPlusStdDev": 77.3,
-  "volatilityPctile": 93,
+  "volatilityPctile": 94,
   "gameLog": [
     {
       "date": "2025-11-19",
@@ -68,7 +68,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-20",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 25,
       "pts": 9,
-      "adjPts": 9.7,
-      "pointsPlus": 101
+      "adjPts": 9.5,
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-15",

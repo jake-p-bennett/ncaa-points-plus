@@ -4,7 +4,7 @@
   "team": "ILL",
   "teamName": "Illinois Fighting Illini",
   "conference": "Big Ten",
-  "rank": 235,
+  "rank": 233,
   "gp": 23,
   "ppg": 10.5,
   "adjPpg": 11.0,
@@ -13,7 +13,7 @@
   "position": "C",
   "jersey": "13",
   "classYear": "Junior",
-  "pointsPlusStdDev": 57.5,
+  "pointsPlusStdDev": 57.7,
   "volatilityPctile": 63,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 23,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-20",
@@ -68,7 +68,7 @@
       "min": 31,
       "pts": 16,
       "adjPts": 17.2,
-      "pointsPlus": 179
+      "pointsPlus": 180
     },
     {
       "date": "2025-12-10",
@@ -85,7 +85,7 @@
       "result": "L",
       "min": 29,
       "pts": 3,
-      "adjPts": 3.5,
+      "adjPts": 3.6,
       "pointsPlus": 37
     },
     {
@@ -122,7 +122,7 @@
       "min": 26,
       "pts": 14,
       "adjPts": 14.2,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-11",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 20,
       "pts": 7,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-01-15",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 26,
       "pts": 10,
-      "adjPts": 11.6,
-      "pointsPlus": 121
+      "adjPts": 11.9,
+      "pointsPlus": 124
     },
     {
       "date": "2026-01-22",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 24,
       "pts": 7,
-      "adjPts": 7.5,
-      "pointsPlus": 79
+      "adjPts": 7.4,
+      "pointsPlus": 78
     },
     {
       "date": "2026-01-30",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 32,
       "pts": 12,
-      "adjPts": 14.0,
-      "pointsPlus": 146
+      "adjPts": 14.2,
+      "pointsPlus": 149
     },
     {
       "date": "2026-02-05",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 29,
       "pts": 12,
-      "adjPts": 13.8,
-      "pointsPlus": 144
+      "adjPts": 13.9,
+      "pointsPlus": 145
     },
     {
       "date": "2026-02-11",

@@ -4,17 +4,17 @@
   "team": "BAY",
   "teamName": "Baylor Bears",
   "conference": "Big 12",
-  "rank": 215,
-  "gp": 24,
-  "ppg": 11.1,
-  "adjPpg": 11.5,
-  "pointsPlus": 120,
+  "rank": 222,
+  "gp": 25,
+  "ppg": 11.0,
+  "adjPpg": 11.3,
+  "pointsPlus": 118,
   "mpg": 33.0,
   "position": "G",
   "jersey": "5",
   "classYear": "Senior",
-  "pointsPlusStdDev": 55.0,
-  "volatilityPctile": 56,
+  "pointsPlusStdDev": 54.8,
+  "volatilityPctile": 55,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -113,7 +113,7 @@
       "min": 34,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-03",
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 30,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.1,
       "pointsPlus": 64
     },
     {
@@ -167,7 +167,7 @@
       "min": 32,
       "pts": 7,
       "adjPts": 7.0,
-      "pointsPlus": 73
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-24",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 26,
       "pts": 15,
-      "adjPts": 15.4,
-      "pointsPlus": 161
+      "adjPts": 15.3,
+      "pointsPlus": 160
     },
     {
       "date": "2026-01-28",
@@ -185,7 +185,7 @@
       "min": 32,
       "pts": 14,
       "adjPts": 16.8,
-      "pointsPlus": 175
+      "pointsPlus": 176
     },
     {
       "date": "2026-01-31",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 38,
       "pts": 16,
-      "adjPts": 20.9,
+      "adjPts": 21.0,
       "pointsPlus": 219
     },
     {
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 36,
       "pts": 19,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 178
     },
     {
@@ -229,8 +229,17 @@
       "result": "L",
       "min": 33,
       "pts": 4,
-      "adjPts": 4.0,
-      "pointsPlus": 42
+      "adjPts": 3.9,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "BAY @ KSU",
+      "result": "L",
+      "min": 32,
+      "pts": 8,
+      "adjPts": 6.9,
+      "pointsPlus": 72
     }
   ]
 }

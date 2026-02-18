@@ -4,17 +4,17 @@
   "team": "UCLA",
   "teamName": "UCLA Bruins",
   "conference": "Big Ten",
-  "rank": 147,
-  "gp": 15,
+  "rank": 146,
+  "gp": 16,
   "ppg": 13.1,
-  "adjPpg": 13.2,
-  "pointsPlus": 138,
-  "mpg": 28.5,
+  "adjPpg": 13.3,
+  "pointsPlus": 139,
+  "mpg": 28.0,
   "position": "G",
   "jersey": "55",
   "classYear": "Senior",
-  "pointsPlusStdDev": 73.6,
-  "volatilityPctile": 90,
+  "pointsPlusStdDev": 71.2,
+  "volatilityPctile": 89,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 33,
       "pts": 13,
-      "adjPts": 13.2,
-      "pointsPlus": 138
+      "adjPts": 13.4,
+      "pointsPlus": 141
     },
     {
       "date": "2025-12-14",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 32,
       "pts": 18,
-      "adjPts": 16.1,
-      "pointsPlus": 168
+      "adjPts": 16.3,
+      "pointsPlus": 170
     },
     {
       "date": "2025-12-20",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 22,
       "pts": 5,
-      "adjPts": 6.1,
-      "pointsPlus": 63
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2026-02-14",
@@ -149,7 +149,16 @@
       "min": 16,
       "pts": 8,
       "adjPts": 8.2,
-      "pointsPlus": 86
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UCLA @ MSU",
+      "result": "L",
+      "min": 21,
+      "pts": 12,
+      "adjPts": 13.9,
+      "pointsPlus": 145
     }
   ]
 }

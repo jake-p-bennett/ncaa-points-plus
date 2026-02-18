@@ -4,17 +4,17 @@
   "team": "SC",
   "teamName": "South Carolina Gamecocks",
   "conference": "SEC",
-  "rank": 289,
-  "gp": 25,
+  "rank": 292,
+  "gp": 26,
   "ppg": 10.5,
   "adjPpg": 10.0,
   "pointsPlus": 104,
-  "mpg": 29.6,
+  "mpg": 29.8,
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 40.8,
-  "volatilityPctile": 19,
+  "pointsPlusStdDev": 40.1,
+  "volatilityPctile": 17,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -23,7 +23,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-09",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 37,
       "pts": 11,
-      "adjPts": 10.7,
-      "pointsPlus": 112
+      "adjPts": 10.8,
+      "pointsPlus": 113
     },
     {
       "date": "2025-12-06",
@@ -104,7 +104,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-17",
@@ -149,7 +149,7 @@
       "min": 19,
       "pts": 4,
       "adjPts": 3.8,
-      "pointsPlus": 40
+      "pointsPlus": 39
     },
     {
       "date": "2026-01-10",
@@ -158,7 +158,7 @@
       "min": 35,
       "pts": 10,
       "adjPts": 8.5,
-      "pointsPlus": 88
+      "pointsPlus": 89
     },
     {
       "date": "2026-01-15",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 26,
       "pts": 6,
-      "adjPts": 5.9,
-      "pointsPlus": 62
+      "adjPts": 6.0,
+      "pointsPlus": 63
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 37,
       "pts": 15,
-      "adjPts": 14.3,
-      "pointsPlus": 149
+      "adjPts": 14.1,
+      "pointsPlus": 148
     },
     {
       "date": "2026-02-04",
@@ -221,7 +221,7 @@
       "min": 34,
       "pts": 8,
       "adjPts": 7.5,
-      "pointsPlus": 79
+      "pointsPlus": 78
     },
     {
       "date": "2026-02-07",
@@ -240,6 +240,15 @@
       "pts": 21,
       "adjPts": 16.3,
       "pointsPlus": 170
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "SC @ FLA",
+      "result": "L",
+      "min": 33,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
     }
   ]
 }

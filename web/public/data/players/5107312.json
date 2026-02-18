@@ -4,16 +4,16 @@
   "team": "TTU",
   "teamName": "Texas Tech Red Raiders",
   "conference": "Big 12",
-  "rank": 184,
-  "gp": 24,
-  "ppg": 12.2,
-  "adjPpg": 12.3,
-  "pointsPlus": 128,
-  "mpg": 28.5,
+  "rank": 197,
+  "gp": 25,
+  "ppg": 11.9,
+  "adjPpg": 12.0,
+  "pointsPlus": 125,
+  "mpg": 28.1,
   "position": "F",
   "jersey": "3",
   "classYear": "Junior",
-  "pointsPlusStdDev": 82.7,
+  "pointsPlusStdDev": 82.5,
   "volatilityPctile": 97,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 32,
       "pts": 8,
       "adjPts": 7.4,
-      "pointsPlus": 77
+      "pointsPlus": 78
     },
     {
       "date": "2025-11-22",
@@ -68,7 +68,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-30",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 25,
       "pts": 15,
-      "adjPts": 14.3,
-      "pointsPlus": 149
+      "adjPts": 14.1,
+      "pointsPlus": 148
     },
     {
       "date": "2025-12-13",
@@ -104,7 +104,7 @@
       "min": 37,
       "pts": 36,
       "adjPts": 36.0,
-      "pointsPlus": 376
+      "pointsPlus": 377
     },
     {
       "date": "2025-12-21",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 27,
       "pts": 20,
-      "adjPts": 24.4,
-      "pointsPlus": 255
+      "adjPts": 24.2,
+      "pointsPlus": 253
     },
     {
       "date": "2025-12-28",
@@ -131,7 +131,7 @@
       "min": 32,
       "pts": 19,
       "adjPts": 15.7,
-      "pointsPlus": 164
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-07",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 29,
       "pts": 13,
-      "adjPts": 12.0,
-      "pointsPlus": 125
+      "adjPts": 11.9,
+      "pointsPlus": 124
     },
     {
       "date": "2026-01-24",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 23,
       "pts": 9,
-      "adjPts": 8.1,
+      "adjPts": 8.2,
       "pointsPlus": 85
     },
     {
@@ -231,6 +231,15 @@
       "pts": 9,
       "adjPts": 9.3,
       "pointsPlus": 98
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "TTU @ ASU",
+      "result": "L",
+      "min": 18,
+      "pts": 5,
+      "adjPts": 4.5,
+      "pointsPlus": 47
     }
   ]
 }

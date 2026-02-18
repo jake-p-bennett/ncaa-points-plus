@@ -4,16 +4,16 @@
   "team": "CREI",
   "teamName": "Creighton Bluejays",
   "conference": "Big East",
-  "rank": 212,
+  "rank": 211,
   "gp": 24,
   "ppg": 11.5,
-  "adjPpg": 11.7,
+  "adjPpg": 11.6,
   "pointsPlus": 122,
   "mpg": 22.2,
   "position": "G",
   "jersey": "1",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 92.8,
+  "pointsPlusStdDev": 92.5,
   "volatilityPctile": 99,
   "gameLog": [
     {
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 23,
       "pts": 16,
-      "adjPts": 18.7,
-      "pointsPlus": 195
+      "adjPts": 18.9,
+      "pointsPlus": 198
     },
     {
       "date": "2025-12-13",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 26,
       "pts": 12,
-      "adjPts": 10.3,
+      "adjPts": 10.4,
       "pointsPlus": 108
     },
     {
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 23,
       "pts": 27,
-      "adjPts": 24.6,
-      "pointsPlus": 257
+      "adjPts": 24.3,
+      "pointsPlus": 254
     },
     {
       "date": "2025-12-21",
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 32,
       "pts": 22,
-      "adjPts": 20.4,
+      "adjPts": 20.5,
       "pointsPlus": 214
     },
     {
@@ -140,7 +140,7 @@
       "min": 27,
       "pts": 16,
       "adjPts": 20.1,
-      "pointsPlus": 210
+      "pointsPlus": 211
     },
     {
       "date": "2026-01-08",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 31,
       "pts": 20,
-      "adjPts": 22.0,
-      "pointsPlus": 230
+      "adjPts": 21.6,
+      "pointsPlus": 226
     },
     {
       "date": "2026-01-10",
@@ -176,7 +176,7 @@
       "min": 27,
       "pts": 6,
       "adjPts": 4.5,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-22",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 30,
       "pts": 16,
-      "adjPts": 14.6,
-      "pointsPlus": 152
+      "adjPts": 14.4,
+      "pointsPlus": 151
     },
     {
       "date": "2026-01-28",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 19,
       "pts": 12,
-      "adjPts": 13.2,
-      "pointsPlus": 138
+      "adjPts": 13.0,
+      "pointsPlus": 135
     }
   ]
 }

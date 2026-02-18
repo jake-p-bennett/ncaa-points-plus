@@ -5,16 +5,16 @@
   "teamName": "Oregon Ducks",
   "conference": "Big Ten",
   "rank": 427,
-  "gp": 25,
+  "gp": 26,
   "ppg": 7.0,
   "adjPpg": 7.1,
   "pointsPlus": 74,
-  "mpg": 23.0,
+  "mpg": 22.8,
   "position": "F",
   "jersey": "13",
   "classYear": "Junior",
-  "pointsPlusStdDev": 54.8,
-  "volatilityPctile": 55,
+  "pointsPlusStdDev": 53.6,
+  "volatilityPctile": 51,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -59,7 +59,7 @@
       "min": 21,
       "pts": 7,
       "adjPts": 6.1,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2025-11-26",
@@ -113,7 +113,7 @@
       "min": 17,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-21",
@@ -158,7 +158,7 @@
       "min": 24,
       "pts": 5,
       "adjPts": 4.9,
-      "pointsPlus": 51
+      "pointsPlus": 52
     },
     {
       "date": "2026-01-14",
@@ -167,7 +167,7 @@
       "min": 28,
       "pts": 4,
       "adjPts": 4.7,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 30,
       "pts": 22,
-      "adjPts": 22.6,
-      "pointsPlus": 237
+      "adjPts": 22.4,
+      "pointsPlus": 235
     },
     {
       "date": "2026-01-21",
@@ -185,7 +185,7 @@
       "min": 27,
       "pts": 5,
       "adjPts": 5.8,
-      "pointsPlus": 60
+      "pointsPlus": 61
     },
     {
       "date": "2026-01-25",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 33,
       "pts": 4,
-      "adjPts": 4.3,
-      "pointsPlus": 45
+      "adjPts": 4.2,
+      "pointsPlus": 44
     },
     {
       "date": "2026-02-10",
@@ -230,7 +230,7 @@
       "min": 30,
       "pts": 12,
       "adjPts": 12.4,
-      "pointsPlus": 129
+      "pointsPlus": 130
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 3,
       "adjPts": 2.7,
       "pointsPlus": 29
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "ORE vs MINN",
+      "result": "L",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 7.1,
+      "pointsPlus": 75
     }
   ]
 }

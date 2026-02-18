@@ -4,16 +4,16 @@
   "team": "NEB",
   "teamName": "Nebraska Cornhuskers",
   "conference": "Big Ten",
-  "rank": 240,
-  "gp": 25,
-  "ppg": 10.6,
-  "adjPpg": 10.9,
-  "pointsPlus": 114,
+  "rank": 231,
+  "gp": 26,
+  "ppg": 10.7,
+  "adjPpg": 11.0,
+  "pointsPlus": 115,
   "mpg": 27.5,
   "position": "G",
   "jersey": "10",
   "classYear": "Senior",
-  "pointsPlusStdDev": 69.6,
+  "pointsPlusStdDev": 68.5,
   "volatilityPctile": 87,
   "gameLog": [
     {
@@ -59,7 +59,7 @@
       "min": 30,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-22",
@@ -113,7 +113,7 @@
       "min": 31,
       "pts": 14,
       "adjPts": 15.1,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2025-12-22",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 33,
       "pts": 12,
-      "adjPts": 13.8,
-      "pointsPlus": 144
+      "adjPts": 13.9,
+      "pointsPlus": 145
     },
     {
       "date": "2026-01-05",
@@ -158,7 +158,7 @@
       "min": 37,
       "pts": 27,
       "adjPts": 27.9,
-      "pointsPlus": 291
+      "pointsPlus": 292
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 26,
       "pts": 5,
-      "adjPts": 5.1,
-      "pointsPlus": 53
+      "adjPts": 5.2,
+      "pointsPlus": 54
     },
     {
       "date": "2026-01-17",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 33,
       "pts": 14,
-      "adjPts": 16.2,
-      "pointsPlus": 170
+      "adjPts": 16.6,
+      "pointsPlus": 174
     },
     {
       "date": "2026-01-28",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 35,
       "pts": 20,
-      "adjPts": 20.6,
-      "pointsPlus": 215
+      "adjPts": 20.4,
+      "pointsPlus": 213
     },
     {
       "date": "2026-02-01",
@@ -212,7 +212,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 37,
       "pts": 16,
-      "adjPts": 17.2,
-      "pointsPlus": 180
+      "adjPts": 16.9,
+      "pointsPlus": 177
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 2,
       "adjPts": 2.1,
       "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "NEB @ IOWA",
+      "result": "L",
+      "min": 28,
+      "pts": 11,
+      "adjPts": 13.6,
+      "pointsPlus": 142
     }
   ]
 }

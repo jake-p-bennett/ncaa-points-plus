@@ -4,17 +4,17 @@
   "team": "SJU",
   "teamName": "St. John's Red Storm",
   "conference": "Big East",
-  "rank": 141,
+  "rank": 142,
   "gp": 25,
   "ppg": 13.6,
-  "adjPpg": 13.5,
-  "pointsPlus": 141,
+  "adjPpg": 13.4,
+  "pointsPlus": 140,
   "mpg": 27.6,
   "position": "F",
   "jersey": "23",
   "classYear": "Senior",
-  "pointsPlusStdDev": 51.6,
-  "volatilityPctile": 46,
+  "pointsPlusStdDev": 51.1,
+  "volatilityPctile": 44,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 33,
       "pts": 16,
-      "adjPts": 18.6,
+      "adjPts": 18.7,
       "pointsPlus": 195
     },
     {
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 26,
       "pts": 26,
-      "adjPts": 23.9,
-      "pointsPlus": 250
+      "adjPts": 23.7,
+      "pointsPlus": 248
     },
     {
       "date": "2025-11-27",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 29,
       "pts": 13,
-      "adjPts": 13.1,
-      "pointsPlus": 137
+      "adjPts": 13.0,
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-23",
@@ -167,7 +167,7 @@
       "min": 19,
       "pts": 12,
       "adjPts": 11.2,
-      "pointsPlus": 117
+      "pointsPlus": 118
     },
     {
       "date": "2026-01-18",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 36,
       "pts": 20,
-      "adjPts": 22.0,
-      "pointsPlus": 230
+      "adjPts": 21.6,
+      "pointsPlus": 226
     },
     {
       "date": "2026-01-21",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 38,
       "pts": 13,
-      "adjPts": 16.3,
+      "adjPts": 16.4,
       "pointsPlus": 171
     },
     {
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 37,
       "pts": 18,
-      "adjPts": 16.4,
-      "pointsPlus": 171
+      "adjPts": 16.2,
+      "pointsPlus": 169
     },
     {
       "date": "2026-01-29",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 36,
       "pts": 19,
-      "adjPts": 17.3,
-      "pointsPlus": 181
+      "adjPts": 17.1,
+      "pointsPlus": 179
     },
     {
       "date": "2026-02-14",

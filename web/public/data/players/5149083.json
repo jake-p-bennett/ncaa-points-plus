@@ -4,17 +4,17 @@
   "team": "TEX",
   "teamName": "Texas Longhorns",
   "conference": "SEC",
-  "rank": 566,
-  "gp": 13,
-  "ppg": 4.5,
-  "adjPpg": 4.5,
-  "pointsPlus": 47,
-  "mpg": 12.8,
+  "rank": 585,
+  "gp": 14,
+  "ppg": 4.1,
+  "adjPpg": 4.2,
+  "pointsPlus": 44,
+  "mpg": 12.4,
   "position": "F",
   "jersey": "10",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 31.6,
-  "volatilityPctile": 5,
+  "pointsPlusStdDev": 32.8,
+  "volatilityPctile": 7,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -22,7 +22,7 @@
       "result": "L",
       "min": 23,
       "pts": 4,
-      "adjPts": 4.9,
+      "adjPts": 4.8,
       "pointsPlus": 51
     },
     {
@@ -59,7 +59,7 @@
       "min": 8,
       "pts": 4,
       "adjPts": 3.6,
-      "pointsPlus": 37
+      "pointsPlus": 38
     },
     {
       "date": "2025-11-26",
@@ -132,6 +132,15 @@
       "pts": 9,
       "adjPts": 8.8,
       "pointsPlus": 92
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "TEX vs LSU",
+      "result": "W",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

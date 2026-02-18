@@ -4,7 +4,7 @@
   "team": "MSST",
   "teamName": "Mississippi State Bulldogs",
   "conference": "SEC",
-  "rank": 13,
+  "rank": 12,
   "gp": 25,
   "ppg": 21.4,
   "adjPpg": 20.8,
@@ -31,8 +31,8 @@
       "result": "L",
       "min": 36,
       "pts": 25,
-      "adjPts": 29.1,
-      "pointsPlus": 304
+      "adjPts": 29.2,
+      "pointsPlus": 305
     },
     {
       "date": "2025-11-15",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 32,
       "pts": 23,
-      "adjPts": 19.8,
-      "pointsPlus": 207
+      "adjPts": 19.9,
+      "pointsPlus": 208
     },
     {
       "date": "2025-11-22",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 39,
       "pts": 16,
-      "adjPts": 14.1,
-      "pointsPlus": 147
+      "adjPts": 14.0,
+      "pointsPlus": 146
     },
     {
       "date": "2025-12-04",
@@ -104,7 +104,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 11.7,
-      "pointsPlus": 122
+      "pointsPlus": 123
     },
     {
       "date": "2025-12-17",
@@ -113,7 +113,7 @@
       "min": 35,
       "pts": 34,
       "adjPts": 34.0,
-      "pointsPlus": 355
+      "pointsPlus": 356
     },
     {
       "date": "2025-12-20",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 40,
       "pts": 38,
-      "adjPts": 35.8,
-      "pointsPlus": 374
+      "adjPts": 35.5,
+      "pointsPlus": 371
     },
     {
       "date": "2026-01-08",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 37,
       "pts": 20,
-      "adjPts": 20.1,
-      "pointsPlus": 210
+      "adjPts": 19.9,
+      "pointsPlus": 209
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 36,
       "pts": 13,
-      "adjPts": 13.3,
-      "pointsPlus": 139
+      "adjPts": 13.4,
+      "pointsPlus": 140
     },
     {
       "date": "2026-01-22",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 32,
       "pts": 15,
-      "adjPts": 14.3,
-      "pointsPlus": 149
+      "adjPts": 14.1,
+      "pointsPlus": 148
     },
     {
       "date": "2026-01-31",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 33,
       "pts": 16,
-      "adjPts": 14.1,
+      "adjPts": 14.2,
       "pointsPlus": 148
     },
     {
@@ -239,7 +239,7 @@
       "min": 36,
       "pts": 32,
       "adjPts": 32.9,
-      "pointsPlus": 343
+      "pointsPlus": 344
     }
   ]
 }

@@ -1,0 +1,128 @@
+{
+  "id": 4684798,
+  "name": "Jevon Porter",
+  "team": "MIZ",
+  "teamName": "Missouri Tigers",
+  "conference": "SEC",
+  "rank": 470,
+  "gp": 12,
+  "ppg": 6.2,
+  "adjPpg": 6.2,
+  "pointsPlus": 65,
+  "mpg": 17.3,
+  "position": "F",
+  "jersey": "14",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 55.3,
+  "volatilityPctile": 57,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "MIZ @ HOW",
+      "result": "W",
+      "min": 28,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "MIZ vs SEMO",
+      "result": "W",
+      "min": 19,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "MIZ vs VMI",
+      "result": "W",
+      "min": 25,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "MIZ vs MINN",
+      "result": "W",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "MIZ vs PV",
+      "result": "W",
+      "min": 17,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "MIZ vs SDAK",
+      "result": "W",
+      "min": 24,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "MIZ vs SCST",
+      "result": "W",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "MIZ vs CLE",
+      "result": "W",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "MIZ @ ND",
+      "result": "L",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "MIZ vs KU",
+      "result": "L",
+      "min": 16,
+      "pts": 4,
+      "adjPts": 4.5,
+      "pointsPlus": 47
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "MIZ vs ALST",
+      "result": "W",
+      "min": 1,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "MIZ vs BCU",
+      "result": "W",
+      "min": 15,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "id": 5107968,
+  "name": "Ja'Kobi Gillespie",
+  "team": "TENN",
+  "teamName": "Tennessee Volunteers",
+  "conference": "SEC",
+  "rank": 38,
+  "gp": 26,
+  "ppg": 18.1,
+  "adjPpg": 17.7,
+  "pointsPlus": 184,
+  "mpg": 34.0,
+  "position": "G",
+  "jersey": "0",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 65.4,
+  "volatilityPctile": 81,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "TENN vs MER",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "TENN vs NKU",
+      "result": "W",
+      "min": 27,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "TENN vs UNF",
+      "result": "W",
+      "min": 31,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "TENN vs RICE",
+      "result": "W",
+      "min": 33,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "TENN vs TNST",
+      "result": "W",
+      "min": 31,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "TENN vs RUTG",
+      "result": "W",
+      "min": 29,
+      "pts": 32,
+      "adjPts": 32.5,
+      "pointsPlus": 339
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "TENN vs HOU",
+      "result": "W",
+      "min": 38,
+      "pts": 22,
+      "adjPts": 28.7,
+      "pointsPlus": 299
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "TENN vs KU",
+      "result": "L",
+      "min": 36,
+      "pts": 11,
+      "adjPts": 12.5,
+      "pointsPlus": 130
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "TENN @ SYR",
+      "result": "L",
+      "min": 32,
+      "pts": 10,
+      "adjPts": 10.2,
+      "pointsPlus": 107
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "TENN vs ILL",
+      "result": "L",
+      "min": 35,
+      "pts": 15,
+      "adjPts": 16.1,
+      "pointsPlus": 168
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "TENN vs LOU",
+      "result": "W",
+      "min": 34,
+      "pts": 23,
+      "adjPts": 22.6,
+      "pointsPlus": 235
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "TENN vs GWEB",
+      "result": "W",
+      "min": 24,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "TENN vs SCST",
+      "result": "W",
+      "min": 28,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "TENN @ ARK",
+      "result": "L",
+      "min": 35,
+      "pts": 14,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "TENN vs TEX",
+      "result": "W",
+      "min": 38,
+      "pts": 34,
+      "adjPts": 31.8,
+      "pointsPlus": 331
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "TENN @ FLA",
+      "result": "L",
+      "min": 37,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "TENN vs TA&M",
+      "result": "W",
+      "min": 48,
+      "pts": 18,
+      "adjPts": 15.3,
+      "pointsPlus": 159
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "TENN vs UK",
+      "result": "L",
+      "min": 33,
+      "pts": 24,
+      "adjPts": 24.0,
+      "pointsPlus": 250
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "TENN @ ALA",
+      "result": "W",
+      "min": 38,
+      "pts": 24,
+      "adjPts": 18.1,
+      "pointsPlus": 189
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "TENN @ UGA",
+      "result": "W",
+      "min": 41,
+      "pts": 21,
+      "adjPts": 17.8,
+      "pointsPlus": 186
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "TENN vs AUB",
+      "result": "W",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 9.5,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "TENN vs MISS",
+      "result": "W",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 20.5,
+      "pointsPlus": 213
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "TENN @ UK",
+      "result": "L",
+      "min": 36,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "TENN @ MSST",
+      "result": "W",
+      "min": 37,
+      "pts": 18,
+      "adjPts": 16.4,
+      "pointsPlus": 171
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "TENN vs LSU",
+      "result": "W",
+      "min": 35,
+      "pts": 12,
+      "adjPts": 11.3,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "TENN vs OU",
+      "result": "W",
+      "min": 37,
+      "pts": 16,
+      "adjPts": 14.2,
+      "pointsPlus": 148
+    }
+  ]
+}

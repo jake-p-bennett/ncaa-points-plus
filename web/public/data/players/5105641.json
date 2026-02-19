@@ -1,0 +1,164 @@
+{
+  "id": 5105641,
+  "name": "Vince Iwuchukwu",
+  "team": "GTWN",
+  "teamName": "Georgetown Hoyas",
+  "conference": "Big East",
+  "rank": 196,
+  "gp": 16,
+  "ppg": 11.7,
+  "adjPpg": 12.1,
+  "pointsPlus": 126,
+  "mpg": 23.8,
+  "position": "C",
+  "jersey": "3",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 46.9,
+  "volatilityPctile": 34,
+  "gameLog": [
+    {
+      "date": "2025-11-03",
+      "matchup": "GTWN vs MORG",
+      "result": "W",
+      "min": 16,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "GTWN @ MD",
+      "result": "W",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 8.6,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "GTWN vs BING",
+      "result": "W",
+      "min": 22,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "GTWN vs CLEM",
+      "result": "W",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 17.1,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "GTWN @ DEP",
+      "result": "L",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 2.3,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "GTWN vs HALL",
+      "result": "L",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 12.6,
+      "pointsPlus": 131
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "GTWN @ CREI",
+      "result": "L",
+      "min": 22,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "GTWN vs CONN",
+      "result": "L",
+      "min": 30,
+      "pts": 12,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "GTWN @ VILL",
+      "result": "L",
+      "min": 19,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 45
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "GTWN @ PROV",
+      "result": "W",
+      "min": 28,
+      "pts": 16,
+      "adjPts": 12.1,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "GTWN vs DEP",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 12.5,
+      "pointsPlus": 130
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "GTWN @ BUT",
+      "result": "W",
+      "min": 28,
+      "pts": 17,
+      "adjPts": 15.7,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "GTWN vs CREI",
+      "result": "W",
+      "min": 30,
+      "pts": 14,
+      "adjPts": 13.7,
+      "pointsPlus": 142
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "GTWN vs VILL",
+      "result": "L",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 16.2,
+      "pointsPlus": 169
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "GTWN @ CONN",
+      "result": "L",
+      "min": 25,
+      "pts": 16,
+      "adjPts": 18.6,
+      "pointsPlus": 194
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "GTWN vs BUT",
+      "result": "L",
+      "min": 19,
+      "pts": 12,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    }
+  ]
+}

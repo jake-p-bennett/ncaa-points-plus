@@ -1,0 +1,146 @@
+{
+  "id": 4702994,
+  "name": "Brandon Noel",
+  "team": "OSU",
+  "teamName": "Ohio State Buckeyes",
+  "conference": "Big Ten",
+  "rank": 389,
+  "gp": 14,
+  "ppg": 7.4,
+  "adjPpg": 7.6,
+  "pointsPlus": 80,
+  "mpg": 20.5,
+  "position": "F",
+  "jersey": "14",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 83.7,
+  "volatilityPctile": 97,
+  "gameLog": [
+    {
+      "date": "2025-11-03",
+      "matchup": "OSU vs IUIN",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "OSU vs PFW",
+      "result": "W",
+      "min": 23,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "OSU vs APP",
+      "result": "W",
+      "min": 27,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "OSU vs ND",
+      "result": "W",
+      "min": 19,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "OSU vs WMU",
+      "result": "W",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "OSU vs MSM",
+      "result": "W",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "OSU @ PITT",
+      "result": "L",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "OSU @ NU",
+      "result": "W",
+      "min": 35,
+      "pts": 29,
+      "adjPts": 30.2,
+      "pointsPlus": 315
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "OSU vs ILL",
+      "result": "L",
+      "min": 21,
+      "pts": 5,
+      "adjPts": 5.4,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "OSU vs WVU",
+      "result": "W",
+      "min": 17,
+      "pts": 4,
+      "adjPts": 5.3,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "OSU vs UNC",
+      "result": "L",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "OSU vs GRAM",
+      "result": "W",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "OSU @ RUTG",
+      "result": "W",
+      "min": 20,
+      "pts": 14,
+      "adjPts": 14.2,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "OSU vs NEB",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    }
+  ]
+}

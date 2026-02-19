@@ -1,0 +1,227 @@
+{
+  "id": 4701189,
+  "name": "Anthony Roy",
+  "team": "OKST",
+  "teamName": "Oklahoma State Cowboys",
+  "conference": "Big 12",
+  "rank": 45,
+  "gp": 23,
+  "ppg": 17.5,
+  "adjPpg": 17.3,
+  "pointsPlus": 180,
+  "mpg": 29.0,
+  "position": "G",
+  "jersey": "9",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 53.0,
+  "volatilityPctile": 50,
+  "gameLog": [
+    {
+      "date": "2025-11-16",
+      "matchup": "OKST vs AMCC",
+      "result": "W",
+      "min": 16,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "OKST vs USF",
+      "result": "W",
+      "min": 16,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "OKST vs NICH",
+      "result": "W",
+      "min": 16,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "OKST @ NU",
+      "result": "W",
+      "min": 28,
+      "pts": 16,
+      "adjPts": 16.7,
+      "pointsPlus": 174
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "OKST vs SHSU",
+      "result": "W",
+      "min": 32,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "OKST vs GCU",
+      "result": "W",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "OKST vs OU",
+      "result": "L",
+      "min": 34,
+      "pts": 16,
+      "adjPts": 14.2,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2025-12-19",
+      "matchup": "OKST vs KC",
+      "result": "W",
+      "min": 31,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "OKST vs CSUF",
+      "result": "W",
+      "min": 24,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 229
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "OKST vs BCU",
+      "result": "W",
+      "min": 25,
+      "pts": 27,
+      "adjPts": 27.0,
+      "pointsPlus": 281
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "OKST @ TTU",
+      "result": "L",
+      "min": 34,
+      "pts": 22,
+      "adjPts": 22.2,
+      "pointsPlus": 231
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "OKST vs UCF",
+      "result": "W",
+      "min": 35,
+      "pts": 15,
+      "adjPts": 13.6,
+      "pointsPlus": 142
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "OKST @ ISU",
+      "result": "L",
+      "min": 33,
+      "pts": 19,
+      "adjPts": 22.2,
+      "pointsPlus": 231
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "OKST vs BAY",
+      "result": "L",
+      "min": 34,
+      "pts": 17,
+      "adjPts": 15.6,
+      "pointsPlus": 162
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "OKST vs KSU",
+      "result": "W",
+      "min": 32,
+      "pts": 23,
+      "adjPts": 19.9,
+      "pointsPlus": 207
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "OKST @ TCU",
+      "result": "L",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 13.3,
+      "pointsPlus": 139
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "OKST vs ISU",
+      "result": "L",
+      "min": 24,
+      "pts": 7,
+      "adjPts": 8.2,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "OKST @ UTAH",
+      "result": "W",
+      "min": 36,
+      "pts": 26,
+      "adjPts": 24.0,
+      "pointsPlus": 250
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "OKST vs BYU",
+      "result": "W",
+      "min": 35,
+      "pts": 30,
+      "adjPts": 28.1,
+      "pointsPlus": 293
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "OKST @ ARIZ",
+      "result": "L",
+      "min": 24,
+      "pts": 10,
+      "adjPts": 10.4,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OKST @ ASU",
+      "result": "L",
+      "min": 28,
+      "pts": 16,
+      "adjPts": 14.5,
+      "pointsPlus": 151
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "OKST vs TCU",
+      "result": "L",
+      "min": 38,
+      "pts": 16,
+      "adjPts": 16.4,
+      "pointsPlus": 171
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "OKST vs KU",
+      "result": "L",
+      "min": 34,
+      "pts": 16,
+      "adjPts": 18.1,
+      "pointsPlus": 189
+    }
+  ]
+}

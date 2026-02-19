@@ -1,0 +1,245 @@
+{
+  "id": 5101798,
+  "name": "Cam Ward",
+  "team": "MSU",
+  "teamName": "Michigan State Spartans",
+  "conference": "Big Ten",
+  "rank": 531,
+  "gp": 25,
+  "ppg": 5.1,
+  "adjPpg": 5.1,
+  "pointsPlus": 53,
+  "mpg": 15.0,
+  "position": "F",
+  "jersey": "3",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 39.3,
+  "volatilityPctile": 15,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "MSU vs COLG",
+      "result": "W",
+      "min": 11,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "MSU vs ARK",
+      "result": "W",
+      "min": 23,
+      "pts": 18,
+      "adjPts": 15.4,
+      "pointsPlus": 160
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "MSU vs SJSU",
+      "result": "W",
+      "min": 15,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "MSU vs UK",
+      "result": "W",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "MSU vs DETM",
+      "result": "W",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "MSU vs ECU",
+      "result": "W",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "MSU vs UNC",
+      "result": "W",
+      "min": 16,
+      "pts": 11,
+      "adjPts": 11.5,
+      "pointsPlus": 119
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "MSU vs DUKE",
+      "result": "L",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "MSU @ PSU",
+      "result": "W",
+      "min": 5,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2025-12-16",
+      "matchup": "MSU vs TOL",
+      "result": "W",
+      "min": 17,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "MSU vs OAK",
+      "result": "W",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "MSU vs COR",
+      "result": "W",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "MSU @ NEB",
+      "result": "L",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "MSU vs USC",
+      "result": "W",
+      "min": 14,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 29
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "MSU vs NU",
+      "result": "W",
+      "min": 15,
+      "pts": 7,
+      "adjPts": 7.3,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "MSU vs IU",
+      "result": "W",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 5.2,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "MSU @ WASH",
+      "result": "W",
+      "min": 19,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "MSU @ ORE",
+      "result": "W",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "MSU vs MD",
+      "result": "W",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 7.7,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "MSU @ RUTG",
+      "result": "W",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "MSU vs MICH",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "MSU @ MINN",
+      "result": "L",
+      "min": 17,
+      "pts": 5,
+      "adjPts": 5.9,
+      "pointsPlus": 62
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "MSU vs ILL",
+      "result": "W",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 8.6,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "MSU @ WIS",
+      "result": "L",
+      "min": 19,
+      "pts": 4,
+      "adjPts": 3.7,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "MSU vs UCLA",
+      "result": "W",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 44
+    }
+  ]
+}

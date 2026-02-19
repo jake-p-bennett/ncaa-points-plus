@@ -1,0 +1,182 @@
+{
+  "id": 4702484,
+  "name": "Latrell Wrightsell",
+  "team": "ALA",
+  "teamName": "Alabama Crimson Tide",
+  "conference": "SEC",
+  "rank": 191,
+  "gp": 18,
+  "ppg": 12.3,
+  "adjPpg": 12.2,
+  "pointsPlus": 127,
+  "mpg": 26.9,
+  "position": "G",
+  "jersey": "3",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 60.8,
+  "volatilityPctile": 72,
+  "gameLog": [
+    {
+      "date": "2025-11-08",
+      "matchup": "ALA @ SJU",
+      "result": "W",
+      "min": 22,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "ALA vs PUR",
+      "result": "L",
+      "min": 30,
+      "pts": 6,
+      "adjPts": 6.4,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "ALA vs ILL",
+      "result": "W",
+      "min": 26,
+      "pts": 5,
+      "adjPts": 5.4,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "ALA vs UTSA",
+      "result": "W",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "ALA vs ARIZ",
+      "result": "L",
+      "min": 25,
+      "pts": 21,
+      "adjPts": 21.9,
+      "pointsPlus": 229
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "ALA vs USF",
+      "result": "W",
+      "min": 22,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "ALA vs KENN",
+      "result": "W",
+      "min": 21,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "ALA vs YALE",
+      "result": "W",
+      "min": 24,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "ALA vs UK",
+      "result": "W",
+      "min": 32,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "ALA @ VAN",
+      "result": "L",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 12.2,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "ALA vs TENN",
+      "result": "L",
+      "min": 31,
+      "pts": 14,
+      "adjPts": 15.1,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "ALA vs MIZ",
+      "result": "W",
+      "min": 29,
+      "pts": 21,
+      "adjPts": 20.4,
+      "pointsPlus": 213
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "ALA @ FLA",
+      "result": "L",
+      "min": 28,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "ALA vs TA&M",
+      "result": "W",
+      "min": 33,
+      "pts": 16,
+      "adjPts": 13.6,
+      "pointsPlus": 142
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "ALA @ AUB",
+      "result": "W",
+      "min": 11,
+      "pts": 5,
+      "adjPts": 4.3,
+      "pointsPlus": 45
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "ALA @ MISS",
+      "result": "W",
+      "min": 31,
+      "pts": 21,
+      "adjPts": 21.5,
+      "pointsPlus": 224
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "ALA vs SC",
+      "result": "W",
+      "min": 27,
+      "pts": 19,
+      "adjPts": 18.5,
+      "pointsPlus": 192
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "ALA vs ARK",
+      "result": "W",
+      "min": 40,
+      "pts": 7,
+      "adjPts": 6.0,
+      "pointsPlus": 62
+    }
+  ]
+}

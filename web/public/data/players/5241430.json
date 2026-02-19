@@ -1,0 +1,254 @@
+{
+  "id": 5241430,
+  "name": "All Wright",
+  "team": "XAV",
+  "teamName": "Xavier Musketeers",
+  "conference": "Big East",
+  "rank": 365,
+  "gp": 26,
+  "ppg": 7.8,
+  "adjPpg": 8.1,
+  "pointsPlus": 85,
+  "mpg": 23.3,
+  "position": "G",
+  "jersey": "3",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 60.9,
+  "volatilityPctile": 72,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "XAV vs MRST",
+      "result": "W",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "XAV vs LEM",
+      "result": "W",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "XAV vs SCU",
+      "result": "L",
+      "min": 20,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "XAV @ IOWA",
+      "result": "L",
+      "min": 28,
+      "pts": 7,
+      "adjPts": 8.7,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "XAV vs ODU",
+      "result": "W",
+      "min": 26,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "XAV vs UGA",
+      "result": "L",
+      "min": 34,
+      "pts": 17,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "XAV vs WVU",
+      "result": "W",
+      "min": 30,
+      "pts": 14,
+      "adjPts": 18.5,
+      "pointsPlus": 193
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "XAV vs AMCC",
+      "result": "W",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "XAV vs SFPA",
+      "result": "W",
+      "min": 24,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "XAV vs CIN",
+      "result": "W",
+      "min": 33,
+      "pts": 6,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "XAV vs MOST",
+      "result": "W",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "XAV vs CREI",
+      "result": "L",
+      "min": 22,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "XAV @ GTWN",
+      "result": "W",
+      "min": 14,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "XAV vs CONN",
+      "result": "L",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 2.3,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "XAV @ DEP",
+      "result": "L",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "XAV @ MARQ",
+      "result": "L",
+      "min": 19,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 29
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "XAV vs PROV",
+      "result": "W",
+      "min": 13,
+      "pts": 1,
+      "adjPts": 0.8,
+      "pointsPlus": 8
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "XAV vs BUT",
+      "result": "W",
+      "min": 18,
+      "pts": 5,
+      "adjPts": 4.6,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "XAV @ CREI",
+      "result": "L",
+      "min": 27,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "XAV vs SJU",
+      "result": "L",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "XAV @ HALL",
+      "result": "L",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 7.6,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "XAV vs DEP",
+      "result": "W",
+      "min": 21,
+      "pts": 5,
+      "adjPts": 5.7,
+      "pointsPlus": 59
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "XAV @ CONN",
+      "result": "L",
+      "min": 25,
+      "pts": 14,
+      "adjPts": 16.3,
+      "pointsPlus": 170
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "XAV @ SJU",
+      "result": "L",
+      "min": 29,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "XAV vs MARQ",
+      "result": "W",
+      "min": 30,
+      "pts": 19,
+      "adjPts": 17.9,
+      "pointsPlus": 186
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "XAV vs VILL",
+      "result": "L",
+      "min": 21,
+      "pts": 5,
+      "adjPts": 5.4,
+      "pointsPlus": 56
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "id": 5176497,
+  "name": "Tyler Harris",
+  "team": "VAN",
+  "teamName": "Vanderbilt Commodores",
+  "conference": "SEC",
+  "rank": 474,
+  "gp": 26,
+  "ppg": 6.3,
+  "adjPpg": 6.1,
+  "pointsPlus": 64,
+  "mpg": 14.5,
+  "position": "F",
+  "jersey": "8",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 55.9,
+  "volatilityPctile": 59,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "VAN vs LIP",
+      "result": "W",
+      "min": 23,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "VAN @ UCF",
+      "result": "W",
+      "min": 23,
+      "pts": 14,
+      "adjPts": 12.7,
+      "pointsPlus": 133
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "VAN vs EKU",
+      "result": "W",
+      "min": 22,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "VAN vs UAPB",
+      "result": "W",
+      "min": 20,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "VAN vs TXSO",
+      "result": "W",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "VAN vs WKU",
+      "result": "W",
+      "min": 11,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "VAN vs VCU",
+      "result": "W",
+      "min": 13,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "VAN vs SMC",
+      "result": "W",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "VAN vs SMU",
+      "result": "W",
+      "min": 10,
+      "pts": 4,
+      "adjPts": 3.5,
+      "pointsPlus": 36
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "VAN vs CARK",
+      "result": "W",
+      "min": 19,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "VAN @ MEM",
+      "result": "W",
+      "min": 4,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "VAN @ WAKE",
+      "result": "W",
+      "min": 17,
+      "pts": 14,
+      "adjPts": 13.0,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "VAN vs NHVN",
+      "result": "W",
+      "min": 30,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "VAN @ SC",
+      "result": "W",
+      "min": 20,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 30
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "VAN vs ALA",
+      "result": "W",
+      "min": 20,
+      "pts": 3,
+      "adjPts": 2.3,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "VAN vs LSU",
+      "result": "W",
+      "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "VAN @ TEX",
+      "result": "L",
+      "min": 18,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 29
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "VAN vs FLA",
+      "result": "L",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "VAN @ ARK",
+      "result": "L",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 4.3,
+      "pointsPlus": 45
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "VAN @ MSST",
+      "result": "W",
+      "min": 4,
+      "pts": 6,
+      "adjPts": 5.5,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "VAN vs UK",
+      "result": "W",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "VAN vs MISS",
+      "result": "W",
+      "min": 8,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "VAN vs OU",
+      "result": "L",
+      "min": 15,
+      "pts": 6,
+      "adjPts": 5.3,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "VAN @ AUB",
+      "result": "W",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "VAN vs TA&M",
+      "result": "W",
+      "min": 5,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "VAN @ MIZ",
+      "result": "L",
+      "min": 11,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 30
+    }
+  ]
+}

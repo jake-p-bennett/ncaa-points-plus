@@ -1,0 +1,173 @@
+{
+  "id": 4709133,
+  "name": "Myles Rice",
+  "team": "MD",
+  "teamName": "Maryland Terrapins",
+  "conference": "Big Ten",
+  "rank": 493,
+  "gp": 17,
+  "ppg": 5.6,
+  "adjPpg": 5.8,
+  "pointsPlus": 60,
+  "mpg": 16.5,
+  "position": "G",
+  "jersey": "2",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 65.0,
+  "volatilityPctile": 81,
+  "gameLog": [
+    {
+      "date": "2025-11-07",
+      "matchup": "MD vs GTWN",
+      "result": "L",
+      "min": 27,
+      "pts": 19,
+      "adjPts": 19.2,
+      "pointsPlus": 200
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "MD vs UNLV",
+      "result": "W",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "MD vs GONZ",
+      "result": "L",
+      "min": 10,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 10
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "MD vs ALA",
+      "result": "L",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "MD vs WAG",
+      "result": "W",
+      "min": 26,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "MD @ IOWA",
+      "result": "L",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "MD vs MICH",
+      "result": "L",
+      "min": 21,
+      "pts": 15,
+      "adjPts": 15.3,
+      "pointsPlus": 160
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "MD @ UVA",
+      "result": "L",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 13.4,
+      "pointsPlus": 139
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "MD vs ODU",
+      "result": "W",
+      "min": 15,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "MD vs ORE",
+      "result": "L",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "MD vs IU",
+      "result": "L",
+      "min": 15,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "MD @ UCLA",
+      "result": "L",
+      "min": 12,
+      "pts": 5,
+      "adjPts": 5.3,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "MD @ USC",
+      "result": "L",
+      "min": 13,
+      "pts": 4,
+      "adjPts": 3.7,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "MD vs PSU",
+      "result": "W",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "MD @ ILL",
+      "result": "L",
+      "min": 19,
+      "pts": 6,
+      "adjPts": 6.5,
+      "pointsPlus": 67
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "MD @ MSU",
+      "result": "L",
+      "min": 17,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "MD vs PUR",
+      "result": "L",
+      "min": 17,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    }
+  ]
+}

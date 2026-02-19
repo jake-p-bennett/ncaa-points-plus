@@ -1,0 +1,182 @@
+{
+  "id": 5174959,
+  "name": "Abdi Bashir Jr.",
+  "team": "KSU",
+  "teamName": "Kansas State Wildcats",
+  "conference": "Big 12",
+  "rank": 147,
+  "gp": 18,
+  "ppg": 13.2,
+  "adjPpg": 13.2,
+  "pointsPlus": 138,
+  "mpg": 24.5,
+  "position": "G",
+  "jersey": "1",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 62.0,
+  "volatilityPctile": 75,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "KSU vs UNCG",
+      "result": "W",
+      "min": 21,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "KSU vs BELL",
+      "result": "W",
+      "min": 30,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "KSU vs CAL",
+      "result": "W",
+      "min": 23,
+      "pts": 7,
+      "adjPts": 7.1,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "KSU vs TLSA",
+      "result": "W",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "KSU vs MSST",
+      "result": "W",
+      "min": 22,
+      "pts": 12,
+      "adjPts": 10.9,
+      "pointsPlus": 114
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "KSU vs NEB",
+      "result": "L",
+      "min": 30,
+      "pts": 26,
+      "adjPts": 30.8,
+      "pointsPlus": 321
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "KSU @ IU",
+      "result": "L",
+      "min": 14,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "KSU vs BGSU",
+      "result": "L",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "KSU vs HALL",
+      "result": "L",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 13.9,
+      "pointsPlus": 145
+    },
+    {
+      "date": "2025-12-09",
+      "matchup": "KSU vs MVSU",
+      "result": "W",
+      "min": 16,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "KSU @ CREI",
+      "result": "W",
+      "min": 27,
+      "pts": 18,
+      "adjPts": 17.6,
+      "pointsPlus": 183
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "KSU vs SDAK",
+      "result": "W",
+      "min": 20,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "KSU vs ULM",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "KSU vs BYU",
+      "result": "L",
+      "min": 30,
+      "pts": 16,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "KSU @ ARIZ",
+      "result": "L",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 6.3,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "KSU @ ASU",
+      "result": "L",
+      "min": 35,
+      "pts": 22,
+      "adjPts": 19.9,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "KSU vs UCF",
+      "result": "L",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 10.9,
+      "pointsPlus": 114
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "KSU @ OKST",
+      "result": "L",
+      "min": 34,
+      "pts": 15,
+      "adjPts": 12.5,
+      "pointsPlus": 130
+    }
+  ]
+}

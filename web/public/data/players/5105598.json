@@ -1,0 +1,263 @@
+{
+  "id": 5105598,
+  "name": "Chase Ross",
+  "team": "MARQ",
+  "teamName": "Marquette Golden Eagles",
+  "conference": "Big East",
+  "rank": 103,
+  "gp": 27,
+  "ppg": 14.5,
+  "adjPpg": 14.4,
+  "pointsPlus": 151,
+  "mpg": 32.9,
+  "position": "G",
+  "jersey": "2",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 61.6,
+  "volatilityPctile": 73,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "MARQ vs UALB",
+      "result": "W",
+      "min": 26,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-11-06",
+      "matchup": "MARQ vs SOU",
+      "result": "W",
+      "min": 28,
+      "pts": 23,
+      "adjPts": 23.0,
+      "pointsPlus": 240
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "MARQ vs IU",
+      "result": "L",
+      "min": 30,
+      "pts": 19,
+      "adjPts": 19.7,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "MARQ vs LR",
+      "result": "W",
+      "min": 23,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "MARQ vs MD",
+      "result": "L",
+      "min": 33,
+      "pts": 31,
+      "adjPts": 29.7,
+      "pointsPlus": 309
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "MARQ vs DAY",
+      "result": "L",
+      "min": 43,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "MARQ vs CMU",
+      "result": "W",
+      "min": 34,
+      "pts": 27,
+      "adjPts": 27.0,
+      "pointsPlus": 281
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "MARQ vs OU",
+      "result": "L",
+      "min": 36,
+      "pts": 21,
+      "adjPts": 18.7,
+      "pointsPlus": 195
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "MARQ vs VAL",
+      "result": "W",
+      "min": 41,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "MARQ @ WIS",
+      "result": "L",
+      "min": 31,
+      "pts": 12,
+      "adjPts": 11.1,
+      "pointsPlus": 116
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "MARQ @ PUR",
+      "result": "L",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 10.6,
+      "pointsPlus": 111
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "MARQ vs GTWN",
+      "result": "L",
+      "min": 31,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "MARQ @ CREI",
+      "result": "L",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "MARQ vs HALL",
+      "result": "L",
+      "min": 36,
+      "pts": 15,
+      "adjPts": 18.9,
+      "pointsPlus": 197
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "MARQ @ CONN",
+      "result": "L",
+      "min": 24,
+      "pts": 11,
+      "adjPts": 12.8,
+      "pointsPlus": 133
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "MARQ vs XAV",
+      "result": "W",
+      "min": 38,
+      "pts": 12,
+      "adjPts": 10.8,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "MARQ vs VILL",
+      "result": "L",
+      "min": 36,
+      "pts": 8,
+      "adjPts": 8.7,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "MARQ @ SJU",
+      "result": "L",
+      "min": 38,
+      "pts": 20,
+      "adjPts": 19.9,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "MARQ @ DEP",
+      "result": "L",
+      "min": 34,
+      "pts": 13,
+      "adjPts": 14.8,
+      "pointsPlus": 154
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "MARQ vs PROV",
+      "result": "W",
+      "min": 39,
+      "pts": 16,
+      "adjPts": 12.1,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "MARQ @ BUT",
+      "result": "L",
+      "min": 37,
+      "pts": 15,
+      "adjPts": 13.8,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "MARQ vs CREI",
+      "result": "W",
+      "min": 34,
+      "pts": 13,
+      "adjPts": 12.7,
+      "pointsPlus": 132
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "MARQ @ HALL",
+      "result": "L",
+      "min": 36,
+      "pts": 7,
+      "adjPts": 8.8,
+      "pointsPlus": 92
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "MARQ vs BUT",
+      "result": "W",
+      "min": 33,
+      "pts": 19,
+      "adjPts": 17.5,
+      "pointsPlus": 182
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MARQ @ VILL",
+      "result": "L",
+      "min": 29,
+      "pts": 7,
+      "adjPts": 7.6,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "MARQ @ XAV",
+      "result": "L",
+      "min": 29,
+      "pts": 9,
+      "adjPts": 8.1,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "MARQ vs SJU",
+      "result": "L",
+      "min": 36,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    }
+  ]
+}

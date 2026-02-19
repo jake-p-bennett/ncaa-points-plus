@@ -1,0 +1,128 @@
+{
+  "id": 5311926,
+  "name": "Lefteris Mantzoukas",
+  "team": "OKST",
+  "teamName": "Oklahoma State Cowboys",
+  "conference": "Big 12",
+  "rank": 577,
+  "gp": 12,
+  "ppg": 4.4,
+  "adjPpg": 4.3,
+  "pointsPlus": 45,
+  "mpg": 17.8,
+  "position": "F",
+  "jersey": "72",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 34.4,
+  "volatilityPctile": 8,
+  "gameLog": [
+    {
+      "date": "2025-11-09",
+      "matchup": "OKST vs TA&M",
+      "result": "W",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 6.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "OKST vs PV",
+      "result": "W",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "OKST vs AMCC",
+      "result": "W",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "OKST vs USF",
+      "result": "W",
+      "min": 17,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "OKST vs NICH",
+      "result": "W",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "OKST @ NU",
+      "result": "W",
+      "min": 15,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "OKST vs SHSU",
+      "result": "W",
+      "min": 30,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "OKST vs GCU",
+      "result": "W",
+      "min": 16,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "OKST vs OU",
+      "result": "L",
+      "min": 15,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "OKST vs BYU",
+      "result": "W",
+      "min": 11,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 29
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "OKST @ ARIZ",
+      "result": "L",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "OKST vs TCU",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": 5254165,
+  "name": "Keaton Wagler",
+  "team": "ILL",
+  "teamName": "Illinois Fighting Illini",
+  "conference": "Big Ten",
+  "rank": 28,
+  "gp": 27,
+  "ppg": 18.1,
+  "adjPpg": 18.8,
+  "pointsPlus": 196,
+  "mpg": 33.1,
+  "position": "G",
+  "jersey": "23",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 93.8,
+  "volatilityPctile": 99,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "ILL vs JKST",
+      "result": "W",
+      "min": 27,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "ILL vs FGCU",
+      "result": "W",
+      "min": 28,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 229
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "ILL vs TTU",
+      "result": "W",
+      "min": 35,
+      "pts": 11,
+      "adjPts": 11.1,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "ILL vs COLG",
+      "result": "W",
+      "min": 34,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "ILL vs ALA",
+      "result": "L",
+      "min": 36,
+      "pts": 8,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "ILL vs LIU",
+      "result": "W",
+      "min": 28,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "ILL vs RGV",
+      "result": "W",
+      "min": 30,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "ILL vs CONN",
+      "result": "L",
+      "min": 14,
+      "pts": 3,
+      "adjPts": 3.5,
+      "pointsPlus": 36
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "ILL vs TENN",
+      "result": "W",
+      "min": 34,
+      "pts": 16,
+      "adjPts": 17.2,
+      "pointsPlus": 179
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "ILL @ OSU",
+      "result": "W",
+      "min": 39,
+      "pts": 23,
+      "adjPts": 22.7,
+      "pointsPlus": 237
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "ILL vs NEB",
+      "result": "L",
+      "min": 40,
+      "pts": 19,
+      "adjPts": 22.5,
+      "pointsPlus": 235
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "ILL vs MIZ",
+      "result": "W",
+      "min": 34,
+      "pts": 22,
+      "adjPts": 21.4,
+      "pointsPlus": 223
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "ILL vs SOU",
+      "result": "W",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "ILL @ PSU",
+      "result": "W",
+      "min": 20,
+      "pts": 16,
+      "adjPts": 14.6,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "ILL vs RUTG",
+      "result": "W",
+      "min": 32,
+      "pts": 17,
+      "adjPts": 17.3,
+      "pointsPlus": 180
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "ILL @ IOWA",
+      "result": "W",
+      "min": 34,
+      "pts": 19,
+      "adjPts": 23.5,
+      "pointsPlus": 245
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "ILL @ NU",
+      "result": "W",
+      "min": 33,
+      "pts": 22,
+      "adjPts": 22.9,
+      "pointsPlus": 239
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "ILL vs MINN",
+      "result": "W",
+      "min": 38,
+      "pts": 17,
+      "adjPts": 20.2,
+      "pointsPlus": 211
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "ILL vs MD",
+      "result": "W",
+      "min": 32,
+      "pts": 13,
+      "adjPts": 12.4,
+      "pointsPlus": 130
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "ILL @ PUR",
+      "result": "W",
+      "min": 39,
+      "pts": 46,
+      "adjPts": 48.8,
+      "pointsPlus": 508
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "ILL vs WASH",
+      "result": "W",
+      "min": 38,
+      "pts": 22,
+      "adjPts": 22.8,
+      "pointsPlus": 237
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "ILL @ NEB",
+      "result": "W",
+      "min": 38,
+      "pts": 28,
+      "adjPts": 33.2,
+      "pointsPlus": 346
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "ILL vs NU",
+      "result": "W",
+      "min": 30,
+      "pts": 13,
+      "adjPts": 13.5,
+      "pointsPlus": 141
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "ILL @ MSU",
+      "result": "L",
+      "min": 41,
+      "pts": 16,
+      "adjPts": 18.6,
+      "pointsPlus": 194
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ILL vs WIS",
+      "result": "L",
+      "min": 44,
+      "pts": 34,
+      "adjPts": 31.5,
+      "pointsPlus": 328
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "ILL vs IU",
+      "result": "W",
+      "min": 39,
+      "pts": 18,
+      "adjPts": 18.6,
+      "pointsPlus": 194
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "ILL @ USC",
+      "result": "W",
+      "min": 29,
+      "pts": 10,
+      "adjPts": 9.3,
+      "pointsPlus": 96
+    }
+  ]
+}

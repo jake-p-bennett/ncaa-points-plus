@@ -1,0 +1,254 @@
+{
+  "id": 5105552,
+  "name": "B.J. Edwards",
+  "team": "SMU",
+  "teamName": "SMU Mustangs",
+  "conference": "ACC",
+  "rank": 155,
+  "gp": 26,
+  "ppg": 12.9,
+  "adjPpg": 13.0,
+  "pointsPlus": 135,
+  "mpg": 34.0,
+  "position": "G",
+  "jersey": "0",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 63.1,
+  "volatilityPctile": 78,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "SMU vs TAR",
+      "result": "W",
+      "min": 36,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "SMU vs AMCC",
+      "result": "W",
+      "min": 30,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "SMU vs MUR",
+      "result": "W",
+      "min": 35,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "SMU vs BUT",
+      "result": "W",
+      "min": 38,
+      "pts": 14,
+      "adjPts": 12.9,
+      "pointsPlus": 134
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "SMU vs UAPB",
+      "result": "W",
+      "min": 30,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "SMU vs ARST",
+      "result": "W",
+      "min": 34,
+      "pts": 24,
+      "adjPts": 24.0,
+      "pointsPlus": 250
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "SMU vs RAD",
+      "result": "W",
+      "min": 31,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "SMU @ MSST",
+      "result": "W",
+      "min": 41,
+      "pts": 6,
+      "adjPts": 5.5,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "SMU @ VAN",
+      "result": "L",
+      "min": 34,
+      "pts": 10,
+      "adjPts": 9.4,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "SMU vs TA&M",
+      "result": "W",
+      "min": 43,
+      "pts": 9,
+      "adjPts": 7.6,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "SMU vs LSU",
+      "result": "L",
+      "min": 33,
+      "pts": 8,
+      "adjPts": 7.5,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "SMU vs CARK",
+      "result": "W",
+      "min": 30,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "SMU vs CSUF",
+      "result": "W",
+      "min": 28,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "SMU vs UNC",
+      "result": "W",
+      "min": 39,
+      "pts": 15,
+      "adjPts": 15.6,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "SMU @ CLEM",
+      "result": "L",
+      "min": 35,
+      "pts": 12,
+      "adjPts": 14.6,
+      "pointsPlus": 152
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "SMU @ DUKE",
+      "result": "L",
+      "min": 38,
+      "pts": 20,
+      "adjPts": 24.3,
+      "pointsPlus": 253
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "SMU vs VT",
+      "result": "W",
+      "min": 33,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "SMU vs UVA",
+      "result": "L",
+      "min": 35,
+      "pts": 13,
+      "adjPts": 14.5,
+      "pointsPlus": 151
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "SMU @ WAKE",
+      "result": "W",
+      "min": 31,
+      "pts": 24,
+      "adjPts": 22.3,
+      "pointsPlus": 232
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "SMU vs FSU",
+      "result": "W",
+      "min": 33,
+      "pts": 19,
+      "adjPts": 17.2,
+      "pointsPlus": 179
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "SMU @ LOU",
+      "result": "L",
+      "min": 36,
+      "pts": 13,
+      "adjPts": 12.8,
+      "pointsPlus": 133
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "SMU vs NCSU",
+      "result": "L",
+      "min": 33,
+      "pts": 11,
+      "adjPts": 10.5,
+      "pointsPlus": 110
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "SMU @ PITT",
+      "result": "W",
+      "min": 28,
+      "pts": 5,
+      "adjPts": 5.5,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "SMU vs ND",
+      "result": "W",
+      "min": 31,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "SMU @ SYR",
+      "result": "L",
+      "min": 35,
+      "pts": 10,
+      "adjPts": 10.2,
+      "pointsPlus": 107
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "SMU vs LOU",
+      "result": "W",
+      "min": 34,
+      "pts": 7,
+      "adjPts": 6.9,
+      "pointsPlus": 72
+    }
+  ]
+}

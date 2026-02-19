@@ -1,0 +1,254 @@
+{
+  "id": 4895794,
+  "name": "Dylan James",
+  "team": "UGA",
+  "teamName": "Georgia Bulldogs",
+  "conference": "SEC",
+  "rank": 566,
+  "gp": 26,
+  "ppg": 4.6,
+  "adjPpg": 4.4,
+  "pointsPlus": 46,
+  "mpg": 15.7,
+  "position": "F",
+  "jersey": "11",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 42.9,
+  "volatilityPctile": 23,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "UGA vs BELL",
+      "result": "W",
+      "min": 19,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-06",
+      "matchup": "UGA vs UMES",
+      "result": "W",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "UGA vs MORE",
+      "result": "W",
+      "min": 18,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "UGA vs GT",
+      "result": "W",
+      "min": 14,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "UGA vs FAMU",
+      "result": "W",
+      "min": 20,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "UGA vs XAV",
+      "result": "W",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "UGA vs CLEM",
+      "result": "L",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 4.9,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "UGA vs TNTC",
+      "result": "W",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "UGA @ FSU",
+      "result": "W",
+      "min": 14,
+      "pts": 6,
+      "adjPts": 5.4,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "UGA vs CIN",
+      "result": "W",
+      "min": 5,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-19",
+      "matchup": "UGA vs WCU",
+      "result": "W",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "UGA vs WGA",
+      "result": "W",
+      "min": 22,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "UGA vs LIU",
+      "result": "W",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "UGA vs AUB",
+      "result": "W",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "UGA @ FLA",
+      "result": "L",
+      "min": 20,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "UGA @ SC",
+      "result": "W",
+      "min": 17,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "UGA vs MISS",
+      "result": "L",
+      "min": 17,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "UGA vs ARK",
+      "result": "W",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 3.4,
+      "pointsPlus": 36
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "UGA @ MIZ",
+      "result": "W",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "UGA @ TEX",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "UGA vs TENN",
+      "result": "L",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "UGA vs TA&M",
+      "result": "L",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "UGA @ LSU",
+      "result": "W",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 20
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "UGA vs FLA",
+      "result": "L",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "UGA @ OU",
+      "result": "L",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UGA @ UK",
+      "result": "W",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    }
+  ]
+}

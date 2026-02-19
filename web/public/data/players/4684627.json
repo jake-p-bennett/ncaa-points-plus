@@ -1,0 +1,254 @@
+{
+  "id": 4684627,
+  "name": "Chris Bell",
+  "team": "CAL",
+  "teamName": "California Golden Bears",
+  "conference": "ACC",
+  "rank": 131,
+  "gp": 26,
+  "ppg": 13.5,
+  "adjPpg": 13.7,
+  "pointsPlus": 143,
+  "mpg": 27.6,
+  "position": "F",
+  "jersey": "22",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 72.9,
+  "volatilityPctile": 90,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "CAL vs CSUB",
+      "result": "W",
+      "min": 22,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "CAL vs WRST",
+      "result": "W",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "CAL vs CSUF",
+      "result": "W",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "CAL @ KSU",
+      "result": "L",
+      "min": 29,
+      "pts": 27,
+      "adjPts": 23.4,
+      "pointsPlus": 243
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "CAL vs PRES",
+      "result": "W",
+      "min": 31,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "CAL vs SAC",
+      "result": "W",
+      "min": 28,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "CAL vs UCLA",
+      "result": "W",
+      "min": 31,
+      "pts": 22,
+      "adjPts": 23.5,
+      "pointsPlus": 244
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "CAL vs UTAH",
+      "result": "W",
+      "min": 24,
+      "pts": 7,
+      "adjPts": 6.5,
+      "pointsPlus": 67
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "CAL vs PAC",
+      "result": "W",
+      "min": 22,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "CAL vs DOM",
+      "result": "W",
+      "min": 21,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "CAL vs NWST",
+      "result": "W",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "CAL vs MORG",
+      "result": "W",
+      "min": 37,
+      "pts": 28,
+      "adjPts": 28.0,
+      "pointsPlus": 292
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "CAL vs COLU",
+      "result": "W",
+      "min": 31,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "CAL vs LOU",
+      "result": "L",
+      "min": 36,
+      "pts": 20,
+      "adjPts": 19.7,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "CAL vs ND",
+      "result": "W",
+      "min": 31,
+      "pts": 15,
+      "adjPts": 15.5,
+      "pointsPlus": 161
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "CAL @ UVA",
+      "result": "L",
+      "min": 22,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "CAL @ VT",
+      "result": "L",
+      "min": 20,
+      "pts": 12,
+      "adjPts": 11.8,
+      "pointsPlus": 123
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "CAL vs DUKE",
+      "result": "L",
+      "min": 25,
+      "pts": 5,
+      "adjPts": 6.1,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "CAL vs UNC",
+      "result": "W",
+      "min": 24,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "CAL @ STAN",
+      "result": "W",
+      "min": 34,
+      "pts": 10,
+      "adjPts": 10.4,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "CAL @ FSU",
+      "result": "L",
+      "min": 24,
+      "pts": 13,
+      "adjPts": 11.8,
+      "pointsPlus": 122
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "CAL @ MIA",
+      "result": "W",
+      "min": 29,
+      "pts": 16,
+      "adjPts": 16.8,
+      "pointsPlus": 175
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "CAL vs GT",
+      "result": "W",
+      "min": 26,
+      "pts": 14,
+      "adjPts": 13.5,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "CAL vs CLEM",
+      "result": "L",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 15.9,
+      "pointsPlus": 165
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "CAL @ SYR",
+      "result": "L",
+      "min": 40,
+      "pts": 18,
+      "adjPts": 18.4,
+      "pointsPlus": 192
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "CAL @ BC",
+      "result": "W",
+      "min": 34,
+      "pts": 22,
+      "adjPts": 25.7,
+      "pointsPlus": 268
+    }
+  ]
+}

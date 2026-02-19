@@ -1,0 +1,110 @@
+{
+  "id": 5101623,
+  "name": "Markus Burton",
+  "team": "ND",
+  "teamName": "Notre Dame Fighting Irish",
+  "conference": "ACC",
+  "rank": 22,
+  "gp": 10,
+  "ppg": 18.5,
+  "adjPpg": 19.4,
+  "pointsPlus": 202,
+  "mpg": 30.1,
+  "position": "G",
+  "jersey": "3",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 65.8,
+  "volatilityPctile": 82,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "ND vs LIU",
+      "result": "W",
+      "min": 27,
+      "pts": 24,
+      "adjPts": 24.0,
+      "pointsPlus": 250
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "ND vs DETM",
+      "result": "W",
+      "min": 18,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "ND vs EIU",
+      "result": "W",
+      "min": 38,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "ND @ OSU",
+      "result": "L",
+      "min": 30,
+      "pts": 14,
+      "adjPts": 13.8,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "ND vs BELL",
+      "result": "W",
+      "min": 31,
+      "pts": 25,
+      "adjPts": 25.0,
+      "pointsPlus": 260
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "ND vs KU",
+      "result": "L",
+      "min": 35,
+      "pts": 24,
+      "adjPts": 27.2,
+      "pointsPlus": 283
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "ND vs RUTG",
+      "result": "W",
+      "min": 34,
+      "pts": 21,
+      "adjPts": 21.3,
+      "pointsPlus": 222
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "ND vs HOU",
+      "result": "L",
+      "min": 40,
+      "pts": 19,
+      "adjPts": 24.8,
+      "pointsPlus": 258
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "ND vs MIZ",
+      "result": "W",
+      "min": 38,
+      "pts": 18,
+      "adjPts": 17.5,
+      "pointsPlus": 182
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "ND @ TCU",
+      "result": "W",
+      "min": 10,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 64
+    }
+  ]
+}

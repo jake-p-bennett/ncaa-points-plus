@@ -1,0 +1,155 @@
+{
+  "id": 5311919,
+  "name": "Elias Rapieque",
+  "team": "KSU",
+  "teamName": "Kansas State Wildcats",
+  "conference": "Big 12",
+  "rank": 592,
+  "gp": 15,
+  "ppg": 4.1,
+  "adjPpg": 4.1,
+  "pointsPlus": 42,
+  "mpg": 17.9,
+  "position": "F",
+  "jersey": "0",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 33.9,
+  "volatilityPctile": 8,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "KSU vs UNCG",
+      "result": "W",
+      "min": 21,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "KSU vs BELL",
+      "result": "W",
+      "min": 17,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "KSU vs CAL",
+      "result": "W",
+      "min": 23,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "KSU vs TLSA",
+      "result": "W",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "KSU vs MSST",
+      "result": "W",
+      "min": 19,
+      "pts": 3,
+      "adjPts": 2.7,
+      "pointsPlus": 28
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "KSU vs NEB",
+      "result": "L",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 4.7,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "KSU @ IU",
+      "result": "L",
+      "min": 22,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "KSU vs BGSU",
+      "result": "L",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "KSU vs HALL",
+      "result": "L",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-09",
+      "matchup": "KSU vs MVSU",
+      "result": "W",
+      "min": 19,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "KSU @ CREI",
+      "result": "W",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "KSU vs SDAK",
+      "result": "W",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "KSU vs ULM",
+      "result": "W",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "KSU @ ARIZ",
+      "result": "L",
+      "min": 19,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "KSU @ ASU",
+      "result": "L",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    }
+  ]
+}

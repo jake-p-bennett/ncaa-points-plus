@@ -1,0 +1,146 @@
+{
+  "id": 4702046,
+  "name": "Kam Woods",
+  "team": "USC",
+  "teamName": "USC Trojans",
+  "conference": "Big Ten",
+  "rank": 346,
+  "gp": 14,
+  "ppg": 8.2,
+  "adjPpg": 8.8,
+  "pointsPlus": 92,
+  "mpg": 31.0,
+  "position": "G",
+  "jersey": "13",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 107.7,
+  "volatilityPctile": 100,
+  "gameLog": [
+    {
+      "date": "2025-12-21",
+      "matchup": "USC vs UCSC",
+      "result": "W",
+      "min": 22,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "USC @ MICH",
+      "result": "L",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "USC @ MSU",
+      "result": "L",
+      "min": 21,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "USC @ MINN",
+      "result": "W",
+      "min": 44,
+      "pts": 4,
+      "adjPts": 4.8,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "USC vs MD",
+      "result": "W",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 5.7,
+      "pointsPlus": 60
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "USC vs PUR",
+      "result": "L",
+      "min": 24,
+      "pts": 8,
+      "adjPts": 8.5,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "USC vs NU",
+      "result": "L",
+      "min": 24,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "USC @ WIS",
+      "result": "W",
+      "min": 34,
+      "pts": 5,
+      "adjPts": 4.6,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "USC @ IOWA",
+      "result": "L",
+      "min": 40,
+      "pts": 33,
+      "adjPts": 40.8,
+      "pointsPlus": 425
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "USC vs RUTG",
+      "result": "W",
+      "min": 38,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "USC vs IU",
+      "result": "W",
+      "min": 40,
+      "pts": 18,
+      "adjPts": 18.6,
+      "pointsPlus": 194
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "USC @ PSU",
+      "result": "W",
+      "min": 36,
+      "pts": 13,
+      "adjPts": 11.9,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "USC @ OSU",
+      "result": "L",
+      "min": 40,
+      "pts": 14,
+      "adjPts": 13.8,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "USC vs ILL",
+      "result": "L",
+      "min": 33,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 45
+    }
+  ]
+}

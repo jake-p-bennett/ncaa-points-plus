@@ -1,0 +1,254 @@
+{
+  "id": 5175737,
+  "name": "Yaxel Lendeborg",
+  "team": "MICH",
+  "teamName": "Michigan Wolverines",
+  "conference": "Big Ten",
+  "rank": 98,
+  "gp": 26,
+  "ppg": 14.4,
+  "adjPpg": 14.5,
+  "pointsPlus": 151,
+  "mpg": 28.8,
+  "position": "F",
+  "jersey": "23",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 62.7,
+  "volatilityPctile": 76,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "MICH vs OAK",
+      "result": "W",
+      "min": 22,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "MICH vs WAKE",
+      "result": "W",
+      "min": 33,
+      "pts": 9,
+      "adjPts": 8.3,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "MICH @ TCU",
+      "result": "W",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 14.3,
+      "pointsPlus": 149
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "MICH vs MTSU",
+      "result": "W",
+      "min": 28,
+      "pts": 25,
+      "adjPts": 25.0,
+      "pointsPlus": 260
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "MICH vs SDSU",
+      "result": "W",
+      "min": 26,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "MICH vs AUB",
+      "result": "W",
+      "min": 27,
+      "pts": 17,
+      "adjPts": 14.6,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "MICH vs GONZ",
+      "result": "W",
+      "min": 27,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "MICH vs RUTG",
+      "result": "W",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 14.2,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2025-12-09",
+      "matchup": "MICH vs VILL",
+      "result": "W",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 9.7,
+      "pointsPlus": 101
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "MICH @ MD",
+      "result": "W",
+      "min": 37,
+      "pts": 29,
+      "adjPts": 27.8,
+      "pointsPlus": 289
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "MICH vs LAS",
+      "result": "W",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "MICH vs MCN",
+      "result": "W",
+      "min": 21,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "MICH vs USC",
+      "result": "W",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 7.4,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "MICH @ PSU",
+      "result": "W",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 9.1,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "MICH vs WIS",
+      "result": "L",
+      "min": 31,
+      "pts": 14,
+      "adjPts": 13.0,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "MICH @ WASH",
+      "result": "W",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 14.5,
+      "pointsPlus": 151
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "MICH @ ORE",
+      "result": "W",
+      "min": 34,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "MICH vs IU",
+      "result": "W",
+      "min": 30,
+      "pts": 15,
+      "adjPts": 15.5,
+      "pointsPlus": 162
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "MICH vs OSU",
+      "result": "W",
+      "min": 31,
+      "pts": 18,
+      "adjPts": 17.8,
+      "pointsPlus": 185
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "MICH vs NEB",
+      "result": "W",
+      "min": 33,
+      "pts": 10,
+      "adjPts": 11.9,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "MICH @ MSU",
+      "result": "W",
+      "min": 35,
+      "pts": 26,
+      "adjPts": 30.2,
+      "pointsPlus": 315
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "MICH vs PSU",
+      "result": "W",
+      "min": 25,
+      "pts": 6,
+      "adjPts": 5.5,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "MICH @ OSU",
+      "result": "W",
+      "min": 31,
+      "pts": 14,
+      "adjPts": 13.8,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "MICH @ NU",
+      "result": "W",
+      "min": 37,
+      "pts": 15,
+      "adjPts": 15.6,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "MICH vs UCLA",
+      "result": "W",
+      "min": 30,
+      "pts": 17,
+      "adjPts": 18.1,
+      "pointsPlus": 189
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "MICH @ PUR",
+      "result": "W",
+      "min": 36,
+      "pts": 13,
+      "adjPts": 13.8,
+      "pointsPlus": 144
+    }
+  ]
+}

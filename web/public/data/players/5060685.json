@@ -1,0 +1,254 @@
+{
+  "id": 5060685,
+  "name": "Keanu Dawes",
+  "team": "UTAH",
+  "teamName": "Utah Utes",
+  "conference": "Big 12",
+  "rank": 164,
+  "gp": 26,
+  "ppg": 12.5,
+  "adjPpg": 12.8,
+  "pointsPlus": 133,
+  "mpg": 31.0,
+  "position": "F",
+  "jersey": "8",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 60.7,
+  "volatilityPctile": 71,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "UTAH vs SJSU",
+      "result": "W",
+      "min": 32,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "UTAH vs WEB",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "UTAH vs HC",
+      "result": "W",
+      "min": 31,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "UTAH vs SHSU",
+      "result": "W",
+      "min": 31,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "UTAH vs PFW",
+      "result": "W",
+      "min": 29,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "UTAH vs CP",
+      "result": "L",
+      "min": 30,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "UTAH vs GCU",
+      "result": "L",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "UTAH vs MISS",
+      "result": "W",
+      "min": 25,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "UTAH @ CAL",
+      "result": "L",
+      "min": 28,
+      "pts": 14,
+      "adjPts": 14.1,
+      "pointsPlus": 147
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "UTAH vs CBU",
+      "result": "W",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "UTAH vs MSST",
+      "result": "L",
+      "min": 30,
+      "pts": 7,
+      "adjPts": 6.4,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "UTAH vs EWU",
+      "result": "W",
+      "min": 29,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "UTAH @ WASH",
+      "result": "L",
+      "min": 32,
+      "pts": 17,
+      "adjPts": 17.6,
+      "pointsPlus": 183
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "UTAH vs ARIZ",
+      "result": "L",
+      "min": 32,
+      "pts": 15,
+      "adjPts": 15.7,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "UTAH @ COLO",
+      "result": "L",
+      "min": 36,
+      "pts": 16,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "UTAH vs BYU",
+      "result": "L",
+      "min": 26,
+      "pts": 7,
+      "adjPts": 6.6,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "UTAH @ TTU",
+      "result": "L",
+      "min": 32,
+      "pts": 18,
+      "adjPts": 18.1,
+      "pointsPlus": 189
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "UTAH vs TCU",
+      "result": "W",
+      "min": 32,
+      "pts": 10,
+      "adjPts": 10.2,
+      "pointsPlus": 107
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "UTAH @ KSU",
+      "result": "L",
+      "min": 31,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "UTAH @ BYU",
+      "result": "L",
+      "min": 33,
+      "pts": 23,
+      "adjPts": 21.6,
+      "pointsPlus": 225
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "UTAH vs OKST",
+      "result": "L",
+      "min": 34,
+      "pts": 12,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "UTAH vs ASU",
+      "result": "L",
+      "min": 35,
+      "pts": 7,
+      "adjPts": 6.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "UTAH @ KU",
+      "result": "L",
+      "min": 31,
+      "pts": 22,
+      "adjPts": 24.9,
+      "pointsPlus": 260
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "UTAH vs HOU",
+      "result": "L",
+      "min": 34,
+      "pts": 15,
+      "adjPts": 19.6,
+      "pointsPlus": 204
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "UTAH @ CIN",
+      "result": "L",
+      "min": 35,
+      "pts": 16,
+      "adjPts": 19.2,
+      "pointsPlus": 200
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "UTAH @ WVU",
+      "result": "W",
+      "min": 31,
+      "pts": 5,
+      "adjPts": 6.6,
+      "pointsPlus": 69
+    }
+  ]
+}

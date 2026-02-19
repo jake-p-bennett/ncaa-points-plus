@@ -1,0 +1,254 @@
+{
+  "id": 4683146,
+  "name": "Zach Clemence",
+  "team": "TA&M",
+  "teamName": "Texas A&M Aggies",
+  "conference": "SEC",
+  "rank": 479,
+  "gp": 26,
+  "ppg": 6.3,
+  "adjPpg": 6.0,
+  "pointsPlus": 63,
+  "mpg": 14.2,
+  "position": "F",
+  "jersey": "7",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 58.5,
+  "volatilityPctile": 66,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "TA&M vs NWST",
+      "result": "W",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "TA&M vs TXSO",
+      "result": "W",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "TA&M @ OKST",
+      "result": "L",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 7.5,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "TA&M vs UCF",
+      "result": "L",
+      "min": 17,
+      "pts": 12,
+      "adjPts": 10.9,
+      "pointsPlus": 114
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "TA&M vs MONT",
+      "result": "W",
+      "min": 14,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "TA&M vs MAN",
+      "result": "W",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "TA&M vs MVSU",
+      "result": "W",
+      "min": 18,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "TA&M vs FSU",
+      "result": "W",
+      "min": 19,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "TA&M @ PITT",
+      "result": "W",
+      "min": 13,
+      "pts": 3,
+      "adjPts": 3.3,
+      "pointsPlus": 34
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "TA&M vs SMU",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-15",
+      "matchup": "TA&M vs JAX",
+      "result": "W",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "TA&M vs ETAM",
+      "result": "W",
+      "min": 6,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "TA&M vs PV",
+      "result": "W",
+      "min": 13,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "TA&M vs LSU",
+      "result": "W",
+      "min": 12,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 20
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "TA&M @ AUB",
+      "result": "W",
+      "min": 5,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "TA&M vs OU",
+      "result": "W",
+      "min": 9,
+      "pts": 5,
+      "adjPts": 4.5,
+      "pointsPlus": 46
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "TA&M @ TENN",
+      "result": "L",
+      "min": 11,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 45
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "TA&M @ TEX",
+      "result": "W",
+      "min": 5,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 29
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "TA&M vs MSST",
+      "result": "W",
+      "min": 16,
+      "pts": 3,
+      "adjPts": 2.7,
+      "pointsPlus": 28
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "TA&M vs SC",
+      "result": "W",
+      "min": 15,
+      "pts": 21,
+      "adjPts": 20.4,
+      "pointsPlus": 213
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "TA&M @ UGA",
+      "result": "W",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "TA&M @ ALA",
+      "result": "L",
+      "min": 16,
+      "pts": 6,
+      "adjPts": 4.5,
+      "pointsPlus": 47
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "TA&M vs FLA",
+      "result": "L",
+      "min": 21,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "TA&M vs MIZ",
+      "result": "L",
+      "min": 23,
+      "pts": 20,
+      "adjPts": 19.4,
+      "pointsPlus": 203
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "TA&M @ VAN",
+      "result": "L",
+      "min": 14,
+      "pts": 9,
+      "adjPts": 8.4,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "TA&M vs MISS",
+      "result": "W",
+      "min": 24,
+      "pts": 14,
+      "adjPts": 14.3,
+      "pointsPlus": 149
+    }
+  ]
+}

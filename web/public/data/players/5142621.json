@@ -1,0 +1,254 @@
+{
+  "id": 5142621,
+  "name": "Chris Cenac Jr.",
+  "team": "HOU",
+  "teamName": "Houston Cougars",
+  "conference": "Big 12",
+  "rank": 316,
+  "gp": 26,
+  "ppg": 9.5,
+  "adjPpg": 9.4,
+  "pointsPlus": 98,
+  "mpg": 24.7,
+  "position": "F",
+  "jersey": "5",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 45.2,
+  "volatilityPctile": 29,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "HOU vs LEH",
+      "result": "W",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "HOU vs TOW",
+      "result": "W",
+      "min": 29,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "HOU vs OAK",
+      "result": "W",
+      "min": 19,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "HOU vs AUB",
+      "result": "W",
+      "min": 26,
+      "pts": 18,
+      "adjPts": 15.5,
+      "pointsPlus": 162
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "HOU vs RID",
+      "result": "W",
+      "min": 15,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "HOU vs SYR",
+      "result": "W",
+      "min": 30,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "HOU vs TENN",
+      "result": "L",
+      "min": 33,
+      "pts": 5,
+      "adjPts": 5.4,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "HOU vs ND",
+      "result": "W",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "HOU vs FSU",
+      "result": "W",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 13.6,
+      "pointsPlus": 141
+    },
+    {
+      "date": "2025-12-11",
+      "matchup": "HOU vs JKST",
+      "result": "W",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "HOU vs UNO",
+      "result": "W",
+      "min": 17,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "HOU vs ARK",
+      "result": "W",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 7.7,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "HOU vs MTSU",
+      "result": "W",
+      "min": 29,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "HOU @ CIN",
+      "result": "W",
+      "min": 24,
+      "pts": 4,
+      "adjPts": 4.8,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "HOU vs TTU",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 11.1,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "HOU @ BAY",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 10.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "HOU vs WVU",
+      "result": "W",
+      "min": 28,
+      "pts": 7,
+      "adjPts": 9.2,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "HOU vs ASU",
+      "result": "W",
+      "min": 27,
+      "pts": 18,
+      "adjPts": 16.3,
+      "pointsPlus": 170
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "HOU @ TTU",
+      "result": "L",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "HOU @ TCU",
+      "result": "W",
+      "min": 34,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "HOU vs CIN",
+      "result": "W",
+      "min": 26,
+      "pts": 13,
+      "adjPts": 15.6,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "HOU vs UCF",
+      "result": "W",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 12.7,
+      "pointsPlus": 133
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "HOU @ BYU",
+      "result": "W",
+      "min": 29,
+      "pts": 16,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "HOU @ UTAH",
+      "result": "W",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 5.5,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "HOU vs KSU",
+      "result": "W",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 7.8,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "HOU @ ISU",
+      "result": "L",
+      "min": 25,
+      "pts": 7,
+      "adjPts": 8.2,
+      "pointsPlus": 85
+    }
+  ]
+}

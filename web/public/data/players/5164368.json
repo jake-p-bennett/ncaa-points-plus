@@ -1,0 +1,245 @@
+{
+  "id": 5164368,
+  "name": "David Punch",
+  "team": "TCU",
+  "teamName": "TCU Horned Frogs",
+  "conference": "Big 12",
+  "rank": 119,
+  "gp": 25,
+  "ppg": 14.2,
+  "adjPpg": 14.0,
+  "pointsPlus": 146,
+  "mpg": 29.7,
+  "position": "F",
+  "jersey": "15",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 54.4,
+  "volatilityPctile": 53,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "TCU vs UNO",
+      "result": "L",
+      "min": 29,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "TCU vs SFPA",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "TCU vs LAM",
+      "result": "W",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "TCU vs MICH",
+      "result": "L",
+      "min": 31,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "TCU vs KC",
+      "result": "W",
+      "min": 27,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "TCU vs FLA",
+      "result": "W",
+      "min": 36,
+      "pts": 19,
+      "adjPts": 19.1,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "TCU vs WIS",
+      "result": "W",
+      "min": 32,
+      "pts": 17,
+      "adjPts": 15.7,
+      "pointsPlus": 164
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "TCU vs ND",
+      "result": "L",
+      "min": 38,
+      "pts": 20,
+      "adjPts": 20.6,
+      "pointsPlus": 215
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "TCU @ UNT",
+      "result": "W",
+      "min": 34,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-16",
+      "matchup": "TCU vs UIW",
+      "result": "W",
+      "min": 32,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-12-19",
+      "matchup": "TCU vs ORU",
+      "result": "W",
+      "min": 27,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "TCU vs FAMU",
+      "result": "W",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "TCU vs JKST",
+      "result": "W",
+      "min": 21,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "TCU vs BAY",
+      "result": "W",
+      "min": 30,
+      "pts": 11,
+      "adjPts": 10.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "TCU @ KU",
+      "result": "L",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 22.7,
+      "pointsPlus": 236
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "TCU vs ARIZ",
+      "result": "L",
+      "min": 33,
+      "pts": 10,
+      "adjPts": 10.4,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "TCU @ BYU",
+      "result": "L",
+      "min": 23,
+      "pts": 7,
+      "adjPts": 6.6,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "TCU @ UTAH",
+      "result": "L",
+      "min": 29,
+      "pts": 22,
+      "adjPts": 20.3,
+      "pointsPlus": 212
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "TCU vs OKST",
+      "result": "W",
+      "min": 35,
+      "pts": 22,
+      "adjPts": 18.3,
+      "pointsPlus": 191
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "TCU vs HOU",
+      "result": "L",
+      "min": 29,
+      "pts": 16,
+      "adjPts": 20.9,
+      "pointsPlus": 217
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "TCU @ COLO",
+      "result": "L",
+      "min": 24,
+      "pts": 8,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "TCU vs KSU",
+      "result": "W",
+      "min": 30,
+      "pts": 14,
+      "adjPts": 12.1,
+      "pointsPlus": 126
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "TCU vs ISU",
+      "result": "W",
+      "min": 31,
+      "pts": 8,
+      "adjPts": 9.4,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "TCU @ OKST",
+      "result": "W",
+      "min": 37,
+      "pts": 19,
+      "adjPts": 15.8,
+      "pointsPlus": 165
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "TCU @ UCF",
+      "result": "L",
+      "min": 25,
+      "pts": 14,
+      "adjPts": 12.7,
+      "pointsPlus": 133
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": 5105794,
+  "name": "Skyy Clark",
+  "team": "UCLA",
+  "teamName": "UCLA Bruins",
+  "conference": "Big Ten",
+  "rank": 146,
+  "gp": 16,
+  "ppg": 13.1,
+  "adjPpg": 13.3,
+  "pointsPlus": 138,
+  "mpg": 28.0,
+  "position": "G",
+  "jersey": "55",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 71.2,
+  "volatilityPctile": 89,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "UCLA vs EWU",
+      "result": "W",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "UCLA vs PEPP",
+      "result": "W",
+      "min": 30,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "UCLA vs WGA",
+      "result": "W",
+      "min": 32,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "UCLA vs ARIZ",
+      "result": "L",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 9.4,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "UCLA vs SAC",
+      "result": "W",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "UCLA vs PRES",
+      "result": "W",
+      "min": 25,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 229
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "UCLA vs CAL",
+      "result": "L",
+      "min": 25,
+      "pts": 7,
+      "adjPts": 7.1,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "UCLA @ WASH",
+      "result": "W",
+      "min": 39,
+      "pts": 25,
+      "adjPts": 25.9,
+      "pointsPlus": 270
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "UCLA vs ORE",
+      "result": "W",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 13.5,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "UCLA vs GONZ",
+      "result": "L",
+      "min": 34,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "UCLA vs ASU",
+      "result": "W",
+      "min": 32,
+      "pts": 18,
+      "adjPts": 16.3,
+      "pointsPlus": 170
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "UCLA vs CP",
+      "result": "W",
+      "min": 31,
+      "pts": 30,
+      "adjPts": 30.0,
+      "pointsPlus": 313
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "UCLA vs UCR",
+      "result": "W",
+      "min": 35,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "UCLA @ IOWA",
+      "result": "L",
+      "min": 22,
+      "pts": 5,
+      "adjPts": 6.2,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "UCLA @ MICH",
+      "result": "L",
+      "min": 16,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UCLA @ MSU",
+      "result": "L",
+      "min": 21,
+      "pts": 12,
+      "adjPts": 13.9,
+      "pointsPlus": 145
+    }
+  ]
+}

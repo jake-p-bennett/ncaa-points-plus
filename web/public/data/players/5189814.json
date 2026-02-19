@@ -1,0 +1,254 @@
+{
+  "id": 5189814,
+  "name": "Jeremy Dent-Smith",
+  "team": "STAN",
+  "teamName": "Stanford Cardinal",
+  "conference": "ACC",
+  "rank": 348,
+  "gp": 26,
+  "ppg": 8.5,
+  "adjPpg": 8.7,
+  "pointsPlus": 91,
+  "mpg": 21.6,
+  "position": "G",
+  "jersey": "25",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 68.2,
+  "volatilityPctile": 86,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "STAN vs PRST",
+      "result": "W",
+      "min": 24,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "STAN vs MONT",
+      "result": "W",
+      "min": 30,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "STAN vs MTST",
+      "result": "W",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "STAN vs UL",
+      "result": "W",
+      "min": 25,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "STAN vs SEA",
+      "result": "L",
+      "min": 21,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "STAN vs MINN",
+      "result": "W",
+      "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "STAN vs SLU",
+      "result": "W",
+      "min": 21,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "STAN vs PORT",
+      "result": "W",
+      "min": 23,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "STAN vs UNLV",
+      "result": "L",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "STAN @ SJSU",
+      "result": "W",
+      "min": 33,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "STAN vs UTA",
+      "result": "W",
+      "min": 32,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "STAN vs COLO",
+      "result": "W",
+      "min": 14,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "STAN vs CSUN",
+      "result": "W",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "STAN vs ND",
+      "result": "L",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "STAN vs LOU",
+      "result": "W",
+      "min": 19,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 92
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "STAN @ VT",
+      "result": "W",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "STAN @ UVA",
+      "result": "L",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 5.6,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "STAN vs UNC",
+      "result": "W",
+      "min": 21,
+      "pts": 20,
+      "adjPts": 20.8,
+      "pointsPlus": 217
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "STAN vs DUKE",
+      "result": "L",
+      "min": 28,
+      "pts": 18,
+      "adjPts": 21.8,
+      "pointsPlus": 228
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "STAN vs CAL",
+      "result": "L",
+      "min": 33,
+      "pts": 20,
+      "adjPts": 20.2,
+      "pointsPlus": 211
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "STAN @ MIA",
+      "result": "L",
+      "min": 24,
+      "pts": 5,
+      "adjPts": 5.2,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "STAN @ FSU",
+      "result": "L",
+      "min": 16,
+      "pts": 7,
+      "adjPts": 6.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "STAN vs CLEM",
+      "result": "L",
+      "min": 27,
+      "pts": 5,
+      "adjPts": 6.1,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "STAN vs GT",
+      "result": "W",
+      "min": 23,
+      "pts": 16,
+      "adjPts": 15.4,
+      "pointsPlus": 160
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "STAN @ BC",
+      "result": "W",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 12.9,
+      "pointsPlus": 134
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "STAN @ WAKE",
+      "result": "L",
+      "min": 16,
+      "pts": 6,
+      "adjPts": 5.6,
+      "pointsPlus": 58
+    }
+  ]
+}

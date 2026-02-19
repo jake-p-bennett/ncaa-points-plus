@@ -1,0 +1,245 @@
+{
+  "id": 4895753,
+  "name": "Jayden Ross",
+  "team": "CONN",
+  "teamName": "UConn Huskies",
+  "conference": "Big East",
+  "rank": 576,
+  "gp": 25,
+  "ppg": 4.4,
+  "adjPpg": 4.3,
+  "pointsPlus": 45,
+  "mpg": 15.8,
+  "position": "F",
+  "jersey": "23",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 37.5,
+  "volatilityPctile": 12,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "CONN vs NHVN",
+      "result": "W",
+      "min": 22,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "CONN vs UML",
+      "result": "W",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "CONN vs COLU",
+      "result": "W",
+      "min": 22,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "CONN vs BYU",
+      "result": "W",
+      "min": 12,
+      "pts": 10,
+      "adjPts": 9.4,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "CONN vs ARIZ",
+      "result": "L",
+      "min": 22,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "CONN vs BRY",
+      "result": "W",
+      "min": 25,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "CONN vs ILL",
+      "result": "W",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 5.4,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "CONN @ KU",
+      "result": "W",
+      "min": 16,
+      "pts": 1,
+      "adjPts": 1.1,
+      "pointsPlus": 12
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "CONN vs ETAM",
+      "result": "W",
+      "min": 21,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "CONN vs FLA",
+      "result": "W",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "CONN vs TEX",
+      "result": "W",
+      "min": 7,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "CONN vs BUT",
+      "result": "W",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "CONN @ DEP",
+      "result": "W",
+      "min": 24,
+      "pts": 6,
+      "adjPts": 6.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "CONN @ PROV",
+      "result": "W",
+      "min": 1,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "CONN vs DEP",
+      "result": "W",
+      "min": 13,
+      "pts": 3,
+      "adjPts": 3.4,
+      "pointsPlus": 36
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "CONN @ HALL",
+      "result": "W",
+      "min": 4,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "CONN @ GTWN",
+      "result": "W",
+      "min": 8,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "CONN vs VILL",
+      "result": "W",
+      "min": 19,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "CONN vs PROV",
+      "result": "W",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "CONN @ CREI",
+      "result": "W",
+      "min": 13,
+      "pts": 6,
+      "adjPts": 5.9,
+      "pointsPlus": 61
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "CONN vs XAV",
+      "result": "W",
+      "min": 15,
+      "pts": 11,
+      "adjPts": 9.9,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "CONN @ SJU",
+      "result": "L",
+      "min": 8,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "CONN @ BUT",
+      "result": "W",
+      "min": 13,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 29
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "CONN vs GTWN",
+      "result": "W",
+      "min": 14,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "CONN vs CREI",
+      "result": "L",
+      "min": 27,
+      "pts": 6,
+      "adjPts": 5.9,
+      "pointsPlus": 61
+    }
+  ]
+}

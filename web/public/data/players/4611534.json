@@ -1,0 +1,209 @@
+{
+  "id": 4611534,
+  "name": "Jadon Jones",
+  "team": "OU",
+  "teamName": "Oklahoma Sooners",
+  "conference": "SEC",
+  "rank": 508,
+  "gp": 21,
+  "ppg": 6.0,
+  "adjPpg": 5.6,
+  "pointsPlus": 58,
+  "mpg": 19.3,
+  "position": "G",
+  "jersey": "12",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 34.6,
+  "volatilityPctile": 8,
+  "gameLog": [
+    {
+      "date": "2025-11-21",
+      "matchup": "OU vs ORU",
+      "result": "W",
+      "min": 13,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "OU vs ALCN",
+      "result": "W",
+      "min": 16,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "OU vs MARQ",
+      "result": "W",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "OU @ WAKE",
+      "result": "W",
+      "min": 22,
+      "pts": 11,
+      "adjPts": 10.2,
+      "pointsPlus": 106
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "OU vs ASU",
+      "result": "L",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "OU vs OKST",
+      "result": "W",
+      "min": 27,
+      "pts": 9,
+      "adjPts": 7.5,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "OU vs KC",
+      "result": "W",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "OU vs STET",
+      "result": "W",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "OU vs MVSU",
+      "result": "W",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "OU vs MISS",
+      "result": "W",
+      "min": 28,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "OU @ MSST",
+      "result": "L",
+      "min": 28,
+      "pts": 3,
+      "adjPts": 2.7,
+      "pointsPlus": 28
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "OU @ TA&M",
+      "result": "L",
+      "min": 20,
+      "pts": 3,
+      "adjPts": 2.5,
+      "pointsPlus": 27
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "OU vs FLA",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "OU vs ALA",
+      "result": "L",
+      "min": 31,
+      "pts": 7,
+      "adjPts": 5.3,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "OU @ SC",
+      "result": "L",
+      "min": 28,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "OU @ MIZ",
+      "result": "L",
+      "min": 22,
+      "pts": 10,
+      "adjPts": 9.7,
+      "pointsPlus": 101
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "OU vs ARK",
+      "result": "L",
+      "min": 9,
+      "pts": 3,
+      "adjPts": 2.6,
+      "pointsPlus": 27
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "OU vs TEX",
+      "result": "L",
+      "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "OU @ VAN",
+      "result": "W",
+      "min": 17,
+      "pts": 8,
+      "adjPts": 7.5,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "OU vs UGA",
+      "result": "W",
+      "min": 14,
+      "pts": 6,
+      "adjPts": 5.1,
+      "pointsPlus": 53
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "OU @ TENN",
+      "result": "L",
+      "min": 17,
+      "pts": 9,
+      "adjPts": 9.7,
+      "pointsPlus": 101
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": 5254161,
+  "name": "Kruz McClure",
+  "team": "DEP",
+  "teamName": "DePaul Blue Demons",
+  "conference": "Big East",
+  "rank": 523,
+  "gp": 22,
+  "ppg": 5.1,
+  "adjPpg": 5.2,
+  "pointsPlus": 55,
+  "mpg": 17.5,
+  "position": "G",
+  "jersey": "22",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 61.4,
+  "volatilityPctile": 73,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "DEP vs CHST",
+      "result": "W",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "DEP vs STO",
+      "result": "W",
+      "min": 4,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "DEP vs BUF",
+      "result": "L",
+      "min": 12,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "DEP vs NU",
+      "result": "L",
+      "min": 21,
+      "pts": 15,
+      "adjPts": 15.6,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "DEP vs GWEB",
+      "result": "W",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "DEP vs DETM",
+      "result": "W",
+      "min": 14,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "DEP vs GT",
+      "result": "W",
+      "min": 17,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 70
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "DEP vs LSU",
+      "result": "L",
+      "min": 30,
+      "pts": 22,
+      "adjPts": 20.7,
+      "pointsPlus": 216
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "DEP vs UAPB",
+      "result": "W",
+      "min": 30,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "DEP vs MORG",
+      "result": "W",
+      "min": 24,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "DEP @ WICH",
+      "result": "W",
+      "min": 26,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "DEP @ SJU",
+      "result": "L",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "DEP vs CONN",
+      "result": "L",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 11.6,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "DEP @ VILL",
+      "result": "L",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 45
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "DEP @ CONN",
+      "result": "L",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "DEP vs HALL",
+      "result": "W",
+      "min": 19,
+      "pts": 5,
+      "adjPts": 6.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "DEP @ GTWN",
+      "result": "L",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "DEP @ XAV",
+      "result": "L",
+      "min": 15,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "DEP vs SJU",
+      "result": "L",
+      "min": 16,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "DEP @ PROV",
+      "result": "L",
+      "min": 16,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "DEP vs CREI",
+      "result": "W",
+      "min": 18,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 30
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "DEP @ HALL",
+      "result": "W",
+      "min": 17,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    }
+  ]
+}

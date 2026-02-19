@@ -1,0 +1,182 @@
+{
+  "id": 4711270,
+  "name": "Sebastian Mack",
+  "team": "MIZ",
+  "teamName": "Missouri Tigers",
+  "conference": "SEC",
+  "rank": 419,
+  "gp": 18,
+  "ppg": 7.0,
+  "adjPpg": 7.2,
+  "pointsPlus": 75,
+  "mpg": 16.4,
+  "position": "G",
+  "jersey": "12",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 62.3,
+  "volatilityPctile": 75,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "MIZ @ HOW",
+      "result": "W",
+      "min": 19,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "MIZ vs SEMO",
+      "result": "W",
+      "min": 19,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "MIZ vs VMI",
+      "result": "W",
+      "min": 30,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "MIZ vs MINN",
+      "result": "W",
+      "min": 21,
+      "pts": 14,
+      "adjPts": 16.7,
+      "pointsPlus": 174
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "MIZ vs PV",
+      "result": "W",
+      "min": 25,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "MIZ vs SDAK",
+      "result": "W",
+      "min": 21,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "MIZ vs SCST",
+      "result": "W",
+      "min": 29,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "MIZ vs CLE",
+      "result": "W",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "MIZ @ ND",
+      "result": "L",
+      "min": 6,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "MIZ vs KU",
+      "result": "L",
+      "min": 11,
+      "pts": 3,
+      "adjPts": 3.4,
+      "pointsPlus": 35
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "MIZ vs ALST",
+      "result": "W",
+      "min": 16,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "MIZ vs BCU",
+      "result": "W",
+      "min": 18,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 10
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "MIZ vs ILL",
+      "result": "L",
+      "min": 25,
+      "pts": 17,
+      "adjPts": 18.3,
+      "pointsPlus": 191
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "MIZ vs FLA",
+      "result": "W",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "MIZ @ LSU",
+      "result": "L",
+      "min": 2,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "MIZ vs UGA",
+      "result": "L",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "MIZ vs OU",
+      "result": "W",
+      "min": 4,
+      "pts": 4,
+      "adjPts": 3.6,
+      "pointsPlus": 37
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "MIZ @ ALA",
+      "result": "L",
+      "min": 11,
+      "pts": 4,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "id": 5060705,
+  "name": "Zoom Diallo",
+  "team": "WASH",
+  "teamName": "Washington Huskies",
+  "conference": "Big Ten",
+  "rank": 84,
+  "gp": 26,
+  "ppg": 14.7,
+  "adjPpg": 15.3,
+  "pointsPlus": 159,
+  "mpg": 28.1,
+  "position": "G",
+  "jersey": "5",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 55.7,
+  "volatilityPctile": 59,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "WASH vs UAPB",
+      "result": "W",
+      "min": 22,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "WASH vs DEN",
+      "result": "W",
+      "min": 18,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "WASH @ BAY",
+      "result": "L",
+      "min": 24,
+      "pts": 15,
+      "adjPts": 13.7,
+      "pointsPlus": 143
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "WASH @ WSU",
+      "result": "W",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "WASH vs SOU",
+      "result": "W",
+      "min": 17,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "WASH vs NEV",
+      "result": "W",
+      "min": 35,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "WASH vs COLO",
+      "result": "L",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 3.6,
+      "pointsPlus": 37
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "WASH vs UCLA",
+      "result": "L",
+      "min": 34,
+      "pts": 19,
+      "adjPts": 20.3,
+      "pointsPlus": 211
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "WASH @ USC",
+      "result": "W",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 8.3,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "WASH vs SUU",
+      "result": "W",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "WASH @ SEA",
+      "result": "L",
+      "min": 34,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "WASH vs USD",
+      "result": "W",
+      "min": 26,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "WASH vs UTAH",
+      "result": "W",
+      "min": 34,
+      "pts": 24,
+      "adjPts": 22.1,
+      "pointsPlus": 231
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "WASH @ IU",
+      "result": "L",
+      "min": 34,
+      "pts": 16,
+      "adjPts": 16.6,
+      "pointsPlus": 173
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "WASH @ PUR",
+      "result": "L",
+      "min": 28,
+      "pts": 14,
+      "adjPts": 14.9,
+      "pointsPlus": 155
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "WASH vs OSU",
+      "result": "W",
+      "min": 30,
+      "pts": 22,
+      "adjPts": 21.7,
+      "pointsPlus": 226
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "WASH vs MICH",
+      "result": "L",
+      "min": 28,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "WASH vs MSU",
+      "result": "L",
+      "min": 30,
+      "pts": 18,
+      "adjPts": 20.9,
+      "pointsPlus": 218
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "WASH @ NEB",
+      "result": "L",
+      "min": 36,
+      "pts": 18,
+      "adjPts": 21.3,
+      "pointsPlus": 222
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "WASH vs ORE",
+      "result": "W",
+      "min": 27,
+      "pts": 12,
+      "adjPts": 12.4,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "WASH @ ILL",
+      "result": "L",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 12.9,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "WASH @ NU",
+      "result": "W",
+      "min": 33,
+      "pts": 22,
+      "adjPts": 22.9,
+      "pointsPlus": 239
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "WASH vs IOWA",
+      "result": "L",
+      "min": 39,
+      "pts": 16,
+      "adjPts": 19.8,
+      "pointsPlus": 206
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "WASH @ UCLA",
+      "result": "L",
+      "min": 24,
+      "pts": 7,
+      "adjPts": 7.5,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "WASH vs PSU",
+      "result": "L",
+      "min": 30,
+      "pts": 8,
+      "adjPts": 7.3,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "WASH vs MINN",
+      "result": "W",
+      "min": 30,
+      "pts": 17,
+      "adjPts": 20.2,
+      "pointsPlus": 211
+    }
+  ]
+}

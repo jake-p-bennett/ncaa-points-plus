@@ -1,0 +1,245 @@
+{
+  "id": 5108992,
+  "name": "Micah Handlogten",
+  "team": "FLA",
+  "teamName": "Florida Gators",
+  "conference": "SEC",
+  "rank": 581,
+  "gp": 25,
+  "ppg": 4.4,
+  "adjPpg": 4.3,
+  "pointsPlus": 44,
+  "mpg": 14.8,
+  "position": "C",
+  "jersey": "3",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 42.3,
+  "volatilityPctile": 21,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "FLA vs ARIZ",
+      "result": "L",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 11.5,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "FLA vs UNF",
+      "result": "W",
+      "min": 19,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "FLA vs FSU",
+      "result": "W",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "FLA vs MIA",
+      "result": "W",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "FLA vs TCU",
+      "result": "L",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "FLA vs PROV",
+      "result": "W",
+      "min": 24,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "FLA @ DUKE",
+      "result": "L",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "FLA vs CONN",
+      "result": "L",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 2.3,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "FLA vs GW",
+      "result": "W",
+      "min": 15,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "FLA vs SFPA",
+      "result": "W",
+      "min": 17,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "FLA vs COLG",
+      "result": "W",
+      "min": 19,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "FLA vs DART",
+      "result": "W",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "FLA @ MIZ",
+      "result": "L",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "FLA vs UGA",
+      "result": "W",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 5.1,
+      "pointsPlus": 53
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "FLA vs TENN",
+      "result": "W",
+      "min": 15,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "FLA @ OU",
+      "result": "W",
+      "min": 11,
+      "pts": 6,
+      "adjPts": 5.3,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "FLA @ VAN",
+      "result": "W",
+      "min": 5,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "FLA vs LSU",
+      "result": "W",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "FLA vs AUB",
+      "result": "L",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "FLA @ SC",
+      "result": "W",
+      "min": 16,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "FLA vs ALA",
+      "result": "W",
+      "min": 9,
+      "pts": 2,
+      "adjPts": 1.5,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "FLA @ TA&M",
+      "result": "W",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 5.1,
+      "pointsPlus": 53
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "FLA @ UGA",
+      "result": "W",
+      "min": 14,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "FLA vs UK",
+      "result": "W",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "FLA vs SC",
+      "result": "W",
+      "min": 15,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 51
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": 5041949,
+  "name": "Jamier Jones",
+  "team": "PROV",
+  "teamName": "Providence Friars",
+  "conference": "Big East",
+  "rank": 177,
+  "gp": 24,
+  "ppg": 12.1,
+  "adjPpg": 12.4,
+  "pointsPlus": 130,
+  "mpg": 24.1,
+  "position": "F",
+  "jersey": "5",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 62.5,
+  "volatilityPctile": 76,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "PROV vs HC",
+      "result": "W",
+      "min": 20,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "PROV vs VT",
+      "result": "L",
+      "min": 13,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "PROV vs PENN",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "PROV @ COLO",
+      "result": "L",
+      "min": 15,
+      "pts": 5,
+      "adjPts": 4.5,
+      "pointsPlus": 47
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "PROV vs UNH",
+      "result": "W",
+      "min": 24,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "PROV vs PSU",
+      "result": "W",
+      "min": 14,
+      "pts": 8,
+      "adjPts": 7.3,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "PROV vs WIS",
+      "result": "L",
+      "min": 22,
+      "pts": 10,
+      "adjPts": 9.3,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "PROV vs FLA",
+      "result": "L",
+      "min": 13,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "PROV vs FDU",
+      "result": "W",
+      "min": 12,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "PROV vs URI",
+      "result": "W",
+      "min": 23,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "PROV vs BRWN",
+      "result": "W",
+      "min": 19,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "PROV @ BUT",
+      "result": "L",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 10.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2025-12-19",
+      "matchup": "PROV vs HALL",
+      "result": "L",
+      "min": 28,
+      "pts": 11,
+      "adjPts": 13.9,
+      "pointsPlus": 145
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "PROV @ SJU",
+      "result": "W",
+      "min": 25,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "PROV vs CONN",
+      "result": "L",
+      "min": 29,
+      "pts": 18,
+      "adjPts": 21.0,
+      "pointsPlus": 218
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "PROV vs VILL",
+      "result": "L",
+      "min": 31,
+      "pts": 23,
+      "adjPts": 24.9,
+      "pointsPlus": 259
+    },
+    {
+      "date": "2026-01-16",
+      "matchup": "PROV vs CREI",
+      "result": "W",
+      "min": 34,
+      "pts": 18,
+      "adjPts": 17.6,
+      "pointsPlus": 183
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "PROV @ MARQ",
+      "result": "L",
+      "min": 37,
+      "pts": 17,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "PROV vs GTWN",
+      "result": "L",
+      "min": 22,
+      "pts": 14,
+      "adjPts": 14.2,
+      "pointsPlus": 147
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "PROV @ CONN",
+      "result": "L",
+      "min": 33,
+      "pts": 20,
+      "adjPts": 23.3,
+      "pointsPlus": 243
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "PROV @ VILL",
+      "result": "L",
+      "min": 28,
+      "pts": 7,
+      "adjPts": 7.6,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "PROV vs BUT",
+      "result": "W",
+      "min": 30,
+      "pts": 10,
+      "adjPts": 9.2,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "PROV vs DEP",
+      "result": "W",
+      "min": 28,
+      "pts": 6,
+      "adjPts": 6.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "PROV vs SJU",
+      "result": "L",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    }
+  ]
+}

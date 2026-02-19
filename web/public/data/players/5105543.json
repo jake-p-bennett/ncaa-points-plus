@@ -1,0 +1,254 @@
+{
+  "id": 5105543,
+  "name": "Aidan Shaw",
+  "team": "BC",
+  "teamName": "Boston College Eagles",
+  "conference": "ACC",
+  "rank": 589,
+  "gp": 26,
+  "ppg": 4.2,
+  "adjPpg": 4.1,
+  "pointsPlus": 43,
+  "mpg": 25.8,
+  "position": "G",
+  "jersey": "23",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 26.9,
+  "volatilityPctile": 3,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "BC @ FAU",
+      "result": "L",
+      "min": 32,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "BC vs CIT",
+      "result": "W",
+      "min": 22,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "BC vs CCSU",
+      "result": "L",
+      "min": 36,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "BC @ TEM",
+      "result": "W",
+      "min": 28,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "BC vs HAMP",
+      "result": "W",
+      "min": 25,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "BC vs DAV",
+      "result": "L",
+      "min": 34,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "BC vs TULN",
+      "result": "L",
+      "min": 36,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "BC vs HARV",
+      "result": "W",
+      "min": 28,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "BC vs LSU",
+      "result": "L",
+      "min": 25,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "BC vs NHVN",
+      "result": "W",
+      "min": 22,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 10
+    },
+    {
+      "date": "2025-12-11",
+      "matchup": "BC vs MASS",
+      "result": "L",
+      "min": 17,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "BC vs FDU",
+      "result": "W",
+      "min": 30,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 10
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "BC vs LEM",
+      "result": "W",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "BC @ GT",
+      "result": "L",
+      "min": 27,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 30
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "BC vs NCSU",
+      "result": "L",
+      "min": 26,
+      "pts": 5,
+      "adjPts": 4.8,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "BC @ LOU",
+      "result": "L",
+      "min": 30,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 10
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "BC @ CLEM",
+      "result": "L",
+      "min": 24,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "BC vs SYR",
+      "result": "W",
+      "min": 29,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "BC vs PITT",
+      "result": "W",
+      "min": 29,
+      "pts": 2,
+      "adjPts": 2.2,
+      "pointsPlus": 23
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "BC @ ND",
+      "result": "L",
+      "min": 21,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "BC vs UVA",
+      "result": "L",
+      "min": 22,
+      "pts": 1,
+      "adjPts": 1.1,
+      "pointsPlus": 12
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "BC @ DUKE",
+      "result": "L",
+      "min": 20,
+      "pts": 2,
+      "adjPts": 2.4,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "BC vs MIA",
+      "result": "L",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "BC vs STAN",
+      "result": "L",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "BC vs CAL",
+      "result": "L",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "BC @ FSU",
+      "result": "L",
+      "min": 32,
+      "pts": 10,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    }
+  ]
+}

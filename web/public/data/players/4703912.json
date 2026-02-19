@@ -1,0 +1,254 @@
+{
+  "id": 4703912,
+  "name": "Nate Heise",
+  "team": "ISU",
+  "teamName": "Iowa State Cyclones",
+  "conference": "Big 12",
+  "rank": 515,
+  "gp": 26,
+  "ppg": 5.3,
+  "adjPpg": 5.4,
+  "pointsPlus": 57,
+  "mpg": 24.9,
+  "position": "G",
+  "jersey": "0",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 39.4,
+  "volatilityPctile": 16,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "ISU vs FDU",
+      "result": "W",
+      "min": 24,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "ISU vs GRAM",
+      "result": "W",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "ISU vs MSST",
+      "result": "W",
+      "min": 27,
+      "pts": 8,
+      "adjPts": 7.3,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "ISU vs STO",
+      "result": "W",
+      "min": 20,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "ISU vs SJU",
+      "result": "W",
+      "min": 25,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "ISU vs CREI",
+      "result": "W",
+      "min": 39,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "ISU vs SYR",
+      "result": "W",
+      "min": 30,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "ISU vs ALCN",
+      "result": "W",
+      "min": 22,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "ISU @ PUR",
+      "result": "W",
+      "min": 29,
+      "pts": 7,
+      "adjPts": 7.4,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "ISU vs IOWA",
+      "result": "W",
+      "min": 24,
+      "pts": 3,
+      "adjPts": 3.7,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "ISU vs EIU",
+      "result": "W",
+      "min": 19,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "ISU vs LBSU",
+      "result": "W",
+      "min": 17,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "ISU vs HCU",
+      "result": "W",
+      "min": 20,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "ISU vs WVU",
+      "result": "W",
+      "min": 22,
+      "pts": 4,
+      "adjPts": 5.3,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "ISU @ BAY",
+      "result": "W",
+      "min": 32,
+      "pts": 6,
+      "adjPts": 5.5,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "ISU vs OKST",
+      "result": "W",
+      "min": 28,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "ISU @ KU",
+      "result": "L",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 11.3,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "ISU @ CIN",
+      "result": "L",
+      "min": 25,
+      "pts": 4,
+      "adjPts": 4.8,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "ISU vs UCF",
+      "result": "W",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "ISU @ OKST",
+      "result": "W",
+      "min": 24,
+      "pts": 1,
+      "adjPts": 0.8,
+      "pointsPlus": 9
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "ISU vs COLO",
+      "result": "W",
+      "min": 27,
+      "pts": 8,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "ISU @ KSU",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 9.5,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "ISU vs BAY",
+      "result": "W",
+      "min": 26,
+      "pts": 8,
+      "adjPts": 7.3,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ISU @ TCU",
+      "result": "L",
+      "min": 25,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "ISU vs KU",
+      "result": "W",
+      "min": 26,
+      "pts": 3,
+      "adjPts": 3.4,
+      "pointsPlus": 35
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "ISU vs HOU",
+      "result": "W",
+      "min": 26,
+      "pts": 11,
+      "adjPts": 14.3,
+      "pointsPlus": 149
+    }
+  ]
+}

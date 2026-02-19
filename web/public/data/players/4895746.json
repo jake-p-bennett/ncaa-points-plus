@@ -1,0 +1,263 @@
+{
+  "id": 4895746,
+  "name": "Jayden Reid",
+  "team": "NU",
+  "teamName": "Northwestern Wildcats",
+  "conference": "Big Ten",
+  "rank": 256,
+  "gp": 27,
+  "ppg": 10.1,
+  "adjPpg": 10.6,
+  "pointsPlus": 111,
+  "mpg": 24.7,
+  "position": "G",
+  "jersey": "4",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 78.6,
+  "volatilityPctile": 96,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "NU vs MERC",
+      "result": "W",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "NU vs BU",
+      "result": "W",
+      "min": 28,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "NU vs CLE",
+      "result": "W",
+      "min": 21,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "NU @ DEP",
+      "result": "W",
+      "min": 22,
+      "pts": 17,
+      "adjPts": 19.3,
+      "pointsPlus": 201
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "NU vs UVA",
+      "result": "L",
+      "min": 27,
+      "pts": 25,
+      "adjPts": 27.8,
+      "pointsPlus": 290
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "NU vs SC",
+      "result": "W",
+      "min": 31,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "NU vs OKST",
+      "result": "L",
+      "min": 29,
+      "pts": 9,
+      "adjPts": 7.5,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "NU @ WIS",
+      "result": "L",
+      "min": 20,
+      "pts": 7,
+      "adjPts": 6.5,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "NU vs OSU",
+      "result": "L",
+      "min": 31,
+      "pts": 9,
+      "adjPts": 8.9,
+      "pointsPlus": 93
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "NU vs JKST",
+      "result": "W",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "NU vs VAL",
+      "result": "W",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "NU vs BUT",
+      "result": "L",
+      "min": 32,
+      "pts": 14,
+      "adjPts": 12.9,
+      "pointsPlus": 134
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "NU vs HOW",
+      "result": "W",
+      "min": 19,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 10
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "NU vs MINN",
+      "result": "L",
+      "min": 32,
+      "pts": 19,
+      "adjPts": 22.6,
+      "pointsPlus": 235
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "NU @ MSU",
+      "result": "L",
+      "min": 29,
+      "pts": 8,
+      "adjPts": 9.3,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "NU @ RUTG",
+      "result": "L",
+      "min": 31,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "NU vs ILL",
+      "result": "L",
+      "min": 32,
+      "pts": 28,
+      "adjPts": 30.1,
+      "pointsPlus": 314
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "NU vs NEB",
+      "result": "L",
+      "min": 26,
+      "pts": 7,
+      "adjPts": 8.3,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "NU @ USC",
+      "result": "W",
+      "min": 17,
+      "pts": 7,
+      "adjPts": 6.5,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "NU @ UCLA",
+      "result": "L",
+      "min": 6,
+      "pts": 1,
+      "adjPts": 1.1,
+      "pointsPlus": 11
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "NU vs PSU",
+      "result": "W",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "NU vs WASH",
+      "result": "L",
+      "min": 24,
+      "pts": 11,
+      "adjPts": 11.4,
+      "pointsPlus": 119
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "NU @ ILL",
+      "result": "L",
+      "min": 23,
+      "pts": 7,
+      "adjPts": 7.5,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "NU @ IOWA",
+      "result": "L",
+      "min": 32,
+      "pts": 7,
+      "adjPts": 8.7,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "NU vs MICH",
+      "result": "L",
+      "min": 28,
+      "pts": 20,
+      "adjPts": 20.4,
+      "pointsPlus": 213
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "NU @ NEB",
+      "result": "L",
+      "min": 22,
+      "pts": 7,
+      "adjPts": 8.3,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "NU vs MD",
+      "result": "W",
+      "min": 22,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 20
+    }
+  ]
+}

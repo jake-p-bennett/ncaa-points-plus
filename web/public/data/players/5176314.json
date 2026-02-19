@@ -1,0 +1,254 @@
+{
+  "id": 5176314,
+  "name": "Kevin Overton",
+  "team": "AUB",
+  "teamName": "Auburn Tigers",
+  "conference": "SEC",
+  "rank": 200,
+  "gp": 26,
+  "ppg": 12.3,
+  "adjPpg": 11.9,
+  "pointsPlus": 124,
+  "mpg": 30.1,
+  "position": "G",
+  "jersey": "1",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 70.0,
+  "volatilityPctile": 88,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "AUB vs BCU",
+      "result": "W",
+      "min": 35,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "AUB vs MRMK",
+      "result": "W",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "AUB vs WOF",
+      "result": "W",
+      "min": 24,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "AUB vs HOU",
+      "result": "L",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 16.9,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "AUB vs JKST",
+      "result": "W",
+      "min": 22,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "AUB vs ORE",
+      "result": "W",
+      "min": 30,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "AUB vs MICH",
+      "result": "L",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "AUB vs SJU",
+      "result": "W",
+      "min": 38,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "AUB vs NCSU",
+      "result": "W",
+      "min": 38,
+      "pts": 29,
+      "adjPts": 27.8,
+      "pointsPlus": 289
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "AUB @ ARIZ",
+      "result": "L",
+      "min": 27,
+      "pts": 8,
+      "adjPts": 8.4,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "AUB vs UTC",
+      "result": "W",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "AUB vs PUR",
+      "result": "L",
+      "min": 36,
+      "pts": 22,
+      "adjPts": 23.3,
+      "pointsPlus": 243
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "AUB vs QUC",
+      "result": "W",
+      "min": 30,
+      "pts": 23,
+      "adjPts": 23.0,
+      "pointsPlus": 240
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "AUB @ UGA",
+      "result": "L",
+      "min": 39,
+      "pts": 19,
+      "adjPts": 16.1,
+      "pointsPlus": 168
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "AUB vs TA&M",
+      "result": "L",
+      "min": 35,
+      "pts": 16,
+      "adjPts": 13.6,
+      "pointsPlus": 142
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "AUB vs ARK",
+      "result": "W",
+      "min": 29,
+      "pts": 10,
+      "adjPts": 8.6,
+      "pointsPlus": 89
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "AUB @ MIZ",
+      "result": "L",
+      "min": 32,
+      "pts": 13,
+      "adjPts": 12.6,
+      "pointsPlus": 132
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "AUB vs SC",
+      "result": "W",
+      "min": 38,
+      "pts": 9,
+      "adjPts": 8.7,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "AUB @ MISS",
+      "result": "W",
+      "min": 24,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "AUB @ FLA",
+      "result": "W",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "AUB vs TEX",
+      "result": "W",
+      "min": 33,
+      "pts": 25,
+      "adjPts": 23.4,
+      "pointsPlus": 244
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "AUB @ TENN",
+      "result": "L",
+      "min": 30,
+      "pts": 7,
+      "adjPts": 7.5,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "AUB vs ALA",
+      "result": "L",
+      "min": 38,
+      "pts": 17,
+      "adjPts": 12.8,
+      "pointsPlus": 134
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "AUB vs VAN",
+      "result": "L",
+      "min": 30,
+      "pts": 10,
+      "adjPts": 9.4,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "AUB @ ARK",
+      "result": "L",
+      "min": 39,
+      "pts": 5,
+      "adjPts": 4.3,
+      "pointsPlus": 45
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "AUB @ MSST",
+      "result": "L",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 13.7,
+      "pointsPlus": 142
+    }
+  ]
+}

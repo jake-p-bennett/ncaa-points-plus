@@ -1,0 +1,254 @@
+{
+  "id": 5061585,
+  "name": "Isaiah Evans",
+  "team": "DUKE",
+  "teamName": "Duke Blue Devils",
+  "conference": "ACC",
+  "rank": 92,
+  "gp": 26,
+  "ppg": 14.7,
+  "adjPpg": 14.8,
+  "pointsPlus": 154,
+  "mpg": 27.8,
+  "position": "G",
+  "jersey": "3",
+  "classYear": "Sophomore",
+  "pointsPlusStdDev": 58.5,
+  "volatilityPctile": 66,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "DUKE vs TEX",
+      "result": "W",
+      "min": 33,
+      "pts": 23,
+      "adjPts": 21.5,
+      "pointsPlus": 224
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "DUKE vs WCU",
+      "result": "W",
+      "min": 22,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "DUKE @ ARMY",
+      "result": "W",
+      "min": 20,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "DUKE vs INST",
+      "result": "W",
+      "min": 19,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "DUKE vs KU",
+      "result": "W",
+      "min": 30,
+      "pts": 16,
+      "adjPts": 18.1,
+      "pointsPlus": 189
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "DUKE vs NIA",
+      "result": "W",
+      "min": 21,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "DUKE vs HOW",
+      "result": "W",
+      "min": 24,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "DUKE vs ARK",
+      "result": "W",
+      "min": 32,
+      "pts": 9,
+      "adjPts": 7.7,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "DUKE vs FLA",
+      "result": "W",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "DUKE @ MSU",
+      "result": "W",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 10.5,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2025-12-16",
+      "matchup": "DUKE vs LIP",
+      "result": "W",
+      "min": 27,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "DUKE vs TTU",
+      "result": "L",
+      "min": 30,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "DUKE vs GT",
+      "result": "W",
+      "min": 28,
+      "pts": 17,
+      "adjPts": 16.4,
+      "pointsPlus": 170
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "DUKE @ FSU",
+      "result": "W",
+      "min": 33,
+      "pts": 28,
+      "adjPts": 25.3,
+      "pointsPlus": 264
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "DUKE @ LOU",
+      "result": "W",
+      "min": 36,
+      "pts": 23,
+      "adjPts": 22.6,
+      "pointsPlus": 235
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "DUKE vs SMU",
+      "result": "W",
+      "min": 30,
+      "pts": 21,
+      "adjPts": 18.4,
+      "pointsPlus": 191
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "DUKE @ CAL",
+      "result": "W",
+      "min": 30,
+      "pts": 17,
+      "adjPts": 17.2,
+      "pointsPlus": 179
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "DUKE @ STAN",
+      "result": "W",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 15.7,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "DUKE vs WAKE",
+      "result": "W",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 10.2,
+      "pointsPlus": 106
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "DUKE vs LOU",
+      "result": "W",
+      "min": 26,
+      "pts": 15,
+      "adjPts": 14.7,
+      "pointsPlus": 154
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "DUKE @ VT",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 10.8,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "DUKE vs BC",
+      "result": "W",
+      "min": 31,
+      "pts": 12,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "DUKE @ UNC",
+      "result": "L",
+      "min": 34,
+      "pts": 11,
+      "adjPts": 11.5,
+      "pointsPlus": 119
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "DUKE @ PITT",
+      "result": "W",
+      "min": 25,
+      "pts": 21,
+      "adjPts": 23.1,
+      "pointsPlus": 241
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "DUKE vs CLEM",
+      "result": "W",
+      "min": 31,
+      "pts": 17,
+      "adjPts": 20.7,
+      "pointsPlus": 216
+    },
+    {
+      "date": "2026-02-17",
+      "matchup": "DUKE vs SYR",
+      "result": "W",
+      "min": 26,
+      "pts": 21,
+      "adjPts": 21.5,
+      "pointsPlus": 224
+    }
+  ]
+}

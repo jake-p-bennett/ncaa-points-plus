@@ -1,0 +1,254 @@
+{
+  "id": 5142718,
+  "name": "AJ Dybantsa",
+  "team": "BYU",
+  "teamName": "BYU Cougars",
+  "conference": "Big 12",
+  "rank": 1,
+  "gp": 26,
+  "ppg": 24.8,
+  "adjPpg": 24.9,
+  "pointsPlus": 260,
+  "mpg": 33.5,
+  "position": "F",
+  "jersey": "3",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 77.9,
+  "volatilityPctile": 95,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "BYU vs VILL",
+      "result": "W",
+      "min": 32,
+      "pts": 21,
+      "adjPts": 22.7,
+      "pointsPlus": 237
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "BYU vs HC",
+      "result": "W",
+      "min": 24,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "BYU vs DEL",
+      "result": "W",
+      "min": 30,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "BYU vs CONN",
+      "result": "L",
+      "min": 34,
+      "pts": 25,
+      "adjPts": 29.1,
+      "pointsPlus": 303
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "BYU vs WIS",
+      "result": "W",
+      "min": 29,
+      "pts": 18,
+      "adjPts": 16.7,
+      "pointsPlus": 174
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "BYU vs MIA",
+      "result": "W",
+      "min": 32,
+      "pts": 16,
+      "adjPts": 16.8,
+      "pointsPlus": 175
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "BYU vs DAY",
+      "result": "W",
+      "min": 34,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "BYU vs CBU",
+      "result": "W",
+      "min": 28,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 229
+    },
+    {
+      "date": "2025-12-09",
+      "matchup": "BYU vs CLEM",
+      "result": "W",
+      "min": 34,
+      "pts": 28,
+      "adjPts": 34.1,
+      "pointsPlus": 356
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "BYU vs UCR",
+      "result": "W",
+      "min": 30,
+      "pts": 26,
+      "adjPts": 26.0,
+      "pointsPlus": 271
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "BYU vs PAC",
+      "result": "W",
+      "min": 29,
+      "pts": 23,
+      "adjPts": 23.0,
+      "pointsPlus": 240
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "BYU vs ACU",
+      "result": "W",
+      "min": 36,
+      "pts": 35,
+      "adjPts": 35.0,
+      "pointsPlus": 365
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "BYU vs EWU",
+      "result": "W",
+      "min": 36,
+      "pts": 33,
+      "adjPts": 33.0,
+      "pointsPlus": 344
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "BYU @ KSU",
+      "result": "W",
+      "min": 33,
+      "pts": 24,
+      "adjPts": 20.8,
+      "pointsPlus": 216
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "BYU vs ASU",
+      "result": "W",
+      "min": 30,
+      "pts": 23,
+      "adjPts": 20.8,
+      "pointsPlus": 217
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "BYU @ UTAH",
+      "result": "W",
+      "min": 37,
+      "pts": 20,
+      "adjPts": 18.5,
+      "pointsPlus": 192
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "BYU vs TCU",
+      "result": "W",
+      "min": 33,
+      "pts": 25,
+      "adjPts": 25.6,
+      "pointsPlus": 267
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "BYU @ TTU",
+      "result": "L",
+      "min": 32,
+      "pts": 13,
+      "adjPts": 13.1,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "BYU vs UTAH",
+      "result": "W",
+      "min": 36,
+      "pts": 43,
+      "adjPts": 39.7,
+      "pointsPlus": 413
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "BYU vs ARIZ",
+      "result": "L",
+      "min": 35,
+      "pts": 24,
+      "adjPts": 25.1,
+      "pointsPlus": 261
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "BYU @ KU",
+      "result": "L",
+      "min": 34,
+      "pts": 17,
+      "adjPts": 19.3,
+      "pointsPlus": 201
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "BYU @ OKST",
+      "result": "L",
+      "min": 36,
+      "pts": 36,
+      "adjPts": 30.0,
+      "pointsPlus": 312
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "BYU vs HOU",
+      "result": "L",
+      "min": 35,
+      "pts": 28,
+      "adjPts": 36.5,
+      "pointsPlus": 380
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BYU @ BAY",
+      "result": "W",
+      "min": 40,
+      "pts": 36,
+      "adjPts": 32.9,
+      "pointsPlus": 343
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "BYU vs COLO",
+      "result": "W",
+      "min": 43,
+      "pts": 20,
+      "adjPts": 18.0,
+      "pointsPlus": 187
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "BYU @ ARIZ",
+      "result": "L",
+      "min": 39,
+      "pts": 35,
+      "adjPts": 36.6,
+      "pointsPlus": 381
+    }
+  ]
+}

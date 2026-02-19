@@ -1,0 +1,209 @@
+{
+  "id": 5107274,
+  "name": "Jacari White",
+  "team": "UVA",
+  "teamName": "Virginia Cavaliers",
+  "conference": "ACC",
+  "rank": 371,
+  "gp": 21,
+  "ppg": 8.2,
+  "adjPpg": 8.1,
+  "pointsPlus": 84,
+  "mpg": 16.8,
+  "position": "G",
+  "jersey": "6",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 62.9,
+  "volatilityPctile": 77,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "UVA vs RID",
+      "result": "W",
+      "min": 19,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "UVA vs NCCU",
+      "result": "W",
+      "min": 17,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "UVA vs HAMP",
+      "result": "W",
+      "min": 14,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "UVA vs MRSH",
+      "result": "W",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "UVA vs NU",
+      "result": "W",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "UVA vs BUT",
+      "result": "L",
+      "min": 19,
+      "pts": 14,
+      "adjPts": 12.9,
+      "pointsPlus": 134
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "UVA vs QUC",
+      "result": "W",
+      "min": 18,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "UVA @ TEX",
+      "result": "W",
+      "min": 14,
+      "pts": 10,
+      "adjPts": 9.4,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "UVA vs DAY",
+      "result": "W",
+      "min": 24,
+      "pts": 25,
+      "adjPts": 25.0,
+      "pointsPlus": 260
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "UVA vs UMES",
+      "result": "W",
+      "min": 22,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "UVA vs MD",
+      "result": "W",
+      "min": 22,
+      "pts": 15,
+      "adjPts": 14.4,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "UVA @ LOU",
+      "result": "W",
+      "min": 12,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "UVA @ SMU",
+      "result": "W",
+      "min": 8,
+      "pts": 3,
+      "adjPts": 2.6,
+      "pointsPlus": 27
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "UVA vs UNC",
+      "result": "L",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "UVA @ ND",
+      "result": "W",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "UVA @ BC",
+      "result": "W",
+      "min": 17,
+      "pts": 8,
+      "adjPts": 9.4,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "UVA vs PITT",
+      "result": "W",
+      "min": 20,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "UVA vs SYR",
+      "result": "W",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "UVA @ FSU",
+      "result": "W",
+      "min": 21,
+      "pts": 19,
+      "adjPts": 17.2,
+      "pointsPlus": 179
+    },
+    {
+      "date": "2026-02-15",
+      "matchup": "UVA vs OSU",
+      "result": "W",
+      "min": 15,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "UVA @ GT",
+      "result": "W",
+      "min": 18,
+      "pts": 5,
+      "adjPts": 4.8,
+      "pointsPlus": 50
+    }
+  ]
+}

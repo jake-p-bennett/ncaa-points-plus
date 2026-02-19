@@ -1,0 +1,254 @@
+{
+  "id": 4712862,
+  "name": "Malik Dia",
+  "team": "MISS",
+  "teamName": "Ole Miss Rebels",
+  "conference": "SEC",
+  "rank": 158,
+  "gp": 26,
+  "ppg": 13.5,
+  "adjPpg": 12.9,
+  "pointsPlus": 135,
+  "mpg": 23.5,
+  "position": "F",
+  "jersey": "0",
+  "classYear": "Senior",
+  "pointsPlusStdDev": 76.0,
+  "volatilityPctile": 93,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "MISS vs SELA",
+      "result": "W",
+      "min": 25,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "MISS vs ULM",
+      "result": "W",
+      "min": 19,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "MISS vs MEM",
+      "result": "W",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "MISS vs CSUB",
+      "result": "W",
+      "min": 23,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "MISS vs APSU",
+      "result": "W",
+      "min": 29,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "MISS vs IOWA",
+      "result": "L",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.5,
+      "pointsPlus": 26
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "MISS vs UTAH",
+      "result": "L",
+      "min": 26,
+      "pts": 17,
+      "adjPts": 15.7,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "MISS vs MIA",
+      "result": "L",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 9.4,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "MISS @ SJU",
+      "result": "L",
+      "min": 27,
+      "pts": 18,
+      "adjPts": 17.9,
+      "pointsPlus": 187
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "MISS vs USM",
+      "result": "W",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "MISS vs AAMU",
+      "result": "W",
+      "min": 32,
+      "pts": 27,
+      "adjPts": 27.0,
+      "pointsPlus": 281
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "MISS vs NCSU",
+      "result": "L",
+      "min": 29,
+      "pts": 20,
+      "adjPts": 19.1,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "MISS vs ALCN",
+      "result": "W",
+      "min": 23,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "MISS @ OU",
+      "result": "L",
+      "min": 29,
+      "pts": 17,
+      "adjPts": 15.1,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "MISS vs ARK",
+      "result": "L",
+      "min": 27,
+      "pts": 16,
+      "adjPts": 13.7,
+      "pointsPlus": 143
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "MISS vs MIZ",
+      "result": "W",
+      "min": 34,
+      "pts": 21,
+      "adjPts": 20.4,
+      "pointsPlus": 213
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "MISS @ UGA",
+      "result": "W",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 5.1,
+      "pointsPlus": 53
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "MISS @ MSST",
+      "result": "W",
+      "min": 27,
+      "pts": 8,
+      "adjPts": 7.3,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "MISS vs AUB",
+      "result": "L",
+      "min": 14,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "MISS @ UK",
+      "result": "L",
+      "min": 21,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "MISS @ VAN",
+      "result": "L",
+      "min": 24,
+      "pts": 16,
+      "adjPts": 15.0,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "MISS @ TENN",
+      "result": "L",
+      "min": 19,
+      "pts": 7,
+      "adjPts": 7.5,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "MISS @ TEX",
+      "result": "L",
+      "min": 15,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "MISS vs ALA",
+      "result": "L",
+      "min": 8,
+      "pts": 2,
+      "adjPts": 1.5,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "MISS vs MSST",
+      "result": "L",
+      "min": 30,
+      "pts": 32,
+      "adjPts": 29.1,
+      "pointsPlus": 304
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "MISS @ TA&M",
+      "result": "L",
+      "min": 25,
+      "pts": 20,
+      "adjPts": 17.0,
+      "pointsPlus": 177
+    }
+  ]
+}

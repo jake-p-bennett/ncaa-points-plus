@@ -1,0 +1,236 @@
+{
+  "id": 5152729,
+  "name": "Jalin Holland",
+  "team": "COLO",
+  "teamName": "Colorado Buffaloes",
+  "conference": "Big 12",
+  "rank": 574,
+  "gp": 24,
+  "ppg": 4.5,
+  "adjPpg": 4.3,
+  "pointsPlus": 45,
+  "mpg": 15.8,
+  "position": "G",
+  "jersey": "11",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 31.7,
+  "volatilityPctile": 5,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "COLO vs MTST",
+      "result": "W",
+      "min": 15,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "COLO vs EWU",
+      "result": "W",
+      "min": 16,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "COLO vs PROV",
+      "result": "W",
+      "min": 14,
+      "pts": 6,
+      "adjPts": 4.6,
+      "pointsPlus": 47
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "COLO vs ALST",
+      "result": "W",
+      "min": 16,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "COLO vs UCD",
+      "result": "W",
+      "min": 9,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-27",
+      "matchup": "COLO vs SF",
+      "result": "W",
+      "min": 12,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "COLO vs WASH",
+      "result": "W",
+      "min": 14,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "COLO vs CBU",
+      "result": "W",
+      "min": 14,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "COLO @ CSU",
+      "result": "L",
+      "min": 15,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "COLO vs UTSA",
+      "result": "W",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "COLO vs PRST",
+      "result": "W",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "COLO vs STAN",
+      "result": "L",
+      "min": 17,
+      "pts": 7,
+      "adjPts": 7.3,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "COLO vs UNCO",
+      "result": "L",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "COLO @ ASU",
+      "result": "W",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 6.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "COLO vs UTAH",
+      "result": "W",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "COLO @ WVU",
+      "result": "L",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "COLO vs KU",
+      "result": "L",
+      "min": 5,
+      "pts": 2,
+      "adjPts": 2.3,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "COLO vs UCF",
+      "result": "L",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 8.2,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "COLO @ ISU",
+      "result": "L",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "COLO vs TCU",
+      "result": "W",
+      "min": 23,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 53
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "COLO @ BAY",
+      "result": "L",
+      "min": 20,
+      "pts": 12,
+      "adjPts": 11.0,
+      "pointsPlus": 114
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "COLO vs ASU",
+      "result": "W",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 7.2,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "COLO @ TTU",
+      "result": "L",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "COLO @ BYU",
+      "result": "L",
+      "min": 33,
+      "pts": 9,
+      "adjPts": 8.4,
+      "pointsPlus": 88
+    }
+  ]
+}

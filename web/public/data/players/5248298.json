@@ -1,0 +1,146 @@
+{
+  "id": 5248298,
+  "name": "Eric Chatfield Jr.",
+  "team": "GT",
+  "teamName": "Georgia Tech Yellow Jackets",
+  "conference": "ACC",
+  "rank": 641,
+  "gp": 14,
+  "ppg": 2.6,
+  "adjPpg": 2.6,
+  "pointsPlus": 27,
+  "mpg": 13.0,
+  "position": "G",
+  "jersey": "2",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 26.3,
+  "volatilityPctile": 3,
+  "gameLog": [
+    {
+      "date": "2025-11-04",
+      "matchup": "GT vs UMES",
+      "result": "W",
+      "min": 12,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "GT vs BRY",
+      "result": "W",
+      "min": 12,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "GT vs SELA",
+      "result": "W",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "GT vs WGA",
+      "result": "W",
+      "min": 4,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "GT vs DRKE",
+      "result": "L",
+      "min": 23,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "GT vs DEP",
+      "result": "L",
+      "min": 4,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "GT vs MSST",
+      "result": "L",
+      "min": 18,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "GT vs MONM",
+      "result": "W",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "GT vs MRST",
+      "result": "W",
+      "min": 4,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "GT vs FAMU",
+      "result": "W",
+      "min": 8,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "GT @ STAN",
+      "result": "L",
+      "min": 17,
+      "pts": 8,
+      "adjPts": 8.3,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "GT vs WAKE",
+      "result": "L",
+      "min": 10,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 29
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "GT @ ND",
+      "result": "L",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "GT vs UVA",
+      "result": "L",
+      "min": 23,
+      "pts": 4,
+      "adjPts": 4.5,
+      "pointsPlus": 46
+    }
+  ]
+}

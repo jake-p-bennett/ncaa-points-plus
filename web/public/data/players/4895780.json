@@ -1,0 +1,209 @@
+{
+  "id": 4895780,
+  "name": "Mouhamed Dioubate",
+  "team": "UK",
+  "teamName": "Kentucky Wildcats",
+  "conference": "SEC",
+  "rank": 376,
+  "gp": 21,
+  "ppg": 8.0,
+  "adjPpg": 8.0,
+  "pointsPlus": 83,
+  "mpg": 21.0,
+  "position": "F",
+  "jersey": "23",
+  "classYear": "Junior",
+  "pointsPlusStdDev": 55.8,
+  "volatilityPctile": 59,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "UK vs NICH",
+      "result": "W",
+      "min": 21,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "UK vs VAL",
+      "result": "W",
+      "min": 20,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "UK @ LOU",
+      "result": "L",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 6.9,
+      "pointsPlus": 72
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "UK vs EIU",
+      "result": "W",
+      "min": 22,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "UK vs MSU",
+      "result": "L",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 11.6,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "UK vs IU",
+      "result": "W",
+      "min": 22,
+      "pts": 14,
+      "adjPts": 14.5,
+      "pointsPlus": 151
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "UK vs SJU",
+      "result": "W",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 62
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "UK vs BELL",
+      "result": "W",
+      "min": 32,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "UK @ ALA",
+      "result": "L",
+      "min": 21,
+      "pts": 6,
+      "adjPts": 4.5,
+      "pointsPlus": 47
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "UK vs MIZ",
+      "result": "L",
+      "min": 25,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "UK vs MSST",
+      "result": "W",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "UK @ LSU",
+      "result": "W",
+      "min": 12,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 20
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "UK @ TENN",
+      "result": "W",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 10.8,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "UK vs TEX",
+      "result": "W",
+      "min": 16,
+      "pts": 9,
+      "adjPts": 8.4,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "UK vs MISS",
+      "result": "W",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "UK @ VAN",
+      "result": "L",
+      "min": 27,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 20
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "UK @ ARK",
+      "result": "W",
+      "min": 26,
+      "pts": 5,
+      "adjPts": 4.3,
+      "pointsPlus": 45
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "UK vs OU",
+      "result": "W",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 6.2,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "UK vs TENN",
+      "result": "W",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 45
+    },
+    {
+      "date": "2026-02-14",
+      "matchup": "UK @ FLA",
+      "result": "L",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "UK vs UGA",
+      "result": "L",
+      "min": 19,
+      "pts": 1,
+      "adjPts": 0.8,
+      "pointsPlus": 9
+    }
+  ]
+}

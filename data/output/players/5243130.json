@@ -4,17 +4,17 @@
   "team": "BAY",
   "teamName": "Baylor Bears",
   "conference": "Big 12",
-  "rank": 289,
+  "rank": 285,
   "gp": 26,
   "ppg": 10.1,
-  "adjPpg": 10.0,
+  "adjPpg": 10.1,
   "pointsPlus": 105,
   "mpg": 23.5,
   "position": "G",
   "jersey": "10",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 65.4,
-  "volatilityPctile": 82,
+  "pointsPlusStdDev": 65.2,
+  "volatilityPctile": 81,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 23,
       "pts": 14,
-      "adjPts": 13.9,
+      "adjPts": 14.0,
       "pointsPlus": 145
     },
     {
@@ -68,7 +68,7 @@
       "min": 19,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-03",
@@ -86,7 +86,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-10",
@@ -104,7 +104,7 @@
       "min": 27,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-12-21",
@@ -122,7 +122,7 @@
       "min": 33,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 230
+      "pointsPlus": 229
     },
     {
       "date": "2026-01-03",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 26,
       "pts": 14,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 121
     },
     {
@@ -176,7 +176,7 @@
       "min": 22,
       "pts": 11,
       "adjPts": 11.1,
-      "pointsPlus": 116
+      "pointsPlus": 115
     },
     {
       "date": "2026-01-24",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 29,
       "pts": 21,
-      "adjPts": 21.4,
+      "adjPts": 21.5,
       "pointsPlus": 224
     },
     {
@@ -203,7 +203,7 @@
       "min": 22,
       "pts": 6,
       "adjPts": 7.9,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-02-05",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 29,
       "pts": 20,
-      "adjPts": 19.6,
+      "adjPts": 19.7,
       "pointsPlus": 205
     },
     {

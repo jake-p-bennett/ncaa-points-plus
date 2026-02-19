@@ -4,17 +4,17 @@
   "team": "MSST",
   "teamName": "Mississippi State Bulldogs",
   "conference": "SEC",
-  "rank": 484,
-  "gp": 25,
+  "rank": 488,
+  "gp": 26,
   "ppg": 6.2,
   "adjPpg": 5.9,
-  "pointsPlus": 62,
-  "mpg": 20.0,
+  "pointsPlus": 61,
+  "mpg": 20.2,
   "position": "C",
   "jersey": "15",
   "classYear": "Senior",
-  "pointsPlusStdDev": 33.8,
-  "volatilityPctile": 8,
+  "pointsPlusStdDev": 33.1,
+  "volatilityPctile": 7,
   "gameLog": [
     {
       "date": "2025-11-06",
@@ -23,7 +23,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-11",
@@ -49,7 +49,7 @@
       "result": "L",
       "min": 19,
       "pts": 10,
-      "adjPts": 8.6,
+      "adjPts": 8.7,
       "pointsPlus": 90
     },
     {
@@ -77,7 +77,7 @@
       "min": 32,
       "pts": 12,
       "adjPts": 10.5,
-      "pointsPlus": 110
+      "pointsPlus": 109
     },
     {
       "date": "2025-12-04",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 27,
       "pts": 8,
-      "adjPts": 7.8,
-      "pointsPlus": 81
+      "adjPts": 7.7,
+      "pointsPlus": 80
     },
     {
       "date": "2025-12-07",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 24,
       "pts": 6,
-      "adjPts": 5.4,
-      "pointsPlus": 57
+      "adjPts": 5.5,
+      "pointsPlus": 58
     },
     {
       "date": "2025-12-17",
@@ -113,7 +113,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-20",
@@ -131,7 +131,7 @@
       "min": 17,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-03",
@@ -140,7 +140,7 @@
       "min": 25,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 20
+      "pointsPlus": 19
     },
     {
       "date": "2026-01-08",
@@ -158,7 +158,7 @@
       "min": 21,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 63
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 26,
       "pts": 6,
-      "adjPts": 4.6,
-      "pointsPlus": 49
+      "adjPts": 4.5,
+      "pointsPlus": 47
     },
     {
       "date": "2026-01-18",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 14,
       "pts": 2,
-      "adjPts": 2.1,
+      "adjPts": 2.0,
       "pointsPlus": 21
     },
     {
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 23,
       "pts": 13,
-      "adjPts": 12.2,
+      "adjPts": 12.3,
       "pointsPlus": 128
     },
     {
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 15,
       "pts": 8,
-      "adjPts": 7.1,
-      "pointsPlus": 74
+      "adjPts": 6.8,
+      "pointsPlus": 71
     },
     {
       "date": "2026-02-12",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 16,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.1,
       "pointsPlus": 64
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "MSST vs AUB",
+      "result": "W",
+      "min": 24,
+      "pts": 6,
+      "adjPts": 5.2,
+      "pointsPlus": 54
     }
   ]
 }

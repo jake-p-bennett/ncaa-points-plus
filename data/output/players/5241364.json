@@ -4,16 +4,16 @@
   "team": "IOWA",
   "teamName": "Iowa Hawkeyes",
   "conference": "Big Ten",
-  "rank": 9,
+  "rank": 12,
   "gp": 26,
   "ppg": 20.5,
   "adjPpg": 21.2,
-  "pointsPlus": 222,
+  "pointsPlus": 221,
   "mpg": 36.7,
   "position": "G",
   "jersey": "14",
   "classYear": "Senior",
-  "pointsPlusStdDev": 78.7,
+  "pointsPlusStdDev": 78.5,
   "volatilityPctile": 95,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 36,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 40,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 251
+      "pointsPlus": 250
     },
     {
       "date": "2025-11-15",
@@ -41,7 +41,7 @@
       "min": 40,
       "pts": 21,
       "adjPts": 18.9,
-      "pointsPlus": 198
+      "pointsPlus": 197
     },
     {
       "date": "2025-11-19",
@@ -50,7 +50,7 @@
       "min": 33,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-21",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 40,
       "pts": 29,
-      "adjPts": 29.8,
-      "pointsPlus": 312
+      "adjPts": 29.7,
+      "pointsPlus": 309
     },
     {
       "date": "2025-11-27",
@@ -77,7 +77,7 @@
       "min": 40,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-03",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 37,
       "pts": 14,
-      "adjPts": 16.2,
-      "pointsPlus": 170
+      "adjPts": 16.3,
+      "pointsPlus": 169
     },
     {
       "date": "2025-12-06",
@@ -95,7 +95,7 @@
       "min": 38,
       "pts": 25,
       "adjPts": 23.9,
-      "pointsPlus": 250
+      "pointsPlus": 249
     },
     {
       "date": "2025-12-12",
@@ -113,7 +113,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 32,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-29",
@@ -131,7 +131,7 @@
       "min": 32,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 230
+      "pointsPlus": 229
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 34,
       "pts": 27,
-      "adjPts": 28.7,
-      "pointsPlus": 301
+      "adjPts": 28.8,
+      "pointsPlus": 300
     },
     {
       "date": "2026-01-07",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 29,
       "pts": 21,
-      "adjPts": 24.9,
-      "pointsPlus": 261
+      "adjPts": 25.0,
+      "pointsPlus": 260
     },
     {
       "date": "2026-01-11",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 37,
       "pts": 19,
-      "adjPts": 20.1,
+      "adjPts": 20.2,
       "pointsPlus": 210
     },
     {
@@ -176,7 +176,7 @@
       "min": 38,
       "pts": 27,
       "adjPts": 27.9,
-      "pointsPlus": 292
+      "pointsPlus": 291
     },
     {
       "date": "2026-01-21",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 40,
       "pts": 20,
-      "adjPts": 18.8,
-      "pointsPlus": 196
+      "adjPts": 18.5,
+      "pointsPlus": 193
     },
     {
       "date": "2026-02-02",
@@ -203,7 +203,7 @@
       "min": 38,
       "pts": 32,
       "adjPts": 33.1,
-      "pointsPlus": 346
+      "pointsPlus": 345
     },
     {
       "date": "2026-02-05",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 40,
       "pts": 22,
-      "adjPts": 22.7,
-      "pointsPlus": 238
+      "adjPts": 22.8,
+      "pointsPlus": 237
     },
     {
       "date": "2026-02-08",
@@ -221,7 +221,7 @@
       "min": 40,
       "pts": 36,
       "adjPts": 37.5,
-      "pointsPlus": 392
+      "pointsPlus": 391
     },
     {
       "date": "2026-02-11",
@@ -230,7 +230,7 @@
       "min": 40,
       "pts": 32,
       "adjPts": 30.6,
-      "pointsPlus": 320
+      "pointsPlus": 319
     },
     {
       "date": "2026-02-14",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 38,
       "pts": 19,
-      "adjPts": 20.1,
+      "adjPts": 20.2,
       "pointsPlus": 210
     },
     {
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 40,
       "pts": 25,
-      "adjPts": 29.6,
-      "pointsPlus": 310
+      "adjPts": 29.7,
+      "pointsPlus": 309
     }
   ]
 }

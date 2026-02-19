@@ -4,17 +4,17 @@
   "team": "OU",
   "teamName": "Oklahoma Sooners",
   "conference": "SEC",
-  "rank": 550,
-  "gp": 19,
-  "ppg": 4.9,
-  "adjPpg": 4.8,
-  "pointsPlus": 50,
-  "mpg": 15.7,
+  "rank": 540,
+  "gp": 20,
+  "ppg": 5.0,
+  "adjPpg": 4.9,
+  "pointsPlus": 51,
+  "mpg": 16.0,
   "position": "G",
   "jersey": "7",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 47.3,
-  "volatilityPctile": 35,
+  "pointsPlusStdDev": 46.3,
+  "volatilityPctile": 33,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -41,7 +41,7 @@
       "min": 22,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-16",
@@ -49,7 +49,7 @@
       "result": "L",
       "min": 22,
       "pts": 10,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 124
     },
     {
@@ -176,7 +176,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 11.2,
-      "pointsPlus": 118
+      "pointsPlus": 117
     },
     {
       "date": "2026-02-14",
@@ -186,6 +186,15 @@
       "pts": 13,
       "adjPts": 11.0,
       "pointsPlus": 115
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "OU @ TENN",
+      "result": "L",
+      "min": 20,
+      "pts": 7,
+      "adjPts": 7.5,
+      "pointsPlus": 78
     }
   ]
 }

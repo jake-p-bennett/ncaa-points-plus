@@ -4,7 +4,7 @@
   "team": "MINN",
   "teamName": "Minnesota Golden Gophers",
   "conference": "Big Ten",
-  "rank": 612,
+  "rank": 611,
   "gp": 25,
   "ppg": 3.7,
   "adjPpg": 3.7,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "2",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 36.1,
-  "volatilityPctile": 11,
+  "pointsPlusStdDev": 35.9,
+  "volatilityPctile": 10,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -131,7 +131,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 12.5,
-      "pointsPlus": 131
+      "pointsPlus": 130
     },
     {
       "date": "2026-01-07",
@@ -149,7 +149,7 @@
       "min": 18,
       "pts": 6,
       "adjPts": 5.6,
-      "pointsPlus": 59
+      "pointsPlus": 58
     },
     {
       "date": "2026-01-14",
@@ -167,7 +167,7 @@
       "min": 11,
       "pts": 2,
       "adjPts": 2.2,
-      "pointsPlus": 23
+      "pointsPlus": 22
     },
     {
       "date": "2026-01-20",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 38,
       "pts": 13,
-      "adjPts": 13.4,
-      "pointsPlus": 141
+      "adjPts": 13.5,
+      "pointsPlus": 140
     }
   ]
 }

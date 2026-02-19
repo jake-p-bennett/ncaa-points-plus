@@ -4,17 +4,17 @@
   "team": "GT",
   "teamName": "Georgia Tech Yellow Jackets",
   "conference": "ACC",
-  "rank": 545,
-  "gp": 24,
+  "rank": 548,
+  "gp": 25,
   "ppg": 4.6,
   "adjPpg": 4.8,
-  "pointsPlus": 51,
-  "mpg": 17.4,
+  "pointsPlus": 50,
+  "mpg": 17.0,
   "position": "G",
   "jersey": "7",
   "classYear": "Senior",
-  "pointsPlusStdDev": 50.6,
-  "volatilityPctile": 43,
+  "pointsPlusStdDev": 49.6,
+  "volatilityPctile": 41,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -95,7 +95,7 @@
       "min": 25,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 12.1,
-      "pointsPlus": 127
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-03",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 25,
       "pts": 8,
-      "adjPts": 9.9,
-      "pointsPlus": 104
+      "adjPts": 9.8,
+      "pointsPlus": 102
     },
     {
       "date": "2026-01-28",
@@ -185,7 +185,7 @@
       "min": 24,
       "pts": 2,
       "adjPts": 2.0,
-      "pointsPlus": 21
+      "pointsPlus": 20
     },
     {
       "date": "2026-01-31",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 26,
       "pts": 15,
-      "adjPts": 15.1,
+      "adjPts": 15.2,
       "pointsPlus": 158
     },
     {
@@ -231,6 +231,15 @@
       "pts": 9,
       "adjPts": 9.3,
       "pointsPlus": 97
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "GT vs UVA",
+      "result": "L",
+      "min": 8,
+      "pts": 3,
+      "adjPts": 3.3,
+      "pointsPlus": 35
     }
   ]
 }

@@ -4,16 +4,16 @@
   "team": "CREI",
   "teamName": "Creighton Bluejays",
   "conference": "Big East",
-  "rank": 661,
-  "gp": 25,
+  "rank": 658,
+  "gp": 26,
   "ppg": 1.5,
   "adjPpg": 1.5,
-  "pointsPlus": 16,
-  "mpg": 12.5,
+  "pointsPlus": 15,
+  "mpg": 12.3,
   "position": "G",
   "jersey": "9",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 15.2,
+  "pointsPlusStdDev": 15.1,
   "volatilityPctile": 0,
   "gameLog": [
     {
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 11,
       "pts": 2,
-      "adjPts": 1.9,
+      "adjPts": 1.8,
       "pointsPlus": 19
     },
     {
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 12,
       "pts": 2,
-      "adjPts": 2.4,
-      "pointsPlus": 25
+      "adjPts": 2.3,
+      "pointsPlus": 24
     },
     {
       "date": "2026-02-05",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 11,
       "pts": 2,
-      "adjPts": 2.1,
-      "pointsPlus": 22
+      "adjPts": 2.0,
+      "pointsPlus": 21
     },
     {
       "date": "2026-02-07",
@@ -236,6 +236,15 @@
       "date": "2026-02-14",
       "matchup": "CREI vs VILL",
       "result": "L",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "CREI @ CONN",
+      "result": "W",
       "min": 7,
       "pts": 0,
       "adjPts": 0.0,

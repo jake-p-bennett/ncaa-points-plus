@@ -4,7 +4,7 @@
   "team": "PUR",
   "teamName": "Purdue Boilermakers",
   "conference": "Big Ten",
-  "rank": 429,
+  "rank": 425,
   "gp": 26,
   "ppg": 6.9,
   "adjPpg": 7.1,
@@ -13,7 +13,7 @@
   "position": "C",
   "jersey": "12",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 51.4,
+  "pointsPlusStdDev": 51.2,
   "volatilityPctile": 45,
   "gameLog": [
     {
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 16,
       "pts": 9,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 6.8,
+      "pointsPlus": 71
     },
     {
       "date": "2025-11-17",
@@ -68,7 +68,7 @@
       "min": 19,
       "pts": 11,
       "adjPts": 11.1,
-      "pointsPlus": 116
+      "pointsPlus": 115
     },
     {
       "date": "2025-11-28",
@@ -77,7 +77,7 @@
       "min": 18,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 251
+      "pointsPlus": 250
     },
     {
       "date": "2025-12-03",
@@ -104,7 +104,7 @@
       "min": 21,
       "pts": 11,
       "adjPts": 13.1,
-      "pointsPlus": 137
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-13",
@@ -112,7 +112,7 @@
       "result": "W",
       "min": 16,
       "pts": 4,
-      "adjPts": 3.7,
+      "adjPts": 3.8,
       "pointsPlus": 39
     },
     {
@@ -121,7 +121,7 @@
       "result": "W",
       "min": 18,
       "pts": 4,
-      "adjPts": 3.5,
+      "adjPts": 3.4,
       "pointsPlus": 36
     },
     {
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 13,
       "pts": 10,
-      "adjPts": 10.3,
+      "adjPts": 10.4,
       "pointsPlus": 108
     },
     {
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 18,
       "pts": 7,
-      "adjPts": 8.6,
+      "adjPts": 8.7,
       "pointsPlus": 90
     },
     {
@@ -185,7 +185,7 @@
       "min": 16,
       "pts": 4,
       "adjPts": 4.3,
-      "pointsPlus": 45
+      "pointsPlus": 44
     },
     {
       "date": "2026-01-24",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 21,
       "pts": 8,
-      "adjPts": 7.6,
+      "adjPts": 7.7,
       "pointsPlus": 80
     },
     {
@@ -239,7 +239,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 7.4,
-      "pointsPlus": 78
+      "pointsPlus": 77
     },
     {
       "date": "2026-02-17",

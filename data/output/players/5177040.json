@@ -4,17 +4,17 @@
   "team": "VT",
   "teamName": "Virginia Tech Hokies",
   "conference": "ACC",
-  "rank": 219,
+  "rank": 220,
   "gp": 26,
   "ppg": 11.4,
-  "adjPpg": 11.4,
-  "pointsPlus": 119,
+  "adjPpg": 11.3,
+  "pointsPlus": 118,
   "mpg": 25.5,
   "position": "G",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 77.4,
-  "volatilityPctile": 94,
+  "pointsPlusStdDev": 76.7,
+  "volatilityPctile": 93,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 18,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-08",
@@ -31,8 +31,8 @@
       "result": "W",
       "min": 33,
       "pts": 18,
-      "adjPts": 13.6,
-      "pointsPlus": 143
+      "adjPts": 13.7,
+      "pointsPlus": 142
     },
     {
       "date": "2025-11-13",
@@ -41,7 +41,7 @@
       "min": 18,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-16",
@@ -50,7 +50,7 @@
       "min": 30,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-11-20",
@@ -68,7 +68,7 @@
       "min": 29,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-27",
@@ -140,7 +140,7 @@
       "min": 35,
       "pts": 25,
       "adjPts": 23.2,
-      "pointsPlus": 242
+      "pointsPlus": 241
     },
     {
       "date": "2026-01-08",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 29,
       "pts": 22,
-      "adjPts": 19.2,
+      "adjPts": 19.3,
       "pointsPlus": 201
     },
     {
@@ -176,7 +176,7 @@
       "min": 30,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 151
+      "pointsPlus": 150
     },
     {
       "date": "2026-01-22",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 35,
       "pts": 24,
-      "adjPts": 23.5,
+      "adjPts": 23.6,
       "pointsPlus": 246
     },
     {
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 27,
       "pts": 14,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.5,
+      "pointsPlus": 140
     },
     {
       "date": "2026-01-31",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 33,
       "pts": 12,
-      "adjPts": 14.5,
+      "adjPts": 14.6,
       "pointsPlus": 152
     },
     {
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 26,
       "pts": 8,
-      "adjPts": 7.6,
+      "adjPts": 7.7,
       "pointsPlus": 80
     },
     {
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 32,
       "pts": 23,
-      "adjPts": 28.5,
-      "pointsPlus": 298
+      "adjPts": 28.1,
+      "pointsPlus": 292
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 28,
       "pts": 13,
-      "adjPts": 11.7,
-      "pointsPlus": 123
+      "adjPts": 11.8,
+      "pointsPlus": 122
     },
     {
       "date": "2026-02-18",

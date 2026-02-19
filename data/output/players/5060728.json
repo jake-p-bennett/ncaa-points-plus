@@ -4,7 +4,7 @@
   "team": "PITT",
   "teamName": "Pittsburgh Panthers",
   "conference": "ACC",
-  "rank": 168,
+  "rank": 169,
   "gp": 19,
   "ppg": 12.5,
   "adjPpg": 12.7,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "3",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 89.9,
+  "pointsPlusStdDev": 89.5,
   "volatilityPctile": 98,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 34,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-11-13",
@@ -77,7 +77,7 @@
       "min": 32,
       "pts": 34,
       "adjPts": 34.0,
-      "pointsPlus": 356
+      "pointsPlus": 354
     },
     {
       "date": "2025-12-13",
@@ -95,7 +95,7 @@
       "min": 21,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-12-21",
@@ -104,7 +104,7 @@
       "min": 26,
       "pts": 8,
       "adjPts": 7.3,
-      "pointsPlus": 77
+      "pointsPlus": 76
     },
     {
       "date": "2025-12-31",
@@ -113,7 +113,7 @@
       "min": 17,
       "pts": 7,
       "adjPts": 7.3,
-      "pointsPlus": 77
+      "pointsPlus": 76
     },
     {
       "date": "2026-01-03",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 15,
       "pts": 5,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-10",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 34,
       "pts": 23,
-      "adjPts": 22.3,
-      "pointsPlus": 234
+      "adjPts": 22.1,
+      "pointsPlus": 231
     },
     {
       "date": "2026-01-18",
@@ -157,7 +157,7 @@
       "result": "L",
       "min": 29,
       "pts": 11,
-      "adjPts": 12.8,
+      "adjPts": 12.9,
       "pointsPlus": 134
     },
     {
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 33,
       "pts": 13,
-      "adjPts": 12.0,
+      "adjPts": 12.1,
       "pointsPlus": 126
     },
     {
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 12,
       "pts": 2,
-      "adjPts": 2.5,
-      "pointsPlus": 26
+      "adjPts": 2.4,
+      "pointsPlus": 25
     }
   ]
 }

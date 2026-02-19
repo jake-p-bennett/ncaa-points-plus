@@ -4,17 +4,17 @@
   "team": "HALL",
   "teamName": "Seton Hall Pirates",
   "conference": "Big East",
-  "rank": 195,
-  "gp": 26,
-  "ppg": 12.5,
-  "adjPpg": 12.0,
-  "pointsPlus": 126,
-  "mpg": 29.8,
+  "rank": 181,
+  "gp": 27,
+  "ppg": 12.7,
+  "adjPpg": 12.4,
+  "pointsPlus": 129,
+  "mpg": 30.0,
   "position": "G",
   "jersey": "0",
   "classYear": "Junior",
-  "pointsPlusStdDev": 65.4,
-  "volatilityPctile": 82,
+  "pointsPlusStdDev": 66.3,
+  "volatilityPctile": 83,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 25,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-08",
@@ -50,7 +50,7 @@
       "min": 29,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-19",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 36,
       "pts": 18,
-      "adjPts": 16.9,
-      "pointsPlus": 177
+      "adjPts": 16.7,
+      "pointsPlus": 174
     },
     {
       "date": "2025-11-26",
@@ -95,7 +95,7 @@
       "min": 31,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-06",
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 31,
       "pts": 10,
-      "adjPts": 8.6,
+      "adjPts": 8.7,
       "pointsPlus": 90
     },
     {
@@ -113,7 +113,7 @@
       "min": 31,
       "pts": 16,
       "adjPts": 16.2,
-      "pointsPlus": 170
+      "pointsPlus": 169
     },
     {
       "date": "2025-12-19",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 29,
       "pts": 8,
-      "adjPts": 7.9,
-      "pointsPlus": 82
+      "adjPts": 7.8,
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 31,
       "pts": 22,
-      "adjPts": 22.6,
-      "pointsPlus": 237
+      "adjPts": 22.2,
+      "pointsPlus": 232
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 27,
       "pts": 12,
-      "adjPts": 14.3,
-      "pointsPlus": 149
+      "adjPts": 14.0,
+      "pointsPlus": 146
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 7.4,
-      "pointsPlus": 78
+      "pointsPlus": 77
     },
     {
       "date": "2026-01-21",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 34,
       "pts": 14,
-      "adjPts": 15.7,
-      "pointsPlus": 164
+      "adjPts": 15.9,
+      "pointsPlus": 166
     },
     {
       "date": "2026-01-29",
@@ -203,7 +203,7 @@
       "min": 36,
       "pts": 24,
       "adjPts": 21.6,
-      "pointsPlus": 226
+      "pointsPlus": 225
     },
     {
       "date": "2026-01-31",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 34,
       "pts": 19,
-      "adjPts": 17.8,
+      "adjPts": 17.9,
       "pointsPlus": 186
     },
     {
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 35,
       "pts": 18,
-      "adjPts": 19.4,
+      "adjPts": 19.5,
       "pointsPlus": 203
     },
     {
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 32,
       "pts": 20,
-      "adjPts": 19.7,
-      "pointsPlus": 206
+      "adjPts": 19.5,
+      "pointsPlus": 203
     },
     {
       "date": "2026-02-12",
@@ -239,7 +239,7 @@
       "min": 36,
       "pts": 31,
       "adjPts": 23.5,
-      "pointsPlus": 246
+      "pointsPlus": 245
     },
     {
       "date": "2026-02-15",
@@ -248,7 +248,16 @@
       "min": 28,
       "pts": 8,
       "adjPts": 7.4,
-      "pointsPlus": 78
+      "pointsPlus": 77
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "HALL vs DEP",
+      "result": "L",
+      "min": 36,
+      "pts": 19,
+      "adjPts": 21.6,
+      "pointsPlus": 225
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 140,
+  "rank": 141,
   "gp": 20,
   "ppg": 13.2,
   "adjPpg": 13.5,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "9",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 75.4,
+  "pointsPlusStdDev": 74.9,
   "volatilityPctile": 92,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 32,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-10",
@@ -50,7 +50,7 @@
       "min": 37,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 272
+      "pointsPlus": 271
     },
     {
       "date": "2025-11-19",
@@ -59,7 +59,7 @@
       "min": 37,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 241
+      "pointsPlus": 240
     },
     {
       "date": "2025-11-27",
@@ -68,7 +68,7 @@
       "min": 39,
       "pts": 25,
       "adjPts": 25.0,
-      "pointsPlus": 262
+      "pointsPlus": 260
     },
     {
       "date": "2025-11-28",
@@ -86,7 +86,7 @@
       "min": 33,
       "pts": 12,
       "adjPts": 12.8,
-      "pointsPlus": 134
+      "pointsPlus": 133
     },
     {
       "date": "2025-12-06",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 37,
       "pts": 16,
-      "adjPts": 15.0,
-      "pointsPlus": 157
+      "adjPts": 14.8,
+      "pointsPlus": 154
     },
     {
       "date": "2025-12-13",
@@ -158,7 +158,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 21.9,
-      "pointsPlus": 229
+      "pointsPlus": 228
     },
     {
       "date": "2026-02-05",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 25,
       "pts": 15,
-      "adjPts": 18.5,
-      "pointsPlus": 194
+      "adjPts": 18.6,
+      "pointsPlus": 193
     },
     {
       "date": "2026-02-08",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 40,
       "pts": 21,
-      "adjPts": 22.3,
-      "pointsPlus": 234
+      "adjPts": 22.4,
+      "pointsPlus": 233
     },
     {
       "date": "2026-02-12",

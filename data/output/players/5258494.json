@@ -4,7 +4,7 @@
   "team": "GT",
   "teamName": "Georgia Tech Yellow Jackets",
   "conference": "ACC",
-  "rank": 301,
+  "rank": 304,
   "gp": 16,
   "ppg": 9.6,
   "adjPpg": 9.7,
@@ -13,8 +13,8 @@
   "position": "C",
   "jersey": "6",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 46.3,
-  "volatilityPctile": 33,
+  "pointsPlusStdDev": 46.2,
+  "volatilityPctile": 32,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 31,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-11",
@@ -59,7 +59,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-23",
@@ -68,7 +68,7 @@
       "min": 29,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-29",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 24,
       "pts": 10,
-      "adjPts": 11.2,
-      "pointsPlus": 117
+      "adjPts": 11.4,
+      "pointsPlus": 118
     },
     {
       "date": "2025-12-04",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 26,
       "pts": 12,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 10.9,
+      "pointsPlus": 114
     },
     {
       "date": "2025-12-06",
@@ -104,7 +104,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-17",
@@ -122,7 +122,7 @@
       "min": 14,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-28",

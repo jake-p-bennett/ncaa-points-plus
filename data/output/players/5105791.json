@@ -4,17 +4,17 @@
   "team": "MSST",
   "teamName": "Mississippi State Bulldogs",
   "conference": "SEC",
-  "rank": 133,
-  "gp": 23,
-  "ppg": 14.3,
-  "adjPpg": 13.6,
-  "pointsPlus": 143,
-  "mpg": 27.3,
+  "rank": 139,
+  "gp": 24,
+  "ppg": 14.2,
+  "adjPpg": 13.5,
+  "pointsPlus": 141,
+  "mpg": 27.5,
   "position": "G",
   "jersey": "10",
   "classYear": "Senior",
-  "pointsPlusStdDev": 63.5,
-  "volatilityPctile": 79,
+  "pointsPlusStdDev": 62.3,
+  "volatilityPctile": 75,
   "gameLog": [
     {
       "date": "2025-11-06",
@@ -32,7 +32,7 @@
       "min": 17,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-21",
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 20,
       "pts": 18,
-      "adjPts": 15.5,
-      "pointsPlus": 163
+      "adjPts": 15.6,
+      "pointsPlus": 162
     },
     {
       "date": "2025-11-22",
@@ -50,7 +50,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-11-29",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 33,
       "pts": 21,
-      "adjPts": 18.3,
-      "pointsPlus": 192
+      "adjPts": 18.4,
+      "pointsPlus": 191
     },
     {
       "date": "2025-12-04",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 30,
       "pts": 14,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.5,
+      "pointsPlus": 140
     },
     {
       "date": "2025-12-07",
@@ -77,7 +77,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-12-14",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 34,
       "pts": 20,
-      "adjPts": 18.0,
-      "pointsPlus": 189
+      "adjPts": 18.5,
+      "pointsPlus": 192
     },
     {
       "date": "2025-12-17",
@@ -95,7 +95,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-12-20",
@@ -104,7 +104,7 @@
       "min": 27,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-12-30",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 41,
       "pts": 27,
-      "adjPts": 25.2,
-      "pointsPlus": 264
+      "adjPts": 25.3,
+      "pointsPlus": 263
     },
     {
       "date": "2026-01-08",
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 20,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.3,
       "pointsPlus": 56
     },
     {
@@ -140,7 +140,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2026-01-14",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 23,
       "pts": 13,
-      "adjPts": 10.1,
-      "pointsPlus": 105
+      "adjPts": 9.8,
+      "pointsPlus": 102
     },
     {
       "date": "2026-01-18",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 30,
       "pts": 14,
-      "adjPts": 14.4,
-      "pointsPlus": 150
+      "adjPts": 14.3,
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-22",
@@ -185,7 +185,7 @@
       "min": 21,
       "pts": 9,
       "adjPts": 8.5,
-      "pointsPlus": 89
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-31",
@@ -194,7 +194,7 @@
       "min": 29,
       "pts": 23,
       "adjPts": 22.4,
-      "pointsPlus": 234
+      "pointsPlus": 233
     },
     {
       "date": "2026-02-07",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 23,
       "pts": 3,
-      "adjPts": 2.7,
-      "pointsPlus": 28
+      "adjPts": 2.6,
+      "pointsPlus": 27
     },
     {
       "date": "2026-02-12",
@@ -221,7 +221,16 @@
       "min": 33,
       "pts": 12,
       "adjPts": 12.3,
-      "pointsPlus": 129
+      "pointsPlus": 128
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "MSST vs AUB",
+      "result": "W",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 11.2,
+      "pointsPlus": 117
     }
   ]
 }

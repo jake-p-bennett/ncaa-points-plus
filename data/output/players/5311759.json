@@ -4,17 +4,17 @@
   "team": "VAN",
   "teamName": "Vanderbilt Commodores",
   "conference": "SEC",
-  "rank": 636,
-  "gp": 24,
+  "rank": 635,
+  "gp": 25,
   "ppg": 3.2,
   "adjPpg": 3.0,
-  "pointsPlus": 31,
-  "mpg": 12.1,
+  "pointsPlus": 32,
+  "mpg": 12.4,
   "position": "G",
   "jersey": "7",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 32.7,
-  "volatilityPctile": 7,
+  "pointsPlusStdDev": 32.2,
+  "volatilityPctile": 6,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -50,7 +50,7 @@
       "min": 15,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-21",
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 7,
       "pts": 2,
-      "adjPts": 1.7,
+      "adjPts": 1.8,
       "pointsPlus": 18
     },
     {
@@ -167,7 +167,7 @@
       "min": 3,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 20
+      "pointsPlus": 19
     },
     {
       "date": "2026-01-21",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 1,
       "pts": 2,
-      "adjPts": 1.8,
-      "pointsPlus": 19
+      "adjPts": 1.7,
+      "pointsPlus": 18
     },
     {
       "date": "2026-01-24",
@@ -185,7 +185,7 @@
       "min": 20,
       "pts": 5,
       "adjPts": 4.6,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2026-01-28",
@@ -221,7 +221,7 @@
       "min": 32,
       "pts": 8,
       "adjPts": 6.9,
-      "pointsPlus": 73
+      "pointsPlus": 72
     },
     {
       "date": "2026-02-14",
@@ -231,6 +231,15 @@
       "pts": 11,
       "adjPts": 9.3,
       "pointsPlus": 97
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "VAN @ MIZ",
+      "result": "L",
+      "min": 20,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 51
     }
   ]
 }

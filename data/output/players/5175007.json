@@ -4,17 +4,17 @@
   "team": "ILL",
   "teamName": "Illinois Fighting Illini",
   "conference": "Big Ten",
-  "rank": 122,
-  "gp": 23,
-  "ppg": 13.7,
-  "adjPpg": 13.9,
-  "pointsPlus": 146,
-  "mpg": 27.7,
+  "rank": 111,
+  "gp": 24,
+  "ppg": 14.0,
+  "adjPpg": 14.2,
+  "pointsPlus": 148,
+  "mpg": 27.2,
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 76.1,
-  "volatilityPctile": 93,
+  "pointsPlusStdDev": 75.4,
+  "volatilityPctile": 92,
   "gameLog": [
     {
       "date": "2025-11-08",
@@ -31,8 +31,8 @@
       "result": "W",
       "min": 26,
       "pts": 23,
-      "adjPts": 23.1,
-      "pointsPlus": 242
+      "adjPts": 23.2,
+      "pointsPlus": 241
     },
     {
       "date": "2025-11-15",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 30,
       "pts": 26,
-      "adjPts": 20.1,
-      "pointsPlus": 211
+      "adjPts": 19.6,
+      "pointsPlus": 205
     },
     {
       "date": "2025-11-22",
@@ -59,7 +59,7 @@
       "min": 24,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-11-25",
@@ -68,7 +68,7 @@
       "min": 31,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 251
+      "pointsPlus": 250
     },
     {
       "date": "2025-11-28",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 24,
       "pts": 3,
-      "adjPts": 3.6,
-      "pointsPlus": 37
+      "adjPts": 3.5,
+      "pointsPlus": 36
     },
     {
       "date": "2025-12-07",
@@ -113,7 +113,7 @@
       "min": 26,
       "pts": 16,
       "adjPts": 15.6,
-      "pointsPlus": 163
+      "pointsPlus": 162
     },
     {
       "date": "2025-12-29",
@@ -131,7 +131,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 11.0,
-      "pointsPlus": 115
+      "pointsPlus": 114
     },
     {
       "date": "2026-01-09",
@@ -149,7 +149,7 @@
       "min": 33,
       "pts": 17,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2026-01-15",
@@ -158,7 +158,7 @@
       "min": 23,
       "pts": 4,
       "adjPts": 4.2,
-      "pointsPlus": 44
+      "pointsPlus": 43
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 33,
       "pts": 30,
       "adjPts": 28.7,
-      "pointsPlus": 300
+      "pointsPlus": 299
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 33,
       "pts": 8,
       "adjPts": 8.3,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2026-02-01",
@@ -222,6 +222,15 @@
       "pts": 17,
       "adjPts": 19.7,
       "pointsPlus": 206
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "ILL @ USC",
+      "result": "W",
+      "min": 17,
+      "pts": 22,
+      "adjPts": 20.4,
+      "pointsPlus": 212
     }
   ]
 }

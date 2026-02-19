@@ -4,17 +4,17 @@
   "team": "WAKE",
   "teamName": "Wake Forest Demon Deacons",
   "conference": "ACC",
-  "rank": 7,
-  "gp": 25,
+  "rank": 8,
+  "gp": 26,
   "ppg": 21.3,
-  "adjPpg": 21.6,
+  "adjPpg": 21.7,
   "pointsPlus": 226,
-  "mpg": 33.7,
+  "mpg": 33.9,
   "position": "G",
   "jersey": "2",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 65.5,
-  "volatilityPctile": 82,
+  "pointsPlusStdDev": 64.7,
+  "volatilityPctile": 80,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 31,
       "pts": 29,
       "adjPts": 29.0,
-      "pointsPlus": 303
+      "pointsPlus": 302
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 28,
       "pts": 19,
       "adjPts": 19.4,
-      "pointsPlus": 203
+      "pointsPlus": 202
     },
     {
       "date": "2025-11-16",
@@ -50,7 +50,7 @@
       "min": 26,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-11-21",
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 33,
       "pts": 26,
-      "adjPts": 26.1,
+      "adjPts": 26.2,
       "pointsPlus": 273
     },
     {
@@ -68,7 +68,7 @@
       "min": 35,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-26",
@@ -77,7 +77,7 @@
       "min": 25,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-28",
@@ -86,7 +86,7 @@
       "min": 30,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-12-03",
@@ -95,7 +95,7 @@
       "min": 36,
       "pts": 22,
       "adjPts": 19.6,
-      "pointsPlus": 205
+      "pointsPlus": 204
     },
     {
       "date": "2025-12-06",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 26,
       "pts": 28,
-      "adjPts": 36.7,
-      "pointsPlus": 384
+      "adjPts": 37.0,
+      "pointsPlus": 385
     },
     {
       "date": "2025-12-14",
@@ -122,7 +122,7 @@
       "min": 34,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-12-21",
@@ -131,7 +131,7 @@
       "min": 37,
       "pts": 19,
       "adjPts": 17.8,
-      "pointsPlus": 186
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-31",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 36,
       "pts": 17,
-      "adjPts": 16.2,
+      "adjPts": 16.3,
       "pointsPlus": 170
     },
     {
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 38,
       "pts": 28,
-      "adjPts": 29.1,
+      "adjPts": 29.2,
       "pointsPlus": 304
     },
     {
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 38,
       "pts": 15,
-      "adjPts": 13.5,
-      "pointsPlus": 142
+      "adjPts": 13.6,
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-21",
@@ -185,7 +185,7 @@
       "min": 38,
       "pts": 27,
       "adjPts": 23.6,
-      "pointsPlus": 247
+      "pointsPlus": 246
     },
     {
       "date": "2026-01-24",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 40,
       "pts": 31,
-      "adjPts": 29.6,
-      "pointsPlus": 310
+      "adjPts": 29.7,
+      "pointsPlus": 309
     },
     {
       "date": "2026-02-07",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 39,
       "pts": 25,
-      "adjPts": 24.5,
+      "adjPts": 24.6,
       "pointsPlus": 256
     },
     {
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 22.3,
-      "pointsPlus": 234
+      "adjPts": 22.1,
+      "pointsPlus": 231
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 40,
       "pts": 25,
-      "adjPts": 26.0,
+      "adjPts": 26.1,
       "pointsPlus": 272
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "WAKE vs CLEM",
+      "result": "W",
+      "min": 38,
+      "pts": 20,
+      "adjPts": 24.4,
+      "pointsPlus": 254
     }
   ]
 }

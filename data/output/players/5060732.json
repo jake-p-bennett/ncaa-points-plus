@@ -4,17 +4,17 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 309,
-  "gp": 25,
-  "ppg": 9.6,
-  "adjPpg": 9.5,
-  "pointsPlus": 100,
-  "mpg": 23.6,
+  "rank": 301,
+  "gp": 26,
+  "ppg": 10.0,
+  "adjPpg": 9.7,
+  "pointsPlus": 102,
+  "mpg": 24.0,
   "position": "G",
   "jersey": "24",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 49.3,
-  "volatilityPctile": 39,
+  "pointsPlusStdDev": 49.2,
+  "volatilityPctile": 40,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -50,7 +50,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-19",
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 24,
       "pts": 11,
-      "adjPts": 13.3,
+      "adjPts": 13.4,
       "pointsPlus": 139
     },
     {
@@ -86,7 +86,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 9.8,
-      "pointsPlus": 103
+      "pointsPlus": 102
     },
     {
       "date": "2025-12-06",
@@ -113,7 +113,7 @@
       "min": 25,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-12-20",
@@ -131,7 +131,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-03",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 24,
       "pts": 13,
-      "adjPts": 13.4,
-      "pointsPlus": 140
+      "adjPts": 13.3,
+      "pointsPlus": 139
     },
     {
       "date": "2026-01-10",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 25,
       "pts": 14,
-      "adjPts": 12.8,
-      "pointsPlus": 134
+      "adjPts": 12.7,
+      "pointsPlus": 133
     },
     {
       "date": "2026-02-11",
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 36,
       "pts": 13,
-      "adjPts": 12.2,
+      "adjPts": 12.3,
       "pointsPlus": 128
     },
     {
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 38,
       "pts": 25,
-      "adjPts": 21.7,
-      "pointsPlus": 227
+      "adjPts": 21.5,
+      "pointsPlus": 224
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "ARK @ ALA",
+      "result": "L",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 15.1,
+      "pointsPlus": 157
     }
   ]
 }

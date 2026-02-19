@@ -4,7 +4,7 @@
   "team": "MICH",
   "teamName": "Michigan Wolverines",
   "conference": "Big Ten",
-  "rank": 223,
+  "rank": 224,
   "gp": 26,
   "ppg": 11.2,
   "adjPpg": 11.3,
@@ -23,7 +23,7 @@
       "min": 20,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-11",
@@ -50,7 +50,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-25",
@@ -77,7 +77,7 @@
       "min": 21,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-06",
@@ -104,7 +104,7 @@
       "min": 25,
       "pts": 18,
       "adjPts": 17.2,
-      "pointsPlus": 180
+      "pointsPlus": 179
     },
     {
       "date": "2025-12-21",
@@ -122,7 +122,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2026-01-03",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 17,
       "pts": 5,
-      "adjPts": 4.7,
-      "pointsPlus": 49
+      "adjPts": 4.6,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-07",
@@ -167,7 +167,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 12.4,
-      "pointsPlus": 130
+      "pointsPlus": 129
     },
     {
       "date": "2026-01-21",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 26,
       "pts": 13,
-      "adjPts": 13.4,
+      "adjPts": 13.5,
       "pointsPlus": 140
     },
     {
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 29,
       "pts": 11,
-      "adjPts": 10.8,
+      "adjPts": 10.9,
       "pointsPlus": 113
     },
     {
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 25,
       "pts": 10,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 124
     },
     {
@@ -230,7 +230,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.5,
-      "pointsPlus": 131
+      "pointsPlus": 130
     },
     {
       "date": "2026-02-14",

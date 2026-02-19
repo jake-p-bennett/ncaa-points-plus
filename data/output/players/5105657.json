@@ -4,16 +4,16 @@
   "team": "STAN",
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
-  "rank": 415,
+  "rank": 410,
   "gp": 26,
   "ppg": 7.1,
   "adjPpg": 7.2,
-  "pointsPlus": 76,
+  "pointsPlus": 75,
   "mpg": 19.1,
   "position": "F",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 49.4,
+  "pointsPlusStdDev": 49.2,
   "volatilityPctile": 40,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-13",
@@ -41,7 +41,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-19",
@@ -59,7 +59,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-28",
@@ -86,7 +86,7 @@
       "min": 18,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-07",
@@ -104,7 +104,7 @@
       "min": 28,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-12-18",
@@ -113,7 +113,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-21",
@@ -122,7 +122,7 @@
       "min": 20,
       "pts": 4,
       "adjPts": 3.6,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2025-12-28",
@@ -140,7 +140,7 @@
       "min": 15,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 22
+      "pointsPlus": 21
     },
     {
       "date": "2026-01-03",
@@ -167,7 +167,7 @@
       "min": 15,
       "pts": 4,
       "adjPts": 4.5,
-      "pointsPlus": 47
+      "pointsPlus": 46
     },
     {
       "date": "2026-01-15",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 21,
       "pts": 8,
-      "adjPts": 7.8,
-      "pointsPlus": 81
+      "adjPts": 7.7,
+      "pointsPlus": 80
     },
     {
       "date": "2026-02-12",

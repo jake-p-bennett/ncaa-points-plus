@@ -4,17 +4,17 @@
   "team": "STAN",
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
-  "rank": 481,
+  "rank": 483,
   "gp": 26,
   "ppg": 5.7,
   "adjPpg": 6.0,
-  "pointsPlus": 63,
+  "pointsPlus": 62,
   "mpg": 20.6,
   "position": "F",
   "jersey": "52",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 49.0,
-  "volatilityPctile": 39,
+  "pointsPlusStdDev": 48.3,
+  "volatilityPctile": 37,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -32,7 +32,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-13",
@@ -41,7 +41,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-19",
@@ -77,7 +77,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-02",
@@ -122,7 +122,7 @@
       "min": 19,
       "pts": 4,
       "adjPts": 3.6,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2025-12-28",
@@ -140,7 +140,7 @@
       "min": 9,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 22
+      "pointsPlus": 21
     },
     {
       "date": "2026-01-03",
@@ -149,7 +149,7 @@
       "min": 16,
       "pts": 2,
       "adjPts": 2.0,
-      "pointsPlus": 21
+      "pointsPlus": 20
     },
     {
       "date": "2026-01-08",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 32,
       "pts": 19,
-      "adjPts": 23.5,
-      "pointsPlus": 246
+      "adjPts": 23.2,
+      "pointsPlus": 241
     },
     {
       "date": "2026-02-08",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 17,
       "pts": 7,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.7,
+      "pointsPlus": 70
     },
     {
       "date": "2026-02-12",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 30,
       "pts": 8,
-      "adjPts": 9.3,
-      "pointsPlus": 98
+      "adjPts": 9.4,
+      "pointsPlus": 97
     },
     {
       "date": "2026-02-14",

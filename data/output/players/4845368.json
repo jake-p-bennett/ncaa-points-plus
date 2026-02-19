@@ -4,17 +4,17 @@
   "team": "MIA",
   "teamName": "Miami Hurricanes",
   "conference": "ACC",
-  "rank": 213,
+  "rank": 214,
   "gp": 22,
   "ppg": 11.5,
   "adjPpg": 11.6,
-  "pointsPlus": 121,
+  "pointsPlus": 120,
   "mpg": 28.0,
   "position": "G",
   "jersey": "10",
   "classYear": "Junior",
-  "pointsPlusStdDev": 46.9,
-  "volatilityPctile": 34,
+  "pointsPlusStdDev": 46.5,
+  "volatilityPctile": 33,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 32,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-07",
@@ -32,7 +32,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 21,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-17",
@@ -50,7 +50,7 @@
       "min": 38,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2025-11-21",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 28,
       "pts": 17,
-      "adjPts": 17.5,
-      "pointsPlus": 183
+      "adjPts": 17.2,
+      "pointsPlus": 179
     },
     {
       "date": "2025-12-03",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 35,
       "pts": 17,
-      "adjPts": 17.5,
-      "pointsPlus": 183
+      "adjPts": 17.4,
+      "pointsPlus": 181
     },
     {
       "date": "2025-12-06",
@@ -104,7 +104,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-17",
@@ -113,7 +113,7 @@
       "min": 27,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-21",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 31,
       "pts": 13,
-      "adjPts": 12.0,
+      "adjPts": 12.1,
       "pointsPlus": 126
     },
     {
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 29,
       "pts": 7,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.7,
+      "pointsPlus": 70
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 26,
       "pts": 4,
-      "adjPts": 5.0,
-      "pointsPlus": 52
+      "adjPts": 4.9,
+      "pointsPlus": 51
     },
     {
       "date": "2026-01-21",
@@ -185,7 +185,7 @@
       "min": 29,
       "pts": 14,
       "adjPts": 14.3,
-      "pointsPlus": 150
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-29",
@@ -194,7 +194,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.5,
-      "pointsPlus": 131
+      "pointsPlus": 130
     },
     {
       "date": "2026-02-14",

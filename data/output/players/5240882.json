@@ -4,7 +4,7 @@
   "team": "SYR",
   "teamName": "Syracuse Orange",
   "conference": "ACC",
-  "rank": 189,
+  "rank": 192,
   "gp": 27,
   "ppg": 11.6,
   "adjPpg": 12.2,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 74.6,
+  "pointsPlusStdDev": 74.4,
   "volatilityPctile": 91,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 34,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-24",
@@ -68,7 +68,7 @@
       "min": 31,
       "pts": 9,
       "adjPts": 10.2,
-      "pointsPlus": 107
+      "pointsPlus": 106
     },
     {
       "date": "2025-11-26",
@@ -104,7 +104,7 @@
       "min": 34,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-18",
@@ -131,7 +131,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-31",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 28,
       "pts": 5,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-07",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 37,
       "pts": 7,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.7,
+      "pointsPlus": 70
     },
     {
       "date": "2026-01-10",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 36,
       "pts": 27,
-      "adjPts": 31.5,
-      "pointsPlus": 330
+      "adjPts": 31.6,
+      "pointsPlus": 329
     },
     {
       "date": "2026-01-22",
@@ -230,7 +230,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 14.5,
-      "pointsPlus": 152
+      "pointsPlus": 151
     },
     {
       "date": "2026-02-12",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 44,
       "pts": 27,
-      "adjPts": 27.2,
-      "pointsPlus": 285
+      "adjPts": 27.3,
+      "pointsPlus": 284
     },
     {
       "date": "2026-02-14",
@@ -257,7 +257,7 @@
       "min": 36,
       "pts": 10,
       "adjPts": 12.1,
-      "pointsPlus": 127
+      "pointsPlus": 126
     }
   ]
 }

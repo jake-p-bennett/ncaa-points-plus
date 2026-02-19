@@ -4,7 +4,7 @@
   "team": "MIZ",
   "teamName": "Missouri Tigers",
   "conference": "SEC",
-  "rank": 471,
+  "rank": 470,
   "gp": 12,
   "ppg": 6.2,
   "adjPpg": 6.2,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "14",
   "classYear": "Senior",
-  "pointsPlusStdDev": 55.6,
-  "volatilityPctile": 58,
+  "pointsPlusStdDev": 55.3,
+  "volatilityPctile": 57,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -41,7 +41,7 @@
       "min": 25,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-13",
@@ -59,7 +59,7 @@
       "min": 17,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-21",
@@ -68,7 +68,7 @@
       "min": 24,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-11-26",

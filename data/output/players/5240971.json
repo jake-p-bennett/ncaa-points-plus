@@ -4,7 +4,7 @@
   "team": "WIS",
   "teamName": "Wisconsin Badgers",
   "conference": "Big Ten",
-  "rank": 326,
+  "rank": 324,
   "gp": 21,
   "ppg": 9.3,
   "adjPpg": 9.2,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "22",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 60.6,
-  "volatilityPctile": 71,
+  "pointsPlusStdDev": 60.3,
+  "volatilityPctile": 70,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 29,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-12",
@@ -50,7 +50,7 @@
       "min": 28,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-21",
@@ -59,7 +59,7 @@
       "min": 27,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 19
+      "pointsPlus": 20
     },
     {
       "date": "2025-11-27",
@@ -86,7 +86,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2025-12-06",
@@ -104,7 +104,7 @@
       "min": 24,
       "pts": 7,
       "adjPts": 8.3,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2025-12-20",
@@ -140,7 +140,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 9.5,
-      "pointsPlus": 100
+      "pointsPlus": 99
     },
     {
       "date": "2026-01-17",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 17,
       "pts": 10,
-      "adjPts": 9.2,
-      "pointsPlus": 96
+      "adjPts": 9.1,
+      "pointsPlus": 95
     },
     {
       "date": "2026-01-25",
@@ -167,7 +167,7 @@
       "min": 14,
       "pts": 6,
       "adjPts": 5.6,
-      "pointsPlus": 59
+      "pointsPlus": 58
     },
     {
       "date": "2026-01-29",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 15,
       "pts": 4,
-      "adjPts": 4.7,
+      "adjPts": 4.8,
       "pointsPlus": 50
     },
     {
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 20,
       "pts": 19,
-      "adjPts": 18.7,
-      "pointsPlus": 196
+      "adjPts": 18.8,
+      "pointsPlus": 195
     },
     {
       "date": "2026-02-11",
@@ -194,7 +194,7 @@
       "min": 31,
       "pts": 18,
       "adjPts": 19.4,
-      "pointsPlus": 203
+      "pointsPlus": 202
     },
     {
       "date": "2026-02-14",

@@ -4,16 +4,16 @@
   "team": "XAV",
   "teamName": "Xavier Musketeers",
   "conference": "Big East",
-  "rank": 25,
+  "rank": 24,
   "gp": 26,
   "ppg": 18.4,
   "adjPpg": 19.1,
-  "pointsPlus": 200,
+  "pointsPlus": 199,
   "mpg": 32.3,
   "position": "F",
   "jersey": "12",
   "classYear": "Senior",
-  "pointsPlusStdDev": 78.6,
+  "pointsPlusStdDev": 78.5,
   "volatilityPctile": 95,
   "gameLog": [
     {
@@ -41,7 +41,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-11-15",
@@ -49,7 +49,7 @@
       "result": "L",
       "min": 35,
       "pts": 12,
-      "adjPts": 14.8,
+      "adjPts": 14.9,
       "pointsPlus": 155
     },
     {
@@ -59,7 +59,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-11-22",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 36,
       "pts": 17,
-      "adjPts": 22.3,
-      "pointsPlus": 233
+      "adjPts": 22.5,
+      "pointsPlus": 234
     },
     {
       "date": "2025-11-28",
@@ -95,7 +95,7 @@
       "min": 30,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-12-06",
@@ -104,7 +104,7 @@
       "min": 35,
       "pts": 30,
       "adjPts": 36.0,
-      "pointsPlus": 376
+      "pointsPlus": 375
     },
     {
       "date": "2025-12-13",
@@ -113,7 +113,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-17",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 17,
       "pts": 7,
-      "adjPts": 6.9,
-      "pointsPlus": 72
+      "adjPts": 6.8,
+      "pointsPlus": 71
     },
     {
       "date": "2025-12-21",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 28,
       "pts": 22,
-      "adjPts": 22.6,
-      "pointsPlus": 237
+      "adjPts": 22.2,
+      "pointsPlus": 232
     },
     {
       "date": "2025-12-31",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 31,
       "pts": 9,
-      "adjPts": 10.7,
-      "pointsPlus": 112
+      "adjPts": 10.5,
+      "pointsPlus": 109
     },
     {
       "date": "2026-01-03",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 34,
       "pts": 17,
-      "adjPts": 19.1,
-      "pointsPlus": 199
+      "adjPts": 19.3,
+      "pointsPlus": 201
     },
     {
       "date": "2026-01-08",
@@ -157,7 +157,7 @@
       "result": "L",
       "min": 34,
       "pts": 12,
-      "adjPts": 11.2,
+      "adjPts": 11.3,
       "pointsPlus": 118
     },
     {
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 36,
       "pts": 18,
-      "adjPts": 13.6,
-      "pointsPlus": 143
+      "adjPts": 13.7,
+      "pointsPlus": 142
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 34,
       "pts": 29,
-      "adjPts": 27.0,
-      "pointsPlus": 282
+      "adjPts": 26.7,
+      "pointsPlus": 278
     },
     {
       "date": "2026-01-22",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 35,
       "pts": 29,
-      "adjPts": 28.5,
-      "pointsPlus": 298
+      "adjPts": 28.3,
+      "pointsPlus": 295
     },
     {
       "date": "2026-01-24",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 35,
       "pts": 31,
-      "adjPts": 30.7,
+      "adjPts": 30.9,
       "pointsPlus": 322
     },
     {
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 30,
       "pts": 22,
-      "adjPts": 27.7,
+      "adjPts": 27.8,
       "pointsPlus": 289
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 38,
       "pts": 21,
-      "adjPts": 23.5,
-      "pointsPlus": 246
+      "adjPts": 23.9,
+      "pointsPlus": 249
     },
     {
       "date": "2026-02-04",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 32,
       "pts": 9,
-      "adjPts": 10.7,
-      "pointsPlus": 112
+      "adjPts": 10.5,
+      "pointsPlus": 109
     },
     {
       "date": "2026-02-09",
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 36,
       "pts": 21,
-      "adjPts": 20.8,
+      "adjPts": 20.9,
       "pointsPlus": 218
     },
     {
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 39,
       "pts": 28,
-      "adjPts": 30.2,
-      "pointsPlus": 316
+      "adjPts": 30.3,
+      "pointsPlus": 315
     }
   ]
 }

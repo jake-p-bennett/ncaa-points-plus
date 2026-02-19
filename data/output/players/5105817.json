@@ -4,16 +4,16 @@
   "team": "MSU",
   "teamName": "Michigan State Spartans",
   "conference": "Big Ten",
-  "rank": 279,
+  "rank": 278,
   "gp": 26,
   "ppg": 10.0,
   "adjPpg": 10.2,
-  "pointsPlus": 107,
+  "pointsPlus": 106,
   "mpg": 26.0,
   "position": "C",
   "jersey": "15",
   "classYear": "Senior",
-  "pointsPlusStdDev": 53.2,
+  "pointsPlusStdDev": 53.0,
   "volatilityPctile": 50,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 28,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-09",
@@ -31,8 +31,8 @@
       "result": "W",
       "min": 20,
       "pts": 9,
-      "adjPts": 8.0,
-      "pointsPlus": 83
+      "adjPts": 7.7,
+      "pointsPlus": 80
     },
     {
       "date": "2025-11-13",
@@ -41,7 +41,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-18",
@@ -59,7 +59,7 @@
       "min": 20,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-25",
@@ -68,7 +68,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-27",
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 30,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.6,
       "pointsPlus": 152
     },
     {
@@ -95,7 +95,7 @@
       "min": 32,
       "pts": 16,
       "adjPts": 19.4,
-      "pointsPlus": 203
+      "pointsPlus": 202
     },
     {
       "date": "2025-12-13",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 30,
       "pts": 10,
-      "adjPts": 9.2,
-      "pointsPlus": 96
+      "adjPts": 9.1,
+      "pointsPlus": 95
     },
     {
       "date": "2025-12-16",
@@ -113,7 +113,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 24,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-12-30",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 27,
       "pts": 5,
-      "adjPts": 4.7,
-      "pointsPlus": 49
+      "adjPts": 4.6,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-08",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 33,
       "pts": 18,
-      "adjPts": 18.7,
-      "pointsPlus": 196
+      "adjPts": 18.8,
+      "pointsPlus": 195
     },
     {
       "date": "2026-01-14",
@@ -167,7 +167,7 @@
       "min": 22,
       "pts": 7,
       "adjPts": 7.2,
-      "pointsPlus": 76
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-17",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 10.3,
+      "adjPts": 10.4,
       "pointsPlus": 108
     },
     {
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 33,
       "pts": 19,
-      "adjPts": 19.6,
+      "adjPts": 19.7,
       "pointsPlus": 205
     },
     {
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 19,
       "pts": 6,
-      "adjPts": 5.5,
+      "adjPts": 5.6,
       "pointsPlus": 58
     },
     {
@@ -248,7 +248,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 12.8,
-      "pointsPlus": 134
+      "pointsPlus": 133
     }
   ]
 }

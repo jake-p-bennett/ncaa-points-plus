@@ -4,7 +4,7 @@
   "team": "ASU",
   "teamName": "Arizona State Sun Devils",
   "conference": "Big 12",
-  "rank": 129,
+  "rank": 128,
   "gp": 26,
   "ppg": 13.9,
   "adjPpg": 13.7,
@@ -13,8 +13,8 @@
   "position": "C",
   "jersey": "35",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 43.6,
-  "volatilityPctile": 26,
+  "pointsPlusStdDev": 43.7,
+  "volatilityPctile": 25,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -50,7 +50,7 @@
       "min": 30,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-21",
@@ -59,7 +59,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-25",
@@ -68,7 +68,7 @@
       "min": 17,
       "pts": 6,
       "adjPts": 5.6,
-      "pointsPlus": 59
+      "pointsPlus": 58
     },
     {
       "date": "2025-11-26",
@@ -77,7 +77,7 @@
       "min": 29,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-26",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 12.2,
-      "pointsPlus": 128
+      "adjPts": 12.0,
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-07",
@@ -104,7 +104,7 @@
       "min": 24,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-12-14",
@@ -113,7 +113,7 @@
       "min": 35,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-12-18",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 32,
       "pts": 20,
-      "adjPts": 17.9,
-      "pointsPlus": 188
+      "adjPts": 18.0,
+      "pointsPlus": 187
     },
     {
       "date": "2026-01-08",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 36,
       "pts": 22,
-      "adjPts": 20.5,
-      "pointsPlus": 214
+      "adjPts": 20.6,
+      "pointsPlus": 215
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 31,
       "pts": 21,
-      "adjPts": 18.1,
-      "pointsPlus": 190
+      "adjPts": 18.2,
+      "pointsPlus": 189
     },
     {
       "date": "2026-01-15",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 29,
       "pts": 16,
-      "adjPts": 16.6,
+      "adjPts": 16.7,
       "pointsPlus": 174
     },
     {
@@ -176,7 +176,7 @@
       "min": 27,
       "pts": 6,
       "adjPts": 7.8,
-      "pointsPlus": 82
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-22",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 33,
       "pts": 14,
-      "adjPts": 18.3,
-      "pointsPlus": 192
+      "adjPts": 18.5,
+      "pointsPlus": 193
     },
     {
       "date": "2026-01-25",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 29,
       "pts": 13,
-      "adjPts": 13.5,
-      "pointsPlus": 141
+      "adjPts": 13.6,
+      "pointsPlus": 142
     },
     {
       "date": "2026-02-05",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 37,
       "pts": 15,
-      "adjPts": 13.5,
-      "pointsPlus": 141
+      "adjPts": 13.8,
+      "pointsPlus": 144
     },
     {
       "date": "2026-02-08",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 22,
       "pts": 17,
-      "adjPts": 14.1,
+      "adjPts": 14.2,
       "pointsPlus": 147
     },
     {

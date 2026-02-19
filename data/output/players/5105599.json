@@ -4,17 +4,17 @@
   "team": "MARQ",
   "teamName": "Marquette Golden Eagles",
   "conference": "Big East",
-  "rank": 354,
-  "gp": 25,
+  "rank": 356,
+  "gp": 26,
   "ppg": 8.3,
   "adjPpg": 8.4,
-  "pointsPlus": 88,
-  "mpg": 27.2,
+  "pointsPlus": 87,
+  "mpg": 27.3,
   "position": "F",
   "jersey": "12",
   "classYear": "Senior",
-  "pointsPlusStdDev": 54.3,
-  "volatilityPctile": 53,
+  "pointsPlusStdDev": 53.2,
+  "volatilityPctile": 50,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-09",
@@ -59,7 +59,7 @@
       "min": 33,
       "pts": 18,
       "adjPts": 17.2,
-      "pointsPlus": 180
+      "pointsPlus": 179
     },
     {
       "date": "2025-11-20",
@@ -77,7 +77,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-28",
@@ -95,7 +95,7 @@
       "min": 38,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-12-06",
@@ -113,7 +113,7 @@
       "min": 26,
       "pts": 7,
       "adjPts": 7.4,
-      "pointsPlus": 78
+      "pointsPlus": 77
     },
     {
       "date": "2025-12-18",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 27,
       "pts": 4,
-      "adjPts": 4.1,
-      "pointsPlus": 43
+      "adjPts": 4.0,
+      "pointsPlus": 42
     },
     {
       "date": "2025-12-21",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 36,
       "pts": 19,
-      "adjPts": 23.9,
+      "adjPts": 24.0,
       "pointsPlus": 250
     },
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 31,
       "pts": 4,
-      "adjPts": 4.8,
-      "pointsPlus": 50
+      "adjPts": 4.7,
+      "pointsPlus": 49
     },
     {
       "date": "2026-01-08",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 15,
       "pts": 6,
-      "adjPts": 6.7,
-      "pointsPlus": 70
+      "adjPts": 6.8,
+      "pointsPlus": 71
     },
     {
       "date": "2026-01-19",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 30,
       "pts": 11,
-      "adjPts": 10.2,
-      "pointsPlus": 107
+      "adjPts": 10.1,
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-28",
@@ -212,7 +212,7 @@
       "min": 32,
       "pts": 10,
       "adjPts": 12.6,
-      "pointsPlus": 132
+      "pointsPlus": 131
     },
     {
       "date": "2026-02-07",
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 28,
       "pts": 8,
-      "adjPts": 8.6,
+      "adjPts": 8.7,
       "pointsPlus": 90
     },
     {
@@ -240,6 +240,15 @@
       "pts": 10,
       "adjPts": 9.0,
       "pointsPlus": 94
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "MARQ vs SJU",
+      "result": "L",
+      "min": 32,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 73
     }
   ]
 }

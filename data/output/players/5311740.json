@@ -4,16 +4,16 @@
   "team": "MSST",
   "teamName": "Mississippi State Bulldogs",
   "conference": "SEC",
-  "rank": 528,
-  "gp": 21,
-  "ppg": 5.3,
-  "adjPpg": 5.1,
-  "pointsPlus": 53,
-  "mpg": 19.0,
+  "rank": 543,
+  "gp": 22,
+  "ppg": 5.1,
+  "adjPpg": 4.9,
+  "pointsPlus": 51,
+  "mpg": 18.6,
   "position": "F",
   "jersey": "11",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 35.5,
+  "pointsPlusStdDev": 36.3,
   "volatilityPctile": 10,
   "gameLog": [
     {
@@ -68,7 +68,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-14",
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 14,
       "pts": 4,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
     },
     {
@@ -86,7 +86,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-20",
@@ -112,7 +112,7 @@
       "result": "W",
       "min": 30,
       "pts": 7,
-      "adjPts": 6.5,
+      "adjPts": 6.6,
       "pointsPlus": 68
     },
     {
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 24,
       "pts": 7,
-      "adjPts": 5.4,
-      "pointsPlus": 57
+      "adjPts": 5.3,
+      "pointsPlus": 55
     },
     {
       "date": "2026-01-18",
@@ -140,7 +140,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 9.2,
-      "pointsPlus": 97
+      "pointsPlus": 96
     },
     {
       "date": "2026-01-22",
@@ -176,7 +176,7 @@
       "min": 21,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 31
+      "pointsPlus": 30
     },
     {
       "date": "2026-02-07",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 7,
       "pts": 2,
-      "adjPts": 1.8,
-      "pointsPlus": 19
+      "adjPts": 1.7,
+      "pointsPlus": 18
     },
     {
       "date": "2026-02-12",
@@ -203,7 +203,16 @@
       "min": 15,
       "pts": 5,
       "adjPts": 5.1,
-      "pointsPlus": 54
+      "pointsPlus": 53
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "MSST vs AUB",
+      "result": "W",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

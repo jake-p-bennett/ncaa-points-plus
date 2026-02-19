@@ -4,17 +4,17 @@
   "team": "GT",
   "teamName": "Georgia Tech Yellow Jackets",
   "conference": "ACC",
-  "rank": 320,
-  "gp": 24,
-  "ppg": 9.0,
-  "adjPpg": 9.3,
-  "pointsPlus": 97,
-  "mpg": 26.4,
+  "rank": 305,
+  "gp": 25,
+  "ppg": 9.4,
+  "adjPpg": 9.7,
+  "pointsPlus": 101,
+  "mpg": 26.8,
   "position": "G",
   "jersey": "3",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 35.7,
-  "volatilityPctile": 10,
+  "pointsPlusStdDev": 41.3,
+  "volatilityPctile": 19,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -59,7 +59,7 @@
       "min": 30,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-23",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 28,
       "pts": 9,
-      "adjPts": 10.1,
-      "pointsPlus": 106
+      "adjPts": 10.2,
+      "pointsPlus": 107
     },
     {
       "date": "2025-11-29",
@@ -95,7 +95,7 @@
       "min": 18,
       "pts": 5,
       "adjPts": 4.6,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2025-12-06",
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 28,
       "pts": 11,
-      "adjPts": 13.3,
+      "adjPts": 13.4,
       "pointsPlus": 139
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 20,
       "pts": 8,
-      "adjPts": 9.9,
-      "pointsPlus": 104
+      "adjPts": 9.8,
+      "pointsPlus": 102
     },
     {
       "date": "2026-01-28",
@@ -203,7 +203,7 @@
       "min": 33,
       "pts": 14,
       "adjPts": 14.1,
-      "pointsPlus": 148
+      "pointsPlus": 147
     },
     {
       "date": "2026-02-08",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 28,
       "pts": 13,
-      "adjPts": 13.5,
-      "pointsPlus": 142
+      "adjPts": 13.6,
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-12",
@@ -230,7 +230,16 @@
       "min": 35,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 151
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "GT vs UVA",
+      "result": "L",
+      "min": 35,
+      "pts": 18,
+      "adjPts": 20.0,
+      "pointsPlus": 209
     }
   ]
 }

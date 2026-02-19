@@ -4,7 +4,7 @@
   "team": "VT",
   "teamName": "Virginia Tech Hokies",
   "conference": "ACC",
-  "rank": 212,
+  "rank": 211,
   "gp": 18,
   "ppg": 11.6,
   "adjPpg": 11.6,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 63.1,
-  "volatilityPctile": 77,
+  "pointsPlusStdDev": 63.0,
+  "volatilityPctile": 78,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 29,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-11-08",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 24,
       "pts": 10,
-      "adjPts": 8.7,
+      "adjPts": 8.8,
       "pointsPlus": 91
     },
     {
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 29,
       "pts": 22,
-      "adjPts": 22.6,
-      "pointsPlus": 237
+      "adjPts": 22.7,
+      "pointsPlus": 236
     },
     {
       "date": "2026-01-22",
@@ -122,7 +122,7 @@
       "min": 30,
       "pts": 2,
       "adjPts": 2.0,
-      "pointsPlus": 21
+      "pointsPlus": 20
     },
     {
       "date": "2026-01-28",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 25,
       "pts": 10,
-      "adjPts": 9.7,
-      "pointsPlus": 102
+      "adjPts": 9.6,
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-31",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 31,
       "pts": 4,
-      "adjPts": 4.8,
+      "adjPts": 4.9,
       "pointsPlus": 51
     },
     {
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 30,
       "pts": 17,
-      "adjPts": 16.2,
+      "adjPts": 16.3,
       "pointsPlus": 170
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 31,
       "pts": 12,
-      "adjPts": 14.9,
-      "pointsPlus": 155
+      "adjPts": 14.6,
+      "pointsPlus": 152
     },
     {
       "date": "2026-02-14",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 32,
       "pts": 16,
-      "adjPts": 14.4,
+      "adjPts": 14.5,
       "pointsPlus": 151
     },
     {
@@ -176,7 +176,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 8.4,
-      "pointsPlus": 88
+      "pointsPlus": 87
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "GTWN",
   "teamName": "Georgetown Hoyas",
   "conference": "Big East",
-  "rank": 505,
-  "gp": 24,
-  "ppg": 5.5,
-  "adjPpg": 5.6,
-  "pointsPlus": 59,
+  "rank": 514,
+  "gp": 25,
+  "ppg": 5.3,
+  "adjPpg": 5.5,
+  "pointsPlus": 57,
   "mpg": 19.8,
   "position": "F",
   "jersey": "7",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 49.8,
-  "volatilityPctile": 41,
+  "pointsPlusStdDev": 49.3,
+  "volatilityPctile": 40,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 12,
       "pts": 4,
-      "adjPts": 5.0,
-      "pointsPlus": 52
+      "adjPts": 4.9,
+      "pointsPlus": 51
     },
     {
       "date": "2025-11-22",
@@ -59,7 +59,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-28",
@@ -112,7 +112,7 @@
       "result": "W",
       "min": 16,
       "pts": 4,
-      "adjPts": 3.7,
+      "adjPts": 3.8,
       "pointsPlus": 39
     },
     {
@@ -131,7 +131,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2026-01-01",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 16,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 8.0,
       "pointsPlus": 83
     },
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 24,
       "pts": 5,
-      "adjPts": 5.9,
-      "pointsPlus": 62
+      "adjPts": 5.8,
+      "pointsPlus": 61
     },
     {
       "date": "2026-01-22",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 19,
       "pts": 3,
-      "adjPts": 3.0,
-      "pointsPlus": 31
+      "adjPts": 2.9,
+      "pointsPlus": 30
     },
     {
       "date": "2026-02-07",
@@ -231,6 +231,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "GTWN vs BUT",
+      "result": "L",
+      "min": 21,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
     }
   ]
 }

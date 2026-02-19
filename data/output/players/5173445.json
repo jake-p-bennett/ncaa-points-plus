@@ -4,17 +4,17 @@
   "team": "PSU",
   "teamName": "Penn State Nittany Lions",
   "conference": "Big Ten",
-  "rank": 434,
-  "gp": 26,
+  "rank": 433,
+  "gp": 27,
   "ppg": 6.9,
   "adjPpg": 7.0,
   "pointsPlus": 73,
-  "mpg": 20.9,
+  "mpg": 21.1,
   "position": "G",
   "jersey": "7",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 51.8,
-  "volatilityPctile": 45,
+  "pointsPlusStdDev": 50.7,
+  "volatilityPctile": 43,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -41,7 +41,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-15",
@@ -77,7 +77,7 @@
       "min": 18,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-29",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 37,
       "pts": 16,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 178
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 32,
       "pts": 17,
-      "adjPts": 16.2,
-      "pointsPlus": 170
+      "adjPts": 16.3,
+      "pointsPlus": 169
     },
     {
       "date": "2026-01-23",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 21,
       "pts": 6,
-      "adjPts": 5.5,
+      "adjPts": 5.6,
       "pointsPlus": 58
     },
     {
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 26,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.3,
       "pointsPlus": 65
     },
     {
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 29,
       "pts": 12,
-      "adjPts": 14.2,
+      "adjPts": 14.3,
       "pointsPlus": 149
     },
     {
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 34,
       "pts": 11,
-      "adjPts": 10.3,
-      "pointsPlus": 108
+      "adjPts": 10.2,
+      "pointsPlus": 106
     },
     {
       "date": "2026-02-12",
@@ -249,6 +249,15 @@
       "pts": 8,
       "adjPts": 8.3,
       "pointsPlus": 86
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "PSU vs RUTG",
+      "result": "L",
+      "min": 28,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 63
     }
   ]
 }

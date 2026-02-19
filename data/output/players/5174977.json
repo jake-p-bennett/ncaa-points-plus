@@ -4,17 +4,17 @@
   "team": "CLEM",
   "teamName": "Clemson Tigers",
   "conference": "ACC",
-  "rank": 506,
-  "gp": 26,
-  "ppg": 5.7,
-  "adjPpg": 5.6,
-  "pointsPlus": 59,
-  "mpg": 20.9,
+  "rank": 484,
+  "gp": 27,
+  "ppg": 6.1,
+  "adjPpg": 6.0,
+  "pointsPlus": 62,
+  "mpg": 21.2,
   "position": "F",
   "jersey": "10",
   "classYear": "Junior",
-  "pointsPlusStdDev": 40.9,
-  "volatilityPctile": 19,
+  "pointsPlusStdDev": 44.6,
+  "volatilityPctile": 27,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 31,
       "pts": 8,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.1,
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-18",
@@ -59,7 +59,7 @@
       "min": 25,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-21",
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 19,
       "pts": 3,
-      "adjPts": 3.9,
+      "adjPts": 4.0,
       "pointsPlus": 41
     },
     {
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 22,
       "pts": 11,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2025-12-09",
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 30,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 54
     },
     {
@@ -185,7 +185,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 8.4,
-      "pointsPlus": 88
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-21",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 31,
       "pts": 13,
-      "adjPts": 12.6,
-      "pointsPlus": 132
+      "adjPts": 12.5,
+      "pointsPlus": 130
     },
     {
       "date": "2026-01-31",
@@ -249,6 +249,15 @@
       "pts": 6,
       "adjPts": 7.3,
       "pointsPlus": 76
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "CLEM @ WAKE",
+      "result": "L",
+      "min": 30,
+      "pts": 17,
+      "adjPts": 15.8,
+      "pointsPlus": 164
     }
   ]
 }

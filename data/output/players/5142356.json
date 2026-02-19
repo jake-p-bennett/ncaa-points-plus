@@ -4,17 +4,17 @@
   "team": "GT",
   "teamName": "Georgia Tech Yellow Jackets",
   "conference": "ACC",
-  "rank": 166,
-  "gp": 22,
+  "rank": 162,
+  "gp": 23,
   "ppg": 12.5,
-  "adjPpg": 12.7,
+  "adjPpg": 12.8,
   "pointsPlus": 133,
-  "mpg": 27.3,
+  "mpg": 27.2,
   "position": "F",
   "jersey": "11",
   "classYear": "Junior",
-  "pointsPlusStdDev": 55.8,
-  "volatilityPctile": 59,
+  "pointsPlusStdDev": 54.7,
+  "volatilityPctile": 55,
   "gameLog": [
     {
       "date": "2025-11-08",
@@ -23,7 +23,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-11",
@@ -32,7 +32,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-15",
@@ -41,7 +41,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 8.5,
-      "pointsPlus": 89
+      "pointsPlus": 88
     },
     {
       "date": "2025-11-19",
@@ -50,7 +50,7 @@
       "min": 31,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-11-23",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 32,
       "pts": 6,
-      "adjPts": 6.7,
-      "pointsPlus": 70
+      "adjPts": 6.8,
+      "pointsPlus": 71
     },
     {
       "date": "2025-11-29",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 22,
       "pts": 12,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 10.9,
+      "pointsPlus": 114
     },
     {
       "date": "2025-12-28",
@@ -95,7 +95,7 @@
       "min": 23,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-12-31",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 20,
       "pts": 4,
-      "adjPts": 4.8,
+      "adjPts": 4.9,
       "pointsPlus": 51
     },
     {
@@ -130,7 +130,7 @@
       "result": "L",
       "min": 28,
       "pts": 16,
-      "adjPts": 16.7,
+      "adjPts": 16.8,
       "pointsPlus": 175
     },
     {
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 31,
       "pts": 5,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-28",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 32,
       "pts": 14,
-      "adjPts": 13.7,
-      "pointsPlus": 144
+      "adjPts": 13.8,
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-31",
@@ -194,7 +194,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 14.6,
-      "pointsPlus": 153
+      "pointsPlus": 152
     },
     {
       "date": "2026-02-12",
@@ -203,7 +203,7 @@
       "min": 30,
       "pts": 14,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2026-02-14",
@@ -212,6 +212,15 @@
       "min": 29,
       "pts": 14,
       "adjPts": 14.4,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "GT vs UVA",
+      "result": "L",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 14.5,
       "pointsPlus": 151
     }
   ]

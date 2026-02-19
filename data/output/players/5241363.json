@@ -4,7 +4,7 @@
   "team": "IOWA",
   "teamName": "Iowa Hawkeyes",
   "conference": "Big Ten",
-  "rank": 237,
+  "rank": 239,
   "gp": 26,
   "ppg": 10.7,
   "adjPpg": 10.9,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "6",
   "classYear": "Senior",
-  "pointsPlusStdDev": 59.3,
+  "pointsPlusStdDev": 59.0,
   "volatilityPctile": 68,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 19,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-08",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 20,
       "pts": 14,
-      "adjPts": 16.3,
+      "adjPts": 16.4,
       "pointsPlus": 171
     },
     {
@@ -131,7 +131,7 @@
       "min": 16,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2026-01-03",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 20,
       "pts": 10,
-      "adjPts": 10.6,
+      "adjPts": 10.7,
       "pointsPlus": 111
     },
     {
@@ -158,7 +158,7 @@
       "min": 25,
       "pts": 16,
       "adjPts": 17.2,
-      "pointsPlus": 180
+      "pointsPlus": 179
     },
     {
       "date": "2026-01-14",
@@ -167,7 +167,7 @@
       "min": 22,
       "pts": 9,
       "adjPts": 9.5,
-      "pointsPlus": 100
+      "pointsPlus": 99
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 32,
       "pts": 26,
       "adjPts": 26.9,
-      "pointsPlus": 281
+      "pointsPlus": 280
     },
     {
       "date": "2026-01-21",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 28,
       "pts": 20,
-      "adjPts": 18.8,
-      "pointsPlus": 196
+      "adjPts": 18.5,
+      "pointsPlus": 193
     },
     {
       "date": "2026-02-02",
@@ -221,7 +221,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-11",
@@ -239,7 +239,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 9.5,
-      "pointsPlus": 100
+      "pointsPlus": 99
     },
     {
       "date": "2026-02-18",

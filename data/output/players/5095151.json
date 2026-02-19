@@ -4,16 +4,16 @@
   "team": "UNC",
   "teamName": "North Carolina Tar Heels",
   "conference": "ACC",
-  "rank": 15,
+  "rank": 16,
   "gp": 24,
   "ppg": 19.8,
   "adjPpg": 20.3,
-  "pointsPlus": 212,
+  "pointsPlus": 211,
   "mpg": 31.5,
   "position": "F",
   "jersey": "8",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 43.5,
+  "pointsPlusStdDev": 43.4,
   "volatilityPctile": 25,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 25,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 230
+      "pointsPlus": 229
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 31,
       "pts": 24,
       "adjPts": 27.2,
-      "pointsPlus": 284
+      "pointsPlus": 283
     },
     {
       "date": "2025-11-12",
@@ -41,7 +41,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-15",
@@ -50,7 +50,7 @@
       "min": 29,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-11-19",
@@ -59,7 +59,7 @@
       "min": 27,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 241
+      "pointsPlus": 240
     },
     {
       "date": "2025-11-25",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 35,
       "pts": 20,
-      "adjPts": 20.6,
-      "pointsPlus": 215
+      "adjPts": 20.2,
+      "pointsPlus": 211
     },
     {
       "date": "2025-12-13",
@@ -104,7 +104,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-12-17",
@@ -113,7 +113,7 @@
       "min": 28,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-12-20",
@@ -121,7 +121,7 @@
       "result": "W",
       "min": 34,
       "pts": 20,
-      "adjPts": 19.7,
+      "adjPts": 19.8,
       "pointsPlus": 206
     },
     {
@@ -131,7 +131,7 @@
       "min": 24,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-12-31",
@@ -140,7 +140,7 @@
       "min": 36,
       "pts": 22,
       "adjPts": 19.9,
-      "pointsPlus": 208
+      "pointsPlus": 207
     },
     {
       "date": "2026-01-03",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 34,
       "pts": 17,
-      "adjPts": 17.1,
+      "adjPts": 17.2,
       "pointsPlus": 179
     },
     {
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 30,
       "pts": 22,
-      "adjPts": 22.6,
-      "pointsPlus": 237
+      "adjPts": 22.7,
+      "pointsPlus": 236
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 22.3,
-      "pointsPlus": 233
+      "pointsPlus": 232
     },
     {
       "date": "2026-01-31",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 30,
       "pts": 22,
-      "adjPts": 21.4,
-      "pointsPlus": 224
+      "adjPts": 21.2,
+      "pointsPlus": 221
     },
     {
       "date": "2026-02-03",

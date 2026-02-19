@@ -4,17 +4,17 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 340,
+  "rank": 336,
   "gp": 26,
   "ppg": 8.8,
-  "adjPpg": 8.9,
-  "pointsPlus": 94,
+  "adjPpg": 9.0,
+  "pointsPlus": 93,
   "mpg": 29.7,
   "position": "G",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 52.2,
-  "volatilityPctile": 47,
+  "pointsPlusStdDev": 51.9,
+  "volatilityPctile": 46,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 19,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-07",
@@ -40,7 +40,7 @@
       "result": "L",
       "min": 28,
       "pts": 11,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 105
     },
     {
@@ -50,7 +50,7 @@
       "min": 30,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-19",
@@ -59,7 +59,7 @@
       "min": 50,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-27",
@@ -68,7 +68,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-28",
@@ -86,7 +86,7 @@
       "min": 36,
       "pts": 12,
       "adjPts": 12.8,
-      "pointsPlus": 134
+      "pointsPlus": 133
     },
     {
       "date": "2025-12-06",
@@ -95,7 +95,7 @@
       "min": 28,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 20
+      "pointsPlus": 19
     },
     {
       "date": "2025-12-13",
@@ -104,7 +104,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-20",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 36,
       "pts": 5,
-      "adjPts": 4.5,
-      "pointsPlus": 47
+      "adjPts": 4.6,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-05",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 26,
       "pts": 13,
-      "adjPts": 13.4,
+      "adjPts": 13.5,
       "pointsPlus": 140
     },
     {
@@ -167,7 +167,7 @@
       "min": 36,
       "pts": 13,
       "adjPts": 13.3,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2026-01-17",
@@ -194,7 +194,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.4,
-      "pointsPlus": 130
+      "pointsPlus": 129
     },
     {
       "date": "2026-01-30",
@@ -230,7 +230,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 12.8,
-      "pointsPlus": 134
+      "pointsPlus": 133
     },
     {
       "date": "2026-02-12",

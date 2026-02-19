@@ -4,16 +4,16 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 201,
+  "rank": 202,
   "gp": 26,
   "ppg": 12.1,
-  "adjPpg": 11.9,
-  "pointsPlus": 124,
+  "adjPpg": 11.8,
+  "pointsPlus": 123,
   "mpg": 25.3,
   "position": "G",
   "jersey": "4",
   "classYear": "Junior",
-  "pointsPlusStdDev": 54.9,
+  "pointsPlusStdDev": 54.7,
   "volatilityPctile": 55,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-06",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 25,
       "pts": 7,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.7,
+      "pointsPlus": 70
     },
     {
       "date": "2025-11-17",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 25,
       "pts": 7,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.5,
+      "pointsPlus": 89
     },
     {
       "date": "2025-11-29",
@@ -86,7 +86,7 @@
       "min": 19,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 230
+      "pointsPlus": 229
     },
     {
       "date": "2025-12-03",
@@ -113,7 +113,7 @@
       "min": 19,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-12-22",
@@ -122,7 +122,7 @@
       "min": 22,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-30",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 33,
       "pts": 24,
-      "adjPts": 20.8,
-      "pointsPlus": 218
+      "adjPts": 20.7,
+      "pointsPlus": 215
     },
     {
       "date": "2026-01-07",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 29,
       "pts": 14,
-      "adjPts": 14.4,
-      "pointsPlus": 150
+      "adjPts": 14.3,
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 25,
       "pts": 5,
-      "adjPts": 4.4,
-      "pointsPlus": 46
+      "adjPts": 4.3,
+      "pointsPlus": 45
     },
     {
       "date": "2026-01-21",
@@ -185,7 +185,7 @@
       "min": 26,
       "pts": 18,
       "adjPts": 17.5,
-      "pointsPlus": 183
+      "pointsPlus": 182
     },
     {
       "date": "2026-01-24",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 29,
       "pts": 12,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 106
     },
     {
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 31,
       "pts": 16,
-      "adjPts": 14.3,
-      "pointsPlus": 149
+      "adjPts": 14.2,
+      "pointsPlus": 148
     },
     {
       "date": "2026-02-18",

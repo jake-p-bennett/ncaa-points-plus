@@ -8,13 +8,13 @@
   "gp": 25,
   "ppg": 2.4,
   "adjPpg": 2.3,
-  "pointsPlus": 25,
+  "pointsPlus": 24,
   "mpg": 12.4,
   "position": "G",
   "jersey": "5",
   "classYear": "Sophomore",
   "pointsPlusStdDev": 27.9,
-  "volatilityPctile": 4,
+  "volatilityPctile": 3,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 17,
       "pts": 6,
-      "adjPts": 5.5,
+      "adjPts": 5.6,
       "pointsPlus": 58
     },
     {

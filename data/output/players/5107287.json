@@ -4,17 +4,17 @@
   "team": "WVU",
   "teamName": "West Virginia Mountaineers",
   "conference": "Big 12",
-  "rank": 293,
-  "gp": 25,
+  "rank": 294,
+  "gp": 26,
   "ppg": 9.9,
-  "adjPpg": 9.9,
-  "pointsPlus": 104,
-  "mpg": 28.1,
+  "adjPpg": 9.8,
+  "pointsPlus": 103,
+  "mpg": 28.3,
   "position": "F",
   "jersey": "52",
   "classYear": "Senior",
-  "pointsPlusStdDev": 67.8,
-  "volatilityPctile": 86,
+  "pointsPlusStdDev": 66.4,
+  "volatilityPctile": 84,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -32,7 +32,7 @@
       "min": 29,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-09",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 17,
       "pts": 5,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2025-11-23",
@@ -113,7 +113,7 @@
       "min": 24,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 241
+      "pointsPlus": 240
     },
     {
       "date": "2025-12-14",
@@ -122,7 +122,7 @@
       "min": 23,
       "pts": 5,
       "adjPts": 4.9,
-      "pointsPlus": 52
+      "pointsPlus": 51
     },
     {
       "date": "2025-12-23",
@@ -131,7 +131,7 @@
       "min": 33,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 241
+      "pointsPlus": 240
     },
     {
       "date": "2026-01-03",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 37,
       "pts": 22,
-      "adjPts": 19.7,
-      "pointsPlus": 207
+      "adjPts": 19.8,
+      "pointsPlus": 206
     },
     {
       "date": "2026-01-22",
@@ -230,7 +230,7 @@
       "min": 30,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 53
+      "pointsPlus": 52
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 8,
       "adjPts": 7.3,
       "pointsPlus": 76
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "WVU vs UTAH",
+      "result": "L",
+      "min": 33,
+      "pts": 9,
+      "adjPts": 8.3,
+      "pointsPlus": 87
     }
   ]
 }

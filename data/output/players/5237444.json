@@ -4,7 +4,7 @@
   "team": "COLO",
   "teamName": "Colorado Buffaloes",
   "conference": "Big 12",
-  "rank": 586,
+  "rank": 587,
   "gp": 26,
   "ppg": 4.2,
   "adjPpg": 4.2,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "5",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 36.6,
+  "pointsPlusStdDev": 36.7,
   "volatilityPctile": 11,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 18,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-22",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 18,
       "pts": 9,
-      "adjPts": 8.1,
-      "pointsPlus": 85
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-11",
@@ -158,7 +158,7 @@
       "min": 14,
       "pts": 3,
       "adjPts": 3.0,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2026-01-15",
@@ -239,7 +239,7 @@
       "min": 20,
       "pts": 1,
       "adjPts": 1.0,
-      "pointsPlus": 11
+      "pointsPlus": 10
     },
     {
       "date": "2026-02-14",
@@ -248,7 +248,7 @@
       "min": 16,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 19
+      "pointsPlus": 20
     }
   ]
 }

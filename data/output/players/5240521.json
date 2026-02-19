@@ -4,16 +4,16 @@
   "team": "GTWN",
   "teamName": "Georgetown Hoyas",
   "conference": "Big East",
-  "rank": 608,
-  "gp": 25,
-  "ppg": 3.7,
-  "adjPpg": 3.7,
-  "pointsPlus": 39,
-  "mpg": 14.4,
+  "rank": 602,
+  "gp": 26,
+  "ppg": 3.8,
+  "adjPpg": 3.9,
+  "pointsPlus": 40,
+  "mpg": 14.2,
   "position": "F",
   "jersey": "0",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 35.0,
+  "pointsPlusStdDev": 34.9,
   "volatilityPctile": 9,
   "gameLog": [
     {
@@ -112,7 +112,7 @@
       "result": "W",
       "min": 20,
       "pts": 4,
-      "adjPts": 3.7,
+      "adjPts": 3.8,
       "pointsPlus": 39
     },
     {
@@ -131,7 +131,7 @@
       "min": 32,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-01",
@@ -140,7 +140,7 @@
       "min": 25,
       "pts": 4,
       "adjPts": 4.0,
-      "pointsPlus": 41
+      "pointsPlus": 42
     },
     {
       "date": "2026-01-07",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 15,
       "pts": 2,
-      "adjPts": 2.2,
-      "pointsPlus": 23
+      "adjPts": 2.3,
+      "pointsPlus": 24
     },
     {
       "date": "2026-01-10",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 10,
       "pts": 3,
-      "adjPts": 3.0,
-      "pointsPlus": 31
+      "adjPts": 2.9,
+      "pointsPlus": 30
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 11,
       "pts": 4,
-      "adjPts": 4.8,
-      "pointsPlus": 50
+      "adjPts": 4.7,
+      "pointsPlus": 49
     },
     {
       "date": "2026-01-22",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 6,
       "pts": 2,
-      "adjPts": 2.2,
-      "pointsPlus": 23
+      "adjPts": 2.3,
+      "pointsPlus": 24
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 7.4,
-      "pointsPlus": 78
+      "pointsPlus": 77
     },
     {
       "date": "2026-02-05",
@@ -238,8 +238,17 @@
       "result": "L",
       "min": 21,
       "pts": 3,
-      "adjPts": 3.6,
-      "pointsPlus": 37
+      "adjPts": 3.5,
+      "pointsPlus": 36
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "GTWN vs BUT",
+      "result": "L",
+      "min": 9,
+      "pts": 8,
+      "adjPts": 7.4,
+      "pointsPlus": 77
     }
   ]
 }

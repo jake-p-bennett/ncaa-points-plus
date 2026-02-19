@@ -4,17 +4,17 @@
   "team": "DEP",
   "teamName": "DePaul Blue Demons",
   "conference": "Big East",
-  "rank": 389,
-  "gp": 25,
-  "ppg": 7.5,
-  "adjPpg": 7.6,
-  "pointsPlus": 80,
+  "rank": 405,
+  "gp": 26,
+  "ppg": 7.2,
+  "adjPpg": 7.3,
+  "pointsPlus": 76,
   "mpg": 28.9,
   "position": "G",
   "jersey": "5",
   "classYear": "Junior",
-  "pointsPlusStdDev": 35.2,
-  "volatilityPctile": 9,
+  "pointsPlusStdDev": 37.5,
+  "volatilityPctile": 12,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 25,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-12",
@@ -68,7 +68,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-29",
@@ -77,7 +77,7 @@
       "min": 22,
       "pts": 9,
       "adjPts": 8.7,
-      "pointsPlus": 91
+      "pointsPlus": 90
     },
     {
       "date": "2025-11-30",
@@ -86,7 +86,7 @@
       "min": 33,
       "pts": 9,
       "adjPts": 8.5,
-      "pointsPlus": 89
+      "pointsPlus": 88
     },
     {
       "date": "2025-12-07",
@@ -95,7 +95,7 @@
       "min": 35,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-10",
@@ -113,7 +113,7 @@
       "min": 37,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-17",
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 32,
       "pts": 13,
-      "adjPts": 12.9,
+      "adjPts": 13.0,
       "pointsPlus": 135
     },
     {
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 35,
       "pts": 8,
-      "adjPts": 9.5,
-      "pointsPlus": 99
+      "adjPts": 9.3,
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-31",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 27,
       "pts": 8,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.1,
+      "pointsPlus": 84
     },
     {
       "date": "2026-01-10",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 31,
       "pts": 5,
-      "adjPts": 5.9,
-      "pointsPlus": 62
+      "adjPts": 5.8,
+      "pointsPlus": 61
     },
     {
       "date": "2026-01-17",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 37,
       "pts": 2,
-      "adjPts": 1.9,
+      "adjPts": 1.8,
       "pointsPlus": 19
     },
     {
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 31,
       "pts": 11,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 145
     },
     {
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 13.4,
-      "pointsPlus": 140
+      "adjPts": 13.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-31",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 31,
       "pts": 9,
-      "adjPts": 8.9,
-      "pointsPlus": 93
+      "adjPts": 9.0,
+      "pointsPlus": 94
     },
     {
       "date": "2026-02-07",
@@ -240,6 +240,15 @@
       "pts": 5,
       "adjPts": 4.9,
       "pointsPlus": 51
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "DEP @ HALL",
+      "result": "W",
+      "min": 29,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

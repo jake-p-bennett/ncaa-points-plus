@@ -4,7 +4,7 @@
   "team": "ASU",
   "teamName": "Arizona State Sun Devils",
   "conference": "Big 12",
-  "rank": 428,
+  "rank": 421,
   "gp": 26,
   "ppg": 7.1,
   "adjPpg": 7.1,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "14",
   "classYear": "Junior",
-  "pointsPlusStdDev": 42.0,
-  "volatilityPctile": 22,
+  "pointsPlusStdDev": 41.9,
+  "volatilityPctile": 21,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -23,7 +23,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-09",
@@ -95,7 +95,7 @@
       "min": 14,
       "pts": 11,
       "adjPts": 9.8,
-      "pointsPlus": 103
+      "pointsPlus": 102
     },
     {
       "date": "2025-12-10",
@@ -113,7 +113,7 @@
       "min": 19,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-18",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 36,
       "pts": 13,
-      "adjPts": 13.8,
-      "pointsPlus": 145
+      "adjPts": 13.9,
+      "pointsPlus": 144
     },
     {
       "date": "2025-12-21",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 26,
       "pts": 10,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.4,
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-10",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 9,
       "pts": 3,
-      "adjPts": 3.9,
+      "adjPts": 4.0,
       "pointsPlus": 41
     },
     {
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 22,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.3,
       "pointsPlus": 65
     },
     {
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 35,
       "pts": 9,
-      "adjPts": 8.1,
-      "pointsPlus": 85
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-02-08",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 25,
       "pts": 11,
-      "adjPts": 9.1,
+      "adjPts": 9.2,
       "pointsPlus": 95
     },
     {

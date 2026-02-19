@@ -4,7 +4,7 @@
   "team": "PITT",
   "teamName": "Pittsburgh Panthers",
   "conference": "ACC",
-  "rank": 385,
+  "rank": 386,
   "gp": 26,
   "ppg": 7.7,
   "adjPpg": 7.7,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "25",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 53.5,
+  "pointsPlusStdDev": 53.3,
   "volatilityPctile": 51,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 31,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-08",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 14,
       "pts": 5,
-      "adjPts": 6.5,
-      "pointsPlus": 68
+      "adjPts": 6.6,
+      "pointsPlus": 69
     },
     {
       "date": "2025-11-18",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 25,
       "pts": 16,
-      "adjPts": 15.5,
-      "pointsPlus": 163
+      "adjPts": 15.4,
+      "pointsPlus": 160
     },
     {
       "date": "2026-01-18",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 22,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 82
     },
     {
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 21,
       "pts": 8,
-      "adjPts": 7.6,
+      "adjPts": 7.7,
       "pointsPlus": 80
     },
     {
@@ -203,7 +203,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 7.4,
-      "pointsPlus": 78
+      "pointsPlus": 77
     },
     {
       "date": "2026-01-31",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 29,
       "pts": 11,
-      "adjPts": 12.3,
+      "adjPts": 12.2,
       "pointsPlus": 128
     },
     {
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 28,
       "pts": 10,
-      "adjPts": 8.7,
+      "adjPts": 8.8,
       "pointsPlus": 91
     },
     {

@@ -4,17 +4,17 @@
   "team": "DUKE",
   "teamName": "Duke Blue Devils",
   "conference": "ACC",
-  "rank": 494,
+  "rank": 496,
   "gp": 26,
   "ppg": 5.7,
   "adjPpg": 5.8,
-  "pointsPlus": 61,
+  "pointsPlus": 60,
   "mpg": 21.1,
   "position": "G",
   "jersey": "7",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 44.2,
-  "volatilityPctile": 27,
+  "pointsPlusStdDev": 44.0,
+  "volatilityPctile": 26,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -41,7 +41,7 @@
       "min": 21,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-11-15",
@@ -50,7 +50,7 @@
       "min": 18,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-19",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 17,
       "pts": 4,
-      "adjPts": 3.5,
-      "pointsPlus": 37
+      "adjPts": 3.4,
+      "pointsPlus": 36
     },
     {
       "date": "2025-12-03",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 10,
       "pts": 9,
-      "adjPts": 9.0,
-      "pointsPlus": 95
+      "adjPts": 9.1,
+      "pointsPlus": 94
     },
     {
       "date": "2025-12-31",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 23,
       "pts": 13,
-      "adjPts": 11.7,
-      "pointsPlus": 123
+      "adjPts": 11.8,
+      "pointsPlus": 122
     },
     {
       "date": "2026-01-07",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 18,
       "pts": 6,
-      "adjPts": 5.2,
+      "adjPts": 5.3,
       "pointsPlus": 55
     },
     {
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 23,
       "pts": 5,
-      "adjPts": 5.0,
+      "adjPts": 5.1,
       "pointsPlus": 53
     },
     {
@@ -194,7 +194,7 @@
       "min": 27,
       "pts": 2,
       "adjPts": 2.0,
-      "pointsPlus": 21
+      "pointsPlus": 20
     },
     {
       "date": "2026-01-31",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 29,
       "pts": 6,
-      "adjPts": 7.4,
-      "pointsPlus": 78
+      "adjPts": 7.3,
+      "pointsPlus": 76
     },
     {
       "date": "2026-02-17",

@@ -4,12 +4,12 @@
   "team": "OU",
   "teamName": "Oklahoma Sooners",
   "conference": "SEC",
-  "rank": 548,
-  "gp": 13,
-  "ppg": 5.1,
-  "adjPpg": 4.8,
-  "pointsPlus": 50,
-  "mpg": 16.5,
+  "rank": 567,
+  "gp": 14,
+  "ppg": 4.7,
+  "adjPpg": 4.4,
+  "pointsPlus": 46,
+  "mpg": 16.2,
   "position": "C",
   "jersey": "15",
   "classYear": "Senior",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 19,
       "pts": 5,
-      "adjPts": 3.9,
-      "pointsPlus": 41
+      "adjPts": 3.8,
+      "pointsPlus": 39
     },
     {
       "date": "2026-01-21",
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 17,
       "pts": 5,
-      "adjPts": 4.8,
+      "adjPts": 4.9,
       "pointsPlus": 51
     },
     {
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 26,
       "pts": 9,
-      "adjPts": 8.8,
-      "pointsPlus": 92
+      "adjPts": 8.7,
+      "pointsPlus": 91
     },
     {
       "date": "2026-01-28",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 12,
       "pts": 2,
-      "adjPts": 1.8,
-      "pointsPlus": 19
+      "adjPts": 1.7,
+      "pointsPlus": 18
     },
     {
       "date": "2026-01-31",
@@ -132,6 +132,15 @@
       "pts": 7,
       "adjPts": 5.9,
       "pointsPlus": 62
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "OU @ TENN",
+      "result": "L",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 573,
-  "gp": 24,
-  "ppg": 4.3,
-  "adjPpg": 4.3,
-  "pointsPlus": 45,
-  "mpg": 18.9,
+  "rank": 570,
+  "gp": 25,
+  "ppg": 4.4,
+  "adjPpg": 4.4,
+  "pointsPlus": 46,
+  "mpg": 18.8,
   "position": "G",
   "jersey": "12",
   "classYear": "Junior",
-  "pointsPlusStdDev": 49.4,
-  "volatilityPctile": 40,
+  "pointsPlusStdDev": 48.4,
+  "volatilityPctile": 38,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 18,
       "pts": 4,
-      "adjPts": 3.1,
-      "pointsPlus": 32
+      "adjPts": 3.0,
+      "pointsPlus": 31
     },
     {
       "date": "2025-12-03",
@@ -122,7 +122,7 @@
       "min": 28,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2026-01-03",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 35,
       "pts": 5,
-      "adjPts": 4.7,
-      "pointsPlus": 49
+      "adjPts": 4.6,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-18",
@@ -185,7 +185,7 @@
       "min": 10,
       "pts": 5,
       "adjPts": 5.8,
-      "pointsPlus": 61
+      "pointsPlus": 60
     },
     {
       "date": "2026-02-01",
@@ -231,6 +231,15 @@
       "pts": 3,
       "adjPts": 3.0,
       "pointsPlus": 32
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "MD @ NU",
+      "result": "L",
+      "min": 16,
+      "pts": 6,
+      "adjPts": 6.3,
+      "pointsPlus": 65
     }
   ]
 }

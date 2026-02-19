@@ -4,17 +4,17 @@
   "team": "USC",
   "teamName": "USC Trojans",
   "conference": "Big Ten",
-  "rank": 651,
-  "gp": 23,
-  "ppg": 2.3,
-  "adjPpg": 2.3,
-  "pointsPlus": 24,
-  "mpg": 13.2,
+  "rank": 642,
+  "gp": 24,
+  "ppg": 2.5,
+  "adjPpg": 2.6,
+  "pointsPlus": 27,
+  "mpg": 13.9,
   "position": "F",
   "jersey": "5",
   "classYear": "Senior",
-  "pointsPlusStdDev": 29.9,
-  "volatilityPctile": 4,
+  "pointsPlusStdDev": 32.9,
+  "volatilityPctile": 7,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-15",
@@ -59,7 +59,7 @@
       "min": 29,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-25",
@@ -222,6 +222,15 @@
       "pts": 1,
       "adjPts": 1.0,
       "pointsPlus": 10
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "USC vs ILL",
+      "result": "L",
+      "min": 29,
+      "pts": 9,
+      "adjPts": 9.7,
+      "pointsPlus": 101
     }
   ]
 }

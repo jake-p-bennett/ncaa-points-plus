@@ -4,16 +4,16 @@
   "team": "DEP",
   "teamName": "DePaul Blue Demons",
   "conference": "Big East",
-  "rank": 125,
-  "gp": 25,
-  "ppg": 13.8,
-  "adjPpg": 13.8,
-  "pointsPlus": 145,
-  "mpg": 27.8,
+  "rank": 114,
+  "gp": 26,
+  "ppg": 14.0,
+  "adjPpg": 14.2,
+  "pointsPlus": 148,
+  "mpg": 27.9,
   "position": "G",
   "jersey": "11",
   "classYear": "Senior",
-  "pointsPlusStdDev": 69.2,
+  "pointsPlusStdDev": 70.3,
   "volatilityPctile": 88,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 33,
       "pts": 28,
       "adjPts": 28.0,
-      "pointsPlus": 293
+      "pointsPlus": 292
     },
     {
       "date": "2025-11-12",
@@ -50,7 +50,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2025-11-19",
@@ -68,7 +68,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-29",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 24,
       "pts": 7,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.7,
+      "pointsPlus": 70
     },
     {
       "date": "2025-11-30",
@@ -86,7 +86,7 @@
       "min": 23,
       "pts": 9,
       "adjPts": 8.5,
-      "pointsPlus": 89
+      "pointsPlus": 88
     },
     {
       "date": "2025-12-07",
@@ -95,7 +95,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-10",
@@ -104,7 +104,7 @@
       "min": 19,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-12-13",
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 32,
       "pts": 15,
-      "adjPts": 14.9,
+      "adjPts": 15.0,
       "pointsPlus": 156
     },
     {
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 23,
       "pts": 8,
-      "adjPts": 9.5,
-      "pointsPlus": 99
+      "adjPts": 9.3,
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-31",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 26,
       "pts": 3,
-      "adjPts": 3.1,
+      "adjPts": 3.0,
       "pointsPlus": 32
     },
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 25,
       "pts": 11,
-      "adjPts": 13.1,
-      "pointsPlus": 137
+      "adjPts": 12.8,
+      "pointsPlus": 133
     },
     {
       "date": "2026-01-17",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 39,
       "pts": 31,
-      "adjPts": 29.0,
+      "adjPts": 29.2,
       "pointsPlus": 304
     },
     {
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 32,
       "pts": 16,
-      "adjPts": 14.9,
-      "pointsPlus": 156
+      "adjPts": 14.7,
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-24",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 32,
       "pts": 19,
-      "adjPts": 23.9,
+      "adjPts": 24.0,
       "pointsPlus": 250
     },
     {
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 31,
       "pts": 4,
-      "adjPts": 4.1,
-      "pointsPlus": 43
+      "adjPts": 4.0,
+      "pointsPlus": 42
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 29,
       "pts": 19,
       "adjPts": 17.1,
-      "pointsPlus": 179
+      "pointsPlus": 178
     },
     {
       "date": "2026-02-04",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 20,
       "pts": 9,
-      "adjPts": 8.9,
-      "pointsPlus": 93
+      "adjPts": 9.0,
+      "pointsPlus": 94
     },
     {
       "date": "2026-02-07",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 25,
       "pts": 9,
-      "adjPts": 8.9,
-      "pointsPlus": 93
+      "adjPts": 8.8,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "DEP @ HALL",
+      "result": "W",
+      "min": 31,
+      "pts": 18,
+      "adjPts": 22.7,
+      "pointsPlus": 237
     }
   ]
 }

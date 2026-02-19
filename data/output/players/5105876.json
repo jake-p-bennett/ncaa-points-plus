@@ -4,16 +4,16 @@
   "team": "IU",
   "teamName": "Indiana Hoosiers",
   "conference": "Big Ten",
-  "rank": 8,
+  "rank": 9,
   "gp": 26,
   "ppg": 21.2,
   "adjPpg": 21.5,
-  "pointsPlus": 225,
+  "pointsPlus": 224,
   "mpg": 33.6,
   "position": "G",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 92.9,
+  "pointsPlusStdDev": 92.3,
   "volatilityPctile": 99,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 27,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-11-09",
@@ -31,7 +31,7 @@
       "result": "W",
       "min": 38,
       "pts": 23,
-      "adjPts": 21.5,
+      "adjPts": 21.6,
       "pointsPlus": 225
     },
     {
@@ -41,7 +41,7 @@
       "min": 31,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 251
+      "pointsPlus": 250
     },
     {
       "date": "2025-11-16",
@@ -59,7 +59,7 @@
       "min": 31,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-26",
@@ -104,7 +104,7 @@
       "min": 24,
       "pts": 44,
       "adjPts": 40.3,
-      "pointsPlus": 422
+      "pointsPlus": 419
     },
     {
       "date": "2025-12-14",
@@ -122,7 +122,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-12-22",
@@ -131,7 +131,7 @@
       "min": 31,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 241
+      "pointsPlus": 240
     },
     {
       "date": "2026-01-05",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 39,
       "pts": 22,
-      "adjPts": 22.7,
-      "pointsPlus": 238
+      "adjPts": 22.8,
+      "pointsPlus": 237
     },
     {
       "date": "2026-01-07",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 39,
       "pts": 24,
-      "adjPts": 22.9,
-      "pointsPlus": 240
+      "adjPts": 23.0,
+      "pointsPlus": 239
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 39,
       "pts": 32,
-      "adjPts": 37.9,
-      "pointsPlus": 396
+      "adjPts": 38.0,
+      "pointsPlus": 395
     },
     {
       "date": "2026-01-14",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 37,
       "pts": 19,
-      "adjPts": 22.0,
+      "adjPts": 22.1,
       "pointsPlus": 230
     },
     {
@@ -194,7 +194,7 @@
       "min": 29,
       "pts": 27,
       "adjPts": 27.4,
-      "pointsPlus": 287
+      "pointsPlus": 286
     },
     {
       "date": "2026-01-28",
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 36,
       "pts": 19,
-      "adjPts": 20.1,
+      "adjPts": 20.2,
       "pointsPlus": 210
     },
     {
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 43,
       "pts": 24,
-      "adjPts": 25.5,
+      "adjPts": 25.6,
       "pointsPlus": 267
     },
     {
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 32,
       "pts": 33,
-      "adjPts": 31.0,
-      "pointsPlus": 324
+      "adjPts": 30.6,
+      "pointsPlus": 318
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 41,
       "pts": 25,
-      "adjPts": 23.1,
-      "pointsPlus": 242
+      "adjPts": 23.2,
+      "pointsPlus": 241
     },
     {
       "date": "2026-02-10",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 35,
       "pts": 41,
-      "adjPts": 42.4,
-      "pointsPlus": 443
+      "adjPts": 42.5,
+      "pointsPlus": 442
     },
     {
       "date": "2026-02-15",
@@ -248,7 +248,7 @@
       "min": 39,
       "pts": 21,
       "adjPts": 22.6,
-      "pointsPlus": 236
+      "pointsPlus": 235
     }
   ]
 }

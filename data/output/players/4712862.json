@@ -4,17 +4,17 @@
   "team": "MISS",
   "teamName": "Ole Miss Rebels",
   "conference": "SEC",
-  "rank": 164,
-  "gp": 25,
-  "ppg": 13.2,
-  "adjPpg": 12.8,
-  "pointsPlus": 134,
+  "rank": 158,
+  "gp": 26,
+  "ppg": 13.5,
+  "adjPpg": 12.9,
+  "pointsPlus": 135,
   "mpg": 23.5,
   "position": "F",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 77.4,
-  "volatilityPctile": 94,
+  "pointsPlusStdDev": 76.0,
+  "volatilityPctile": 93,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 25,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-11-08",
@@ -41,7 +41,7 @@
       "min": 29,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-15",
@@ -50,7 +50,7 @@
       "min": 23,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-19",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 26,
       "pts": 17,
-      "adjPts": 15.3,
-      "pointsPlus": 160
+      "adjPts": 15.7,
+      "pointsPlus": 163
     },
     {
       "date": "2025-12-03",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 27,
       "pts": 18,
-      "adjPts": 17.8,
+      "adjPts": 17.9,
       "pointsPlus": 187
     },
     {
@@ -113,7 +113,7 @@
       "min": 32,
       "pts": 27,
       "adjPts": 27.0,
-      "pointsPlus": 282
+      "pointsPlus": 281
     },
     {
       "date": "2025-12-21",
@@ -122,7 +122,7 @@
       "min": 29,
       "pts": 20,
       "adjPts": 19.1,
-      "pointsPlus": 200
+      "pointsPlus": 199
     },
     {
       "date": "2025-12-30",
@@ -131,7 +131,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 29,
       "pts": 17,
-      "adjPts": 15.2,
-      "pointsPlus": 159
+      "adjPts": 15.1,
+      "pointsPlus": 158
     },
     {
       "date": "2026-01-08",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 27,
       "pts": 16,
-      "adjPts": 14.2,
-      "pointsPlus": 148
+      "adjPts": 13.7,
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 34,
       "pts": 21,
-      "adjPts": 20.5,
-      "pointsPlus": 214
+      "adjPts": 20.4,
+      "pointsPlus": 213
     },
     {
       "date": "2026-01-15",
@@ -176,7 +176,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 7.3,
-      "pointsPlus": 77
+      "pointsPlus": 76
     },
     {
       "date": "2026-01-21",
@@ -203,7 +203,7 @@
       "min": 24,
       "pts": 16,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-02-04",
@@ -212,7 +212,7 @@
       "min": 19,
       "pts": 7,
       "adjPts": 7.5,
-      "pointsPlus": 79
+      "pointsPlus": 78
     },
     {
       "date": "2026-02-07",
@@ -238,8 +238,17 @@
       "result": "L",
       "min": 30,
       "pts": 32,
-      "adjPts": 29.3,
-      "pointsPlus": 307
+      "adjPts": 29.1,
+      "pointsPlus": 304
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "MISS @ TA&M",
+      "result": "L",
+      "min": 25,
+      "pts": 20,
+      "adjPts": 17.0,
+      "pointsPlus": 177
     }
   ]
 }

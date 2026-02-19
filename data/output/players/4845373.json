@@ -4,16 +4,16 @@
   "team": "CAL",
   "teamName": "California Golden Bears",
   "conference": "ACC",
-  "rank": 44,
+  "rank": 46,
   "gp": 26,
   "ppg": 17.1,
   "adjPpg": 17.3,
-  "pointsPlus": 181,
+  "pointsPlus": 180,
   "mpg": 32.0,
   "position": "G",
   "jersey": "7",
   "classYear": "Junior",
-  "pointsPlusStdDev": 57.5,
+  "pointsPlusStdDev": 57.3,
   "volatilityPctile": 63,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 31,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 241
+      "pointsPlus": 240
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 34,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 251
+      "pointsPlus": 250
     },
     {
       "date": "2025-11-14",
@@ -50,7 +50,7 @@
       "min": 32,
       "pts": 25,
       "adjPts": 21.6,
-      "pointsPlus": 226
+      "pointsPlus": 225
     },
     {
       "date": "2025-11-19",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 32,
       "pts": 25,
-      "adjPts": 22.5,
-      "pointsPlus": 236
+      "adjPts": 23.1,
+      "pointsPlus": 240
     },
     {
       "date": "2025-12-06",
@@ -95,7 +95,7 @@
       "min": 31,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-12-10",
@@ -113,7 +113,7 @@
       "min": 37,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 26,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-21",
@@ -131,7 +131,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-12-31",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 34,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 247
     },
     {
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 32,
       "pts": 18,
-      "adjPts": 20.1,
-      "pointsPlus": 210
+      "adjPts": 20.0,
+      "pointsPlus": 209
     },
     {
       "date": "2026-01-10",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 32,
       "pts": 19,
-      "adjPts": 19.7,
+      "adjPts": 19.8,
       "pointsPlus": 206
     },
     {
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 28,
       "pts": 14,
-      "adjPts": 14.6,
+      "adjPts": 14.7,
       "pointsPlus": 153
     },
     {
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 31,
       "pts": 29,
-      "adjPts": 28.2,
-      "pointsPlus": 295
+      "adjPts": 27.9,
+      "pointsPlus": 291
     },
     {
       "date": "2026-02-08",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 33,
       "pts": 12,
-      "adjPts": 14.9,
-      "pointsPlus": 155
+      "adjPts": 14.6,
+      "pointsPlus": 152
     },
     {
       "date": "2026-02-12",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 45,
       "pts": 23,
-      "adjPts": 23.5,
+      "adjPts": 23.6,
       "pointsPlus": 246
     },
     {

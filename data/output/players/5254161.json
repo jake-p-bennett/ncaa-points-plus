@@ -4,17 +4,17 @@
   "team": "DEP",
   "teamName": "DePaul Blue Demons",
   "conference": "Big East",
-  "rank": 512,
-  "gp": 21,
-  "ppg": 5.4,
-  "adjPpg": 5.5,
-  "pointsPlus": 58,
-  "mpg": 17.6,
+  "rank": 523,
+  "gp": 22,
+  "ppg": 5.1,
+  "adjPpg": 5.2,
+  "pointsPlus": 55,
+  "mpg": 17.5,
   "position": "G",
   "jersey": "22",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 62.1,
-  "volatilityPctile": 74,
+  "pointsPlusStdDev": 61.4,
+  "volatilityPctile": 73,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 17,
       "pts": 7,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.7,
+      "pointsPlus": 70
     },
     {
       "date": "2025-11-30",
@@ -86,7 +86,7 @@
       "min": 30,
       "pts": 22,
       "adjPts": 20.7,
-      "pointsPlus": 217
+      "pointsPlus": 216
     },
     {
       "date": "2025-12-07",
@@ -95,7 +95,7 @@
       "min": 30,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-12-10",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 27,
       "pts": 10,
-      "adjPts": 11.9,
-      "pointsPlus": 124
+      "adjPts": 11.6,
+      "pointsPlus": 121
     },
     {
       "date": "2025-12-31",
@@ -202,8 +202,17 @@
       "result": "W",
       "min": 18,
       "pts": 3,
-      "adjPts": 3.0,
-      "pointsPlus": 31
+      "adjPts": 2.9,
+      "pointsPlus": 30
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "DEP @ HALL",
+      "result": "W",
+      "min": 17,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

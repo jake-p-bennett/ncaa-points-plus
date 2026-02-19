@@ -4,17 +4,17 @@
   "team": "WVU",
   "teamName": "West Virginia Mountaineers",
   "conference": "Big 12",
-  "rank": 576,
-  "gp": 25,
+  "rank": 580,
+  "gp": 26,
   "ppg": 4.1,
   "adjPpg": 4.3,
-  "pointsPlus": 45,
-  "mpg": 17.0,
+  "pointsPlus": 44,
+  "mpg": 17.1,
   "position": "G",
   "jersey": "2",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 34.2,
-  "volatilityPctile": 8,
+  "pointsPlusStdDev": 33.2,
+  "volatilityPctile": 7,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 19,
       "pts": 8,
-      "adjPts": 9.9,
-      "pointsPlus": 104
+      "adjPts": 9.8,
+      "pointsPlus": 102
     },
     {
       "date": "2025-11-23",
@@ -86,7 +86,7 @@
       "min": 23,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-04",
@@ -95,7 +95,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-06",
@@ -131,7 +131,7 @@
       "min": 22,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-03",
@@ -239,6 +239,15 @@
       "min": 12,
       "pts": 4,
       "adjPts": 3.6,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "WVU vs UTAH",
+      "result": "L",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 3.7,
       "pointsPlus": 38
     }
   ]

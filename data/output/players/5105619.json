@@ -4,7 +4,7 @@
   "team": "TCU",
   "teamName": "TCU Horned Frogs",
   "conference": "Big 12",
-  "rank": 261,
+  "rank": 264,
   "gp": 26,
   "ppg": 10.7,
   "adjPpg": 10.5,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 49.4,
-  "volatilityPctile": 40,
+  "pointsPlusStdDev": 49.1,
+  "volatilityPctile": 39,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -59,7 +59,7 @@
       "min": 22,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-27",
@@ -68,7 +68,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-28",
@@ -86,7 +86,7 @@
       "min": 39,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 183
+      "pointsPlus": 182
     },
     {
       "date": "2025-12-07",
@@ -113,7 +113,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-21",
@@ -131,7 +131,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-03",
@@ -149,7 +149,7 @@
       "min": 32,
       "pts": 16,
       "adjPts": 18.1,
-      "pointsPlus": 190
+      "pointsPlus": 189
     },
     {
       "date": "2026-01-10",
@@ -157,7 +157,7 @@
       "result": "L",
       "min": 28,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.5,
       "pointsPlus": 120
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 34,
       "pts": 8,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.4,
+      "pointsPlus": 77
     },
     {
       "date": "2026-01-21",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 30,
       "pts": 8,
-      "adjPts": 6.6,
+      "adjPts": 6.7,
       "pointsPlus": 69
     },
     {
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 36,
       "pts": 25,
-      "adjPts": 22.8,
-      "pointsPlus": 239
+      "adjPts": 22.9,
+      "pointsPlus": 238
     },
     {
       "date": "2026-01-29",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 37,
       "pts": 10,
-      "adjPts": 8.6,
+      "adjPts": 8.7,
       "pointsPlus": 90
     },
     {
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 43,
       "pts": 18,
-      "adjPts": 14.9,
+      "adjPts": 15.0,
       "pointsPlus": 156
     },
     {

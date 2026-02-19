@@ -4,17 +4,17 @@
   "team": "FSU",
   "teamName": "Florida State Seminoles",
   "conference": "ACC",
-  "rank": 77,
+  "rank": 76,
   "gp": 26,
   "ppg": 15.2,
-  "adjPpg": 15.6,
-  "pointsPlus": 164,
+  "adjPpg": 15.7,
+  "pointsPlus": 163,
   "mpg": 28.2,
   "position": "G",
   "jersey": "6",
   "classYear": "Senior",
-  "pointsPlusStdDev": 72.2,
-  "volatilityPctile": 89,
+  "pointsPlusStdDev": 72.0,
+  "volatilityPctile": 90,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -23,7 +23,7 @@
       "min": 29,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-12",
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 34,
       "pts": 29,
-      "adjPts": 29.0,
-      "pointsPlus": 304
+      "adjPts": 29.1,
+      "pointsPlus": 303
     },
     {
       "date": "2025-11-19",
@@ -59,7 +59,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-26",
@@ -85,7 +85,7 @@
       "result": "L",
       "min": 27,
       "pts": 18,
-      "adjPts": 15.2,
+      "adjPts": 15.3,
       "pointsPlus": 159
     },
     {
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 34,
       "pts": 16,
-      "adjPts": 20.8,
-      "pointsPlus": 218
+      "adjPts": 20.9,
+      "pointsPlus": 217
     },
     {
       "date": "2025-12-13",
@@ -104,7 +104,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-12-17",
@@ -113,7 +113,7 @@
       "min": 23,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-23",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 33,
       "pts": 11,
-      "adjPts": 11.4,
-      "pointsPlus": 120
+      "adjPts": 11.5,
+      "pointsPlus": 119
     },
     {
       "date": "2026-01-03",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 31,
       "pts": 22,
-      "adjPts": 26.6,
-      "pointsPlus": 279
+      "adjPts": 26.7,
+      "pointsPlus": 278
     },
     {
       "date": "2026-01-10",
@@ -167,7 +167,7 @@
       "min": 30,
       "pts": 14,
       "adjPts": 14.3,
-      "pointsPlus": 150
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-17",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 31,
       "pts": 20,
-      "adjPts": 20.9,
-      "pointsPlus": 219
+      "adjPts": 21.0,
+      "pointsPlus": 218
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 32,
       "pts": 21,
-      "adjPts": 18.3,
-      "pointsPlus": 192
+      "adjPts": 18.4,
+      "pointsPlus": 191
     },
     {
       "date": "2026-01-29",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 22,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 161
     },
     {
@@ -230,7 +230,7 @@
       "min": 29,
       "pts": 20,
       "adjPts": 22.3,
-      "pointsPlus": 233
+      "pointsPlus": 232
     },
     {
       "date": "2026-02-14",
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 32,
       "pts": 27,
-      "adjPts": 31.5,
-      "pointsPlus": 330
+      "adjPts": 31.6,
+      "pointsPlus": 329
     }
   ]
 }

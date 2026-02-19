@@ -4,17 +4,17 @@
   "team": "OU",
   "teamName": "Oklahoma Sooners",
   "conference": "SEC",
-  "rank": 82,
-  "gp": 25,
-  "ppg": 16.1,
-  "adjPpg": 15.6,
-  "pointsPlus": 163,
-  "mpg": 31.9,
+  "rank": 88,
+  "gp": 26,
+  "ppg": 15.7,
+  "adjPpg": 15.2,
+  "pointsPlus": 158,
+  "mpg": 31.7,
   "position": "G",
   "jersey": "1",
   "classYear": "Junior",
-  "pointsPlusStdDev": 67.0,
-  "volatilityPctile": 84,
+  "pointsPlusStdDev": 68.7,
+  "volatilityPctile": 87,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 31,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-11-12",
@@ -41,7 +41,7 @@
       "min": 33,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-11-16",
@@ -50,7 +50,7 @@
       "min": 35,
       "pts": 20,
       "adjPts": 23.7,
-      "pointsPlus": 248
+      "pointsPlus": 247
     },
     {
       "date": "2025-11-21",
@@ -86,7 +86,7 @@
       "min": 33,
       "pts": 11,
       "adjPts": 10.2,
-      "pointsPlus": 107
+      "pointsPlus": 106
     },
     {
       "date": "2025-12-07",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 33,
       "pts": 11,
-      "adjPts": 9.9,
+      "adjPts": 10.0,
       "pointsPlus": 104
     },
     {
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 33,
       "pts": 21,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 182
     },
     {
@@ -113,7 +113,7 @@
       "min": 30,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-12-23",
@@ -131,7 +131,7 @@
       "min": 32,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 230
+      "pointsPlus": 229
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 25,
       "pts": 23,
-      "adjPts": 23.6,
-      "pointsPlus": 247
+      "adjPts": 23.5,
+      "pointsPlus": 245
     },
     {
       "date": "2026-01-08",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 34,
       "pts": 13,
-      "adjPts": 11.9,
-      "pointsPlus": 125
+      "adjPts": 11.8,
+      "pointsPlus": 123
     },
     {
       "date": "2026-01-10",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 37,
       "pts": 24,
-      "adjPts": 24.0,
+      "adjPts": 24.1,
       "pointsPlus": 251
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 38,
       "pts": 21,
-      "adjPts": 16.3,
-      "pointsPlus": 170
+      "adjPts": 15.9,
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-21",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 37,
       "pts": 22,
-      "adjPts": 21.3,
+      "adjPts": 21.4,
       "pointsPlus": 223
     },
     {
@@ -194,7 +194,7 @@
       "min": 38,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 194
+      "pointsPlus": 192
     },
     {
       "date": "2026-01-28",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 38,
       "pts": 13,
-      "adjPts": 11.5,
-      "pointsPlus": 120
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 35,
       "pts": 15,
       "adjPts": 14.0,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2026-02-05",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 31,
       "pts": 21,
-      "adjPts": 20.9,
+      "adjPts": 21.0,
       "pointsPlus": 219
     },
     {
@@ -230,7 +230,7 @@
       "min": 28,
       "pts": 20,
       "adjPts": 18.7,
-      "pointsPlus": 196
+      "pointsPlus": 195
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 5,
       "adjPts": 4.2,
       "pointsPlus": 44
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "OU @ TENN",
+      "result": "L",
+      "min": 28,
+      "pts": 5,
+      "adjPts": 5.4,
+      "pointsPlus": 56
     }
   ]
 }

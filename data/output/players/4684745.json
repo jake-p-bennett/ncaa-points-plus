@@ -4,16 +4,16 @@
   "team": "STAN",
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
-  "rank": 117,
+  "rank": 120,
   "gp": 17,
   "ppg": 13.9,
   "adjPpg": 14.0,
-  "pointsPlus": 147,
+  "pointsPlus": 146,
   "mpg": 28.5,
   "position": "F",
   "jersey": "10",
   "classYear": "Senior",
-  "pointsPlusStdDev": 58.5,
+  "pointsPlusStdDev": 58.3,
   "volatilityPctile": 66,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 29,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 25,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-13",
@@ -41,7 +41,7 @@
       "min": 31,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-19",
@@ -50,7 +50,7 @@
       "min": 26,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 230
+      "pointsPlus": 229
     },
     {
       "date": "2025-11-22",
@@ -68,7 +68,7 @@
       "min": 29,
       "pts": 11,
       "adjPts": 13.1,
-      "pointsPlus": 137
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-29",
@@ -77,7 +77,7 @@
       "min": 34,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-12-02",
@@ -95,7 +95,7 @@
       "min": 29,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-14",
@@ -104,7 +104,7 @@
       "min": 27,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-12-18",
@@ -113,7 +113,7 @@
       "min": 33,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-12-21",
@@ -131,7 +131,7 @@
       "min": 28,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-12-31",

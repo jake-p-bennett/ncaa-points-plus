@@ -4,7 +4,7 @@
   "team": "MINN",
   "teamName": "Minnesota Golden Gophers",
   "conference": "Big Ten",
-  "rank": 226,
+  "rank": 229,
   "gp": 26,
   "ppg": 10.8,
   "adjPpg": 11.1,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "6",
   "classYear": "Senior",
-  "pointsPlusStdDev": 53.6,
-  "volatilityPctile": 51,
+  "pointsPlusStdDev": 53.5,
+  "volatilityPctile": 52,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-13",
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 33,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.3,
       "pointsPlus": 65
     },
     {
@@ -86,7 +86,7 @@
       "min": 22,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-04",
@@ -95,7 +95,7 @@
       "min": 38,
       "pts": 17,
       "adjPts": 17.6,
-      "pointsPlus": 184
+      "pointsPlus": 183
     },
     {
       "date": "2025-12-11",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 33,
       "pts": 11,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 122
     },
     {
@@ -122,7 +122,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-30",
@@ -140,7 +140,7 @@
       "min": 40,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-07",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 31,
       "pts": 12,
-      "adjPts": 11.3,
-      "pointsPlus": 118
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-14",
@@ -176,7 +176,7 @@
       "min": 37,
       "pts": 11,
       "adjPts": 11.8,
-      "pointsPlus": 124
+      "pointsPlus": 123
     },
     {
       "date": "2026-01-20",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 41,
       "pts": 12,
-      "adjPts": 11.8,
-      "pointsPlus": 124
+      "adjPts": 11.9,
+      "pointsPlus": 123
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 34,
       "pts": 7,
       "adjPts": 8.3,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-29",
@@ -212,7 +212,7 @@
       "min": 32,
       "pts": 18,
       "adjPts": 16.5,
-      "pointsPlus": 173
+      "pointsPlus": 172
     },
     {
       "date": "2026-02-05",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 37,
       "pts": 14,
-      "adjPts": 16.2,
-      "pointsPlus": 170
+      "adjPts": 16.3,
+      "pointsPlus": 169
     },
     {
       "date": "2026-02-08",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 36,
       "pts": 7,
-      "adjPts": 7.2,
+      "adjPts": 7.3,
       "pointsPlus": 76
     },
     {

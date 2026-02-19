@@ -4,16 +4,16 @@
   "team": "OKST",
   "teamName": "Oklahoma State Cowboys",
   "conference": "Big 12",
-  "rank": 556,
-  "gp": 21,
-  "ppg": 4.8,
-  "adjPpg": 4.7,
-  "pointsPlus": 49,
-  "mpg": 15.0,
+  "rank": 562,
+  "gp": 22,
+  "ppg": 4.6,
+  "adjPpg": 4.5,
+  "pointsPlus": 47,
+  "mpg": 14.6,
   "position": "F",
   "jersey": "19",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 38.0,
+  "pointsPlusStdDev": 37.8,
   "volatilityPctile": 13,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-20",
@@ -68,7 +68,7 @@
       "min": 19,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-28",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 19,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.3,
       "pointsPlus": 56
     },
     {
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 18,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.2,
       "pointsPlus": 75
     },
     {
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 17,
       "pts": 7,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.5,
+      "pointsPlus": 67
     },
     {
       "date": "2026-02-05",
@@ -204,6 +204,15 @@
       "pts": 4,
       "adjPts": 3.6,
       "pointsPlus": 38
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "OKST vs KU",
+      "result": "L",
+      "min": 6,
+      "pts": 1,
+      "adjPts": 1.1,
+      "pointsPlus": 12
     }
   ]
 }

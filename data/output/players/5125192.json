@@ -4,17 +4,17 @@
   "team": "PSU",
   "teamName": "Penn State Nittany Lions",
   "conference": "Big Ten",
-  "rank": 96,
-  "gp": 26,
-  "ppg": 14.4,
-  "adjPpg": 14.6,
-  "pointsPlus": 153,
-  "mpg": 27.3,
+  "rank": 97,
+  "gp": 27,
+  "ppg": 14.3,
+  "adjPpg": 14.5,
+  "pointsPlus": 151,
+  "mpg": 27.4,
   "position": "G",
   "jersey": "5",
   "classYear": "Junior",
-  "pointsPlusStdDev": 76.4,
-  "volatilityPctile": 93,
+  "pointsPlusStdDev": 75.0,
+  "volatilityPctile": 92,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -41,7 +41,7 @@
       "min": 27,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-11-15",
@@ -59,7 +59,7 @@
       "min": 27,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-22",
@@ -77,7 +77,7 @@
       "min": 19,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-29",
@@ -86,7 +86,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-02",
@@ -95,7 +95,7 @@
       "min": 29,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-12-10",
@@ -113,7 +113,7 @@
       "min": 32,
       "pts": 23,
       "adjPts": 26.7,
-      "pointsPlus": 279
+      "pointsPlus": 278
     },
     {
       "date": "2025-12-21",
@@ -131,7 +131,7 @@
       "min": 32,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-04",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 38,
       "pts": 17,
-      "adjPts": 17.3,
+      "adjPts": 17.4,
       "pointsPlus": 181
     },
     {
@@ -158,7 +158,7 @@
       "min": 34,
       "pts": 25,
       "adjPts": 26.5,
-      "pointsPlus": 277
+      "pointsPlus": 276
     },
     {
       "date": "2026-01-15",
@@ -203,7 +203,7 @@
       "min": 26,
       "pts": 11,
       "adjPts": 11.5,
-      "pointsPlus": 120
+      "pointsPlus": 119
     },
     {
       "date": "2026-02-01",
@@ -221,7 +221,7 @@
       "min": 40,
       "pts": 19,
       "adjPts": 19.4,
-      "pointsPlus": 203
+      "pointsPlus": 202
     },
     {
       "date": "2026-02-08",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 38,
       "pts": 23,
-      "adjPts": 21.6,
-      "pointsPlus": 226
+      "adjPts": 21.3,
+      "pointsPlus": 222
     },
     {
       "date": "2026-02-12",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 34,
       "pts": 16,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 173
     },
     {
@@ -247,8 +247,17 @@
       "result": "L",
       "min": 27,
       "pts": 10,
-      "adjPts": 10.3,
+      "adjPts": 10.4,
       "pointsPlus": 108
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "PSU vs RUTG",
+      "result": "L",
+      "min": 30,
+      "pts": 11,
+      "adjPts": 11.2,
+      "pointsPlus": 116
     }
   ]
 }

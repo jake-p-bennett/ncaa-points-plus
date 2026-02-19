@@ -4,17 +4,17 @@
   "team": "PUR",
   "teamName": "Purdue Boilermakers",
   "conference": "Big Ten",
-  "rank": 150,
+  "rank": 149,
   "gp": 24,
   "ppg": 13.0,
   "adjPpg": 13.2,
-  "pointsPlus": 138,
+  "pointsPlus": 137,
   "mpg": 27.9,
   "position": "F",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 56.6,
-  "volatilityPctile": 61,
+  "pointsPlusStdDev": 56.4,
+  "volatilityPctile": 60,
   "gameLog": [
     {
       "date": "2025-11-14",
@@ -22,8 +22,8 @@
       "result": "W",
       "min": 34,
       "pts": 19,
-      "adjPts": 14.7,
-      "pointsPlus": 154
+      "adjPts": 14.4,
+      "pointsPlus": 150
     },
     {
       "date": "2025-11-17",
@@ -32,7 +32,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-20",
@@ -41,7 +41,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-22",
@@ -68,7 +68,7 @@
       "min": 32,
       "pts": 19,
       "adjPts": 19.3,
-      "pointsPlus": 202
+      "pointsPlus": 201
     },
     {
       "date": "2025-12-06",
@@ -85,7 +85,7 @@
       "result": "W",
       "min": 26,
       "pts": 14,
-      "adjPts": 16.6,
+      "adjPts": 16.7,
       "pointsPlus": 174
     },
     {
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 29,
       "pts": 18,
-      "adjPts": 15.6,
-      "pointsPlus": 163
+      "adjPts": 15.5,
+      "pointsPlus": 162
     },
     {
       "date": "2025-12-30",
@@ -113,7 +113,7 @@
       "min": 21,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-04",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 23,
       "pts": 12,
-      "adjPts": 14.8,
+      "adjPts": 14.9,
       "pointsPlus": 155
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 24,
       "pts": 5,
-      "adjPts": 4.7,
-      "pointsPlus": 49
+      "adjPts": 4.6,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-21",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 26,
       "pts": 10,
-      "adjPts": 10.6,
+      "adjPts": 10.7,
       "pointsPlus": 111
     },
     {
@@ -203,7 +203,7 @@
       "min": 28,
       "pts": 12,
       "adjPts": 12.4,
-      "pointsPlus": 130
+      "pointsPlus": 129
     },
     {
       "date": "2026-02-11",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 31,
       "pts": 12,
-      "adjPts": 14.8,
+      "adjPts": 14.9,
       "pointsPlus": 155
     },
     {
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 36,
       "pts": 27,
-      "adjPts": 27.5,
-      "pointsPlus": 288
+      "adjPts": 27.6,
+      "pointsPlus": 287
     }
   ]
 }

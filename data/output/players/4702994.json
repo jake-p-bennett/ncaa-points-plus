@@ -4,7 +4,7 @@
   "team": "OSU",
   "teamName": "Ohio State Buckeyes",
   "conference": "Big Ten",
-  "rank": 390,
+  "rank": 389,
   "gp": 14,
   "ppg": 7.4,
   "adjPpg": 7.6,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "14",
   "classYear": "Senior",
-  "pointsPlusStdDev": 84.0,
-  "volatilityPctile": 98,
+  "pointsPlusStdDev": 83.7,
+  "volatilityPctile": 97,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-07",
@@ -41,7 +41,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-16",
@@ -59,7 +59,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-25",
@@ -86,7 +86,7 @@
       "min": 35,
       "pts": 29,
       "adjPts": 30.2,
-      "pointsPlus": 316
+      "pointsPlus": 315
     },
     {
       "date": "2025-12-10",
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 17,
       "pts": 4,
-      "adjPts": 5.2,
+      "adjPts": 5.3,
       "pointsPlus": 55
     },
     {
@@ -131,7 +131,7 @@
       "min": 20,
       "pts": 14,
       "adjPts": 14.2,
-      "pointsPlus": 149
+      "pointsPlus": 148
     },
     {
       "date": "2026-01-05",

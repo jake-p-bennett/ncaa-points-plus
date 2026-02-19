@@ -4,7 +4,7 @@
   "team": "OSU",
   "teamName": "Ohio State Buckeyes",
   "conference": "Big Ten",
-  "rank": 200,
+  "rank": 201,
   "gp": 25,
   "ppg": 11.4,
   "adjPpg": 11.9,
@@ -23,7 +23,7 @@
       "min": 29,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 272
+      "pointsPlus": 271
     },
     {
       "date": "2025-11-07",
@@ -32,7 +32,7 @@
       "min": 23,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-11",
@@ -50,7 +50,7 @@
       "min": 28,
       "pts": 18,
       "adjPts": 18.5,
-      "pointsPlus": 194
+      "pointsPlus": 193
     },
     {
       "date": "2025-11-21",
@@ -59,7 +59,7 @@
       "min": 24,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-25",
@@ -68,7 +68,7 @@
       "min": 14,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-29",
@@ -86,7 +86,7 @@
       "min": 18,
       "pts": 4,
       "adjPts": 4.2,
-      "pointsPlus": 44
+      "pointsPlus": 43
     },
     {
       "date": "2025-12-10",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 42,
       "pts": 14,
-      "adjPts": 18.3,
-      "pointsPlus": 192
+      "adjPts": 18.5,
+      "pointsPlus": 193
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 23,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-03",
@@ -131,7 +131,7 @@
       "min": 20,
       "pts": 9,
       "adjPts": 9.1,
-      "pointsPlus": 96
+      "pointsPlus": 95
     },
     {
       "date": "2026-01-05",
@@ -158,7 +158,7 @@
       "min": 15,
       "pts": 8,
       "adjPts": 8.3,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 28,
       "pts": 11,
       "adjPts": 13.1,
-      "pointsPlus": 137
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-24",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 30,
       "pts": 17,
-      "adjPts": 17.3,
+      "adjPts": 17.4,
       "pointsPlus": 181
     },
     {
@@ -203,7 +203,7 @@
       "min": 27,
       "pts": 19,
       "adjPts": 18.2,
-      "pointsPlus": 190
+      "pointsPlus": 189
     },
     {
       "date": "2026-02-08",
@@ -212,7 +212,7 @@
       "min": 31,
       "pts": 10,
       "adjPts": 10.2,
-      "pointsPlus": 107
+      "pointsPlus": 106
     },
     {
       "date": "2026-02-11",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 22,
       "pts": 9,
-      "adjPts": 8.4,
-      "pointsPlus": 88
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-02-15",
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 26,
       "pts": 11,
-      "adjPts": 12.3,
+      "adjPts": 12.2,
       "pointsPlus": 128
     },
     {
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 19,
       "pts": 2,
-      "adjPts": 1.8,
+      "adjPts": 1.9,
       "pointsPlus": 19
     }
   ]

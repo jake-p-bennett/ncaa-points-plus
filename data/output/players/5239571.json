@@ -4,17 +4,17 @@
   "team": "NEB",
   "teamName": "Nebraska Cornhuskers",
   "conference": "Big Ten",
-  "rank": 206,
+  "rank": 205,
   "gp": 24,
   "ppg": 11.6,
   "adjPpg": 11.7,
-  "pointsPlus": 123,
+  "pointsPlus": 122,
   "mpg": 23.3,
   "position": "F",
   "jersey": "5",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 71.9,
-  "volatilityPctile": 89,
+  "pointsPlusStdDev": 71.6,
+  "volatilityPctile": 90,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 22,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 230
+      "pointsPlus": 229
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 22,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-12",
@@ -59,7 +59,7 @@
       "min": 27,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-11-22",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 21,
       "pts": 7,
-      "adjPts": 6.9,
-      "pointsPlus": 72
+      "adjPts": 6.8,
+      "pointsPlus": 71
     },
     {
       "date": "2025-12-11",
@@ -122,7 +122,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-12-31",
@@ -131,7 +131,7 @@
       "min": 23,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-03",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 30,
       "pts": 9,
-      "adjPts": 10.4,
+      "adjPts": 10.5,
       "pointsPlus": 109
     },
     {
@@ -149,7 +149,7 @@
       "min": 24,
       "pts": 15,
       "adjPts": 14.8,
-      "pointsPlus": 155
+      "pointsPlus": 154
     },
     {
       "date": "2026-01-10",
@@ -167,7 +167,7 @@
       "min": 30,
       "pts": 23,
       "adjPts": 23.8,
-      "pointsPlus": 249
+      "pointsPlus": 248
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 33,
       "pts": 20,
       "adjPts": 20.8,
-      "pointsPlus": 218
+      "pointsPlus": 217
     },
     {
       "date": "2026-01-22",
@@ -194,7 +194,7 @@
       "min": 31,
       "pts": 20,
       "adjPts": 21.5,
-      "pointsPlus": 225
+      "pointsPlus": 224
     },
     {
       "date": "2026-02-07",
@@ -203,7 +203,7 @@
       "min": 22,
       "pts": 6,
       "adjPts": 6.1,
-      "pointsPlus": 64
+      "pointsPlus": 63
     },
     {
       "date": "2026-02-11",
@@ -212,7 +212,7 @@
       "min": 33,
       "pts": 7,
       "adjPts": 7.4,
-      "pointsPlus": 78
+      "pointsPlus": 77
     },
     {
       "date": "2026-02-14",
@@ -230,7 +230,7 @@
       "min": 24,
       "pts": 6,
       "adjPts": 7.4,
-      "pointsPlus": 78
+      "pointsPlus": 77
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "NU",
   "teamName": "Northwestern Wildcats",
   "conference": "Big Ten",
-  "rank": 578,
-  "gp": 26,
-  "ppg": 4.1,
-  "adjPpg": 4.3,
+  "rank": 572,
+  "gp": 27,
+  "ppg": 4.2,
+  "adjPpg": 4.4,
   "pointsPlus": 45,
-  "mpg": 19.0,
+  "mpg": 19.5,
   "position": "G",
   "jersey": "3",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 50.1,
-  "volatilityPctile": 42,
+  "pointsPlusStdDev": 49.1,
+  "volatilityPctile": 39,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 11,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-11",
@@ -59,7 +59,7 @@
       "min": 9,
       "pts": 4,
       "adjPts": 4.5,
-      "pointsPlus": 47
+      "pointsPlus": 46
     },
     {
       "date": "2025-11-23",
@@ -104,7 +104,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-17",
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 8,
       "pts": 2,
-      "adjPts": 1.9,
+      "adjPts": 1.8,
       "pointsPlus": 19
     },
     {
@@ -158,7 +158,7 @@
       "min": 30,
       "pts": 9,
       "adjPts": 9.1,
-      "pointsPlus": 96
+      "pointsPlus": 95
     },
     {
       "date": "2026-01-15",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 34,
       "pts": 11,
-      "adjPts": 10.3,
-      "pointsPlus": 108
+      "adjPts": 10.2,
+      "pointsPlus": 106
     },
     {
       "date": "2026-01-24",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 35,
       "pts": 18,
-      "adjPts": 22.2,
-      "pointsPlus": 233
+      "adjPts": 22.3,
+      "pointsPlus": 232
     },
     {
       "date": "2026-02-12",
@@ -249,6 +249,15 @@
       "pts": 2,
       "adjPts": 2.4,
       "pointsPlus": 25
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "NU vs MD",
+      "result": "W",
+      "min": 33,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 70
     }
   ]
 }

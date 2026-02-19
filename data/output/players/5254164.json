@@ -4,7 +4,7 @@
   "team": "MINN",
   "teamName": "Minnesota Golden Gophers",
   "conference": "Big Ten",
-  "rank": 652,
+  "rank": 650,
   "gp": 24,
   "ppg": 2.1,
   "adjPpg": 2.2,
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 19,
       "pts": 2,
-      "adjPts": 1.8,
+      "adjPts": 1.9,
       "pointsPlus": 19
     },
     {

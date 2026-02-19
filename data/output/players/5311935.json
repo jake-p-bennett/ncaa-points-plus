@@ -4,17 +4,17 @@
   "team": "UTAH",
   "teamName": "Utah Utes",
   "conference": "Big 12",
-  "rank": 519,
-  "gp": 25,
-  "ppg": 5.3,
-  "adjPpg": 5.3,
-  "pointsPlus": 56,
+  "rank": 525,
+  "gp": 26,
+  "ppg": 5.2,
+  "adjPpg": 5.2,
+  "pointsPlus": 54,
   "mpg": 20.6,
   "position": "F",
   "jersey": "13",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 33.7,
-  "volatilityPctile": 8,
+  "pointsPlusStdDev": 33.3,
+  "volatilityPctile": 7,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -86,7 +86,7 @@
       "min": 23,
       "pts": 9,
       "adjPts": 9.2,
-      "pointsPlus": 97
+      "pointsPlus": 96
     },
     {
       "date": "2025-12-03",
@@ -112,7 +112,7 @@
       "result": "L",
       "min": 24,
       "pts": 4,
-      "adjPts": 3.7,
+      "adjPts": 3.6,
       "pointsPlus": 38
     },
     {
@@ -122,7 +122,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-30",
@@ -149,7 +149,7 @@
       "min": 22,
       "pts": 4,
       "adjPts": 3.6,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2026-01-11",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 23,
       "pts": 8,
-      "adjPts": 8.0,
+      "adjPts": 8.1,
       "pointsPlus": 84
     },
     {
@@ -240,6 +240,15 @@
       "pts": 6,
       "adjPts": 7.2,
       "pointsPlus": 75
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "UTAH @ WVU",
+      "result": "W",
+      "min": 21,
+      "pts": 2,
+      "adjPts": 2.6,
+      "pointsPlus": 28
     }
   ]
 }

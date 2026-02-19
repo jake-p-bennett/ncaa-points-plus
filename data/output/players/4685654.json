@@ -4,17 +4,17 @@
   "team": "BYU",
   "teamName": "BYU Cougars",
   "conference": "Big 12",
-  "rank": 419,
-  "gp": 22,
-  "ppg": 7.2,
-  "adjPpg": 7.2,
-  "pointsPlus": 75,
-  "mpg": 28.3,
+  "rank": 403,
+  "gp": 23,
+  "ppg": 7.3,
+  "adjPpg": 7.4,
+  "pointsPlus": 77,
+  "mpg": 28.1,
   "position": "F",
   "jersey": "30",
   "classYear": "Junior",
-  "pointsPlusStdDev": 51.9,
-  "volatilityPctile": 46,
+  "pointsPlusStdDev": 51.1,
+  "volatilityPctile": 44,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 20,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-27",
@@ -40,7 +40,7 @@
       "result": "W",
       "min": 32,
       "pts": 18,
-      "adjPts": 18.8,
+      "adjPts": 18.9,
       "pointsPlus": 197
     },
     {
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 37,
       "pts": 5,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2025-12-14",
@@ -104,7 +104,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2026-01-03",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 33,
       "pts": 8,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.4,
+      "pointsPlus": 77
     },
     {
       "date": "2026-01-15",
@@ -149,7 +149,7 @@
       "min": 30,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 53
+      "pointsPlus": 52
     },
     {
       "date": "2026-01-24",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 31,
       "pts": 15,
-      "adjPts": 15.6,
+      "adjPts": 15.7,
       "pointsPlus": 163
     },
     {
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 31,
       "pts": 8,
-      "adjPts": 6.6,
+      "adjPts": 6.7,
       "pointsPlus": 69
     },
     {
@@ -203,7 +203,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 11.0,
-      "pointsPlus": 115
+      "pointsPlus": 114
     },
     {
       "date": "2026-02-14",
@@ -213,6 +213,15 @@
       "pts": 9,
       "adjPts": 8.1,
       "pointsPlus": 84
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "BYU @ ARIZ",
+      "result": "L",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 10.4,
+      "pointsPlus": 109
     }
   ]
 }

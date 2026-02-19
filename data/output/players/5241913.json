@@ -4,17 +4,17 @@
   "team": "WAKE",
   "teamName": "Wake Forest Demon Deacons",
   "conference": "ACC",
-  "rank": 527,
-  "gp": 25,
-  "ppg": 5.1,
-  "adjPpg": 5.1,
-  "pointsPlus": 54,
-  "mpg": 13.6,
+  "rank": 502,
+  "gp": 26,
+  "ppg": 5.5,
+  "adjPpg": 5.7,
+  "pointsPlus": 59,
+  "mpg": 14.2,
   "position": "G",
   "jersey": "10",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 41.9,
-  "volatilityPctile": 21,
+  "pointsPlusStdDev": 50.1,
+  "volatilityPctile": 42,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 25,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-11",
@@ -77,7 +77,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-28",
@@ -86,7 +86,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-03",
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 11,
       "pts": 4,
-      "adjPts": 5.2,
+      "adjPts": 5.3,
       "pointsPlus": 55
     },
     {
@@ -149,7 +149,7 @@
       "min": 9,
       "pts": 2,
       "adjPts": 2.0,
-      "pointsPlus": 21
+      "pointsPlus": 20
     },
     {
       "date": "2026-01-08",
@@ -185,7 +185,7 @@
       "min": 11,
       "pts": 4,
       "adjPts": 3.5,
-      "pointsPlus": 37
+      "pointsPlus": 36
     },
     {
       "date": "2026-01-24",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 18,
       "pts": 8,
-      "adjPts": 7.6,
+      "adjPts": 7.7,
       "pointsPlus": 80
     },
     {
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 27,
       "pts": 4,
-      "adjPts": 3.9,
-      "pointsPlus": 41
+      "adjPts": 3.8,
+      "pointsPlus": 40
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 2,
       "adjPts": 2.1,
       "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "WAKE vs CLEM",
+      "result": "W",
+      "min": 30,
+      "pts": 16,
+      "adjPts": 19.5,
+      "pointsPlus": 203
     }
   ]
 }

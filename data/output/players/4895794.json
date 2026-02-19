@@ -4,11 +4,11 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 568,
+  "rank": 566,
   "gp": 26,
   "ppg": 4.6,
-  "adjPpg": 4.5,
-  "pointsPlus": 47,
+  "adjPpg": 4.4,
+  "pointsPlus": 46,
   "mpg": 15.7,
   "position": "F",
   "jersey": "11",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 14,
       "pts": 4,
-      "adjPts": 3.9,
-      "pointsPlus": 41
+      "adjPts": 3.8,
+      "pointsPlus": 40
     },
     {
       "date": "2025-11-17",
@@ -59,7 +59,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-22",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 20,
       "pts": 4,
-      "adjPts": 5.0,
-      "pointsPlus": 52
+      "adjPts": 4.9,
+      "pointsPlus": 51
     },
     {
       "date": "2025-11-29",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 17,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.1,
       "pointsPlus": 64
     },
     {
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 18,
       "pts": 4,
-      "adjPts": 3.5,
-      "pointsPlus": 37
+      "adjPts": 3.4,
+      "pointsPlus": 36
     },
     {
       "date": "2026-01-21",

@@ -4,7 +4,7 @@
   "team": "MIZ",
   "teamName": "Missouri Tigers",
   "conference": "SEC",
-  "rank": 422,
+  "rank": 419,
   "gp": 18,
   "ppg": 7.0,
   "adjPpg": 7.2,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "12",
   "classYear": "Junior",
-  "pointsPlusStdDev": 62.4,
+  "pointsPlusStdDev": 62.3,
   "volatilityPctile": 75,
   "gameLog": [
     {
@@ -49,7 +49,7 @@
       "result": "W",
       "min": 21,
       "pts": 14,
-      "adjPts": 16.6,
+      "adjPts": 16.7,
       "pointsPlus": 174
     },
     {
@@ -68,7 +68,7 @@
       "min": 21,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-26",
@@ -77,7 +77,7 @@
       "min": 29,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-28",
@@ -86,7 +86,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-03",
@@ -95,7 +95,7 @@
       "min": 6,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 22
+      "pointsPlus": 21
     },
     {
       "date": "2025-12-07",
@@ -104,7 +104,7 @@
       "min": 11,
       "pts": 3,
       "adjPts": 3.4,
-      "pointsPlus": 36
+      "pointsPlus": 35
     },
     {
       "date": "2025-12-12",
@@ -113,7 +113,7 @@
       "min": 16,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-14",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 11,
       "pts": 4,
-      "adjPts": 3.1,
-      "pointsPlus": 32
+      "adjPts": 3.0,
+      "pointsPlus": 31
     }
   ]
 }

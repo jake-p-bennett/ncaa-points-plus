@@ -4,7 +4,7 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 522,
+  "rank": 524,
   "gp": 22,
   "ppg": 5.2,
   "adjPpg": 5.2,
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 22,
       "pts": 10,
-      "adjPts": 9.1,
-      "pointsPlus": 96
+      "adjPts": 9.2,
+      "pointsPlus": 95
     },
     {
       "date": "2025-11-15",
@@ -59,7 +59,7 @@
       "min": 42,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-27",
@@ -95,7 +95,7 @@
       "min": 5,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 20
+      "pointsPlus": 19
     },
     {
       "date": "2025-12-13",

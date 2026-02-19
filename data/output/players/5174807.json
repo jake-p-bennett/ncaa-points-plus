@@ -4,7 +4,7 @@
   "team": "WIS",
   "teamName": "Wisconsin Badgers",
   "conference": "Big Ten",
-  "rank": 654,
+  "rank": 652,
   "gp": 26,
   "ppg": 2.2,
   "adjPpg": 2.2,
@@ -176,7 +176,7 @@
       "min": 17,
       "pts": 6,
       "adjPts": 6.1,
-      "pointsPlus": 64
+      "pointsPlus": 63
     },
     {
       "date": "2026-01-23",

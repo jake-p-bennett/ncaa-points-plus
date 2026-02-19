@@ -4,17 +4,17 @@
   "team": "RUTG",
   "teamName": "Rutgers Scarlet Knights",
   "conference": "Big Ten",
-  "rank": 575,
-  "gp": 25,
-  "ppg": 4.2,
-  "adjPpg": 4.3,
-  "pointsPlus": 45,
-  "mpg": 18.2,
+  "rank": 584,
+  "gp": 26,
+  "ppg": 4.1,
+  "adjPpg": 4.2,
+  "pointsPlus": 44,
+  "mpg": 18.3,
   "position": "C",
   "jersey": "21",
   "classYear": "Senior",
-  "pointsPlusStdDev": 51.2,
-  "volatilityPctile": 44,
+  "pointsPlusStdDev": 50.3,
+  "volatilityPctile": 43,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 16,
       "pts": 2,
-      "adjPts": 2.1,
+      "adjPts": 2.2,
       "pointsPlus": 22
     },
     {
@@ -86,7 +86,7 @@
       "min": 29,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 219
     },
     {
       "date": "2025-12-03",
@@ -140,7 +140,7 @@
       "min": 17,
       "pts": 5,
       "adjPts": 4.9,
-      "pointsPlus": 52
+      "pointsPlus": 51
     },
     {
       "date": "2026-01-06",
@@ -167,7 +167,7 @@
       "min": 14,
       "pts": 4,
       "adjPts": 4.2,
-      "pointsPlus": 44
+      "pointsPlus": 43
     },
     {
       "date": "2026-01-17",
@@ -240,6 +240,15 @@
       "pts": 3,
       "adjPts": 2.9,
       "pointsPlus": 30
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "RUTG @ PSU",
+      "result": "W",
+      "min": 22,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
     }
   ]
 }

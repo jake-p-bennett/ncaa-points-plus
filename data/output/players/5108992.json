@@ -4,17 +4,17 @@
   "team": "FLA",
   "teamName": "Florida Gators",
   "conference": "SEC",
-  "rank": 580,
+  "rank": 581,
   "gp": 25,
   "ppg": 4.4,
   "adjPpg": 4.3,
-  "pointsPlus": 45,
+  "pointsPlus": 44,
   "mpg": 14.8,
   "position": "C",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 42.5,
-  "volatilityPctile": 22,
+  "pointsPlusStdDev": 42.3,
+  "volatilityPctile": 21,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -22,7 +22,7 @@
       "result": "L",
       "min": 23,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.5,
       "pointsPlus": 120
     },
     {
@@ -32,7 +32,7 @@
       "min": 19,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-12",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 13,
       "pts": 2,
-      "adjPts": 2.4,
-      "pointsPlus": 25
+      "adjPts": 2.3,
+      "pointsPlus": 24
     },
     {
       "date": "2025-12-13",
@@ -104,7 +104,7 @@
       "min": 17,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-21",
@@ -122,7 +122,7 @@
       "min": 18,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-04",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 11,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.3,
       "pointsPlus": 56
     },
     {
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 15,
       "pts": 5,
-      "adjPts": 4.8,
+      "adjPts": 4.9,
       "pointsPlus": 51
     }
   ]

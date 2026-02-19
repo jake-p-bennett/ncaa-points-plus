@@ -4,7 +4,7 @@
   "team": "PITT",
   "teamName": "Pittsburgh Panthers",
   "conference": "ACC",
-  "rank": 319,
+  "rank": 320,
   "gp": 26,
   "ppg": 9.1,
   "adjPpg": 9.3,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "7",
   "classYear": "Senior",
-  "pointsPlusStdDev": 58.7,
-  "volatilityPctile": 67,
+  "pointsPlusStdDev": 58.1,
+  "volatilityPctile": 65,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 30,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 34,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 241
+      "pointsPlus": 240
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 38,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-13",
@@ -49,7 +49,7 @@
       "result": "L",
       "min": 34,
       "pts": 4,
-      "adjPts": 5.2,
+      "adjPts": 5.3,
       "pointsPlus": 55
     },
     {
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 37,
       "pts": 18,
-      "adjPts": 17.7,
-      "pointsPlus": 186
+      "adjPts": 17.8,
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-03",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 34,
       "pts": 14,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 124
     },
     {
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 33,
       "pts": 14,
-      "adjPts": 14.6,
+      "adjPts": 14.7,
       "pointsPlus": 153
     },
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 36,
       "pts": 17,
-      "adjPts": 21.1,
-      "pointsPlus": 220
+      "adjPts": 20.7,
+      "pointsPlus": 216
     },
     {
       "date": "2026-01-10",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 37,
       "pts": 12,
-      "adjPts": 14.9,
-      "pointsPlus": 155
+      "adjPts": 14.6,
+      "pointsPlus": 152
     },
     {
       "date": "2026-02-04",

@@ -8,12 +8,12 @@
   "gp": 17,
   "ppg": 13.3,
   "adjPpg": 13.5,
-  "pointsPlus": 142,
+  "pointsPlus": 141,
   "mpg": 31.1,
   "position": "G",
   "jersey": "7",
   "classYear": "Senior",
-  "pointsPlusStdDev": 57.4,
+  "pointsPlusStdDev": 57.2,
   "volatilityPctile": 63,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-08",
@@ -50,7 +50,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-31",
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 35,
       "pts": 20,
-      "adjPts": 18.0,
-      "pointsPlus": 189
+      "adjPts": 18.1,
+      "pointsPlus": 188
     },
     {
       "date": "2026-01-03",
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 36,
       "pts": 22,
-      "adjPts": 19.2,
+      "adjPts": 19.3,
       "pointsPlus": 201
     },
     {
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 36,
       "pts": 13,
-      "adjPts": 13.5,
-      "pointsPlus": 142
+      "adjPts": 13.6,
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-17",
@@ -95,7 +95,7 @@
       "min": 29,
       "pts": 12,
       "adjPts": 12.1,
-      "pointsPlus": 127
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-22",
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 20,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 54
     },
     {
@@ -113,7 +113,7 @@
       "min": 34,
       "pts": 16,
       "adjPts": 17.8,
-      "pointsPlus": 187
+      "pointsPlus": 185
     },
     {
       "date": "2026-01-31",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 30,
       "pts": 18,
-      "adjPts": 17.5,
-      "pointsPlus": 183
+      "adjPts": 17.3,
+      "pointsPlus": 180
     },
     {
       "date": "2026-02-03",
@@ -140,7 +140,7 @@
       "min": 32,
       "pts": 16,
       "adjPts": 19.4,
-      "pointsPlus": 203
+      "pointsPlus": 202
     },
     {
       "date": "2026-02-11",

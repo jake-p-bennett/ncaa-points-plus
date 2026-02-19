@@ -4,17 +4,17 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 245,
-  "gp": 17,
+  "rank": 243,
+  "gp": 18,
   "ppg": 10.2,
   "adjPpg": 10.8,
   "pointsPlus": 113,
-  "mpg": 31.8,
+  "mpg": 32.2,
   "position": "F",
   "jersey": "9",
   "classYear": "Senior",
-  "pointsPlusStdDev": 38.6,
-  "volatilityPctile": 14,
+  "pointsPlusStdDev": 37.6,
+  "volatilityPctile": 12,
   "gameLog": [
     {
       "date": "2025-12-03",
@@ -23,7 +23,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-06",
@@ -50,7 +50,7 @@
       "min": 36,
       "pts": 9,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-28",
@@ -59,7 +59,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2026-01-03",
@@ -68,7 +68,7 @@
       "min": 38,
       "pts": 17,
       "adjPts": 17.6,
-      "pointsPlus": 184
+      "pointsPlus": 183
     },
     {
       "date": "2026-01-07",
@@ -86,7 +86,7 @@
       "min": 38,
       "pts": 4,
       "adjPts": 4.3,
-      "pointsPlus": 45
+      "pointsPlus": 44
     },
     {
       "date": "2026-01-14",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 23,
       "pts": 11,
-      "adjPts": 10.3,
-      "pointsPlus": 108
+      "adjPts": 10.2,
+      "pointsPlus": 106
     },
     {
       "date": "2026-01-18",
@@ -104,7 +104,7 @@
       "min": 28,
       "pts": 6,
       "adjPts": 5.5,
-      "pointsPlus": 58
+      "pointsPlus": 57
     },
     {
       "date": "2026-01-22",
@@ -130,7 +130,7 @@
       "result": "L",
       "min": 37,
       "pts": 14,
-      "adjPts": 14.8,
+      "adjPts": 14.9,
       "pointsPlus": 155
     },
     {
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 29,
       "pts": 10,
-      "adjPts": 12.3,
+      "adjPts": 12.4,
       "pointsPlus": 129
     },
     {
@@ -167,7 +167,16 @@
       "min": 37,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 117
+      "pointsPlus": 116
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "MD @ NU",
+      "result": "L",
+      "min": 39,
+      "pts": 11,
+      "adjPts": 11.5,
+      "pointsPlus": 119
     }
   ]
 }

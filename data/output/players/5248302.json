@@ -4,7 +4,7 @@
   "team": "ISU",
   "teamName": "Iowa State Cyclones",
   "conference": "Big 12",
-  "rank": 328,
+  "rank": 325,
   "gp": 26,
   "ppg": 9.3,
   "adjPpg": 9.2,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "27",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 45.8,
-  "volatilityPctile": 31,
+  "pointsPlusStdDev": 45.4,
+  "volatilityPctile": 30,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -58,7 +58,7 @@
       "result": "W",
       "min": 21,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 6.0,
       "pointsPlus": 62
     },
     {
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 31,
       "pts": 20,
-      "adjPts": 19.7,
-      "pointsPlus": 206
+      "adjPts": 19.5,
+      "pointsPlus": 203
     },
     {
       "date": "2025-11-26",
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 31,
       "pts": 19,
-      "adjPts": 19.4,
+      "adjPts": 19.5,
       "pointsPlus": 203
     },
     {
@@ -86,7 +86,7 @@
       "min": 27,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-06",
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 30,
       "pts": 7,
-      "adjPts": 8.6,
+      "adjPts": 8.7,
       "pointsPlus": 90
     },
     {
@@ -113,7 +113,7 @@
       "min": 30,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-21",
@@ -149,7 +149,7 @@
       "min": 34,
       "pts": 12,
       "adjPts": 11.0,
-      "pointsPlus": 115
+      "pointsPlus": 114
     },
     {
       "date": "2026-01-10",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 33,
       "pts": 12,
-      "adjPts": 9.9,
+      "adjPts": 10.0,
       "pointsPlus": 104
     },
     {
@@ -203,7 +203,7 @@
       "min": 18,
       "pts": 12,
       "adjPts": 10.8,
-      "pointsPlus": 113
+      "pointsPlus": 112
     },
     {
       "date": "2026-02-01",
@@ -248,7 +248,7 @@
       "min": 23,
       "pts": 6,
       "adjPts": 7.8,
-      "pointsPlus": 82
+      "pointsPlus": 81
     }
   ]
 }

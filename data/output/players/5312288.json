@@ -4,7 +4,7 @@
   "team": "PITT",
   "teamName": "Pittsburgh Panthers",
   "conference": "ACC",
-  "rank": 255,
+  "rank": 254,
   "gp": 26,
   "ppg": 10.3,
   "adjPpg": 10.6,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "13",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 66.8,
+  "pointsPlusStdDev": 66.4,
   "volatilityPctile": 84,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-11",
@@ -50,7 +50,7 @@
       "min": 31,
       "pts": 6,
       "adjPts": 7.9,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-18",
@@ -77,7 +77,7 @@
       "min": 37,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2025-11-29",
@@ -122,7 +122,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-21",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 30,
       "pts": 28,
-      "adjPts": 25.7,
-      "pointsPlus": 268
+      "adjPts": 25.6,
+      "pointsPlus": 267
     },
     {
       "date": "2025-12-31",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 39,
       "pts": 12,
-      "adjPts": 14.9,
-      "pointsPlus": 155
+      "adjPts": 14.6,
+      "pointsPlus": 152
     },
     {
       "date": "2026-01-10",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 21,
       "pts": 11,
-      "adjPts": 10.7,
-      "pointsPlus": 112
+      "adjPts": 10.6,
+      "pointsPlus": 110
     },
     {
       "date": "2026-01-18",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 82
     },
     {
@@ -185,7 +185,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 15.2,
-      "pointsPlus": 159
+      "pointsPlus": 158
     },
     {
       "date": "2026-01-24",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 27,
       "pts": 15,
-      "adjPts": 14.3,
+      "adjPts": 14.4,
       "pointsPlus": 150
     },
     {
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 25,
       "pts": 12,
-      "adjPts": 14.9,
-      "pointsPlus": 155
+      "adjPts": 14.6,
+      "pointsPlus": 152
     },
     {
       "date": "2026-02-04",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 39,
       "pts": 19,
-      "adjPts": 23.0,
-      "pointsPlus": 241
+      "adjPts": 23.1,
+      "pointsPlus": 240
     },
     {
       "date": "2026-02-14",
@@ -247,7 +247,7 @@
       "result": "L",
       "min": 33,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.6,
       "pointsPlus": 152
     }
   ]

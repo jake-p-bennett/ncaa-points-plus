@@ -4,7 +4,7 @@
   "team": "CIN",
   "teamName": "Cincinnati Bearcats",
   "conference": "Big 12",
-  "rank": 204,
+  "rank": 203,
   "gp": 16,
   "ppg": 11.4,
   "adjPpg": 11.8,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 63.3,
+  "pointsPlusStdDev": 63.2,
   "volatilityPctile": 78,
   "gameLog": [
     {
@@ -31,8 +31,8 @@
       "result": "L",
       "min": 29,
       "pts": 10,
-      "adjPts": 12.4,
-      "pointsPlus": 130
+      "adjPts": 12.2,
+      "pointsPlus": 127
     },
     {
       "date": "2025-12-30",
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 110
     },
     {
@@ -95,7 +95,7 @@
       "min": 25,
       "pts": 4,
       "adjPts": 4.2,
-      "pointsPlus": 43
+      "pointsPlus": 44
     },
     {
       "date": "2026-01-25",
@@ -112,7 +112,7 @@
       "result": "W",
       "min": 36,
       "pts": 17,
-      "adjPts": 15.5,
+      "adjPts": 15.6,
       "pointsPlus": 162
     },
     {
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 35,
       "pts": 18,
-      "adjPts": 23.6,
-      "pointsPlus": 247
+      "adjPts": 23.8,
+      "pointsPlus": 248
     },
     {
       "date": "2026-02-08",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 32,
       "pts": 24,
-      "adjPts": 20.7,
-      "pointsPlus": 217
+      "adjPts": 20.8,
+      "pointsPlus": 216
     },
     {
       "date": "2026-02-15",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 29,
       "pts": 4,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
     }
   ]

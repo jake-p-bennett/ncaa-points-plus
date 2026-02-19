@@ -4,17 +4,17 @@
   "team": "TA&M",
   "teamName": "Texas A&M Aggies",
   "conference": "SEC",
-  "rank": 524,
-  "gp": 25,
+  "rank": 528,
+  "gp": 26,
   "ppg": 5.5,
   "adjPpg": 5.2,
   "pointsPlus": 54,
-  "mpg": 14.1,
+  "mpg": 14.3,
   "position": "G",
   "jersey": "6",
   "classYear": "Senior",
-  "pointsPlusStdDev": 40.6,
-  "volatilityPctile": 19,
+  "pointsPlusStdDev": 39.7,
+  "volatilityPctile": 16,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -113,7 +113,7 @@
       "min": 13,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-21",
@@ -131,7 +131,7 @@
       "min": 22,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-03",
@@ -149,7 +149,7 @@
       "min": 20,
       "pts": 9,
       "adjPts": 7.8,
-      "pointsPlus": 82
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-10",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 13,
       "pts": 2,
-      "adjPts": 2.1,
+      "adjPts": 2.2,
       "pointsPlus": 22
     },
     {
@@ -240,6 +240,15 @@
       "pts": 9,
       "adjPts": 8.4,
       "pointsPlus": 88
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "TA&M vs MISS",
+      "result": "W",
+      "min": 18,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 43
     }
   ]
 }

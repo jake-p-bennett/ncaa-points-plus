@@ -4,17 +4,17 @@
   "team": "VAN",
   "teamName": "Vanderbilt Commodores",
   "conference": "SEC",
-  "rank": 469,
-  "gp": 25,
-  "ppg": 6.5,
-  "adjPpg": 6.3,
-  "pointsPlus": 66,
-  "mpg": 14.6,
+  "rank": 474,
+  "gp": 26,
+  "ppg": 6.3,
+  "adjPpg": 6.1,
+  "pointsPlus": 64,
+  "mpg": 14.5,
   "position": "F",
   "jersey": "8",
   "classYear": "Junior",
-  "pointsPlusStdDev": 56.8,
-  "volatilityPctile": 62,
+  "pointsPlusStdDev": 55.9,
+  "volatilityPctile": 59,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 23,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-08",
@@ -41,7 +41,7 @@
       "min": 22,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-15",
@@ -50,7 +50,7 @@
       "min": 20,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-21",
@@ -59,7 +59,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-26",
@@ -95,7 +95,7 @@
       "min": 10,
       "pts": 4,
       "adjPts": 3.5,
-      "pointsPlus": 37
+      "pointsPlus": 36
     },
     {
       "date": "2025-12-13",
@@ -122,7 +122,7 @@
       "min": 17,
       "pts": 14,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-30",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 14,
       "pts": 5,
-      "adjPts": 4.4,
-      "pointsPlus": 46
+      "adjPts": 4.3,
+      "pointsPlus": 45
     },
     {
       "date": "2026-01-24",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 15,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.3,
       "pointsPlus": 56
     },
     {
@@ -240,6 +240,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "VAN @ MIZ",
+      "result": "L",
+      "min": 11,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 30
     }
   ]
 }

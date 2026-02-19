@@ -4,17 +4,17 @@
   "team": "ALA",
   "teamName": "Alabama Crimson Tide",
   "conference": "SEC",
-  "rank": 408,
-  "gp": 20,
-  "ppg": 7.2,
-  "adjPpg": 7.4,
-  "pointsPlus": 77,
-  "mpg": 20.1,
+  "rank": 430,
+  "gp": 21,
+  "ppg": 6.9,
+  "adjPpg": 7.0,
+  "pointsPlus": 73,
+  "mpg": 19.6,
   "position": "F",
   "jersey": "7",
   "classYear": "Junior",
-  "pointsPlusStdDev": 51.8,
-  "volatilityPctile": 45,
+  "pointsPlusStdDev": 53.0,
+  "volatilityPctile": 50,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 18,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-08",
@@ -31,8 +31,8 @@
       "result": "W",
       "min": 28,
       "pts": 17,
-      "adjPts": 16.9,
-      "pointsPlus": 176
+      "adjPts": 17.0,
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-14",
@@ -68,7 +68,7 @@
       "min": 20,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-27",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 28,
       "pts": 11,
-      "adjPts": 13.6,
-      "pointsPlus": 143
+      "adjPts": 13.4,
+      "pointsPlus": 140
     },
     {
       "date": "2025-12-14",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 26,
       "pts": 8,
-      "adjPts": 8.3,
+      "adjPts": 8.4,
       "pointsPlus": 87
     },
     {
@@ -195,6 +195,15 @@
       "pts": 3,
       "adjPts": 3.1,
       "pointsPlus": 32
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "ALA vs ARK",
+      "result": "W",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

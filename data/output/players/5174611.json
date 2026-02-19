@@ -4,17 +4,17 @@
   "team": "OKST",
   "teamName": "Oklahoma State Cowboys",
   "conference": "Big 12",
-  "rank": 280,
-  "gp": 23,
-  "ppg": 10.2,
-  "adjPpg": 10.2,
-  "pointsPlus": 107,
-  "mpg": 24.3,
+  "rank": 300,
+  "gp": 24,
+  "ppg": 9.8,
+  "adjPpg": 9.8,
+  "pointsPlus": 102,
+  "mpg": 23.5,
   "position": "G",
   "jersey": "0",
   "classYear": "Junior",
-  "pointsPlusStdDev": 73.0,
-  "volatilityPctile": 90,
+  "pointsPlusStdDev": 74.3,
+  "volatilityPctile": 91,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -23,7 +23,7 @@
       "min": 32,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-09",
@@ -31,7 +31,7 @@
       "result": "W",
       "min": 32,
       "pts": 12,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 106
     },
     {
@@ -50,7 +50,7 @@
       "min": 30,
       "pts": 30,
       "adjPts": 30.0,
-      "pointsPlus": 314
+      "pointsPlus": 313
     },
     {
       "date": "2025-11-28",
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 21,
       "pts": 18,
-      "adjPts": 18.7,
-      "pointsPlus": 196
+      "adjPts": 18.8,
+      "pointsPlus": 195
     },
     {
       "date": "2025-12-03",
@@ -68,7 +68,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-07",
@@ -95,7 +95,7 @@
       "min": 31,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-21",
@@ -122,7 +122,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 13.1,
-      "pointsPlus": 137
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-07",
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.5,
       "pointsPlus": 57
     },
     {
@@ -176,7 +176,7 @@
       "min": 31,
       "pts": 19,
       "adjPts": 22.2,
-      "pointsPlus": 232
+      "pointsPlus": 231
     },
     {
       "date": "2026-01-31",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 24,
       "pts": 18,
-      "adjPts": 16.8,
-      "pointsPlus": 175
+      "adjPts": 16.9,
+      "pointsPlus": 176
     },
     {
       "date": "2026-02-07",
@@ -222,6 +222,15 @@
       "pts": 12,
       "adjPts": 12.3,
       "pointsPlus": 128
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "OKST vs KU",
+      "result": "L",
+      "min": 5,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

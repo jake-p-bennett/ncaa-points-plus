@@ -4,7 +4,7 @@
   "team": "VILL",
   "teamName": "Villanova Wildcats",
   "conference": "Big East",
-  "rank": 305,
+  "rank": 310,
   "gp": 26,
   "ppg": 9.8,
   "adjPpg": 9.6,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "5",
   "classYear": "Senior",
-  "pointsPlusStdDev": 66.5,
+  "pointsPlusStdDev": 66.3,
   "volatilityPctile": 83,
   "gameLog": [
     {
@@ -41,7 +41,7 @@
       "min": 23,
       "pts": 27,
       "adjPts": 27.0,
-      "pointsPlus": 282
+      "pointsPlus": 281
     },
     {
       "date": "2025-11-16",
@@ -50,7 +50,7 @@
       "min": 22,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-20",
@@ -68,7 +68,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-01",
@@ -86,7 +86,7 @@
       "min": 19,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 177
     },
     {
       "date": "2025-12-09",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 25,
       "pts": 9,
-      "adjPts": 10.1,
-      "pointsPlus": 106
+      "adjPts": 10.2,
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-03",
@@ -140,7 +140,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 7.4,
-      "pointsPlus": 78
+      "pointsPlus": 77
     },
     {
       "date": "2026-01-08",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 31,
       "pts": 21,
-      "adjPts": 20.8,
+      "adjPts": 20.9,
       "pointsPlus": 218
     },
     {
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 21,
       "pts": 8,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.1,
+      "pointsPlus": 84
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 27,
       "pts": 13,
-      "adjPts": 15.4,
-      "pointsPlus": 162
+      "adjPts": 15.1,
+      "pointsPlus": 158
     },
     {
       "date": "2026-01-31",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 21,
       "pts": 6,
-      "adjPts": 7.5,
+      "adjPts": 7.6,
       "pointsPlus": 79
     },
     {
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 23,
       "pts": 3,
-      "adjPts": 3.1,
+      "adjPts": 3.0,
       "pointsPlus": 32
     },
     {
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 26,
       "pts": 13,
-      "adjPts": 12.8,
-      "pointsPlus": 134
+      "adjPts": 12.7,
+      "pointsPlus": 132
     },
     {
       "date": "2026-02-17",

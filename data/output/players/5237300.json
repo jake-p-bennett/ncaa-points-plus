@@ -4,17 +4,17 @@
   "team": "PITT",
   "teamName": "Pittsburgh Panthers",
   "conference": "ACC",
-  "rank": 393,
+  "rank": 395,
   "gp": 26,
   "ppg": 7.3,
   "adjPpg": 7.5,
-  "pointsPlus": 79,
+  "pointsPlus": 78,
   "mpg": 26.2,
   "position": "G",
   "jersey": "8",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 46.0,
-  "volatilityPctile": 32,
+  "pointsPlusStdDev": 45.6,
+  "volatilityPctile": 31,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -41,7 +41,7 @@
       "min": 30,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-13",
@@ -49,7 +49,7 @@
       "result": "L",
       "min": 38,
       "pts": 11,
-      "adjPts": 14.4,
+      "adjPts": 14.5,
       "pointsPlus": 151
     },
     {
@@ -85,7 +85,7 @@
       "result": "W",
       "min": 37,
       "pts": 11,
-      "adjPts": 10.8,
+      "adjPts": 10.9,
       "pointsPlus": 113
     },
     {
@@ -131,7 +131,7 @@
       "min": 28,
       "pts": 15,
       "adjPts": 13.7,
-      "pointsPlus": 144
+      "pointsPlus": 143
     },
     {
       "date": "2025-12-31",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 25,
       "pts": 14,
-      "adjPts": 17.3,
-      "pointsPlus": 181
+      "adjPts": 17.1,
+      "pointsPlus": 178
     },
     {
       "date": "2026-01-10",
@@ -158,7 +158,7 @@
       "min": 32,
       "pts": 8,
       "adjPts": 8.2,
-      "pointsPlus": 86
+      "pointsPlus": 85
     },
     {
       "date": "2026-01-15",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 18,
       "pts": 4,
-      "adjPts": 3.9,
-      "pointsPlus": 41
+      "adjPts": 3.8,
+      "pointsPlus": 40
     },
     {
       "date": "2026-01-18",
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 30,
       "pts": 13,
-      "adjPts": 12.0,
+      "adjPts": 12.1,
       "pointsPlus": 126
     },
     {
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 37,
       "pts": 8,
-      "adjPts": 9.9,
-      "pointsPlus": 104
+      "adjPts": 9.8,
+      "pointsPlus": 102
     },
     {
       "date": "2026-02-04",
@@ -221,7 +221,7 @@
       "min": 39,
       "pts": 7,
       "adjPts": 7.8,
-      "pointsPlus": 82
+      "pointsPlus": 81
     },
     {
       "date": "2026-02-07",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 31,
       "pts": 4,
-      "adjPts": 4.8,
+      "adjPts": 4.9,
       "pointsPlus": 51
     },
     {

@@ -4,17 +4,17 @@
   "team": "ND",
   "teamName": "Notre Dame Fighting Irish",
   "conference": "ACC",
-  "rank": 581,
+  "rank": 582,
   "gp": 26,
   "ppg": 4.1,
-  "adjPpg": 4.3,
-  "pointsPlus": 45,
+  "adjPpg": 4.2,
+  "pointsPlus": 44,
   "mpg": 20.0,
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 43.5,
-  "volatilityPctile": 25,
+  "pointsPlusStdDev": 42.9,
+  "volatilityPctile": 23,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -86,7 +86,7 @@
       "min": 22,
       "pts": 6,
       "adjPts": 7.8,
-      "pointsPlus": 82
+      "pointsPlus": 81
     },
     {
       "date": "2025-12-03",
@@ -131,7 +131,7 @@
       "min": 28,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-31",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 28,
       "pts": 13,
-      "adjPts": 16.1,
-      "pointsPlus": 168
+      "adjPts": 15.9,
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-14",
@@ -176,7 +176,7 @@
       "min": 27,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 62
+      "pointsPlus": 61
     },
     {
       "date": "2026-01-22",
@@ -239,7 +239,7 @@
       "min": 20,
       "pts": 4,
       "adjPts": 3.5,
-      "pointsPlus": 37
+      "pointsPlus": 36
     },
     {
       "date": "2026-02-14",
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 36,
       "pts": 14,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.5,
+      "pointsPlus": 140
     }
   ]
 }

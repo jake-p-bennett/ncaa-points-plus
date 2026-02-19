@@ -4,16 +4,16 @@
   "team": "CLEM",
   "teamName": "Clemson Tigers",
   "conference": "ACC",
-  "rank": 384,
-  "gp": 26,
-  "ppg": 7.7,
-  "adjPpg": 7.7,
-  "pointsPlus": 81,
-  "mpg": 28.5,
+  "rank": 394,
+  "gp": 27,
+  "ppg": 7.5,
+  "adjPpg": 7.6,
+  "pointsPlus": 79,
+  "mpg": 28.3,
   "position": "G",
   "jersey": "2",
   "classYear": "Senior",
-  "pointsPlusStdDev": 41.4,
+  "pointsPlusStdDev": 41.6,
   "volatilityPctile": 20,
   "gameLog": [
     {
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 26,
       "pts": 8,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.1,
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-18",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 29,
       "pts": 13,
-      "adjPts": 17.0,
-      "pointsPlus": 178
+      "adjPts": 17.2,
+      "pointsPlus": 179
     },
     {
       "date": "2025-11-23",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 35,
       "pts": 16,
-      "adjPts": 13.5,
-      "pointsPlus": 142
+      "adjPts": 13.6,
+      "pointsPlus": 141
     },
     {
       "date": "2025-11-29",
@@ -86,7 +86,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-04",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 33,
       "pts": 13,
-      "adjPts": 10.1,
-      "pointsPlus": 105
+      "adjPts": 9.8,
+      "pointsPlus": 102
     },
     {
       "date": "2025-12-09",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 24,
       "pts": 7,
-      "adjPts": 6.5,
+      "adjPts": 6.6,
       "pointsPlus": 68
     },
     {
@@ -113,7 +113,7 @@
       "min": 30,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-12-17",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 35,
       "pts": 10,
-      "adjPts": 8.7,
+      "adjPts": 8.8,
       "pointsPlus": 91
     },
     {
@@ -185,7 +185,7 @@
       "min": 34,
       "pts": 7,
       "adjPts": 7.3,
-      "pointsPlus": 77
+      "pointsPlus": 76
     },
     {
       "date": "2026-01-21",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 34,
       "pts": 12,
-      "adjPts": 11.7,
-      "pointsPlus": 122
+      "adjPts": 11.5,
+      "pointsPlus": 120
     },
     {
       "date": "2026-01-31",
@@ -247,8 +247,17 @@
       "result": "L",
       "min": 27,
       "pts": 4,
-      "adjPts": 4.8,
+      "adjPts": 4.9,
       "pointsPlus": 51
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "CLEM @ WAKE",
+      "result": "L",
+      "min": 22,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 29
     }
   ]
 }

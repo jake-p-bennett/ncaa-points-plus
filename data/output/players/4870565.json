@@ -4,17 +4,17 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 330,
-  "gp": 25,
-  "ppg": 8.9,
-  "adjPpg": 9.1,
-  "pointsPlus": 96,
+  "rank": 342,
+  "gp": 26,
+  "ppg": 8.6,
+  "adjPpg": 8.9,
+  "pointsPlus": 92,
   "mpg": 29.3,
   "position": "F",
   "jersey": "13",
   "classYear": "Senior",
-  "pointsPlusStdDev": 56.4,
-  "volatilityPctile": 60,
+  "pointsPlusStdDev": 57.1,
+  "volatilityPctile": 62,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 26,
       "pts": 5,
       "adjPts": 5.1,
-      "pointsPlus": 54
+      "pointsPlus": 53
     },
     {
       "date": "2025-11-12",
@@ -41,7 +41,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-15",
@@ -77,7 +77,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-27",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 24,
       "pts": 4,
-      "adjPts": 3.1,
-      "pointsPlus": 32
+      "adjPts": 3.0,
+      "pointsPlus": 31
     },
     {
       "date": "2025-12-03",
@@ -104,7 +104,7 @@
       "min": 32,
       "pts": 5,
       "adjPts": 6.2,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2025-12-14",
@@ -122,7 +122,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 11.1,
-      "pointsPlus": 117
+      "pointsPlus": 116
     },
     {
       "date": "2025-12-28",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 32,
       "pts": 16,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 173
     },
     {
@@ -167,7 +167,7 @@
       "min": 39,
       "pts": 6,
       "adjPts": 5.6,
-      "pointsPlus": 59
+      "pointsPlus": 58
     },
     {
       "date": "2026-01-18",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 24,
       "pts": 16,
-      "adjPts": 14.7,
+      "adjPts": 14.6,
       "pointsPlus": 153
     },
     {
@@ -185,7 +185,7 @@
       "min": 27,
       "pts": 6,
       "adjPts": 6.5,
-      "pointsPlus": 68
+      "pointsPlus": 67
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 31,
       "pts": 13,
       "adjPts": 15.1,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2026-02-01",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 28,
       "pts": 20,
-      "adjPts": 19.7,
+      "adjPts": 19.8,
       "pointsPlus": 206
     },
     {
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 39,
       "pts": 12,
-      "adjPts": 14.8,
+      "adjPts": 14.9,
       "pointsPlus": 155
     },
     {
@@ -240,6 +240,15 @@
       "pts": 5,
       "adjPts": 5.1,
       "pointsPlus": 53
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "MD @ NU",
+      "result": "L",
+      "min": 30,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
     }
   ]
 }

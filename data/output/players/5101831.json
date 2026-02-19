@@ -4,7 +4,7 @@
   "team": "SYR",
   "teamName": "Syracuse Orange",
   "conference": "ACC",
-  "rank": 480,
+  "rank": 478,
   "gp": 27,
   "ppg": 5.8,
   "adjPpg": 6.0,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "0",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 47.9,
+  "pointsPlusStdDev": 47.6,
   "volatilityPctile": 36,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-15",
@@ -50,7 +50,7 @@
       "min": 11,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-24",
@@ -68,7 +68,7 @@
       "min": 20,
       "pts": 9,
       "adjPts": 10.2,
-      "pointsPlus": 107
+      "pointsPlus": 106
     },
     {
       "date": "2025-11-26",
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 20,
       "pts": 14,
-      "adjPts": 16.3,
+      "adjPts": 16.4,
       "pointsPlus": 171
     },
     {
@@ -85,7 +85,7 @@
       "result": "W",
       "min": 26,
       "pts": 10,
-      "adjPts": 10.7,
+      "adjPts": 10.8,
       "pointsPlus": 112
     },
     {
@@ -104,7 +104,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-12-18",
@@ -113,7 +113,7 @@
       "min": 27,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-20",
@@ -131,7 +131,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-31",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 11,
       "pts": 2,
-      "adjPts": 2.5,
-      "pointsPlus": 26
+      "adjPts": 2.4,
+      "pointsPlus": 25
     },
     {
       "date": "2026-01-07",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 19,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 54
     },
     {

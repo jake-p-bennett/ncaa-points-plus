@@ -4,17 +4,17 @@
   "team": "SJU",
   "teamName": "St. John's Red Storm",
   "conference": "Big East",
-  "rank": 321,
-  "gp": 25,
-  "ppg": 9.2,
-  "adjPpg": 9.2,
-  "pointsPlus": 97,
-  "mpg": 26.7,
+  "rank": 343,
+  "gp": 26,
+  "ppg": 8.8,
+  "adjPpg": 8.9,
+  "pointsPlus": 92,
+  "mpg": 26.8,
   "position": "F",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 54.7,
-  "volatilityPctile": 54,
+  "pointsPlusStdDev": 56.4,
+  "volatilityPctile": 60,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -31,8 +31,8 @@
       "result": "L",
       "min": 29,
       "pts": 7,
-      "adjPts": 5.4,
-      "pointsPlus": 57
+      "adjPts": 5.3,
+      "pointsPlus": 55
     },
     {
       "date": "2025-11-15",
@@ -41,7 +41,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-21",
@@ -50,7 +50,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-24",
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 25,
       "pts": 18,
-      "adjPts": 16.4,
+      "adjPts": 16.5,
       "pointsPlus": 172
     },
     {
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 31,
       "pts": 4,
-      "adjPts": 3.5,
+      "adjPts": 3.4,
       "pointsPlus": 36
     },
     {
@@ -95,7 +95,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-17",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 16,
       "pts": 8,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.1,
+      "pointsPlus": 84
     },
     {
       "date": "2026-01-03",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 33,
       "pts": 6,
-      "adjPts": 5.6,
+      "adjPts": 5.5,
       "pointsPlus": 58
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 19,
       "pts": 8,
-      "adjPts": 7.9,
-      "pointsPlus": 82
+      "adjPts": 7.8,
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-13",
@@ -185,7 +185,7 @@
       "min": 36,
       "pts": 17,
       "adjPts": 21.4,
-      "pointsPlus": 224
+      "pointsPlus": 223
     },
     {
       "date": "2026-01-24",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 36,
       "pts": 14,
-      "adjPts": 13.0,
-      "pointsPlus": 136
+      "adjPts": 12.9,
+      "pointsPlus": 134
     },
     {
       "date": "2026-02-04",
@@ -212,7 +212,7 @@
       "min": 28,
       "pts": 3,
       "adjPts": 3.4,
-      "pointsPlus": 35
+      "pointsPlus": 36
     },
     {
       "date": "2026-02-07",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 35,
       "pts": 15,
-      "adjPts": 17.8,
-      "pointsPlus": 186
+      "adjPts": 17.5,
+      "pointsPlus": 182
     },
     {
       "date": "2026-02-09",
@@ -240,6 +240,15 @@
       "pts": 5,
       "adjPts": 3.8,
       "pointsPlus": 40
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "SJU @ MARQ",
+      "result": "W",
+      "min": 30,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

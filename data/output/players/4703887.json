@@ -4,17 +4,17 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 529,
-  "gp": 25,
-  "ppg": 5.2,
-  "adjPpg": 5.1,
-  "pointsPlus": 53,
-  "mpg": 20.2,
+  "rank": 534,
+  "gp": 26,
+  "ppg": 5.1,
+  "adjPpg": 5.0,
+  "pointsPlus": 52,
+  "mpg": 20.3,
   "position": "F",
   "jersey": "23",
   "classYear": "Senior",
-  "pointsPlusStdDev": 42.9,
-  "volatilityPctile": 23,
+  "pointsPlusStdDev": 42.3,
+  "volatilityPctile": 21,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 25,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-09",
@@ -59,7 +59,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-22",
@@ -86,7 +86,7 @@
       "min": 22,
       "pts": 2,
       "adjPts": 2.0,
-      "pointsPlus": 21
+      "pointsPlus": 20
     },
     {
       "date": "2025-12-06",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 13,
       "pts": 2,
-      "adjPts": 2.1,
+      "adjPts": 2.2,
       "pointsPlus": 22
     },
     {
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 21,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.1,
       "pointsPlus": 64
     },
     {
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 23,
       "pts": 15,
-      "adjPts": 14.5,
+      "adjPts": 14.6,
       "pointsPlus": 152
     },
     {
@@ -203,7 +203,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 7.1,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-31",
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 5.6,
+      "adjPts": 5.7,
       "pointsPlus": 59
     },
     {
@@ -240,6 +240,15 @@
       "pts": 2,
       "adjPts": 1.7,
       "pointsPlus": 18
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "ARK @ ALA",
+      "result": "L",
+      "min": 23,
+      "pts": 3,
+      "adjPts": 2.3,
+      "pointsPlus": 24
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "MISS",
   "teamName": "Ole Miss Rebels",
   "conference": "SEC",
-  "rank": 559,
-  "gp": 25,
-  "ppg": 5.0,
-  "adjPpg": 4.6,
+  "rank": 553,
+  "gp": 26,
+  "ppg": 5.1,
+  "adjPpg": 4.7,
   "pointsPlus": 49,
-  "mpg": 15.0,
+  "mpg": 15.3,
   "position": "G",
   "jersey": "11",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 52.0,
-  "volatilityPctile": 46,
+  "pointsPlusStdDev": 51.0,
+  "volatilityPctile": 44,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -50,7 +50,7 @@
       "min": 15,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 84
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-19",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 16,
       "pts": 3,
-      "adjPts": 2.7,
-      "pointsPlus": 28
+      "adjPts": 2.8,
+      "pointsPlus": 29
     },
     {
       "date": "2025-12-03",
@@ -122,7 +122,7 @@
       "min": 33,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-12-30",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 17,
       "pts": 3,
-      "adjPts": 2.7,
-      "pointsPlus": 28
+      "adjPts": 2.6,
+      "pointsPlus": 27
     },
     {
       "date": "2026-01-10",
@@ -176,7 +176,7 @@
       "min": 13,
       "pts": 3,
       "adjPts": 2.7,
-      "pointsPlus": 29
+      "pointsPlus": 28
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 23,
       "pts": 15,
-      "adjPts": 13.0,
-      "pointsPlus": 136
+      "adjPts": 12.9,
+      "pointsPlus": 135
     },
     {
       "date": "2026-01-24",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 17,
       "pts": 9,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 6.8,
+      "pointsPlus": 71
     },
     {
       "date": "2026-02-14",
@@ -239,7 +239,16 @@
       "min": 22,
       "pts": 3,
       "adjPts": 2.7,
-      "pointsPlus": 29
+      "pointsPlus": 28
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "MISS @ TA&M",
+      "result": "L",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 6.8,
+      "pointsPlus": 71
     }
   ]
 }

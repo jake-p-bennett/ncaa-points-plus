@@ -4,7 +4,7 @@
   "team": "TCU",
   "teamName": "TCU Horned Frogs",
   "conference": "Big 12",
-  "rank": 542,
+  "rank": 541,
   "gp": 24,
   "ppg": 4.9,
   "adjPpg": 4.9,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "0",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 56.1,
-  "volatilityPctile": 60,
+  "pointsPlusStdDev": 55.9,
+  "volatilityPctile": 59,
   "gameLog": [
     {
       "date": "2025-11-07",
@@ -23,7 +23,7 @@
       "min": 16,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-11",
@@ -32,7 +32,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-15",
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 21,
       "pts": 21,
-      "adjPts": 21.0,
-      "pointsPlus": 220
+      "adjPts": 21.1,
+      "pointsPlus": 219
     },
     {
       "date": "2025-11-28",
@@ -77,7 +77,7 @@
       "min": 19,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2025-12-07",
@@ -122,7 +122,7 @@
       "min": 17,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2026-01-03",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 15,
       "pts": 9,
-      "adjPts": 9.3,
+      "adjPts": 9.4,
       "pointsPlus": 98
     },
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 17,
       "pts": 8,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.4,
+      "pointsPlus": 77
     },
     {
       "date": "2026-01-21",

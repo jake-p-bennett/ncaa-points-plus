@@ -4,17 +4,17 @@
   "team": "TENN",
   "teamName": "Tennessee Volunteers",
   "conference": "SEC",
-  "rank": 531,
-  "gp": 23,
-  "ppg": 5.2,
-  "adjPpg": 5.1,
-  "pointsPlus": 53,
-  "mpg": 15.8,
+  "rank": 519,
+  "gp": 24,
+  "ppg": 5.5,
+  "adjPpg": 5.3,
+  "pointsPlus": 56,
+  "mpg": 16.0,
   "position": "F",
   "jersey": "6",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 32.6,
-  "volatilityPctile": 6,
+  "pointsPlusStdDev": 34.5,
+  "volatilityPctile": 8,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -59,7 +59,7 @@
       "min": 16,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-24",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 16,
       "pts": 6,
-      "adjPts": 5.3,
-      "pointsPlus": 56
+      "adjPts": 5.1,
+      "pointsPlus": 53
     },
     {
       "date": "2026-01-07",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 25,
       "pts": 10,
-      "adjPts": 9.3,
-      "pointsPlus": 98
+      "adjPts": 9.4,
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-10",
@@ -140,7 +140,7 @@
       "min": 19,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-14",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 33,
       "pts": 10,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-02-04",
@@ -194,7 +194,7 @@
       "min": 22,
       "pts": 5,
       "adjPts": 5.1,
-      "pointsPlus": 54
+      "pointsPlus": 53
     },
     {
       "date": "2026-02-08",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 14,
       "pts": 4,
-      "adjPts": 3.7,
+      "adjPts": 3.6,
       "pointsPlus": 38
     },
     {
@@ -221,7 +221,16 @@
       "min": 11,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 30
+      "pointsPlus": 29
+    },
+    {
+      "date": "2026-02-19",
+      "matchup": "TENN vs OU",
+      "result": "W",
+      "min": 21,
+      "pts": 13,
+      "adjPts": 11.6,
+      "pointsPlus": 121
     }
   ]
 }

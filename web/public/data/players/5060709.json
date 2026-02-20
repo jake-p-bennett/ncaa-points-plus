@@ -17,7 +17,7 @@
   "volatilityPctile": 86,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "BYU vs VILL",
       "result": "W",
       "min": 31,
@@ -26,7 +26,7 @@
       "pointsPlus": 158
     },
     {
-      "date": "2025-11-09",
+      "date": "2025-11-08",
       "matchup": "BYU vs HC",
       "result": "W",
       "min": 25,
@@ -35,7 +35,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "BYU vs DEL",
       "result": "W",
       "min": 36,
@@ -44,7 +44,7 @@
       "pointsPlus": 271
     },
     {
-      "date": "2025-11-16",
+      "date": "2025-11-15",
       "matchup": "BYU vs CONN",
       "result": "L",
       "min": 36,
@@ -71,7 +71,7 @@
       "pointsPlus": 186
     },
     {
-      "date": "2025-11-29",
+      "date": "2025-11-28",
       "matchup": "BYU vs DAY",
       "result": "W",
       "min": 35,
@@ -80,7 +80,7 @@
       "pointsPlus": 240
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "BYU vs CBU",
       "result": "W",
       "min": 33,
@@ -98,7 +98,7 @@
       "pointsPlus": 216
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "BYU vs UCR",
       "result": "W",
       "min": 28,
@@ -107,7 +107,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "BYU vs PAC",
       "result": "W",
       "min": 30,
@@ -116,7 +116,7 @@
       "pointsPlus": 229
     },
     {
-      "date": "2025-12-20",
+      "date": "2025-12-19",
       "matchup": "BYU vs ACU",
       "result": "W",
       "min": 32,
@@ -125,7 +125,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "BYU vs EWU",
       "result": "W",
       "min": 34,
@@ -143,7 +143,7 @@
       "pointsPlus": 162
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "BYU vs ASU",
       "result": "W",
       "min": 37,
@@ -152,7 +152,7 @@
       "pointsPlus": 255
     },
     {
-      "date": "2026-01-11",
+      "date": "2026-01-10",
       "matchup": "BYU @ UTAH",
       "result": "W",
       "min": 38,
@@ -161,7 +161,7 @@
       "pointsPlus": 221
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "BYU vs TCU",
       "result": "W",
       "min": 39,
@@ -170,7 +170,7 @@
       "pointsPlus": 160
     },
     {
-      "date": "2026-01-18",
+      "date": "2026-01-17",
       "matchup": "BYU @ TTU",
       "result": "L",
       "min": 38,
@@ -188,7 +188,7 @@
       "pointsPlus": 202
     },
     {
-      "date": "2026-01-27",
+      "date": "2026-01-26",
       "matchup": "BYU vs ARIZ",
       "result": "L",
       "min": 32,
@@ -206,7 +206,7 @@
       "pointsPlus": 212
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "BYU @ OKST",
       "result": "L",
       "min": 29,
@@ -215,7 +215,7 @@
       "pointsPlus": 130
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "BYU vs HOU",
       "result": "L",
       "min": 36,
@@ -224,7 +224,7 @@
       "pointsPlus": 231
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "BYU @ BAY",
       "result": "W",
       "min": 40,
@@ -242,7 +242,7 @@
       "pointsPlus": 365
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "BYU @ ARIZ",
       "result": "L",
       "min": 38,

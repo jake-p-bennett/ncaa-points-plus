@@ -17,7 +17,7 @@
   "volatilityPctile": 0,
   "gameLog": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-04",
       "matchup": "KSU vs UNCG",
       "result": "W",
       "min": 17,
@@ -26,7 +26,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-11-09",
+      "date": "2025-11-08",
       "matchup": "KSU vs BELL",
       "result": "W",
       "min": 17,
@@ -35,7 +35,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-11-14",
+      "date": "2025-11-13",
       "matchup": "KSU vs CAL",
       "result": "W",
       "min": 17,
@@ -44,7 +44,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "KSU vs MSST",
       "result": "W",
       "min": 13,
@@ -53,7 +53,7 @@
       "pointsPlus": 19
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "KSU vs NEB",
       "result": "L",
       "min": 7,
@@ -62,7 +62,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "KSU @ IU",
       "result": "L",
       "min": 15,
@@ -71,7 +71,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-02",
+      "date": "2025-12-01",
       "matchup": "KSU vs BGSU",
       "result": "L",
       "min": 16,
@@ -98,7 +98,7 @@
       "pointsPlus": 20
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "KSU @ ARIZ",
       "result": "L",
       "min": 6,

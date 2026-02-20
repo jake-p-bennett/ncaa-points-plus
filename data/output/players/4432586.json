@@ -17,7 +17,7 @@
   "volatilityPctile": 93,
   "gameLog": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-04",
       "matchup": "ORE vs HAW",
       "result": "W",
       "min": 31,
@@ -26,7 +26,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "ORE vs RICE",
       "result": "W",
       "min": 31,
@@ -35,7 +35,7 @@
       "pointsPlus": 260
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "ORE vs SDST",
       "result": "W",
       "min": 31,
@@ -44,7 +44,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "ORE vs ORST",
       "result": "W",
       "min": 31,
@@ -53,7 +53,7 @@
       "pointsPlus": 250
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-24",
       "matchup": "ORE vs AUB",
       "result": "L",
       "min": 33,
@@ -62,7 +62,7 @@
       "pointsPlus": 90
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "ORE vs SDSU",
       "result": "L",
       "min": 20,
@@ -89,7 +89,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "ORE vs PORT",
       "result": "W",
       "min": 25,
@@ -107,7 +107,7 @@
       "pointsPlus": 292
     },
     {
-      "date": "2025-12-29",
+      "date": "2025-12-28",
       "matchup": "ORE vs OMA",
       "result": "W",
       "min": 27,
@@ -116,7 +116,7 @@
       "pointsPlus": 271
     },
     {
-      "date": "2026-01-03",
+      "date": "2026-01-02",
       "matchup": "ORE @ MD",
       "result": "W",
       "min": 34,
@@ -125,7 +125,7 @@
       "pointsPlus": 160
     },
     {
-      "date": "2026-01-06",
+      "date": "2026-01-05",
       "matchup": "ORE @ RUTG",
       "result": "L",
       "min": 30,
@@ -134,7 +134,7 @@
       "pointsPlus": 296
     },
     {
-      "date": "2026-01-09",
+      "date": "2026-01-08",
       "matchup": "ORE vs OSU",
       "result": "L",
       "min": 33,
@@ -143,7 +143,7 @@
       "pointsPlus": 144
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "ORE @ NEB",
       "result": "L",
       "min": 25,
@@ -161,7 +161,7 @@
       "pointsPlus": 254
     },
     {
-      "date": "2026-02-10",
+      "date": "2026-02-09",
       "matchup": "ORE @ IU",
       "result": "L",
       "min": 34,
@@ -179,7 +179,7 @@
       "pointsPlus": 210
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "ORE vs MINN",
       "result": "L",
       "min": 35,

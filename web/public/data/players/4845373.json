@@ -17,7 +17,7 @@
   "volatilityPctile": 63,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "CAL vs CSUB",
       "result": "W",
       "min": 29,
@@ -26,7 +26,7 @@
       "pointsPlus": 188
     },
     {
-      "date": "2025-11-07",
+      "date": "2025-11-06",
       "matchup": "CAL vs WRST",
       "result": "W",
       "min": 31,
@@ -35,7 +35,7 @@
       "pointsPlus": 240
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "CAL vs CSUF",
       "result": "W",
       "min": 34,
@@ -44,7 +44,7 @@
       "pointsPlus": 250
     },
     {
-      "date": "2025-11-14",
+      "date": "2025-11-13",
       "matchup": "CAL @ KSU",
       "result": "L",
       "min": 32,
@@ -53,7 +53,7 @@
       "pointsPlus": 225
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "CAL vs PRES",
       "result": "W",
       "min": 34,
@@ -62,7 +62,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "CAL vs SAC",
       "result": "W",
       "min": 31,
@@ -71,7 +71,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "CAL vs UCLA",
       "result": "W",
       "min": 24,
@@ -80,7 +80,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "CAL vs UTAH",
       "result": "W",
       "min": 32,
@@ -98,7 +98,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "CAL vs DOM",
       "result": "W",
       "min": 31,
@@ -116,7 +116,7 @@
       "pointsPlus": 208
     },
     {
-      "date": "2025-12-20",
+      "date": "2025-12-19",
       "matchup": "CAL vs MORG",
       "result": "W",
       "min": 26,
@@ -134,7 +134,7 @@
       "pointsPlus": 219
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "CAL vs LOU",
       "result": "L",
       "min": 33,
@@ -143,7 +143,7 @@
       "pointsPlus": 113
     },
     {
-      "date": "2026-01-03",
+      "date": "2026-01-02",
       "matchup": "CAL vs ND",
       "result": "W",
       "min": 34,
@@ -152,7 +152,7 @@
       "pointsPlus": 247
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "CAL @ UVA",
       "result": "L",
       "min": 32,
@@ -170,7 +170,7 @@
       "pointsPlus": 215
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "CAL vs DUKE",
       "result": "L",
       "min": 33,
@@ -188,7 +188,7 @@
       "pointsPlus": 206
     },
     {
-      "date": "2026-01-25",
+      "date": "2026-01-24",
       "matchup": "CAL @ STAN",
       "result": "W",
       "min": 28,
@@ -197,7 +197,7 @@
       "pointsPlus": 120
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "CAL @ FSU",
       "result": "L",
       "min": 35,
@@ -215,7 +215,7 @@
       "pointsPlus": 153
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "CAL vs GT",
       "result": "W",
       "min": 31,
@@ -224,7 +224,7 @@
       "pointsPlus": 291
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "CAL vs CLEM",
       "result": "L",
       "min": 33,
@@ -233,7 +233,7 @@
       "pointsPlus": 152
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "CAL @ SYR",
       "result": "L",
       "min": 45,

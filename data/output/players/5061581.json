@@ -17,7 +17,7 @@
   "volatilityPctile": 9,
   "gameLog": [
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "TTU vs MILW",
       "result": "W",
       "min": 13,
@@ -26,7 +26,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "TTU vs WAKE",
       "result": "W",
       "min": 10,
@@ -35,7 +35,7 @@
       "pointsPlus": 58
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "TTU vs PUR",
       "result": "L",
       "min": 17,
@@ -71,7 +71,7 @@
       "pointsPlus": 59
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "TTU vs UNCO",
       "result": "W",
       "min": 7,
@@ -89,7 +89,7 @@
       "pointsPlus": 19
     },
     {
-      "date": "2026-02-03",
+      "date": "2026-02-02",
       "matchup": "TTU vs KU",
       "result": "L",
       "min": 8,
@@ -107,7 +107,7 @@
       "pointsPlus": 28
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "TTU vs COLO",
       "result": "W",
       "min": 18,
@@ -125,7 +125,7 @@
       "pointsPlus": 11
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "TTU @ ASU",
       "result": "L",
       "min": 20,

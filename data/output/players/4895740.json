@@ -17,7 +17,7 @@
   "volatilityPctile": 100,
   "gameLog": [
     {
-      "date": "2025-11-06",
+      "date": "2025-11-05",
       "matchup": "MSST vs UNA",
       "result": "W",
       "min": 32,
@@ -26,7 +26,7 @@
       "pointsPlus": 281
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "MSST vs ISU",
       "result": "L",
       "min": 36,
@@ -44,7 +44,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "MSST vs KSU",
       "result": "L",
       "min": 32,
@@ -53,7 +53,7 @@
       "pointsPlus": 207
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "MSST vs UNM",
       "result": "L",
       "min": 36,
@@ -62,7 +62,7 @@
       "pointsPlus": 302
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-24",
       "matchup": "MSST vs UNO",
       "result": "W",
       "min": 41,
@@ -71,7 +71,7 @@
       "pointsPlus": 292
     },
     {
-      "date": "2025-11-29",
+      "date": "2025-11-28",
       "matchup": "MSST vs SMU",
       "result": "L",
       "min": 39,
@@ -80,7 +80,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "MSST @ GT",
       "result": "W",
       "min": 33,
@@ -98,7 +98,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "MSST vs UTAH",
       "result": "W",
       "min": 30,
@@ -107,7 +107,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "MSST vs LIU",
       "result": "W",
       "min": 35,
@@ -125,7 +125,7 @@
       "pointsPlus": 177
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "MSST vs ALST",
       "result": "W",
       "min": 24,
@@ -143,7 +143,7 @@
       "pointsPlus": 370
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "MSST vs OU",
       "result": "W",
       "min": 37,
@@ -152,7 +152,7 @@
       "pointsPlus": 278
     },
     {
-      "date": "2026-01-11",
+      "date": "2026-01-10",
       "matchup": "MSST @ UK",
       "result": "L",
       "min": 37,
@@ -161,7 +161,7 @@
       "pointsPlus": 208
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "MSST vs ALA",
       "result": "L",
       "min": 33,
@@ -170,7 +170,7 @@
       "pointsPlus": 181
     },
     {
-      "date": "2026-01-18",
+      "date": "2026-01-17",
       "matchup": "MSST vs MISS",
       "result": "L",
       "min": 36,
@@ -179,7 +179,7 @@
       "pointsPlus": 139
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "MSST @ TA&M",
       "result": "L",
       "min": 31,
@@ -197,7 +197,7 @@
       "pointsPlus": 68
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "MSST @ LSU",
       "result": "W",
       "min": 32,
@@ -224,7 +224,7 @@
       "pointsPlus": 143
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "MSST vs TENN",
       "result": "L",
       "min": 33,
@@ -242,7 +242,7 @@
       "pointsPlus": 341
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "MSST vs AUB",
       "result": "W",
       "min": 39,

@@ -17,7 +17,7 @@
   "volatilityPctile": 2,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "TENN vs MER",
       "result": "W",
       "min": 15,
@@ -35,7 +35,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "TENN vs UNF",
       "result": "W",
       "min": 19,
@@ -44,7 +44,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "TENN vs RICE",
       "result": "W",
       "min": 17,
@@ -53,7 +53,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "TENN vs TNST",
       "result": "W",
       "min": 22,
@@ -80,7 +80,7 @@
       "pointsPlus": 27
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "TENN vs KU",
       "result": "L",
       "min": 16,
@@ -89,7 +89,7 @@
       "pointsPlus": 47
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "TENN @ SYR",
       "result": "L",
       "min": 12,
@@ -98,7 +98,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "TENN vs ILL",
       "result": "L",
       "min": 18,

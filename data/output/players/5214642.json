@@ -17,7 +17,7 @@
   "volatilityPctile": 60,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "ILL vs JKST",
       "result": "W",
       "min": 23,
@@ -26,7 +26,7 @@
       "pointsPlus": 219
     },
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "ILL vs ALA",
       "result": "L",
       "min": 15,
@@ -44,7 +44,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-24",
       "matchup": "ILL vs RGV",
       "result": "W",
       "min": 22,
@@ -62,7 +62,7 @@
       "pointsPlus": 133
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "ILL vs TENN",
       "result": "W",
       "min": 31,
@@ -71,7 +71,7 @@
       "pointsPlus": 179
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "ILL @ OSU",
       "result": "W",
       "min": 27,
@@ -89,7 +89,7 @@
       "pointsPlus": 37
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "ILL vs MIZ",
       "result": "W",
       "min": 21,
@@ -107,7 +107,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2026-01-04",
+      "date": "2026-01-03",
       "matchup": "ILL @ PSU",
       "result": "W",
       "min": 17,
@@ -116,7 +116,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-09",
+      "date": "2026-01-08",
       "matchup": "ILL vs RUTG",
       "result": "W",
       "min": 26,
@@ -134,7 +134,7 @@
       "pointsPlus": 90
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "ILL @ NU",
       "result": "W",
       "min": 26,
@@ -152,7 +152,7 @@
       "pointsPlus": 124
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "ILL vs MD",
       "result": "W",
       "min": 30,
@@ -170,7 +170,7 @@
       "pointsPlus": 77
     },
     {
-      "date": "2026-01-30",
+      "date": "2026-01-29",
       "matchup": "ILL vs WASH",
       "result": "W",
       "min": 29,
@@ -188,7 +188,7 @@
       "pointsPlus": 148
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "ILL vs NU",
       "result": "W",
       "min": 24,
@@ -197,7 +197,7 @@
       "pointsPlus": 54
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "ILL @ MSU",
       "result": "L",
       "min": 29,
@@ -206,7 +206,7 @@
       "pointsPlus": 145
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "ILL vs WIS",
       "result": "L",
       "min": 37,
@@ -224,7 +224,7 @@
       "pointsPlus": 151
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "ILL @ USC",
       "result": "W",
       "min": 21,

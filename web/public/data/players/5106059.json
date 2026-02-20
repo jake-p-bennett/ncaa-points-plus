@@ -17,7 +17,7 @@
   "volatilityPctile": 18,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "NCSU vs NCCU",
       "result": "W",
       "min": 10,
@@ -26,7 +26,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "NCSU vs UAB",
       "result": "W",
       "min": 8,
@@ -53,7 +53,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "NCSU vs TEX",
       "result": "L",
       "min": 13,
@@ -62,7 +62,7 @@
       "pointsPlus": 39
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "NCSU @ AUB",
       "result": "L",
       "min": 13,
@@ -80,7 +80,7 @@
       "pointsPlus": 10
     },
     {
-      "date": "2025-12-11",
+      "date": "2025-12-10",
       "matchup": "NCSU vs LIB",
       "result": "W",
       "min": 23,
@@ -98,7 +98,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "NCSU vs TXSO",
       "result": "W",
       "min": 16,
@@ -116,7 +116,7 @@
       "pointsPlus": 23
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "NCSU @ BC",
       "result": "W",
       "min": 21,
@@ -143,7 +143,7 @@
       "pointsPlus": 30
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "NCSU @ CLEM",
       "result": "W",
       "min": 12,
@@ -161,7 +161,7 @@
       "pointsPlus": 23
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "NCSU vs SYR",
       "result": "W",
       "min": 16,
@@ -179,7 +179,7 @@
       "pointsPlus": 87
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "NCSU @ SMU",
       "result": "W",
       "min": 21,
@@ -197,7 +197,7 @@
       "pointsPlus": 20
     },
     {
-      "date": "2026-02-10",
+      "date": "2026-02-09",
       "matchup": "NCSU @ LOU",
       "result": "L",
       "min": 17,
@@ -215,7 +215,7 @@
       "pointsPlus": 44
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "NCSU vs UNC",
       "result": "W",
       "min": 23,

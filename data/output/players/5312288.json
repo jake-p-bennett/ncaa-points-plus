@@ -17,7 +17,7 @@
   "volatilityPctile": 84,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "PITT vs YSU",
       "result": "W",
       "min": 17,
@@ -26,7 +26,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "PITT vs LONG",
       "result": "W",
       "min": 23,
@@ -35,7 +35,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "PITT vs EMU",
       "result": "W",
       "min": 24,
@@ -53,7 +53,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "PITT vs BUCK",
       "result": "W",
       "min": 22,
@@ -62,7 +62,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "PITT vs UCF",
       "result": "L",
       "min": 12,
@@ -80,7 +80,7 @@
       "pointsPlus": 208
     },
     {
-      "date": "2025-11-29",
+      "date": "2025-11-28",
       "matchup": "PITT vs OSU",
       "result": "W",
       "min": 24,
@@ -89,7 +89,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "PITT vs TA&M",
       "result": "L",
       "min": 11,
@@ -116,7 +116,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "PITT vs BING",
       "result": "W",
       "min": 31,
@@ -134,7 +134,7 @@
       "pointsPlus": 267
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "PITT @ MIA",
       "result": "L",
       "min": 24,
@@ -161,7 +161,7 @@
       "pointsPlus": 139
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "PITT @ GT",
       "result": "W",
       "min": 21,
@@ -170,7 +170,7 @@
       "pointsPlus": 110
     },
     {
-      "date": "2026-01-18",
+      "date": "2026-01-17",
       "matchup": "PITT vs LOU",
       "result": "L",
       "min": 29,
@@ -179,7 +179,7 @@
       "pointsPlus": 82
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "PITT @ BC",
       "result": "L",
       "min": 34,
@@ -215,7 +215,7 @@
       "pointsPlus": 152
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "PITT @ UVA",
       "result": "L",
       "min": 35,
@@ -233,7 +233,7 @@
       "pointsPlus": 64
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "PITT vs DUKE",
       "result": "L",
       "min": 39,

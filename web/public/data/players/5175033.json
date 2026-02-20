@@ -17,7 +17,7 @@
   "volatilityPctile": 78,
   "gameLog": [
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "CIN vs ALST",
       "result": "W",
       "min": 20,
@@ -35,7 +35,7 @@
       "pointsPlus": 127
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "CIN vs LIP",
       "result": "W",
       "min": 25,
@@ -53,7 +53,7 @@
       "pointsPlus": 54
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "CIN @ WVU",
       "result": "L",
       "min": 29,
@@ -71,7 +71,7 @@
       "pointsPlus": 133
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "CIN vs COLO",
       "result": "W",
       "min": 31,
@@ -89,7 +89,7 @@
       "pointsPlus": 183
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "CIN @ ARIZ",
       "result": "L",
       "min": 25,
@@ -98,7 +98,7 @@
       "pointsPlus": 44
     },
     {
-      "date": "2026-01-25",
+      "date": "2026-01-24",
       "matchup": "CIN @ ASU",
       "result": "L",
       "min": 27,
@@ -125,7 +125,7 @@
       "pointsPlus": 68
     },
     {
-      "date": "2026-02-06",
+      "date": "2026-02-05",
       "matchup": "CIN vs WVU",
       "result": "L",
       "min": 35,
@@ -143,7 +143,7 @@
       "pointsPlus": 142
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "CIN @ KSU",
       "result": "W",
       "min": 32,

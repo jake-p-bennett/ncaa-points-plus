@@ -17,7 +17,7 @@
   "volatilityPctile": 23,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "MIZ @ HOW",
       "result": "W",
       "min": 27,
@@ -26,7 +26,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "MIZ vs SEMO",
       "result": "W",
       "min": 27,
@@ -44,7 +44,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "MIZ vs MINN",
       "result": "W",
       "min": 23,
@@ -53,7 +53,7 @@
       "pointsPlus": 161
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "MIZ vs PV",
       "result": "W",
       "min": 28,
@@ -62,7 +62,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "MIZ vs SDAK",
       "result": "W",
       "min": 24,
@@ -71,7 +71,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2026-01-04",
+      "date": "2026-01-03",
       "matchup": "MIZ vs FLA",
       "result": "W",
       "min": 28,
@@ -80,7 +80,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "MIZ @ UK",
       "result": "W",
       "min": 26,
@@ -98,7 +98,7 @@
       "pointsPlus": 171
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "MIZ vs AUB",
       "result": "W",
       "min": 35,
@@ -116,7 +116,7 @@
       "pointsPlus": 196
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "MIZ vs UGA",
       "result": "L",
       "min": 36,
@@ -134,7 +134,7 @@
       "pointsPlus": 186
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "MIZ @ ALA",
       "result": "L",
       "min": 28,
@@ -161,7 +161,7 @@
       "pointsPlus": 223
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "MIZ @ TA&M",
       "result": "W",
       "min": 29,
@@ -170,7 +170,7 @@
       "pointsPlus": 97
     },
     {
-      "date": "2026-02-15",
+      "date": "2026-02-14",
       "matchup": "MIZ vs TEX",
       "result": "L",
       "min": 34,
@@ -179,7 +179,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "MIZ vs VAN",
       "result": "W",
       "min": 37,

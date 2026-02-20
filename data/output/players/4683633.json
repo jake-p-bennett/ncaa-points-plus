@@ -17,7 +17,7 @@
   "volatilityPctile": 47,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "CIN vs WCU",
       "result": "W",
       "min": 26,
@@ -26,7 +26,7 @@
       "pointsPlus": 63
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "CIN vs GAST",
       "result": "W",
       "min": 30,
@@ -35,7 +35,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "CIN vs DAY",
       "result": "W",
       "min": 31,
@@ -62,7 +62,7 @@
       "pointsPlus": 61
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-24",
       "matchup": "CIN vs NJIT",
       "result": "W",
       "min": 18,
@@ -71,7 +71,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "CIN vs EMU",
       "result": "L",
       "min": 30,
@@ -80,7 +80,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-12-02",
+      "date": "2025-12-01",
       "matchup": "CIN vs TAR",
       "result": "W",
       "min": 30,
@@ -89,7 +89,7 @@
       "pointsPlus": 208
     },
     {
-      "date": "2025-12-06",
+      "date": "2025-12-05",
       "matchup": "CIN @ XAV",
       "result": "L",
       "min": 33,
@@ -107,7 +107,7 @@
       "pointsPlus": 53
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "CIN vs ALST",
       "result": "W",
       "min": 22,
@@ -125,7 +125,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "CIN vs LIP",
       "result": "W",
       "min": 20,
@@ -143,7 +143,7 @@
       "pointsPlus": 41
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "CIN @ ARIZ",
       "result": "L",
       "min": 2,
@@ -152,7 +152,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-25",
+      "date": "2026-01-24",
       "matchup": "CIN @ ASU",
       "result": "L",
       "min": 10,
@@ -179,7 +179,7 @@
       "pointsPlus": 41
     },
     {
-      "date": "2026-02-06",
+      "date": "2026-02-05",
       "matchup": "CIN vs WVU",
       "result": "L",
       "min": 15,

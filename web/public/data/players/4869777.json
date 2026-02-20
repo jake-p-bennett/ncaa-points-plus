@@ -17,7 +17,7 @@
   "volatilityPctile": 73,
   "gameLog": [
     {
-      "date": "2025-11-09",
+      "date": "2025-11-08",
       "matchup": "ARK @ MSU",
       "result": "L",
       "min": 18,
@@ -26,7 +26,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "ARK vs CARK",
       "result": "W",
       "min": 24,
@@ -35,7 +35,7 @@
       "pointsPlus": 198
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "ARK vs SAM",
       "result": "W",
       "min": 27,
@@ -44,7 +44,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "ARK vs WIN",
       "result": "W",
       "min": 25,
@@ -53,7 +53,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "ARK vs JKST",
       "result": "W",
       "min": 18,
@@ -62,7 +62,7 @@
       "pointsPlus": 177
     },
     {
-      "date": "2025-11-28",
+      "date": "2025-11-27",
       "matchup": "ARK vs DUKE",
       "result": "L",
       "min": 23,
@@ -71,7 +71,7 @@
       "pointsPlus": 25
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "ARK vs LOU",
       "result": "W",
       "min": 21,
@@ -98,7 +98,7 @@
       "pointsPlus": 210
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "ARK vs QUC",
       "result": "W",
       "min": 23,
@@ -116,7 +116,7 @@
       "pointsPlus": 41
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "ARK vs JMU",
       "result": "W",
       "min": 18,
@@ -134,7 +134,7 @@
       "pointsPlus": 123
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "ARK @ MISS",
       "result": "W",
       "min": 30,
@@ -152,7 +152,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "ARK vs SC",
       "result": "W",
       "min": 18,
@@ -170,7 +170,7 @@
       "pointsPlus": 71
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "ARK vs VAN",
       "result": "W",
       "min": 30,
@@ -188,7 +188,7 @@
       "pointsPlus": 49
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "ARK @ OU",
       "result": "W",
       "min": 26,
@@ -206,7 +206,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-15",
+      "date": "2026-02-14",
       "matchup": "ARK vs AUB",
       "result": "W",
       "min": 6,

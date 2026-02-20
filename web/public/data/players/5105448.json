@@ -17,7 +17,7 @@
   "volatilityPctile": 92,
   "gameLog": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-04",
       "matchup": "FSU vs ALCN",
       "result": "W",
       "min": 24,
@@ -26,7 +26,7 @@
       "pointsPlus": 229
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "FSU vs ALST",
       "result": "W",
       "min": 23,
@@ -35,7 +35,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "FSU @ FLA",
       "result": "L",
       "min": 33,
@@ -53,7 +53,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "FSU vs CSUB",
       "result": "W",
       "min": 23,
@@ -71,7 +71,7 @@
       "pointsPlus": 62
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "FSU vs UGA",
       "result": "L",
       "min": 26,
@@ -80,7 +80,7 @@
       "pointsPlus": 133
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "FSU vs HOU",
       "result": "L",
       "min": 28,
@@ -98,7 +98,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "FSU @ DAY",
       "result": "L",
       "min": 27,
@@ -107,7 +107,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-20",
+      "date": "2025-12-19",
       "matchup": "FSU vs MVSU",
       "result": "W",
       "min": 21,
@@ -116,7 +116,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "FSU vs JAX",
       "result": "W",
       "min": 28,
@@ -125,7 +125,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "FSU @ UNC",
       "result": "L",
       "min": 34,
@@ -152,7 +152,7 @@
       "pointsPlus": 30
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "FSU @ SYR",
       "result": "L",
       "min": 26,
@@ -170,7 +170,7 @@
       "pointsPlus": 145
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "FSU @ MIA",
       "result": "W",
       "min": 31,
@@ -188,7 +188,7 @@
       "pointsPlus": 46
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "FSU vs CAL",
       "result": "W",
       "min": 31,
@@ -215,7 +215,7 @@
       "pointsPlus": 236
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "FSU vs UVA",
       "result": "L",
       "min": 30,

@@ -17,7 +17,7 @@
   "volatilityPctile": 55,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "MISS vs SELA",
       "result": "W",
       "min": 16,
@@ -26,7 +26,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "MISS vs ULM",
       "result": "W",
       "min": 15,
@@ -35,7 +35,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "MISS vs MEM",
       "result": "W",
       "min": 17,
@@ -44,7 +44,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "MISS vs CSUB",
       "result": "W",
       "min": 16,
@@ -53,7 +53,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "MISS vs APSU",
       "result": "W",
       "min": 19,
@@ -62,7 +62,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "MISS vs IOWA",
       "result": "L",
       "min": 8,
@@ -71,7 +71,7 @@
       "pointsPlus": 64
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "MISS vs UTAH",
       "result": "L",
       "min": 28,
@@ -80,7 +80,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "MISS vs MIA",
       "result": "L",
       "min": 27,
@@ -89,7 +89,7 @@
       "pointsPlus": 120
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "MISS @ SJU",
       "result": "L",
       "min": 9,
@@ -107,7 +107,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "MISS vs AAMU",
       "result": "W",
       "min": 16,
@@ -125,7 +125,7 @@
       "pointsPlus": 10
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "MISS vs ALCN",
       "result": "W",
       "min": 26,
@@ -143,7 +143,7 @@
       "pointsPlus": 232
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "MISS vs ARK",
       "result": "L",
       "min": 25,
@@ -161,7 +161,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "MISS @ UGA",
       "result": "W",
       "min": 40,
@@ -170,7 +170,7 @@
       "pointsPlus": 159
     },
     {
-      "date": "2026-01-18",
+      "date": "2026-01-17",
       "matchup": "MISS @ MSST",
       "result": "W",
       "min": 28,
@@ -179,7 +179,7 @@
       "pointsPlus": 38
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "MISS vs AUB",
       "result": "L",
       "min": 30,
@@ -206,7 +206,7 @@
       "pointsPlus": 88
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "MISS @ TENN",
       "result": "L",
       "min": 36,
@@ -224,7 +224,7 @@
       "pointsPlus": 97
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "MISS vs ALA",
       "result": "L",
       "min": 25,
@@ -242,7 +242,7 @@
       "pointsPlus": 28
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "MISS @ TA&M",
       "result": "L",
       "min": 27,

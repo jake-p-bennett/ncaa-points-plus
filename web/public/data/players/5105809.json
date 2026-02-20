@@ -17,7 +17,7 @@
   "volatilityPctile": 54,
   "gameLog": [
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "CONN vs UML",
       "result": "W",
       "min": 17,
@@ -35,7 +35,7 @@
       "pointsPlus": 198
     },
     {
-      "date": "2025-11-16",
+      "date": "2025-11-15",
       "matchup": "CONN vs BYU",
       "result": "W",
       "min": 34,
@@ -53,7 +53,7 @@
       "pointsPlus": 22
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "CONN vs FLA",
       "result": "W",
       "min": 24,
@@ -62,7 +62,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-12-13",
+      "date": "2025-12-12",
       "matchup": "CONN vs TEX",
       "result": "W",
       "min": 30,
@@ -71,7 +71,7 @@
       "pointsPlus": 117
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "CONN vs BUT",
       "result": "W",
       "min": 21,
@@ -107,7 +107,7 @@
       "pointsPlus": 127
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "CONN @ PROV",
       "result": "W",
       "min": 37,
@@ -125,7 +125,7 @@
       "pointsPlus": 95
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "CONN @ HALL",
       "result": "W",
       "min": 33,
@@ -152,7 +152,7 @@
       "pointsPlus": 113
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "CONN vs PROV",
       "result": "W",
       "min": 19,
@@ -161,7 +161,7 @@
       "pointsPlus": 150
     },
     {
-      "date": "2026-02-01",
+      "date": "2026-01-31",
       "matchup": "CONN @ CREI",
       "result": "W",
       "min": 21,
@@ -170,7 +170,7 @@
       "pointsPlus": 81
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "CONN vs XAV",
       "result": "W",
       "min": 22,
@@ -179,7 +179,7 @@
       "pointsPlus": 131
     },
     {
-      "date": "2026-02-07",
+      "date": "2026-02-06",
       "matchup": "CONN @ SJU",
       "result": "L",
       "min": 35,
@@ -188,7 +188,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "CONN @ BUT",
       "result": "W",
       "min": 31,
@@ -197,7 +197,7 @@
       "pointsPlus": 153
     },
     {
-      "date": "2026-02-15",
+      "date": "2026-02-14",
       "matchup": "CONN vs GTWN",
       "result": "W",
       "min": 18,
@@ -206,7 +206,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "CONN vs CREI",
       "result": "L",
       "min": 26,

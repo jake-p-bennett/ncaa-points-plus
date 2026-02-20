@@ -17,7 +17,7 @@
   "volatilityPctile": 49,
   "gameLog": [
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "CREI vs UND",
       "result": "W",
       "min": 14,
@@ -80,7 +80,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "CREI vs XAV",
       "result": "W",
       "min": 10,
@@ -89,7 +89,7 @@
       "pointsPlus": 75
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "CREI @ MARQ",
       "result": "L",
       "min": 9,
@@ -98,7 +98,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-01",
+      "date": "2026-01-31",
       "matchup": "CREI vs CONN",
       "result": "L",
       "min": 10,
@@ -107,7 +107,7 @@
       "pointsPlus": 24
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "CREI @ GTWN",
       "result": "L",
       "min": 24,
@@ -125,7 +125,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "CREI @ DEP",
       "result": "L",
       "min": 19,
@@ -143,7 +143,7 @@
       "pointsPlus": 90
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "CREI @ CONN",
       "result": "W",
       "min": 6,

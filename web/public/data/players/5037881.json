@@ -17,7 +17,7 @@
   "volatilityPctile": 45,
   "gameLog": [
     {
-      "date": "2026-01-04",
+      "date": "2026-01-03",
       "matchup": "MIZ vs FLA",
       "result": "W",
       "min": 19,
@@ -26,7 +26,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "MIZ @ UK",
       "result": "W",
       "min": 27,
@@ -44,7 +44,7 @@
       "pointsPlus": 107
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "MIZ vs AUB",
       "result": "W",
       "min": 28,
@@ -62,7 +62,7 @@
       "pointsPlus": 88
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "MIZ vs UGA",
       "result": "L",
       "min": 19,
@@ -80,7 +80,7 @@
       "pointsPlus": 37
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "MIZ @ ALA",
       "result": "L",
       "min": 17,
@@ -107,7 +107,7 @@
       "pointsPlus": 81
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "MIZ @ TA&M",
       "result": "W",
       "min": 33,
@@ -116,7 +116,7 @@
       "pointsPlus": 204
     },
     {
-      "date": "2026-02-15",
+      "date": "2026-02-14",
       "matchup": "MIZ vs TEX",
       "result": "L",
       "min": 32,
@@ -125,7 +125,7 @@
       "pointsPlus": 39
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "MIZ vs VAN",
       "result": "W",
       "min": 37,

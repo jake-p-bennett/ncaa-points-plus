@@ -17,7 +17,7 @@
   "volatilityPctile": 32,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "COLO vs MTST",
       "result": "W",
       "min": 24,
@@ -35,7 +35,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "COLO vs PROV",
       "result": "W",
       "min": 15,
@@ -44,7 +44,7 @@
       "pointsPlus": 47
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "COLO vs ALST",
       "result": "W",
       "min": 23,
@@ -53,7 +53,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "COLO vs UCD",
       "result": "W",
       "min": 30,
@@ -80,7 +80,7 @@
       "pointsPlus": 162
     },
     {
-      "date": "2025-12-02",
+      "date": "2025-12-01",
       "matchup": "COLO vs CBU",
       "result": "W",
       "min": 23,
@@ -107,7 +107,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "COLO vs PRST",
       "result": "W",
       "min": 26,
@@ -116,7 +116,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-12-21",
+      "date": "2025-12-20",
       "matchup": "COLO vs STAN",
       "result": "L",
       "min": 25,
@@ -143,7 +143,7 @@
       "pointsPlus": 113
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "COLO vs UTAH",
       "result": "W",
       "min": 28,
@@ -152,7 +152,7 @@
       "pointsPlus": 154
     },
     {
-      "date": "2026-01-11",
+      "date": "2026-01-10",
       "matchup": "COLO vs TTU",
       "result": "L",
       "min": 27,
@@ -161,7 +161,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "COLO @ CIN",
       "result": "L",
       "min": 33,
@@ -179,7 +179,7 @@
       "pointsPlus": 151
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "COLO vs KU",
       "result": "L",
       "min": 33,
@@ -197,7 +197,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2026-01-30",
+      "date": "2026-01-29",
       "matchup": "COLO @ ISU",
       "result": "L",
       "min": 19,
@@ -215,7 +215,7 @@
       "pointsPlus": 149
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "COLO @ BAY",
       "result": "L",
       "min": 19,
@@ -224,7 +224,7 @@
       "pointsPlus": 48
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "COLO vs ASU",
       "result": "W",
       "min": 18,
@@ -233,7 +233,7 @@
       "pointsPlus": 113
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "COLO @ TTU",
       "result": "L",
       "min": 11,

@@ -17,7 +17,7 @@
   "volatilityPctile": 52,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "FLA vs ARIZ",
       "result": "L",
       "min": 18,
@@ -26,7 +26,7 @@
       "pointsPlus": 87
     },
     {
-      "date": "2025-11-07",
+      "date": "2025-11-06",
       "matchup": "FLA vs UNF",
       "result": "W",
       "min": 11,
@@ -35,7 +35,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "FLA vs FSU",
       "result": "W",
       "min": 18,
@@ -44,7 +44,7 @@
       "pointsPlus": 66
     },
     {
-      "date": "2025-11-17",
+      "date": "2025-11-16",
       "matchup": "FLA vs MIA",
       "result": "W",
       "min": 26,
@@ -53,7 +53,7 @@
       "pointsPlus": 164
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "FLA vs MRMK",
       "result": "W",
       "min": 21,
@@ -80,7 +80,7 @@
       "pointsPlus": 142
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "FLA @ DUKE",
       "result": "L",
       "min": 26,
@@ -89,7 +89,7 @@
       "pointsPlus": 76
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "FLA vs CONN",
       "result": "L",
       "min": 18,
@@ -134,7 +134,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2026-01-04",
+      "date": "2026-01-03",
       "matchup": "FLA @ MIZ",
       "result": "L",
       "min": 10,
@@ -143,7 +143,7 @@
       "pointsPlus": 51
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "FLA vs UGA",
       "result": "W",
       "min": 25,
@@ -161,7 +161,7 @@
       "pointsPlus": 168
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "FLA @ OU",
       "result": "W",
       "min": 27,
@@ -179,7 +179,7 @@
       "pointsPlus": 29
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "FLA vs LSU",
       "result": "W",
       "min": 24,
@@ -197,7 +197,7 @@
       "pointsPlus": 108
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "FLA @ SC",
       "result": "W",
       "min": 20,
@@ -215,7 +215,7 @@
       "pointsPlus": 87
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "FLA @ TA&M",
       "result": "W",
       "min": 19,
@@ -224,7 +224,7 @@
       "pointsPlus": 97
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "FLA @ UGA",
       "result": "W",
       "min": 16,
@@ -242,7 +242,7 @@
       "pointsPlus": 198
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "FLA vs SC",
       "result": "W",
       "min": 17,

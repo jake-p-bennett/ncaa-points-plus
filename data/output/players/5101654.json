@@ -17,7 +17,7 @@
   "volatilityPctile": 59,
   "gameLog": [
     {
-      "date": "2025-11-07",
+      "date": "2025-11-06",
       "matchup": "TCU vs SFPA",
       "result": "W",
       "min": 16,
@@ -26,7 +26,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "TCU vs LAM",
       "result": "W",
       "min": 26,
@@ -35,7 +35,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "TCU vs MICH",
       "result": "L",
       "min": 14,
@@ -44,7 +44,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "TCU vs KC",
       "result": "W",
       "min": 14,
@@ -71,7 +71,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-06",
+      "date": "2025-12-05",
       "matchup": "TCU vs ND",
       "result": "L",
       "min": 19,
@@ -89,7 +89,7 @@
       "pointsPlus": 10
     },
     {
-      "date": "2025-12-16",
+      "date": "2025-12-15",
       "matchup": "TCU vs UIW",
       "result": "W",
       "min": 4,
@@ -98,7 +98,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-12-19",
+      "date": "2025-12-18",
       "matchup": "TCU vs ORU",
       "result": "W",
       "min": 14,
@@ -116,7 +116,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "TCU vs JKST",
       "result": "W",
       "min": 17,
@@ -134,7 +134,7 @@
       "pointsPlus": 67
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "TCU @ KU",
       "result": "L",
       "min": 7,
@@ -152,7 +152,7 @@
       "pointsPlus": 98
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "TCU @ BYU",
       "result": "L",
       "min": 16,
@@ -170,7 +170,7 @@
       "pointsPlus": 77
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "TCU vs OKST",
       "result": "W",
       "min": 1,
@@ -188,7 +188,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "TCU vs HOU",
       "result": "L",
       "min": 12,
@@ -215,7 +215,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "TCU vs ISU",
       "result": "W",
       "min": 1,

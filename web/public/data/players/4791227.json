@@ -17,7 +17,7 @@
   "volatilityPctile": 36,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "VAN vs LIP",
       "result": "W",
       "min": 23,
@@ -35,7 +35,7 @@
       "pointsPlus": 38
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "VAN vs EKU",
       "result": "W",
       "min": 25,
@@ -53,7 +53,7 @@
       "pointsPlus": 177
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "VAN vs TXSO",
       "result": "W",
       "min": 23,
@@ -89,7 +89,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "VAN vs SMU",
       "result": "W",
       "min": 26,
@@ -107,7 +107,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "VAN @ MEM",
       "result": "W",
       "min": 26,
@@ -125,7 +125,7 @@
       "pointsPlus": 106
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "VAN vs NHVN",
       "result": "W",
       "min": 24,
@@ -143,7 +143,7 @@
       "pointsPlus": 152
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "VAN vs ALA",
       "result": "W",
       "min": 29,
@@ -161,7 +161,7 @@
       "pointsPlus": 39
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "VAN @ TEX",
       "result": "L",
       "min": 23,
@@ -179,7 +179,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "VAN @ ARK",
       "result": "L",
       "min": 25,
@@ -197,7 +197,7 @@
       "pointsPlus": 95
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "VAN vs UK",
       "result": "W",
       "min": 32,
@@ -224,7 +224,7 @@
       "pointsPlus": 84
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "VAN @ AUB",
       "result": "W",
       "min": 23,
@@ -242,7 +242,7 @@
       "pointsPlus": 150
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "VAN @ MIZ",
       "result": "L",
       "min": 26,

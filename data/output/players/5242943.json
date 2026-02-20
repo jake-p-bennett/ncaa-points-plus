@@ -17,7 +17,7 @@
   "volatilityPctile": 29,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "NU vs MERC",
       "result": "W",
       "min": 18,
@@ -35,7 +35,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "NU vs CLE",
       "result": "W",
       "min": 9,
@@ -44,7 +44,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "NU @ DEP",
       "result": "W",
       "min": 12,
@@ -71,7 +71,7 @@
       "pointsPlus": 132
     },
     {
-      "date": "2025-11-28",
+      "date": "2025-11-27",
       "matchup": "NU vs OKST",
       "result": "L",
       "min": 14,
@@ -80,7 +80,7 @@
       "pointsPlus": 35
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "NU @ WIS",
       "result": "L",
       "min": 11,
@@ -107,7 +107,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "NU vs VAL",
       "result": "W",
       "min": 14,
@@ -161,7 +161,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "NU vs ILL",
       "result": "L",
       "min": 13,
@@ -179,7 +179,7 @@
       "pointsPlus": 74
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "NU @ USC",
       "result": "W",
       "min": 31,
@@ -197,7 +197,7 @@
       "pointsPlus": 100
     },
     {
-      "date": "2026-01-30",
+      "date": "2026-01-29",
       "matchup": "NU vs PSU",
       "result": "W",
       "min": 17,
@@ -206,7 +206,7 @@
       "pointsPlus": 29
     },
     {
-      "date": "2026-02-01",
+      "date": "2026-01-31",
       "matchup": "NU vs WASH",
       "result": "L",
       "min": 11,
@@ -215,7 +215,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "NU @ ILL",
       "result": "L",
       "min": 10,

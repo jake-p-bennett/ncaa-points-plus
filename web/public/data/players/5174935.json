@@ -17,7 +17,7 @@
   "volatilityPctile": 94,
   "gameLog": [
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "IU vs MILW",
       "result": "W",
       "min": 7,
@@ -44,7 +44,7 @@
       "pointsPlus": 63
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "IU vs KSU",
       "result": "W",
       "min": 11,
@@ -62,7 +62,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "IU @ MINN",
       "result": "L",
       "min": 12,
@@ -80,7 +80,7 @@
       "pointsPlus": 154
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "IU vs PSU",
       "result": "W",
       "min": 25,
@@ -89,7 +89,7 @@
       "pointsPlus": 124
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "IU @ UK",
       "result": "L",
       "min": 22,
@@ -116,7 +116,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2026-01-05",
+      "date": "2026-01-04",
       "matchup": "IU vs WASH",
       "result": "W",
       "min": 22,
@@ -143,7 +143,7 @@
       "pointsPlus": 74
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "IU @ MSU",
       "result": "L",
       "min": 28,
@@ -161,7 +161,7 @@
       "pointsPlus": 39
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "IU @ MICH",
       "result": "L",
       "min": 29,
@@ -179,7 +179,7 @@
       "pointsPlus": 243
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "IU vs PUR",
       "result": "W",
       "min": 32,
@@ -197,7 +197,7 @@
       "pointsPlus": 289
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "IU @ USC",
       "result": "L",
       "min": 36,
@@ -215,7 +215,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-10",
+      "date": "2026-02-09",
       "matchup": "IU vs ORE",
       "result": "W",
       "min": 34,

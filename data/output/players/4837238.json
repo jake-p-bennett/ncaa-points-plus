@@ -17,7 +17,7 @@
   "volatilityPctile": 78,
   "gameLog": [
     {
-      "date": "2025-11-06",
+      "date": "2025-11-05",
       "matchup": "IU vs AAMU",
       "result": "W",
       "min": 30,
@@ -35,7 +35,7 @@
       "pointsPlus": 265
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "IU vs MILW",
       "result": "W",
       "min": 33,
@@ -62,7 +62,7 @@
       "pointsPlus": 260
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "IU vs KSU",
       "result": "W",
       "min": 31,
@@ -80,7 +80,7 @@
       "pointsPlus": 208
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "IU @ MINN",
       "result": "L",
       "min": 37,
@@ -98,7 +98,7 @@
       "pointsPlus": 266
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "IU vs PSU",
       "result": "W",
       "min": 32,
@@ -107,7 +107,7 @@
       "pointsPlus": 114
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "IU @ UK",
       "result": "L",
       "min": 35,
@@ -134,7 +134,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2026-01-05",
+      "date": "2026-01-04",
       "matchup": "IU vs WASH",
       "result": "W",
       "min": 31,
@@ -161,7 +161,7 @@
       "pointsPlus": 210
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "IU @ MSU",
       "result": "L",
       "min": 33,
@@ -179,7 +179,7 @@
       "pointsPlus": 90
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "IU @ MICH",
       "result": "L",
       "min": 30,
@@ -197,7 +197,7 @@
       "pointsPlus": 233
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "IU vs PUR",
       "result": "W",
       "min": 34,
@@ -215,7 +215,7 @@
       "pointsPlus": 100
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "IU @ USC",
       "result": "L",
       "min": 37,
@@ -233,7 +233,7 @@
       "pointsPlus": 154
     },
     {
-      "date": "2026-02-10",
+      "date": "2026-02-09",
       "matchup": "IU vs ORE",
       "result": "W",
       "min": 33,

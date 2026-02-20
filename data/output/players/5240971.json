@@ -17,7 +17,7 @@
   "volatilityPctile": 70,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "WIS vs CAM",
       "result": "W",
       "min": 29,
@@ -26,7 +26,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "WIS vs NIU",
       "result": "W",
       "min": 20,
@@ -35,7 +35,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "WIS vs BALL",
       "result": "W",
       "min": 25,
@@ -44,7 +44,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "WIS vs SIUE",
       "result": "W",
       "min": 28,
@@ -80,7 +80,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "WIS vs NU",
       "result": "W",
       "min": 26,
@@ -98,7 +98,7 @@
       "pointsPlus": 69
     },
     {
-      "date": "2025-12-11",
+      "date": "2025-12-10",
       "matchup": "WIS @ NEB",
       "result": "L",
       "min": 24,
@@ -107,7 +107,7 @@
       "pointsPlus": 86
     },
     {
-      "date": "2025-12-20",
+      "date": "2025-12-19",
       "matchup": "WIS vs VILL",
       "result": "L",
       "min": 15,
@@ -116,7 +116,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "WIS vs CMU",
       "result": "W",
       "min": 21,
@@ -125,7 +125,7 @@
       "pointsPlus": 188
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "WIS vs MILW",
       "result": "W",
       "min": 18,
@@ -134,7 +134,7 @@
       "pointsPlus": 63
     },
     {
-      "date": "2026-01-04",
+      "date": "2026-01-03",
       "matchup": "WIS vs PUR",
       "result": "L",
       "min": 24,
@@ -152,7 +152,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-23",
+      "date": "2026-01-22",
       "matchup": "WIS @ PSU",
       "result": "W",
       "min": 17,
@@ -170,7 +170,7 @@
       "pointsPlus": 58
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "WIS vs MINN",
       "result": "W",
       "min": 15,
@@ -188,7 +188,7 @@
       "pointsPlus": 195
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "WIS @ ILL",
       "result": "W",
       "min": 31,
@@ -197,7 +197,7 @@
       "pointsPlus": 202
     },
     {
-      "date": "2026-02-14",
+      "date": "2026-02-13",
       "matchup": "WIS vs MSU",
       "result": "W",
       "min": 23,

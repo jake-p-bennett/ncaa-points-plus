@@ -17,7 +17,7 @@
   "volatilityPctile": 73,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "DEP vs CHST",
       "result": "W",
       "min": 12,
@@ -26,7 +26,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "DEP vs STO",
       "result": "W",
       "min": 4,
@@ -35,7 +35,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "DEP vs BUF",
       "result": "L",
       "min": 12,
@@ -44,7 +44,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "DEP vs NU",
       "result": "L",
       "min": 21,
@@ -53,7 +53,7 @@
       "pointsPlus": 163
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "DEP vs GWEB",
       "result": "W",
       "min": 18,
@@ -71,7 +71,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-11-29",
+      "date": "2025-11-28",
       "matchup": "DEP vs GT",
       "result": "W",
       "min": 17,
@@ -80,7 +80,7 @@
       "pointsPlus": 70
     },
     {
-      "date": "2025-11-30",
+      "date": "2025-11-29",
       "matchup": "DEP vs LSU",
       "result": "L",
       "min": 30,
@@ -89,7 +89,7 @@
       "pointsPlus": 216
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "DEP vs UAPB",
       "result": "W",
       "min": 30,
@@ -98,7 +98,7 @@
       "pointsPlus": 177
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "DEP vs MORG",
       "result": "W",
       "min": 24,
@@ -116,7 +116,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "DEP @ SJU",
       "result": "L",
       "min": 10,
@@ -161,7 +161,7 @@
       "pointsPlus": 66
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "DEP @ GTWN",
       "result": "L",
       "min": 14,
@@ -179,7 +179,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "DEP vs SJU",
       "result": "L",
       "min": 16,
@@ -197,7 +197,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "DEP vs CREI",
       "result": "W",
       "min": 18,
@@ -206,7 +206,7 @@
       "pointsPlus": 30
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "DEP @ HALL",
       "result": "W",
       "min": 17,

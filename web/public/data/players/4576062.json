@@ -17,7 +17,7 @@
   "volatilityPctile": 78,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "OU vs SFPA",
       "result": "W",
       "min": 29,
@@ -26,7 +26,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-11-09",
+      "date": "2025-11-08",
       "matchup": "OU @ GONZ",
       "result": "L",
       "min": 30,
@@ -35,7 +35,7 @@
       "pointsPlus": 188
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "OU vs UAPB",
       "result": "W",
       "min": 23,
@@ -44,7 +44,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-11-16",
+      "date": "2025-11-15",
       "matchup": "OU vs NEB",
       "result": "L",
       "min": 34,
@@ -53,7 +53,7 @@
       "pointsPlus": 334
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "OU vs ORU",
       "result": "W",
       "min": 26,
@@ -80,7 +80,7 @@
       "pointsPlus": 235
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "OU @ WAKE",
       "result": "W",
       "min": 28,
@@ -89,7 +89,7 @@
       "pointsPlus": 126
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "OU vs ASU",
       "result": "L",
       "min": 29,
@@ -107,7 +107,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "OU vs KC",
       "result": "W",
       "min": 28,
@@ -116,7 +116,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "OU vs STET",
       "result": "W",
       "min": 26,
@@ -125,7 +125,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "OU vs MVSU",
       "result": "W",
       "min": 28,
@@ -143,7 +143,7 @@
       "pointsPlus": 160
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "OU @ MSST",
       "result": "L",
       "min": 31,
@@ -161,7 +161,7 @@
       "pointsPlus": 212
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "OU vs FLA",
       "result": "L",
       "min": 21,
@@ -179,7 +179,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "OU @ SC",
       "result": "L",
       "min": 31,
@@ -197,7 +197,7 @@
       "pointsPlus": 253
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "OU vs ARK",
       "result": "L",
       "min": 32,
@@ -215,7 +215,7 @@
       "pointsPlus": 224
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "OU @ UK",
       "result": "L",
       "min": 26,
@@ -242,7 +242,7 @@
       "pointsPlus": 159
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "OU @ TENN",
       "result": "L",
       "min": 32,

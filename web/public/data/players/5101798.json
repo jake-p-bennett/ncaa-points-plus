@@ -17,7 +17,7 @@
   "volatilityPctile": 15,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "MSU vs COLG",
       "result": "W",
       "min": 11,
@@ -26,7 +26,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-11-09",
+      "date": "2025-11-08",
       "matchup": "MSU vs ARK",
       "result": "W",
       "min": 23,
@@ -116,7 +116,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "MSU vs COR",
       "result": "W",
       "min": 16,
@@ -125,7 +125,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2026-01-03",
+      "date": "2026-01-02",
       "matchup": "MSU @ NEB",
       "result": "L",
       "min": 13,
@@ -134,7 +134,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-06",
+      "date": "2026-01-05",
       "matchup": "MSU vs USC",
       "result": "W",
       "min": 14,
@@ -152,7 +152,7 @@
       "pointsPlus": 76
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "MSU vs IU",
       "result": "W",
       "min": 14,
@@ -170,7 +170,7 @@
       "pointsPlus": 65
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "MSU @ ORE",
       "result": "W",
       "min": 17,
@@ -197,7 +197,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-31",
+      "date": "2026-01-30",
       "matchup": "MSU vs MICH",
       "result": "L",
       "min": 8,
@@ -206,7 +206,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "MSU @ MINN",
       "result": "L",
       "min": 17,
@@ -215,7 +215,7 @@
       "pointsPlus": 62
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "MSU vs ILL",
       "result": "W",
       "min": 18,
@@ -224,7 +224,7 @@
       "pointsPlus": 90
     },
     {
-      "date": "2026-02-14",
+      "date": "2026-02-13",
       "matchup": "MSU @ WIS",
       "result": "L",
       "min": 19,
@@ -233,7 +233,7 @@
       "pointsPlus": 39
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "MSU vs UCLA",
       "result": "W",
       "min": 18,

@@ -17,7 +17,7 @@
   "volatilityPctile": 55,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "BAY vs RGV",
       "result": "W",
       "min": 32,
@@ -26,7 +26,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-11-10",
+      "date": "2025-11-09",
       "matchup": "BAY vs WASH",
       "result": "W",
       "min": 35,
@@ -35,7 +35,7 @@
       "pointsPlus": 22
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "BAY vs TAR",
       "result": "W",
       "min": 32,
@@ -62,7 +62,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "BAY vs SDSU",
       "result": "W",
       "min": 37,
@@ -71,7 +71,7 @@
       "pointsPlus": 188
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "BAY vs SAC",
       "result": "W",
       "min": 30,
@@ -98,7 +98,7 @@
       "pointsPlus": 188
     },
     {
-      "date": "2025-12-20",
+      "date": "2025-12-19",
       "matchup": "BAY vs ALCN",
       "result": "W",
       "min": 30,
@@ -125,7 +125,7 @@
       "pointsPlus": 64
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "BAY vs ISU",
       "result": "L",
       "min": 36,
@@ -143,7 +143,7 @@
       "pointsPlus": 81
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "BAY @ OKST",
       "result": "W",
       "min": 40,
@@ -152,7 +152,7 @@
       "pointsPlus": 130
     },
     {
-      "date": "2026-01-17",
+      "date": "2026-01-16",
       "matchup": "BAY @ KU",
       "result": "L",
       "min": 27,
@@ -161,7 +161,7 @@
       "pointsPlus": 106
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "BAY vs TTU",
       "result": "L",
       "min": 32,
@@ -197,7 +197,7 @@
       "pointsPlus": 220
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "BAY vs COLO",
       "result": "W",
       "min": 36,
@@ -215,7 +215,7 @@
       "pointsPlus": 183
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "BAY vs BYU",
       "result": "L",
       "min": 34,
@@ -233,7 +233,7 @@
       "pointsPlus": 41
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "BAY @ KSU",
       "result": "L",
       "min": 32,

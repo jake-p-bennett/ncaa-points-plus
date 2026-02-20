@@ -17,7 +17,7 @@
   "volatilityPctile": 80,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "WAKE vs AMER",
       "result": "W",
       "min": 29,
@@ -26,7 +26,7 @@
       "pointsPlus": 188
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "WAKE vs MORE",
       "result": "W",
       "min": 31,
@@ -53,7 +53,7 @@
       "pointsPlus": 219
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "WAKE vs TTU",
       "result": "L",
       "min": 33,
@@ -62,7 +62,7 @@
       "pointsPlus": 273
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "WAKE vs MEM",
       "result": "W",
       "min": 35,
@@ -71,7 +71,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "WAKE vs CAM",
       "result": "W",
       "min": 25,
@@ -89,7 +89,7 @@
       "pointsPlus": 177
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "WAKE vs OU",
       "result": "L",
       "min": 36,
@@ -116,7 +116,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "WAKE vs LONG",
       "result": "W",
       "min": 34,
@@ -152,7 +152,7 @@
       "pointsPlus": 154
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "WAKE vs MIA",
       "result": "L",
       "min": 36,
@@ -179,7 +179,7 @@
       "pointsPlus": 141
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "WAKE vs SMU",
       "result": "L",
       "min": 38,
@@ -224,7 +224,7 @@
       "pointsPlus": 256
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "WAKE @ GT",
       "result": "W",
       "min": 39,
@@ -242,7 +242,7 @@
       "pointsPlus": 272
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "WAKE vs CLEM",
       "result": "W",
       "min": 38,

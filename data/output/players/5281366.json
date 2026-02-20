@@ -17,7 +17,7 @@
   "volatilityPctile": 35,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "MIA vs JAX",
       "result": "W",
       "min": 15,
@@ -26,7 +26,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-11-07",
+      "date": "2025-11-06",
       "matchup": "MIA vs BCU",
       "result": "W",
       "min": 18,
@@ -35,7 +35,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "MIA vs STET",
       "result": "W",
       "min": 18,
@@ -44,7 +44,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-17",
+      "date": "2025-11-16",
       "matchup": "MIA vs FLA",
       "result": "L",
       "min": 10,
@@ -53,7 +53,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "MIA vs ELON",
       "result": "W",
       "min": 12,
@@ -80,7 +80,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-29",
+      "date": "2025-11-28",
       "matchup": "MIA vs GTWN",
       "result": "W",
       "min": 6,
@@ -89,7 +89,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "MIA @ MISS",
       "result": "W",
       "min": 25,
@@ -116,7 +116,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "MIA vs FIU",
       "result": "W",
       "min": 29,
@@ -134,7 +134,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "MIA vs PITT",
       "result": "W",
       "min": 11,
@@ -143,7 +143,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "MIA @ WAKE",
       "result": "W",
       "min": 20,
@@ -161,7 +161,7 @@
       "pointsPlus": 40
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "MIA @ ND",
       "result": "W",
       "min": 16,
@@ -179,7 +179,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "MIA vs FSU",
       "result": "L",
       "min": 9,
@@ -197,7 +197,7 @@
       "pointsPlus": 64
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "MIA vs STAN",
       "result": "W",
       "min": 16,
@@ -224,7 +224,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "MIA vs UNC",
       "result": "W",
       "min": 16,
@@ -242,7 +242,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "MIA vs VT",
       "result": "W",
       "min": 13,

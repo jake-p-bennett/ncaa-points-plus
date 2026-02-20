@@ -17,7 +17,7 @@
   "volatilityPctile": 62,
   "gameLog": [
     {
-      "date": "2025-11-06",
+      "date": "2025-11-05",
       "matchup": "CREI vs SDAK",
       "result": "W",
       "min": 26,
@@ -26,7 +26,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "CREI @ GONZ",
       "result": "L",
       "min": 25,
@@ -35,7 +35,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "CREI vs UMES",
       "result": "W",
       "min": 22,
@@ -44,7 +44,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "CREI vs UND",
       "result": "W",
       "min": 26,
@@ -80,7 +80,7 @@
       "pointsPlus": 194
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "CREI vs NICH",
       "result": "W",
       "min": 16,
@@ -116,7 +116,7 @@
       "pointsPlus": 103
     },
     {
-      "date": "2025-12-21",
+      "date": "2025-12-20",
       "matchup": "CREI vs MARQ",
       "result": "W",
       "min": 18,
@@ -125,7 +125,7 @@
       "pointsPlus": 88
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "CREI vs UTU",
       "result": "W",
       "min": 16,
@@ -134,7 +134,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "CREI vs BUT",
       "result": "W",
       "min": 8,
@@ -152,7 +152,7 @@
       "pointsPlus": 39
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "CREI @ VILL",
       "result": "W",
       "min": 27,
@@ -170,7 +170,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "CREI vs GTWN",
       "result": "W",
       "min": 21,
@@ -188,7 +188,7 @@
       "pointsPlus": 127
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "CREI vs XAV",
       "result": "W",
       "min": 12,
@@ -197,7 +197,7 @@
       "pointsPlus": 28
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "CREI @ MARQ",
       "result": "L",
       "min": 23,
@@ -206,7 +206,7 @@
       "pointsPlus": 147
     },
     {
-      "date": "2026-02-01",
+      "date": "2026-01-31",
       "matchup": "CREI vs CONN",
       "result": "L",
       "min": 25,
@@ -215,7 +215,7 @@
       "pointsPlus": 133
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "CREI @ GTWN",
       "result": "L",
       "min": 20,
@@ -233,7 +233,7 @@
       "pointsPlus": 13
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "CREI @ DEP",
       "result": "L",
       "min": 20,
@@ -251,7 +251,7 @@
       "pointsPlus": 23
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "CREI @ CONN",
       "result": "W",
       "min": 8,

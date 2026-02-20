@@ -17,7 +17,7 @@
   "volatilityPctile": 95,
   "gameLog": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-04",
       "matchup": "IOWA vs RMU",
       "result": "W",
       "min": 36,
@@ -26,7 +26,7 @@
       "pointsPlus": 198
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "IOWA vs WIU",
       "result": "W",
       "min": 40,
@@ -35,7 +35,7 @@
       "pointsPlus": 250
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "IOWA vs XAV",
       "result": "W",
       "min": 40,
@@ -44,7 +44,7 @@
       "pointsPlus": 197
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "IOWA vs SEMO",
       "result": "W",
       "min": 33,
@@ -53,7 +53,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "IOWA vs CHST",
       "result": "W",
       "min": 36,
@@ -62,7 +62,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "IOWA vs MISS",
       "result": "W",
       "min": 40,
@@ -71,7 +71,7 @@
       "pointsPlus": 309
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "IOWA vs GCU",
       "result": "W",
       "min": 40,
@@ -80,7 +80,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "IOWA @ MSU",
       "result": "L",
       "min": 37,
@@ -98,7 +98,7 @@
       "pointsPlus": 249
     },
     {
-      "date": "2025-12-12",
+      "date": "2025-12-11",
       "matchup": "IOWA @ ISU",
       "result": "L",
       "min": 40,
@@ -143,7 +143,7 @@
       "pointsPlus": 300
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "IOWA @ MINN",
       "result": "L",
       "min": 29,
@@ -179,7 +179,7 @@
       "pointsPlus": 291
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "IOWA vs RUTG",
       "result": "W",
       "min": 40,
@@ -188,7 +188,7 @@
       "pointsPlus": 212
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "IOWA vs USC",
       "result": "W",
       "min": 40,
@@ -197,7 +197,7 @@
       "pointsPlus": 193
     },
     {
-      "date": "2026-02-02",
+      "date": "2026-02-01",
       "matchup": "IOWA @ ORE",
       "result": "W",
       "min": 38,
@@ -206,7 +206,7 @@
       "pointsPlus": 345
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "IOWA @ WASH",
       "result": "W",
       "min": 40,
@@ -242,7 +242,7 @@
       "pointsPlus": 210
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "IOWA vs NEB",
       "result": "W",
       "min": 40,

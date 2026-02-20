@@ -17,7 +17,7 @@
   "volatilityPctile": 97,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "MARQ vs UALB",
       "result": "W",
       "min": 13,
@@ -26,7 +26,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-11-06",
+      "date": "2025-11-05",
       "matchup": "MARQ vs SOU",
       "result": "W",
       "min": 17,
@@ -44,7 +44,7 @@
       "pointsPlus": 173
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "MARQ vs LR",
       "result": "W",
       "min": 21,
@@ -62,7 +62,7 @@
       "pointsPlus": 80
     },
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "MARQ vs DAY",
       "result": "L",
       "min": 38,
@@ -89,7 +89,7 @@
       "pointsPlus": 186
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "MARQ vs VAL",
       "result": "W",
       "min": 36,
@@ -116,7 +116,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "MARQ vs GTWN",
       "result": "L",
       "min": 30,
@@ -125,7 +125,7 @@
       "pointsPlus": 137
     },
     {
-      "date": "2025-12-21",
+      "date": "2025-12-20",
       "matchup": "MARQ @ CREI",
       "result": "L",
       "min": 30,
@@ -134,7 +134,7 @@
       "pointsPlus": 234
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "MARQ vs HALL",
       "result": "L",
       "min": 31,
@@ -152,7 +152,7 @@
       "pointsPlus": 182
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "MARQ vs XAV",
       "result": "W",
       "min": 21,
@@ -179,7 +179,7 @@
       "pointsPlus": 177
     },
     {
-      "date": "2026-01-17",
+      "date": "2026-01-16",
       "matchup": "MARQ @ DEP",
       "result": "L",
       "min": 35,
@@ -197,7 +197,7 @@
       "pointsPlus": 301
     },
     {
-      "date": "2026-01-24",
+      "date": "2026-01-23",
       "matchup": "MARQ @ BUT",
       "result": "L",
       "min": 37,
@@ -206,7 +206,7 @@
       "pointsPlus": 144
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "MARQ vs CREI",
       "result": "W",
       "min": 32,
@@ -233,7 +233,7 @@
       "pointsPlus": 153
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "MARQ @ VILL",
       "result": "L",
       "min": 32,
@@ -251,7 +251,7 @@
       "pointsPlus": 282
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "MARQ vs SJU",
       "result": "L",
       "min": 34,

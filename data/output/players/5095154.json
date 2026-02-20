@@ -17,7 +17,7 @@
   "volatilityPctile": 12,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "AUB vs BCU",
       "result": "W",
       "min": 31,
@@ -26,7 +26,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-11-07",
+      "date": "2025-11-06",
       "matchup": "AUB vs MRMK",
       "result": "W",
       "min": 26,
@@ -35,7 +35,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "AUB vs WOF",
       "result": "W",
       "min": 22,
@@ -53,7 +53,7 @@
       "pointsPlus": 95
     },
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "AUB vs JKST",
       "result": "W",
       "min": 23,
@@ -62,7 +62,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-24",
       "matchup": "AUB vs ORE",
       "result": "W",
       "min": 27,
@@ -71,7 +71,7 @@
       "pointsPlus": 65
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "AUB vs MICH",
       "result": "L",
       "min": 20,
@@ -80,7 +80,7 @@
       "pointsPlus": 11
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "AUB vs SJU",
       "result": "W",
       "min": 21,
@@ -89,7 +89,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "AUB vs NCSU",
       "result": "W",
       "min": 27,
@@ -98,7 +98,7 @@
       "pointsPlus": 70
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "AUB @ ARIZ",
       "result": "L",
       "min": 24,
@@ -125,7 +125,7 @@
       "pointsPlus": 22
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "AUB vs QUC",
       "result": "W",
       "min": 29,
@@ -143,7 +143,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "AUB vs TA&M",
       "result": "L",
       "min": 30,
@@ -161,7 +161,7 @@
       "pointsPlus": 53
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "AUB @ MIZ",
       "result": "L",
       "min": 19,
@@ -179,7 +179,7 @@
       "pointsPlus": 111
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "AUB @ MISS",
       "result": "W",
       "min": 36,
@@ -197,7 +197,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "AUB vs TEX",
       "result": "W",
       "min": 32,
@@ -206,7 +206,7 @@
       "pointsPlus": 68
     },
     {
-      "date": "2026-02-01",
+      "date": "2026-01-31",
       "matchup": "AUB @ TENN",
       "result": "L",
       "min": 27,
@@ -224,7 +224,7 @@
       "pointsPlus": 47
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "AUB vs VAN",
       "result": "L",
       "min": 37,
@@ -233,7 +233,7 @@
       "pointsPlus": 107
     },
     {
-      "date": "2026-02-15",
+      "date": "2026-02-14",
       "matchup": "AUB @ ARK",
       "result": "L",
       "min": 34,
@@ -242,7 +242,7 @@
       "pointsPlus": 53
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "AUB @ MSST",
       "result": "L",
       "min": 32,

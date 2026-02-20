@@ -17,7 +17,7 @@
   "volatilityPctile": 71,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "HOU vs LEH",
       "result": "W",
       "min": 37,
@@ -35,7 +35,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "HOU vs OAK",
       "result": "W",
       "min": 26,
@@ -53,7 +53,7 @@
       "pointsPlus": 99
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "HOU vs RID",
       "result": "W",
       "min": 24,
@@ -89,7 +89,7 @@
       "pointsPlus": 161
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "HOU vs FSU",
       "result": "W",
       "min": 35,
@@ -98,7 +98,7 @@
       "pointsPlus": 66
     },
     {
-      "date": "2025-12-11",
+      "date": "2025-12-10",
       "matchup": "HOU vs JKST",
       "result": "W",
       "min": 29,
@@ -125,7 +125,7 @@
       "pointsPlus": 116
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "HOU vs MTSU",
       "result": "W",
       "min": 32,
@@ -143,7 +143,7 @@
       "pointsPlus": 225
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "HOU vs TTU",
       "result": "W",
       "min": 35,
@@ -161,7 +161,7 @@
       "pointsPlus": 57
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "HOU vs WVU",
       "result": "W",
       "min": 30,
@@ -188,7 +188,7 @@
       "pointsPlus": 63
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "HOU @ TCU",
       "result": "W",
       "min": 39,
@@ -206,7 +206,7 @@
       "pointsPlus": 200
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "HOU vs UCF",
       "result": "W",
       "min": 26,
@@ -215,7 +215,7 @@
       "pointsPlus": 114
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "HOU @ BYU",
       "result": "W",
       "min": 40,
@@ -224,7 +224,7 @@
       "pointsPlus": 78
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "HOU @ UTAH",
       "result": "W",
       "min": 24,
@@ -242,7 +242,7 @@
       "pointsPlus": 108
     },
     {
-      "date": "2026-02-17",
+      "date": "2026-02-16",
       "matchup": "HOU @ ISU",
       "result": "L",
       "min": 35,

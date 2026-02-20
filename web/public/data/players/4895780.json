@@ -17,7 +17,7 @@
   "volatilityPctile": 59,
   "gameLog": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-04",
       "matchup": "UK vs NICH",
       "result": "W",
       "min": 21,
@@ -26,7 +26,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "UK vs VAL",
       "result": "W",
       "min": 20,
@@ -35,7 +35,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "UK @ LOU",
       "result": "L",
       "min": 18,
@@ -44,7 +44,7 @@
       "pointsPlus": 72
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "UK vs EIU",
       "result": "W",
       "min": 22,
@@ -62,7 +62,7 @@
       "pointsPlus": 121
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "UK vs IU",
       "result": "W",
       "min": 22,
@@ -98,7 +98,7 @@
       "pointsPlus": 47
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "UK vs MIZ",
       "result": "L",
       "min": 25,
@@ -107,7 +107,7 @@
       "pointsPlus": 81
     },
     {
-      "date": "2026-01-11",
+      "date": "2026-01-10",
       "matchup": "UK vs MSST",
       "result": "W",
       "min": 13,
@@ -116,7 +116,7 @@
       "pointsPlus": 19
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "UK @ LSU",
       "result": "W",
       "min": 12,
@@ -134,7 +134,7 @@
       "pointsPlus": 112
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "UK vs TEX",
       "result": "W",
       "min": 16,
@@ -152,7 +152,7 @@
       "pointsPlus": 64
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "UK @ VAN",
       "result": "L",
       "min": 27,
@@ -170,7 +170,7 @@
       "pointsPlus": 45
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "UK vs OU",
       "result": "W",
       "min": 18,
@@ -179,7 +179,7 @@
       "pointsPlus": 65
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "UK vs TENN",
       "result": "W",
       "min": 15,
@@ -197,7 +197,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "UK vs UGA",
       "result": "L",
       "min": 19,

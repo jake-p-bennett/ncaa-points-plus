@@ -17,7 +17,7 @@
   "volatilityPctile": 23,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "UGA vs BELL",
       "result": "W",
       "min": 19,
@@ -26,7 +26,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-06",
+      "date": "2025-11-05",
       "matchup": "UGA vs UMES",
       "result": "W",
       "min": 14,
@@ -44,7 +44,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "UGA vs GT",
       "result": "W",
       "min": 14,
@@ -62,7 +62,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "UGA vs XAV",
       "result": "W",
       "min": 21,
@@ -89,7 +89,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "UGA @ FSU",
       "result": "W",
       "min": 14,
@@ -107,7 +107,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-19",
+      "date": "2025-12-18",
       "matchup": "UGA vs WCU",
       "result": "W",
       "min": 12,
@@ -125,7 +125,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "UGA vs LIU",
       "result": "W",
       "min": 23,
@@ -143,7 +143,7 @@
       "pointsPlus": 18
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "UGA @ FLA",
       "result": "L",
       "min": 20,
@@ -161,7 +161,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "UGA vs MISS",
       "result": "L",
       "min": 17,
@@ -179,7 +179,7 @@
       "pointsPlus": 36
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "UGA @ MIZ",
       "result": "W",
       "min": 10,
@@ -197,7 +197,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "UGA vs TENN",
       "result": "L",
       "min": 6,
@@ -224,7 +224,7 @@
       "pointsPlus": 20
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "UGA vs FLA",
       "result": "L",
       "min": 12,
@@ -242,7 +242,7 @@
       "pointsPlus": 65
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "UGA @ UK",
       "result": "W",
       "min": 15,

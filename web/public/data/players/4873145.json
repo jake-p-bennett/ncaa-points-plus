@@ -17,7 +17,7 @@
   "volatilityPctile": 77,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "SYR vs BING",
       "result": "W",
       "min": 25,
@@ -44,7 +44,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "SYR vs MONM",
       "result": "W",
       "min": 32,
@@ -62,7 +62,7 @@
       "pointsPlus": 229
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "SYR @ GT",
       "result": "W",
       "min": 34,
@@ -80,7 +80,7 @@
       "pointsPlus": 252
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "SYR vs FSU",
       "result": "W",
       "min": 34,
@@ -98,7 +98,7 @@
       "pointsPlus": 231
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "SYR vs VT",
       "result": "L",
       "min": 32,
@@ -116,7 +116,7 @@
       "pointsPlus": 153
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "SYR @ NCSU",
       "result": "L",
       "min": 34,
@@ -134,7 +134,7 @@
       "pointsPlus": 75
     },
     {
-      "date": "2026-02-03",
+      "date": "2026-02-02",
       "matchup": "SYR @ UNC",
       "result": "L",
       "min": 35,
@@ -152,7 +152,7 @@
       "pointsPlus": 58
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "SYR vs CAL",
       "result": "W",
       "min": 34,
@@ -170,7 +170,7 @@
       "pointsPlus": 164
     },
     {
-      "date": "2026-02-17",
+      "date": "2026-02-16",
       "matchup": "SYR @ DUKE",
       "result": "L",
       "min": 21,

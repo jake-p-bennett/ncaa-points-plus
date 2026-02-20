@@ -17,7 +17,7 @@
   "volatilityPctile": 56,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "MSU vs COLG",
       "result": "W",
       "min": 8,
@@ -26,7 +26,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-09",
+      "date": "2025-11-08",
       "matchup": "MSU vs ARK",
       "result": "W",
       "min": 11,
@@ -80,7 +80,7 @@
       "pointsPlus": 33
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "MSU vs IOWA",
       "result": "W",
       "min": 16,
@@ -125,7 +125,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "MSU vs COR",
       "result": "W",
       "min": 20,
@@ -134,7 +134,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2026-01-06",
+      "date": "2026-01-05",
       "matchup": "MSU vs USC",
       "result": "W",
       "min": 17,
@@ -152,7 +152,7 @@
       "pointsPlus": 11
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "MSU vs IU",
       "result": "W",
       "min": 23,
@@ -170,7 +170,7 @@
       "pointsPlus": 76
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "MSU @ ORE",
       "result": "W",
       "min": 26,
@@ -197,7 +197,7 @@
       "pointsPlus": 95
     },
     {
-      "date": "2026-01-31",
+      "date": "2026-01-30",
       "matchup": "MSU vs MICH",
       "result": "L",
       "min": 12,
@@ -206,7 +206,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "MSU @ MINN",
       "result": "L",
       "min": 8,

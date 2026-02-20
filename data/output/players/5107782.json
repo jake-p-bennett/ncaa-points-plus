@@ -17,7 +17,7 @@
   "volatilityPctile": 89,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "UCLA vs EWU",
       "result": "W",
       "min": 36,
@@ -26,7 +26,7 @@
       "pointsPlus": 219
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "UCLA vs PEPP",
       "result": "W",
       "min": 35,
@@ -35,7 +35,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "UCLA vs ARIZ",
       "result": "L",
       "min": 35,
@@ -44,7 +44,7 @@
       "pointsPlus": 120
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "UCLA vs SAC",
       "result": "W",
       "min": 24,
@@ -53,7 +53,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "UCLA vs PRES",
       "result": "W",
       "min": 24,
@@ -62,7 +62,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "UCLA vs CAL",
       "result": "L",
       "min": 31,
@@ -71,7 +71,7 @@
       "pointsPlus": 32
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "UCLA @ WASH",
       "result": "W",
       "min": 39,
@@ -89,7 +89,7 @@
       "pointsPlus": 140
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "UCLA vs GONZ",
       "result": "L",
       "min": 35,
@@ -98,7 +98,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "UCLA vs ASU",
       "result": "W",
       "min": 36,
@@ -107,7 +107,7 @@
       "pointsPlus": 189
     },
     {
-      "date": "2025-12-20",
+      "date": "2025-12-19",
       "matchup": "UCLA vs CP",
       "result": "W",
       "min": 33,
@@ -134,7 +134,7 @@
       "pointsPlus": 322
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "UCLA @ WIS",
       "result": "L",
       "min": 40,
@@ -143,7 +143,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2026-01-11",
+      "date": "2026-01-10",
       "matchup": "UCLA vs MD",
       "result": "W",
       "min": 38,
@@ -152,7 +152,7 @@
       "pointsPlus": 80
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "UCLA @ PSU",
       "result": "W",
       "min": 29,
@@ -170,7 +170,7 @@
       "pointsPlus": 134
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "UCLA vs PUR",
       "result": "W",
       "min": 39,
@@ -188,7 +188,7 @@
       "pointsPlus": 141
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "UCLA @ ORE",
       "result": "W",
       "min": 37,
@@ -206,7 +206,7 @@
       "pointsPlus": 259
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "UCLA vs RUTG",
       "result": "W",
       "min": 31,
@@ -215,7 +215,7 @@
       "pointsPlus": 138
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "UCLA vs WASH",
       "result": "W",
       "min": 40,
@@ -233,7 +233,7 @@
       "pointsPlus": 106
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "UCLA @ MSU",
       "result": "L",
       "min": 29,

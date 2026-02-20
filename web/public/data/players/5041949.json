@@ -17,7 +17,7 @@
   "volatilityPctile": 76,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "PROV vs HC",
       "result": "W",
       "min": 20,
@@ -35,7 +35,7 @@
       "pointsPlus": 41
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "PROV vs PENN",
       "result": "W",
       "min": 23,
@@ -44,7 +44,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "PROV @ COLO",
       "result": "L",
       "min": 15,
@@ -53,7 +53,7 @@
       "pointsPlus": 47
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "PROV vs UNH",
       "result": "W",
       "min": 24,
@@ -89,7 +89,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "PROV vs FDU",
       "result": "W",
       "min": 12,
@@ -107,7 +107,7 @@
       "pointsPlus": 188
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "PROV vs BRWN",
       "result": "W",
       "min": 19,
@@ -143,7 +143,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "PROV vs CONN",
       "result": "L",
       "min": 29,
@@ -188,7 +188,7 @@
       "pointsPlus": 147
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "PROV @ CONN",
       "result": "L",
       "min": 33,
@@ -197,7 +197,7 @@
       "pointsPlus": 243
     },
     {
-      "date": "2026-01-31",
+      "date": "2026-01-30",
       "matchup": "PROV @ VILL",
       "result": "L",
       "min": 28,
@@ -206,7 +206,7 @@
       "pointsPlus": 79
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "PROV vs BUT",
       "result": "W",
       "min": 30,

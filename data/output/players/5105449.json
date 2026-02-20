@@ -17,7 +17,7 @@
   "volatilityPctile": 11,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "CLEM vs UNH",
       "result": "W",
       "min": 22,
@@ -26,7 +26,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "CLEM vs GWEB",
       "result": "W",
       "min": 23,
@@ -35,7 +35,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "CLEM vs MORE",
       "result": "W",
       "min": 28,
@@ -53,7 +53,7 @@
       "pointsPlus": 32
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "CLEM vs UNA",
       "result": "W",
       "min": 29,
@@ -80,7 +80,7 @@
       "pointsPlus": 106
     },
     {
-      "date": "2025-11-29",
+      "date": "2025-11-28",
       "matchup": "CLEM vs AAMU",
       "result": "W",
       "min": 20,
@@ -89,7 +89,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "CLEM @ ALA",
       "result": "L",
       "min": 32,
@@ -116,7 +116,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "CLEM vs SC",
       "result": "W",
       "min": 13,
@@ -152,7 +152,7 @@
       "pointsPlus": 161
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "CLEM vs SMU",
       "result": "W",
       "min": 26,
@@ -170,7 +170,7 @@
       "pointsPlus": 172
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "CLEM vs BC",
       "result": "W",
       "min": 14,
@@ -188,7 +188,7 @@
       "pointsPlus": 109
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "CLEM vs NCSU",
       "result": "L",
       "min": 38,
@@ -215,7 +215,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "CLEM @ STAN",
       "result": "W",
       "min": 12,
@@ -224,7 +224,7 @@
       "pointsPlus": 98
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "CLEM @ CAL",
       "result": "W",
       "min": 23,
@@ -233,7 +233,7 @@
       "pointsPlus": 137
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "CLEM vs VT",
       "result": "L",
       "min": 27,
@@ -251,7 +251,7 @@
       "pointsPlus": 126
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "CLEM @ WAKE",
       "result": "L",
       "min": 27,

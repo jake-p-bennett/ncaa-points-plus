@@ -17,7 +17,7 @@
   "volatilityPctile": 58,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "UNC vs CARK",
       "result": "W",
       "min": 20,
@@ -26,7 +26,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "UNC vs KU",
       "result": "W",
       "min": 19,
@@ -35,7 +35,7 @@
       "pointsPlus": 59
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "UNC vs RAD",
       "result": "W",
       "min": 31,
@@ -44,7 +44,7 @@
       "pointsPlus": 198
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "UNC vs NCCU",
       "result": "W",
       "min": 25,
@@ -53,7 +53,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "UNC vs NAVY",
       "result": "W",
       "min": 33,
@@ -80,7 +80,7 @@
       "pointsPlus": 133
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "UNC @ UK",
       "result": "W",
       "min": 29,
@@ -107,7 +107,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "UNC vs ETSU",
       "result": "W",
       "min": 20,
@@ -125,7 +125,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "UNC vs ECU",
       "result": "W",
       "min": 24,
@@ -134,7 +134,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "UNC vs FSU",
       "result": "W",
       "min": 13,
@@ -161,7 +161,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "UNC @ STAN",
       "result": "L",
       "min": 19,
@@ -179,7 +179,7 @@
       "pointsPlus": 74
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "UNC vs ND",
       "result": "W",
       "min": 24,
@@ -206,7 +206,7 @@
       "pointsPlus": 160
     },
     {
-      "date": "2026-02-03",
+      "date": "2026-02-02",
       "matchup": "UNC vs SYR",
       "result": "W",
       "min": 23,
@@ -224,7 +224,7 @@
       "pointsPlus": 38
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "UNC @ MIA",
       "result": "L",
       "min": 11,
@@ -242,7 +242,7 @@
       "pointsPlus": 172
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "UNC @ NCSU",
       "result": "L",
       "min": 27,

@@ -17,7 +17,7 @@
   "volatilityPctile": 78,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "VT vs CHSO",
       "result": "W",
       "min": 29,
@@ -35,7 +35,7 @@
       "pointsPlus": 55
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "VT vs JOES",
       "result": "W",
       "min": 27,
@@ -53,7 +53,7 @@
       "pointsPlus": 188
     },
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "VT vs BRY",
       "result": "W",
       "min": 35,
@@ -71,7 +71,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "VT vs STAN",
       "result": "L",
       "min": 18,
@@ -89,7 +89,7 @@
       "pointsPlus": 105
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "VT @ SMU",
       "result": "L",
       "min": 24,
@@ -107,7 +107,7 @@
       "pointsPlus": 236
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "VT @ SYR",
       "result": "W",
       "min": 30,
@@ -125,7 +125,7 @@
       "pointsPlus": 20
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "VT vs GT",
       "result": "W",
       "min": 25,
@@ -152,7 +152,7 @@
       "pointsPlus": 170
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "VT @ CLEM",
       "result": "W",
       "min": 31,
@@ -170,7 +170,7 @@
       "pointsPlus": 151
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "VT @ MIA",
       "result": "L",
       "min": 24,

@@ -17,7 +17,7 @@
   "volatilityPctile": 61,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "ALA vs UND",
       "result": "W",
       "min": 20,
@@ -35,7 +35,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-14",
+      "date": "2025-11-13",
       "matchup": "ALA vs PUR",
       "result": "L",
       "min": 23,
@@ -44,7 +44,7 @@
       "pointsPlus": 133
     },
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "ALA vs ILL",
       "result": "W",
       "min": 9,
@@ -53,7 +53,7 @@
       "pointsPlus": 67
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-24",
       "matchup": "ALA vs GONZ",
       "result": "L",
       "min": 30,
@@ -62,7 +62,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "ALA vs UNLV",
       "result": "W",
       "min": 13,
@@ -71,7 +71,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "ALA vs MD",
       "result": "W",
       "min": 23,
@@ -80,7 +80,7 @@
       "pointsPlus": 110
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "ALA vs CLEM",
       "result": "W",
       "min": 29,
@@ -98,7 +98,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "ALA vs ARIZ",
       "result": "L",
       "min": 21,
@@ -107,7 +107,7 @@
       "pointsPlus": 76
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "ALA vs USF",
       "result": "W",
       "min": 24,
@@ -125,7 +125,7 @@
       "pointsPlus": 219
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "ALA vs YALE",
       "result": "W",
       "min": 25,
@@ -143,7 +143,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2026-01-11",
+      "date": "2026-01-10",
       "matchup": "ALA vs TEX",
       "result": "L",
       "min": 24,
@@ -152,7 +152,7 @@
       "pointsPlus": 127
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "ALA @ MSST",
       "result": "W",
       "min": 24,
@@ -170,7 +170,7 @@
       "pointsPlus": 195
     },
     {
-      "date": "2026-01-25",
+      "date": "2026-01-24",
       "matchup": "ALA vs TENN",
       "result": "L",
       "min": 22,
@@ -179,7 +179,7 @@
       "pointsPlus": 67
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "ALA vs MIZ",
       "result": "W",
       "min": 22,
@@ -197,7 +197,7 @@
       "pointsPlus": 136
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "ALA vs TA&M",
       "result": "W",
       "min": 22,
@@ -215,7 +215,7 @@
       "pointsPlus": 54
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "ALA @ MISS",
       "result": "W",
       "min": 25,
@@ -224,7 +224,7 @@
       "pointsPlus": 160
     },
     {
-      "date": "2026-02-15",
+      "date": "2026-02-14",
       "matchup": "ALA vs SC",
       "result": "W",
       "min": 28,
@@ -233,7 +233,7 @@
       "pointsPlus": 111
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "ALA vs ARK",
       "result": "W",
       "min": 39,

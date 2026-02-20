@@ -17,7 +17,7 @@
   "volatilityPctile": 5,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "NU vs MERC",
       "result": "W",
       "min": 21,
@@ -35,7 +35,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "NU vs CLE",
       "result": "W",
       "min": 14,
@@ -44,7 +44,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "NU @ DEP",
       "result": "W",
       "min": 11,
@@ -71,7 +71,7 @@
       "pointsPlus": 30
     },
     {
-      "date": "2025-11-28",
+      "date": "2025-11-27",
       "matchup": "NU vs OKST",
       "result": "L",
       "min": 17,
@@ -80,7 +80,7 @@
       "pointsPlus": 61
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "NU @ WIS",
       "result": "L",
       "min": 17,
@@ -125,7 +125,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "NU @ ILL",
       "result": "L",
       "min": 7,

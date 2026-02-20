@@ -17,7 +17,7 @@
   "volatilityPctile": 92,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "WASH vs UAPB",
       "result": "W",
       "min": 30,
@@ -26,7 +26,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-11-07",
+      "date": "2025-11-06",
       "matchup": "WASH vs DEN",
       "result": "W",
       "min": 32,
@@ -35,7 +35,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-11-10",
+      "date": "2025-11-09",
       "matchup": "WASH @ BAY",
       "result": "L",
       "min": 38,
@@ -44,7 +44,7 @@
       "pointsPlus": 76
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "WASH @ WSU",
       "result": "W",
       "min": 37,
@@ -53,7 +53,7 @@
       "pointsPlus": 271
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "WASH vs SOU",
       "result": "W",
       "min": 37,
@@ -80,7 +80,7 @@
       "pointsPlus": 84
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "WASH vs UCLA",
       "result": "L",
       "min": 33,
@@ -107,7 +107,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-12-20",
+      "date": "2025-12-19",
       "matchup": "WASH @ SEA",
       "result": "L",
       "min": 11,
@@ -116,7 +116,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "WASH vs MICH",
       "result": "L",
       "min": 14,
@@ -143,7 +143,7 @@
       "pointsPlus": 97
     },
     {
-      "date": "2026-01-30",
+      "date": "2026-01-29",
       "matchup": "WASH @ ILL",
       "result": "L",
       "min": 37,
@@ -152,7 +152,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2026-02-01",
+      "date": "2026-01-31",
       "matchup": "WASH @ NU",
       "result": "W",
       "min": 35,
@@ -161,7 +161,7 @@
       "pointsPlus": 228
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "WASH vs IOWA",
       "result": "L",
       "min": 25,
@@ -170,7 +170,7 @@
       "pointsPlus": 193
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "WASH @ UCLA",
       "result": "L",
       "min": 40,
@@ -179,7 +179,7 @@
       "pointsPlus": 233
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "WASH vs PSU",
       "result": "L",
       "min": 38,
@@ -188,7 +188,7 @@
       "pointsPlus": 105
     },
     {
-      "date": "2026-02-15",
+      "date": "2026-02-14",
       "matchup": "WASH vs MINN",
       "result": "W",
       "min": 30,

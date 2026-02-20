@@ -17,7 +17,7 @@
   "volatilityPctile": 33,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "ALA vs UND",
       "result": "W",
       "min": 25,
@@ -35,7 +35,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-14",
+      "date": "2025-11-13",
       "matchup": "ALA vs PUR",
       "result": "L",
       "min": 4,
@@ -44,7 +44,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "ALA vs ILL",
       "result": "W",
       "min": 5,
@@ -53,7 +53,7 @@
       "pointsPlus": 34
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-24",
       "matchup": "ALA vs GONZ",
       "result": "L",
       "min": 4,
@@ -62,7 +62,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "ALA vs UNLV",
       "result": "W",
       "min": 25,
@@ -71,7 +71,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "ALA vs MD",
       "result": "W",
       "min": 16,
@@ -80,7 +80,7 @@
       "pointsPlus": 120
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "ALA vs CLEM",
       "result": "W",
       "min": 11,
@@ -98,7 +98,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "ALA vs USF",
       "result": "W",
       "min": 12,

@@ -17,7 +17,7 @@
   "volatilityPctile": 66,
   "gameLog": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-04",
       "matchup": "DUKE vs TEX",
       "result": "W",
       "min": 33,
@@ -35,7 +35,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "DUKE @ ARMY",
       "result": "W",
       "min": 20,
@@ -44,7 +44,7 @@
       "pointsPlus": 177
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "DUKE vs INST",
       "result": "W",
       "min": 19,
@@ -53,7 +53,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "DUKE vs KU",
       "result": "W",
       "min": 30,
@@ -62,7 +62,7 @@
       "pointsPlus": 189
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "DUKE vs NIA",
       "result": "W",
       "min": 21,
@@ -80,7 +80,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-11-28",
+      "date": "2025-11-27",
       "matchup": "DUKE vs ARK",
       "result": "W",
       "min": 32,
@@ -89,7 +89,7 @@
       "pointsPlus": 80
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "DUKE vs FLA",
       "result": "W",
       "min": 29,
@@ -116,7 +116,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-12-21",
+      "date": "2025-12-20",
       "matchup": "DUKE vs TTU",
       "result": "L",
       "min": 30,
@@ -143,7 +143,7 @@
       "pointsPlus": 264
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "DUKE @ LOU",
       "result": "W",
       "min": 36,
@@ -161,7 +161,7 @@
       "pointsPlus": 191
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "DUKE @ CAL",
       "result": "W",
       "min": 30,
@@ -188,7 +188,7 @@
       "pointsPlus": 106
     },
     {
-      "date": "2026-01-27",
+      "date": "2026-01-26",
       "matchup": "DUKE vs LOU",
       "result": "W",
       "min": 26,
@@ -206,7 +206,7 @@
       "pointsPlus": 113
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "DUKE vs BC",
       "result": "W",
       "min": 31,
@@ -224,7 +224,7 @@
       "pointsPlus": 119
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "DUKE @ PITT",
       "result": "W",
       "min": 25,
@@ -242,7 +242,7 @@
       "pointsPlus": 216
     },
     {
-      "date": "2026-02-17",
+      "date": "2026-02-16",
       "matchup": "DUKE vs SYR",
       "result": "W",
       "min": 26,

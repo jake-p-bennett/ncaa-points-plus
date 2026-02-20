@@ -17,7 +17,7 @@
   "volatilityPctile": 82,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "GT vs UMES",
       "result": "W",
       "min": 42,
@@ -26,7 +26,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "GT vs BRY",
       "result": "W",
       "min": 24,
@@ -35,7 +35,7 @@
       "pointsPlus": 188
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "GT vs SELA",
       "result": "W",
       "min": 33,
@@ -44,7 +44,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "GT @ UGA",
       "result": "L",
       "min": 28,
@@ -53,7 +53,7 @@
       "pointsPlus": 106
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "GT vs GASO",
       "result": "W",
       "min": 35,
@@ -71,7 +71,7 @@
       "pointsPlus": 188
     },
     {
-      "date": "2025-11-29",
+      "date": "2025-11-28",
       "matchup": "GT vs DEP",
       "result": "L",
       "min": 17,
@@ -80,7 +80,7 @@
       "pointsPlus": 71
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "GT vs MSST",
       "result": "L",
       "min": 34,
@@ -98,7 +98,7 @@
       "pointsPlus": 240
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "GT vs MRST",
       "result": "W",
       "min": 33,
@@ -143,7 +143,7 @@
       "pointsPlus": 195
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "GT vs SYR",
       "result": "L",
       "min": 37,
@@ -161,7 +161,7 @@
       "pointsPlus": 251
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "GT vs PITT",
       "result": "L",
       "min": 29,
@@ -188,7 +188,7 @@
       "pointsPlus": 241
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "GT @ VT",
       "result": "L",
       "min": 26,
@@ -206,7 +206,7 @@
       "pointsPlus": 152
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "GT @ CAL",
       "result": "L",
       "min": 6,
@@ -215,7 +215,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "GT vs WAKE",
       "result": "L",
       "min": 30,
@@ -233,7 +233,7 @@
       "pointsPlus": 172
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "GT vs UVA",
       "result": "L",
       "min": 29,

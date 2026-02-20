@@ -17,7 +17,7 @@
   "volatilityPctile": 15,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "XAV vs MRST",
       "result": "W",
       "min": 9,
@@ -26,7 +26,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-07",
+      "date": "2025-11-06",
       "matchup": "XAV vs LEM",
       "result": "W",
       "min": 10,
@@ -35,7 +35,7 @@
       "pointsPlus": 63
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "XAV vs SCU",
       "result": "L",
       "min": 16,
@@ -44,7 +44,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "XAV @ IOWA",
       "result": "L",
       "min": 20,
@@ -53,7 +53,7 @@
       "pointsPlus": 39
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "XAV vs ODU",
       "result": "W",
       "min": 13,
@@ -62,7 +62,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "XAV vs UGA",
       "result": "L",
       "min": 7,
@@ -89,7 +89,7 @@
       "pointsPlus": 63
     },
     {
-      "date": "2025-12-02",
+      "date": "2025-12-01",
       "matchup": "XAV vs SFPA",
       "result": "W",
       "min": 19,
@@ -98,7 +98,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-12-06",
+      "date": "2025-12-05",
       "matchup": "XAV vs CIN",
       "result": "W",
       "min": 11,
@@ -107,7 +107,7 @@
       "pointsPlus": 25
     },
     {
-      "date": "2025-12-13",
+      "date": "2025-12-12",
       "matchup": "XAV vs MOST",
       "result": "W",
       "min": 17,
@@ -125,7 +125,7 @@
       "pointsPlus": 30
     },
     {
-      "date": "2025-12-21",
+      "date": "2025-12-20",
       "matchup": "XAV @ GTWN",
       "result": "W",
       "min": 13,
@@ -152,7 +152,7 @@
       "pointsPlus": 95
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "XAV @ MARQ",
       "result": "L",
       "min": 10,
@@ -170,7 +170,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "XAV @ CREI",
       "result": "L",
       "min": 15,
@@ -188,7 +188,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "XAV @ HALL",
       "result": "L",
       "min": 23,
@@ -206,7 +206,7 @@
       "pointsPlus": 36
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "XAV @ CONN",
       "result": "L",
       "min": 22,

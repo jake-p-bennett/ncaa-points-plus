@@ -17,7 +17,7 @@
   "volatilityPctile": 30,
   "gameLog": [
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "ASU vs GAST",
       "result": "W",
       "min": 17,
@@ -26,7 +26,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "ASU @ HAW",
       "result": "W",
       "min": 14,
@@ -35,7 +35,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-24",
       "matchup": "ASU vs TEX",
       "result": "W",
       "min": 23,
@@ -44,7 +44,7 @@
       "pointsPlus": 39
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "ASU vs WSU",
       "result": "W",
       "min": 26,
@@ -62,7 +62,7 @@
       "pointsPlus": 48
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "ASU vs OU",
       "result": "W",
       "min": 27,
@@ -71,7 +71,7 @@
       "pointsPlus": 56
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "ASU vs NAU",
       "result": "W",
       "min": 23,
@@ -80,7 +80,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "ASU vs SCU",
       "result": "W",
       "min": 31,
@@ -89,7 +89,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "ASU @ UCLA",
       "result": "L",
       "min": 24,
@@ -116,7 +116,7 @@
       "pointsPlus": 19
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "ASU @ BYU",
       "result": "L",
       "min": 26,
@@ -134,7 +134,7 @@
       "pointsPlus": 27
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "ASU @ ARIZ",
       "result": "L",
       "min": 30,
@@ -152,7 +152,7 @@
       "pointsPlus": 136
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "ASU vs WVU",
       "result": "L",
       "min": 36,
@@ -161,7 +161,7 @@
       "pointsPlus": 151
     },
     {
-      "date": "2026-01-25",
+      "date": "2026-01-24",
       "matchup": "ASU vs CIN",
       "result": "W",
       "min": 29,
@@ -170,7 +170,7 @@
       "pointsPlus": 75
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "ASU @ UCF",
       "result": "L",
       "min": 24,
@@ -188,7 +188,7 @@
       "pointsPlus": 174
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "ASU @ UTAH",
       "result": "W",
       "min": 32,
@@ -197,7 +197,7 @@
       "pointsPlus": 87
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "ASU @ COLO",
       "result": "L",
       "min": 26,
@@ -206,7 +206,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "ASU vs OKST",
       "result": "W",
       "min": 30,
@@ -215,7 +215,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "ASU vs TTU",
       "result": "W",
       "min": 38,

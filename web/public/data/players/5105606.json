@@ -17,7 +17,7 @@
   "volatilityPctile": 94,
   "gameLog": [
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "WASH vs SOU",
       "result": "W",
       "min": 34,
@@ -44,7 +44,7 @@
       "pointsPlus": 131
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "WASH vs UCLA",
       "result": "L",
       "min": 20,
@@ -71,7 +71,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-12-20",
+      "date": "2025-12-19",
       "matchup": "WASH @ SEA",
       "result": "L",
       "min": 34,
@@ -80,7 +80,7 @@
       "pointsPlus": 250
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "WASH vs USD",
       "result": "W",
       "min": 26,
@@ -89,7 +89,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "WASH vs UTAH",
       "result": "W",
       "min": 33,
@@ -98,7 +98,7 @@
       "pointsPlus": 202
     },
     {
-      "date": "2026-01-05",
+      "date": "2026-01-04",
       "matchup": "WASH @ IU",
       "result": "L",
       "min": 32,
@@ -107,7 +107,7 @@
       "pointsPlus": 194
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "WASH @ PUR",
       "result": "L",
       "min": 25,
@@ -116,7 +116,7 @@
       "pointsPlus": 99
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "WASH vs MICH",
       "result": "L",
       "min": 8,

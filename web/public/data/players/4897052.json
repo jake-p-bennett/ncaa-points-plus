@@ -17,7 +17,7 @@
   "volatilityPctile": 6,
   "gameLog": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-04",
       "matchup": "TEX vs DUKE",
       "result": "L",
       "min": 18,
@@ -35,7 +35,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "TEX vs FDU",
       "result": "W",
       "min": 18,
@@ -53,7 +53,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "TEX vs RID",
       "result": "W",
       "min": 22,
@@ -62,7 +62,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-24",
       "matchup": "TEX vs ASU",
       "result": "L",
       "min": 10,
@@ -71,7 +71,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "TEX @ CHAM",
       "result": "W",
       "min": 14,
@@ -80,7 +80,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "TEX vs NCSU",
       "result": "W",
       "min": 15,
@@ -89,7 +89,7 @@
       "pointsPlus": 20
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "TEX vs UVA",
       "result": "L",
       "min": 19,
@@ -98,7 +98,7 @@
       "pointsPlus": 35
     },
     {
-      "date": "2025-12-09",
+      "date": "2025-12-08",
       "matchup": "TEX vs SOU",
       "result": "W",
       "min": 13,
@@ -107,7 +107,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-12-13",
+      "date": "2025-12-12",
       "matchup": "TEX @ CONN",
       "result": "L",
       "min": 25,
@@ -116,7 +116,7 @@
       "pointsPlus": 12
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "TEX vs LEM",
       "result": "W",
       "min": 19,
@@ -125,7 +125,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "TEX vs UMES",
       "result": "W",
       "min": 11,
@@ -143,7 +143,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "TEX @ TENN",
       "result": "L",
       "min": 14,
@@ -152,7 +152,7 @@
       "pointsPlus": 45
     },
     {
-      "date": "2026-01-11",
+      "date": "2026-01-10",
       "matchup": "TEX @ ALA",
       "result": "W",
       "min": 22,
@@ -161,7 +161,7 @@
       "pointsPlus": 55
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "TEX vs VAN",
       "result": "W",
       "min": 8,
@@ -179,7 +179,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "TEX @ UK",
       "result": "L",
       "min": 12,
@@ -197,7 +197,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "TEX @ AUB",
       "result": "L",
       "min": 10,
@@ -215,7 +215,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "TEX vs SC",
       "result": "W",
       "min": 16,

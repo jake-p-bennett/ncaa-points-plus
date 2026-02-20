@@ -17,7 +17,7 @@
   "volatilityPctile": 16,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "ISU vs FDU",
       "result": "W",
       "min": 24,
@@ -26,7 +26,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-11-07",
+      "date": "2025-11-06",
       "matchup": "ISU vs GRAM",
       "result": "W",
       "min": 20,
@@ -35,7 +35,7 @@
       "pointsPlus": 63
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "ISU vs MSST",
       "result": "W",
       "min": 27,
@@ -44,7 +44,7 @@
       "pointsPlus": 76
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "ISU vs STO",
       "result": "W",
       "min": 20,
@@ -80,7 +80,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "ISU vs ALCN",
       "result": "W",
       "min": 22,
@@ -98,7 +98,7 @@
       "pointsPlus": 77
     },
     {
-      "date": "2025-12-12",
+      "date": "2025-12-11",
       "matchup": "ISU vs IOWA",
       "result": "W",
       "min": 24,
@@ -125,7 +125,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "ISU vs HCU",
       "result": "W",
       "min": 20,
@@ -134,7 +134,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2026-01-03",
+      "date": "2026-01-02",
       "matchup": "ISU vs WVU",
       "result": "W",
       "min": 22,
@@ -143,7 +143,7 @@
       "pointsPlus": 55
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "ISU @ BAY",
       "result": "W",
       "min": 32,
@@ -161,7 +161,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "ISU @ KU",
       "result": "L",
       "min": 28,
@@ -179,7 +179,7 @@
       "pointsPlus": 50
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "ISU vs UCF",
       "result": "W",
       "min": 19,
@@ -197,7 +197,7 @@
       "pointsPlus": 9
     },
     {
-      "date": "2026-01-30",
+      "date": "2026-01-29",
       "matchup": "ISU vs COLO",
       "result": "W",
       "min": 27,
@@ -224,7 +224,7 @@
       "pointsPlus": 76
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "ISU @ TCU",
       "result": "L",
       "min": 25,
@@ -242,7 +242,7 @@
       "pointsPlus": 35
     },
     {
-      "date": "2026-02-17",
+      "date": "2026-02-16",
       "matchup": "ISU vs HOU",
       "result": "W",
       "min": 26,

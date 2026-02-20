@@ -17,7 +17,7 @@
   "volatilityPctile": 21,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "UCF vs HOF",
       "result": "W",
       "min": 18,
@@ -35,7 +35,7 @@
       "pointsPlus": 49
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "UCF vs FAMU",
       "result": "W",
       "min": 18,
@@ -44,7 +44,7 @@
       "pointsPlus": 177
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "UCF @ TA&M",
       "result": "W",
       "min": 21,
@@ -53,7 +53,7 @@
       "pointsPlus": 133
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "UCF vs OAK",
       "result": "W",
       "min": 18,
@@ -62,7 +62,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "UCF vs PITT",
       "result": "W",
       "min": 23,
@@ -71,7 +71,7 @@
       "pointsPlus": 57
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "UCF vs QUIN",
       "result": "W",
       "min": 17,
@@ -98,7 +98,7 @@
       "pointsPlus": 63
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "UCF vs MER",
       "result": "W",
       "min": 14,
@@ -134,7 +134,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "UCF @ OKST",
       "result": "L",
       "min": 16,
@@ -143,7 +143,7 @@
       "pointsPlus": 26
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "UCF @ KSU",
       "result": "W",
       "min": 12,
@@ -161,7 +161,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "UCF @ ISU",
       "result": "L",
       "min": 20,
@@ -179,7 +179,7 @@
       "pointsPlus": 84
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "UCF vs ASU",
       "result": "W",
       "min": 14,
@@ -197,7 +197,7 @@
       "pointsPlus": 63
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "UCF @ HOU",
       "result": "L",
       "min": 15,

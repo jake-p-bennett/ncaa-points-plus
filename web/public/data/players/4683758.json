@@ -17,7 +17,7 @@
   "volatilityPctile": 75,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "UVA vs RID",
       "result": "W",
       "min": 24,
@@ -26,7 +26,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "UVA vs NCCU",
       "result": "W",
       "min": 25,
@@ -35,7 +35,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "UVA vs HAMP",
       "result": "W",
       "min": 21,
@@ -80,7 +80,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "UVA @ TEX",
       "result": "W",
       "min": 18,
@@ -98,7 +98,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "UVA vs UMES",
       "result": "W",
       "min": 16,
@@ -143,7 +143,7 @@
       "pointsPlus": 130
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "UVA vs CAL",
       "result": "W",
       "min": 25,
@@ -161,7 +161,7 @@
       "pointsPlus": 120
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "UVA @ LOU",
       "result": "W",
       "min": 25,
@@ -188,7 +188,7 @@
       "pointsPlus": 119
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "UVA @ ND",
       "result": "W",
       "min": 22,
@@ -206,7 +206,7 @@
       "pointsPlus": 171
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "UVA vs PITT",
       "result": "W",
       "min": 22,
@@ -224,7 +224,7 @@
       "pointsPlus": 85
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "UVA @ FSU",
       "result": "W",
       "min": 19,
@@ -233,7 +233,7 @@
       "pointsPlus": 28
     },
     {
-      "date": "2026-02-15",
+      "date": "2026-02-14",
       "matchup": "UVA vs OSU",
       "result": "W",
       "min": 22,
@@ -242,7 +242,7 @@
       "pointsPlus": 134
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "UVA @ GT",
       "result": "W",
       "min": 19,

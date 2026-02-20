@@ -17,7 +17,7 @@
   "volatilityPctile": 95,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "WAKE vs AMER",
       "result": "W",
       "min": 32,
@@ -26,7 +26,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "WAKE vs MORE",
       "result": "W",
       "min": 12,
@@ -53,7 +53,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "WAKE vs TTU",
       "result": "L",
       "min": 26,
@@ -62,7 +62,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "WAKE vs MEM",
       "result": "W",
       "min": 23,
@@ -71,7 +71,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "WAKE vs CAM",
       "result": "W",
       "min": 21,
@@ -89,7 +89,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "WAKE vs OU",
       "result": "L",
       "min": 29,
@@ -116,7 +116,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "WAKE vs LONG",
       "result": "W",
       "min": 26,
@@ -152,7 +152,7 @@
       "pointsPlus": 256
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "WAKE vs MIA",
       "result": "L",
       "min": 32,
@@ -179,7 +179,7 @@
       "pointsPlus": 170
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "WAKE vs SMU",
       "result": "L",
       "min": 26,

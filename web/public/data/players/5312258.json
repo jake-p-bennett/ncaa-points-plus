@@ -17,7 +17,7 @@
   "volatilityPctile": 53,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "ND vs LIU",
       "result": "W",
       "min": 12,
@@ -26,7 +26,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "ND vs EIU",
       "result": "W",
       "min": 26,
@@ -44,7 +44,7 @@
       "pointsPlus": 134
     },
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "ND vs BELL",
       "result": "W",
       "min": 30,
@@ -80,7 +80,7 @@
       "pointsPlus": 190
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "ND vs MIZ",
       "result": "W",
       "min": 22,
@@ -89,7 +89,7 @@
       "pointsPlus": 132
     },
     {
-      "date": "2025-12-06",
+      "date": "2025-12-05",
       "matchup": "ND @ TCU",
       "result": "W",
       "min": 38,
@@ -98,7 +98,7 @@
       "pointsPlus": 213
     },
     {
-      "date": "2025-12-11",
+      "date": "2025-12-10",
       "matchup": "ND vs IDHO",
       "result": "W",
       "min": 25,
@@ -125,7 +125,7 @@
       "pointsPlus": 219
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "ND @ STAN",
       "result": "W",
       "min": 30,
@@ -134,7 +134,7 @@
       "pointsPlus": 141
     },
     {
-      "date": "2026-01-03",
+      "date": "2026-01-02",
       "matchup": "ND @ CAL",
       "result": "L",
       "min": 31,
@@ -152,7 +152,7 @@
       "pointsPlus": 229
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "ND vs MIA",
       "result": "L",
       "min": 34,
@@ -170,7 +170,7 @@
       "pointsPlus": 82
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "ND @ UNC",
       "result": "L",
       "min": 19,
@@ -188,7 +188,7 @@
       "pointsPlus": 207
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "ND vs UVA",
       "result": "L",
       "min": 44,
@@ -206,7 +206,7 @@
       "pointsPlus": 278
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "ND @ LOU",
       "result": "L",
       "min": 29,
@@ -224,7 +224,7 @@
       "pointsPlus": 141
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "ND @ SMU",
       "result": "L",
       "min": 31,

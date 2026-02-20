@@ -17,7 +17,7 @@
   "volatilityPctile": 75,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "MIZ @ HOW",
       "result": "W",
       "min": 19,
@@ -26,7 +26,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "MIZ vs SEMO",
       "result": "W",
       "min": 19,
@@ -44,7 +44,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "MIZ vs MINN",
       "result": "W",
       "min": 21,
@@ -53,7 +53,7 @@
       "pointsPlus": 174
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "MIZ vs PV",
       "result": "W",
       "min": 25,
@@ -62,7 +62,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "MIZ vs SDAK",
       "result": "W",
       "min": 21,
@@ -71,7 +71,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "MIZ vs SCST",
       "result": "W",
       "min": 29,
@@ -89,7 +89,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "MIZ @ ND",
       "result": "L",
       "min": 6,
@@ -107,7 +107,7 @@
       "pointsPlus": 35
     },
     {
-      "date": "2025-12-12",
+      "date": "2025-12-11",
       "matchup": "MIZ vs ALST",
       "result": "W",
       "min": 16,
@@ -125,7 +125,7 @@
       "pointsPlus": 10
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "MIZ vs ILL",
       "result": "L",
       "min": 25,
@@ -134,7 +134,7 @@
       "pointsPlus": 191
     },
     {
-      "date": "2026-01-04",
+      "date": "2026-01-03",
       "matchup": "MIZ vs FLA",
       "result": "W",
       "min": 7,
@@ -152,7 +152,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "MIZ vs UGA",
       "result": "L",
       "min": 6,
@@ -170,7 +170,7 @@
       "pointsPlus": 37
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "MIZ @ ALA",
       "result": "L",
       "min": 11,

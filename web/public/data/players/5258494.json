@@ -17,7 +17,7 @@
   "volatilityPctile": 32,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "GT vs UMES",
       "result": "W",
       "min": 34,
@@ -26,7 +26,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "GT vs BRY",
       "result": "W",
       "min": 31,
@@ -35,7 +35,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "GT vs SELA",
       "result": "W",
       "min": 37,
@@ -44,7 +44,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "GT @ UGA",
       "result": "L",
       "min": 24,
@@ -53,7 +53,7 @@
       "pointsPlus": 62
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "GT vs GASO",
       "result": "W",
       "min": 26,
@@ -71,6 +71,15 @@
       "pointsPlus": 135
     },
     {
+      "date": "2025-11-28",
+      "matchup": "GT vs DEP",
+      "result": "L",
+      "min": 24,
+      "pts": 10,
+      "adjPts": 11.4,
+      "pointsPlus": 118
+    },
+    {
       "date": "2025-11-29",
       "matchup": "GT vs DRKE",
       "result": "L",
@@ -80,16 +89,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-11-29",
-      "matchup": "GT vs DEP",
-      "result": "L",
-      "min": 24,
-      "pts": 10,
-      "adjPts": 11.4,
-      "pointsPlus": 118
-    },
-    {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "GT vs MSST",
       "result": "L",
       "min": 26,
@@ -107,7 +107,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "GT vs MRST",
       "result": "W",
       "min": 25,

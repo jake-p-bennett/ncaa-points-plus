@@ -17,7 +17,7 @@
   "volatilityPctile": 20,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "HALL vs SPU",
       "result": "W",
       "min": 18,
@@ -26,7 +26,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "HALL vs WAG",
       "result": "W",
       "min": 26,
@@ -35,7 +35,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "HALL vs FAIR",
       "result": "W",
       "min": 14,
@@ -44,7 +44,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-11-14",
+      "date": "2025-11-13",
       "matchup": "HALL vs MONM",
       "result": "W",
       "min": 14,
@@ -53,7 +53,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "HALL vs NHVN",
       "result": "W",
       "min": 19,
@@ -89,7 +89,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "HALL vs CCSU",
       "result": "W",
       "min": 23,
@@ -107,7 +107,7 @@
       "pointsPlus": 45
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "HALL vs RUTG",
       "result": "W",
       "min": 16,
@@ -125,7 +125,7 @@
       "pointsPlus": 142
     },
     {
-      "date": "2025-12-24",
+      "date": "2025-12-23",
       "matchup": "HALL vs VILL",
       "result": "L",
       "min": 32,
@@ -134,7 +134,7 @@
       "pointsPlus": 34
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "HALL @ MARQ",
       "result": "W",
       "min": 32,
@@ -161,7 +161,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "HALL vs CONN",
       "result": "L",
       "min": 19,
@@ -179,7 +179,7 @@
       "pointsPlus": 38
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "HALL @ SJU",
       "result": "L",
       "min": 28,
@@ -197,7 +197,7 @@
       "pointsPlus": 47
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "HALL vs XAV",
       "result": "W",
       "min": 15,
@@ -233,7 +233,7 @@
       "pointsPlus": 61
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "HALL vs PROV",
       "result": "W",
       "min": 18,
@@ -251,7 +251,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "HALL vs DEP",
       "result": "L",
       "min": 20,

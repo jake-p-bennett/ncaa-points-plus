@@ -17,7 +17,7 @@
   "volatilityPctile": 91,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "LOU vs SCST",
       "result": "W",
       "min": 19,
@@ -26,7 +26,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-07",
+      "date": "2025-11-06",
       "matchup": "LOU vs JKST",
       "result": "W",
       "min": 27,
@@ -35,7 +35,7 @@
       "pointsPlus": 198
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "LOU vs UK",
       "result": "W",
       "min": 32,
@@ -62,7 +62,7 @@
       "pointsPlus": 313
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-24",
       "matchup": "LOU vs EMU",
       "result": "W",
       "min": 20,
@@ -71,7 +71,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "LOU vs NJIT",
       "result": "W",
       "min": 24,
@@ -80,7 +80,7 @@
       "pointsPlus": 333
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "LOU @ ARK",
       "result": "L",
       "min": 33,
@@ -107,7 +107,7 @@
       "pointsPlus": 177
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "LOU @ TENN",
       "result": "L",
       "min": 33,
@@ -125,7 +125,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "LOU @ CAL",
       "result": "W",
       "min": 25,
@@ -134,7 +134,7 @@
       "pointsPlus": 274
     },
     {
-      "date": "2026-01-03",
+      "date": "2026-01-02",
       "matchup": "LOU @ STAN",
       "result": "L",
       "min": 35,
@@ -143,7 +143,7 @@
       "pointsPlus": 196
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "LOU vs DUKE",
       "result": "L",
       "min": 33,
@@ -152,7 +152,7 @@
       "pointsPlus": 303
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "LOU vs UVA",
       "result": "L",
       "min": 37,
@@ -161,7 +161,7 @@
       "pointsPlus": 162
     },
     {
-      "date": "2026-01-18",
+      "date": "2026-01-17",
       "matchup": "LOU @ PITT",
       "result": "W",
       "min": 30,
@@ -179,7 +179,7 @@
       "pointsPlus": 154
     },
     {
-      "date": "2026-01-27",
+      "date": "2026-01-26",
       "matchup": "LOU @ DUKE",
       "result": "L",
       "min": 37,
@@ -197,7 +197,7 @@
       "pointsPlus": 109
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "LOU vs ND",
       "result": "W",
       "min": 33,
@@ -215,7 +215,7 @@
       "pointsPlus": 106
     },
     {
-      "date": "2026-02-10",
+      "date": "2026-02-09",
       "matchup": "LOU vs NCSU",
       "result": "W",
       "min": 29,
@@ -233,7 +233,7 @@
       "pointsPlus": 133
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "LOU @ SMU",
       "result": "L",
       "min": 33,

@@ -17,7 +17,7 @@
   "volatilityPctile": 28,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "CLEM vs UNH",
       "result": "W",
       "min": 16,
@@ -26,7 +26,7 @@
       "pointsPlus": 63
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "CLEM vs GWEB",
       "result": "W",
       "min": 24,
@@ -35,7 +35,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "CLEM vs MORE",
       "result": "W",
       "min": 19,
@@ -53,7 +53,7 @@
       "pointsPlus": 116
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "CLEM vs UNA",
       "result": "W",
       "min": 23,
@@ -80,7 +80,7 @@
       "pointsPlus": 97
     },
     {
-      "date": "2025-11-29",
+      "date": "2025-11-28",
       "matchup": "CLEM vs AAMU",
       "result": "W",
       "min": 22,
@@ -89,7 +89,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "CLEM @ ALA",
       "result": "L",
       "min": 26,
@@ -116,7 +116,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "CLEM vs SC",
       "result": "W",
       "min": 2,

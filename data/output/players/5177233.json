@@ -17,7 +17,7 @@
   "volatilityPctile": 89,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "UTAH vs SJSU",
       "result": "W",
       "min": 33,
@@ -26,7 +26,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-09",
+      "date": "2025-11-08",
       "matchup": "UTAH vs WEB",
       "result": "W",
       "min": 37,
@@ -35,7 +35,7 @@
       "pointsPlus": 375
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "UTAH vs HC",
       "result": "W",
       "min": 30,
@@ -44,7 +44,7 @@
       "pointsPlus": 219
     },
     {
-      "date": "2025-11-16",
+      "date": "2025-11-15",
       "matchup": "UTAH vs SHSU",
       "result": "W",
       "min": 29,
@@ -53,7 +53,7 @@
       "pointsPlus": 271
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "UTAH vs PFW",
       "result": "W",
       "min": 31,
@@ -62,7 +62,7 @@
       "pointsPlus": 281
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "UTAH vs CP",
       "result": "L",
       "min": 35,
@@ -71,7 +71,7 @@
       "pointsPlus": 302
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "UTAH vs GCU",
       "result": "L",
       "min": 29,
@@ -80,7 +80,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "UTAH vs MISS",
       "result": "W",
       "min": 29,
@@ -89,7 +89,7 @@
       "pointsPlus": 149
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "UTAH @ CAL",
       "result": "L",
       "min": 31,
@@ -98,7 +98,7 @@
       "pointsPlus": 158
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "UTAH vs CBU",
       "result": "W",
       "min": 34,
@@ -107,7 +107,7 @@
       "pointsPlus": 281
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "UTAH vs MSST",
       "result": "L",
       "min": 30,
@@ -116,7 +116,7 @@
       "pointsPlus": 209
     },
     {
-      "date": "2025-12-21",
+      "date": "2025-12-20",
       "matchup": "UTAH vs EWU",
       "result": "W",
       "min": 31,
@@ -125,7 +125,7 @@
       "pointsPlus": 208
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "UTAH @ WASH",
       "result": "L",
       "min": 32,
@@ -143,7 +143,7 @@
       "pointsPlus": 283
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "UTAH @ COLO",
       "result": "L",
       "min": 33,
@@ -152,7 +152,7 @@
       "pointsPlus": 150
     },
     {
-      "date": "2026-01-11",
+      "date": "2026-01-10",
       "matchup": "UTAH vs BYU",
       "result": "L",
       "min": 35,
@@ -161,7 +161,7 @@
       "pointsPlus": 244
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "UTAH @ TTU",
       "result": "L",
       "min": 29,
@@ -179,7 +179,7 @@
       "pointsPlus": 277
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "UTAH @ KSU",
       "result": "L",
       "min": 32,
@@ -206,7 +206,7 @@
       "pointsPlus": 174
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "UTAH vs ASU",
       "result": "L",
       "min": 31,
@@ -224,7 +224,7 @@
       "pointsPlus": 189
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "UTAH vs HOU",
       "result": "L",
       "min": 31,
@@ -242,7 +242,7 @@
       "pointsPlus": 138
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "UTAH @ WVU",
       "result": "W",
       "min": 33,

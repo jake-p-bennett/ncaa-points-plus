@@ -17,7 +17,7 @@
   "volatilityPctile": 13,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "KU vs GB",
       "result": "W",
       "min": 11,
@@ -26,7 +26,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "KU @ UNC",
       "result": "L",
       "min": 9,
@@ -35,7 +35,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "KU vs AMCC",
       "result": "W",
       "min": 15,
@@ -53,7 +53,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "KU vs DUKE",
       "result": "L",
       "min": 1,
@@ -80,7 +80,7 @@
       "pointsPlus": 96
     },
     {
-      "date": "2025-11-27",
+      "date": "2025-11-26",
       "matchup": "KU vs TENN",
       "result": "W",
       "min": 28,
@@ -89,7 +89,7 @@
       "pointsPlus": 78
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "KU vs CONN",
       "result": "L",
       "min": 32,
@@ -116,7 +116,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "KU vs TOW",
       "result": "W",
       "min": 16,
@@ -125,7 +125,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "KU vs DAV",
       "result": "W",
       "min": 23,
@@ -143,7 +143,7 @@
       "pointsPlus": 28
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "KU vs TCU",
       "result": "W",
       "min": 14,
@@ -161,7 +161,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "KU vs ISU",
       "result": "W",
       "min": 25,
@@ -170,7 +170,7 @@
       "pointsPlus": 97
     },
     {
-      "date": "2026-01-17",
+      "date": "2026-01-16",
       "matchup": "KU vs BAY",
       "result": "W",
       "min": 17,
@@ -179,7 +179,7 @@
       "pointsPlus": 29
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "KU @ COLO",
       "result": "W",
       "min": 23,
@@ -188,7 +188,7 @@
       "pointsPlus": 28
     },
     {
-      "date": "2026-01-25",
+      "date": "2026-01-24",
       "matchup": "KU @ KSU",
       "result": "W",
       "min": 23,
@@ -206,7 +206,7 @@
       "pointsPlus": 78
     },
     {
-      "date": "2026-02-03",
+      "date": "2026-02-02",
       "matchup": "KU @ TTU",
       "result": "W",
       "min": 8,
@@ -224,7 +224,7 @@
       "pointsPlus": 19
     },
     {
-      "date": "2026-02-10",
+      "date": "2026-02-09",
       "matchup": "KU vs ARIZ",
       "result": "W",
       "min": 35,
@@ -242,7 +242,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "KU @ OKST",
       "result": "W",
       "min": 14,

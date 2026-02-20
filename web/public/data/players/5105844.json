@@ -17,7 +17,7 @@
   "volatilityPctile": 48,
   "gameLog": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-04",
       "matchup": "OKST vs ORU",
       "result": "W",
       "min": 22,
@@ -35,7 +35,7 @@
       "pointsPlus": 27
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "OKST vs PV",
       "result": "W",
       "min": 20,
@@ -53,7 +53,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "OKST vs USF",
       "result": "W",
       "min": 34,
@@ -71,7 +71,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-11-28",
+      "date": "2025-11-27",
       "matchup": "OKST @ NU",
       "result": "W",
       "min": 29,
@@ -80,7 +80,7 @@
       "pointsPlus": 65
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "OKST vs SHSU",
       "result": "W",
       "min": 27,
@@ -89,7 +89,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "OKST vs GCU",
       "result": "W",
       "min": 23,
@@ -107,7 +107,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-12-19",
+      "date": "2025-12-18",
       "matchup": "OKST vs KC",
       "result": "W",
       "min": 1,
@@ -116,7 +116,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "OKST vs BCU",
       "result": "W",
       "min": 22,
@@ -134,7 +134,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "OKST vs UCF",
       "result": "W",
       "min": 30,
@@ -152,7 +152,7 @@
       "pointsPlus": 134
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "OKST vs BAY",
       "result": "L",
       "min": 32,
@@ -161,7 +161,7 @@
       "pointsPlus": 124
     },
     {
-      "date": "2026-01-18",
+      "date": "2026-01-17",
       "matchup": "OKST vs KSU",
       "result": "W",
       "min": 31,
@@ -170,7 +170,7 @@
       "pointsPlus": 108
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "OKST @ TCU",
       "result": "L",
       "min": 34,
@@ -197,7 +197,7 @@
       "pointsPlus": 67
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "OKST vs BYU",
       "result": "W",
       "min": 35,
@@ -215,7 +215,7 @@
       "pointsPlus": 76
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "OKST @ ASU",
       "result": "L",
       "min": 32,
@@ -233,7 +233,7 @@
       "pointsPlus": 139
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "OKST vs KU",
       "result": "L",
       "min": 39,

@@ -17,7 +17,7 @@
   "volatilityPctile": 58,
   "gameLog": [
     {
-      "date": "2025-11-06",
+      "date": "2025-11-05",
       "matchup": "LSU vs TAR",
       "result": "W",
       "min": 26,
@@ -26,7 +26,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "LSU vs UNO",
       "result": "W",
       "min": 23,
@@ -35,7 +35,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-14",
+      "date": "2025-11-13",
       "matchup": "LSU vs FIU",
       "result": "W",
       "min": 31,
@@ -44,7 +44,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "LSU vs ALCN",
       "result": "W",
       "min": 27,
@@ -53,7 +53,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "LSU vs OMA",
       "result": "W",
       "min": 29,
@@ -62,7 +62,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-11-29",
+      "date": "2025-11-28",
       "matchup": "LSU vs DRKE",
       "result": "W",
       "min": 33,
@@ -71,7 +71,7 @@
       "pointsPlus": 188
     },
     {
-      "date": "2025-11-30",
+      "date": "2025-11-29",
       "matchup": "LSU vs DEP",
       "result": "W",
       "min": 20,
@@ -80,7 +80,7 @@
       "pointsPlus": 142
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "LSU @ BC",
       "result": "W",
       "min": 39,
@@ -98,7 +98,7 @@
       "pointsPlus": 136
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "LSU vs SMU",
       "result": "W",
       "min": 36,
@@ -107,7 +107,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-12-20",
+      "date": "2025-12-19",
       "matchup": "LSU vs SELA",
       "result": "W",
       "min": 32,
@@ -116,7 +116,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "LSU vs PV",
       "result": "W",
       "min": 31,
@@ -125,7 +125,7 @@
       "pointsPlus": 219
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "LSU vs USM",
       "result": "W",
       "min": 35,
@@ -134,7 +134,7 @@
       "pointsPlus": 229
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "LSU @ FLA",
       "result": "L",
       "min": 17,
@@ -152,7 +152,7 @@
       "pointsPlus": 160
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "LSU vs MSST",
       "result": "L",
       "min": 28,

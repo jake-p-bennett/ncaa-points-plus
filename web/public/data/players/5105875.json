@@ -17,7 +17,7 @@
   "volatilityPctile": 14,
   "gameLog": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-04",
       "matchup": "SC vs NCAT",
       "result": "W",
       "min": 21,
@@ -35,7 +35,7 @@
       "pointsPlus": 177
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "SC vs PRES",
       "result": "W",
       "min": 24,
@@ -44,7 +44,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "SC vs RAD",
       "result": "W",
       "min": 22,
@@ -80,7 +80,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "SC vs VT",
       "result": "L",
       "min": 36,
@@ -98,7 +98,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "SC vs CIT",
       "result": "W",
       "min": 33,
@@ -107,7 +107,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "SC @ CLEM",
       "result": "L",
       "min": 28,
@@ -143,7 +143,7 @@
       "pointsPlus": 127
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "SC @ LSU",
       "result": "W",
       "min": 36,
@@ -161,7 +161,7 @@
       "pointsPlus": 159
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "SC @ ARK",
       "result": "L",
       "min": 29,
@@ -179,7 +179,7 @@
       "pointsPlus": 117
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "SC vs OU",
       "result": "W",
       "min": 30,
@@ -197,7 +197,7 @@
       "pointsPlus": 44
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "SC vs FLA",
       "result": "L",
       "min": 28,
@@ -215,7 +215,7 @@
       "pointsPlus": 108
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "SC @ TEX",
       "result": "L",
       "min": 28,
@@ -233,7 +233,7 @@
       "pointsPlus": 91
     },
     {
-      "date": "2026-02-15",
+      "date": "2026-02-14",
       "matchup": "SC @ ALA",
       "result": "L",
       "min": 33,
@@ -242,7 +242,7 @@
       "pointsPlus": 110
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "SC @ FLA",
       "result": "L",
       "min": 27,

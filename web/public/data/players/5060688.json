@@ -17,7 +17,7 @@
   "volatilityPctile": 28,
   "gameLog": [
     {
-      "date": "2025-11-06",
+      "date": "2025-11-05",
       "matchup": "BUT vs USI",
       "result": "W",
       "min": 22,
@@ -35,7 +35,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "BUT vs CHST",
       "result": "W",
       "min": 18,
@@ -80,7 +80,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "BUT vs EMU",
       "result": "W",
       "min": 26,
@@ -107,7 +107,7 @@
       "pointsPlus": 119
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "BUT @ CONN",
       "result": "L",
       "min": 21,
@@ -125,7 +125,7 @@
       "pointsPlus": 152
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "BUT @ CREI",
       "result": "L",
       "min": 34,
@@ -143,7 +143,7 @@
       "pointsPlus": 68
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "BUT vs SJU",
       "result": "L",
       "min": 28,
@@ -170,7 +170,7 @@
       "pointsPlus": 92
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "BUT vs DEP",
       "result": "W",
       "min": 29,
@@ -179,7 +179,7 @@
       "pointsPlus": 71
     },
     {
-      "date": "2026-01-24",
+      "date": "2026-01-23",
       "matchup": "BUT vs MARQ",
       "result": "W",
       "min": 23,
@@ -188,7 +188,7 @@
       "pointsPlus": 108
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "BUT @ SJU",
       "result": "L",
       "min": 24,
@@ -206,7 +206,7 @@
       "pointsPlus": 200
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "BUT @ PROV",
       "result": "L",
       "min": 42,
@@ -215,7 +215,7 @@
       "pointsPlus": 40
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "BUT vs CONN",
       "result": "L",
       "min": 27,

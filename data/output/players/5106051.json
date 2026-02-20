@@ -17,7 +17,7 @@
   "volatilityPctile": 61,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "USC vs CP",
       "result": "W",
       "min": 23,
@@ -35,7 +35,7 @@
       "pointsPlus": 177
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "USC vs ILST",
       "result": "W",
       "min": 15,
@@ -44,7 +44,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "USC vs TROY",
       "result": "W",
       "min": 28,
@@ -80,7 +80,7 @@
       "pointsPlus": 132
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "USC @ ORE",
       "result": "W",
       "min": 25,
@@ -98,7 +98,7 @@
       "pointsPlus": 97
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "USC @ USD",
       "result": "W",
       "min": 32,
@@ -107,7 +107,7 @@
       "pointsPlus": 302
     },
     {
-      "date": "2025-12-15",
+      "date": "2025-12-14",
       "matchup": "USC vs WSU",
       "result": "W",
       "min": 38,
@@ -116,7 +116,7 @@
       "pointsPlus": 135
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "USC vs UTSA",
       "result": "W",
       "min": 32,
@@ -134,7 +134,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2026-01-03",
+      "date": "2026-01-02",
       "matchup": "USC @ MICH",
       "result": "L",
       "min": 27,
@@ -143,7 +143,7 @@
       "pointsPlus": 160
     },
     {
-      "date": "2026-01-06",
+      "date": "2026-01-05",
       "matchup": "USC @ MSU",
       "result": "L",
       "min": 30,
@@ -152,7 +152,7 @@
       "pointsPlus": 194
     },
     {
-      "date": "2026-01-10",
+      "date": "2026-01-09",
       "matchup": "USC @ MINN",
       "result": "W",
       "min": 42,
@@ -161,7 +161,7 @@
       "pointsPlus": 174
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "USC vs MD",
       "result": "W",
       "min": 32,
@@ -179,7 +179,7 @@
       "pointsPlus": 122
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "USC vs NU",
       "result": "L",
       "min": 33,
@@ -197,7 +197,7 @@
       "pointsPlus": 164
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "USC @ IOWA",
       "result": "L",
       "min": 31,
@@ -206,7 +206,7 @@
       "pointsPlus": 129
     },
     {
-      "date": "2026-02-01",
+      "date": "2026-01-31",
       "matchup": "USC vs RUTG",
       "result": "W",
       "min": 34,
@@ -215,7 +215,7 @@
       "pointsPlus": 222
     },
     {
-      "date": "2026-02-04",
+      "date": "2026-02-03",
       "matchup": "USC vs IU",
       "result": "W",
       "min": 30,
@@ -242,7 +242,7 @@
       "pointsPlus": 134
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "USC vs ILL",
       "result": "L",
       "min": 32,

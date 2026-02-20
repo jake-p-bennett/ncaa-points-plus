@@ -17,7 +17,7 @@
   "volatilityPctile": 91,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "SYR vs BING",
       "result": "W",
       "min": 25,
@@ -44,7 +44,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "SYR vs MONM",
       "result": "W",
       "min": 34,
@@ -80,7 +80,7 @@
       "pointsPlus": 61
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "SYR vs TENN",
       "result": "W",
       "min": 36,
@@ -89,7 +89,7 @@
       "pointsPlus": 213
     },
     {
-      "date": "2025-12-12",
+      "date": "2025-12-11",
       "matchup": "SYR vs JOES",
       "result": "W",
       "min": 35,
@@ -107,7 +107,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-12-18",
+      "date": "2025-12-17",
       "matchup": "SYR vs MERC",
       "result": "W",
       "min": 25,
@@ -125,7 +125,7 @@
       "pointsPlus": 146
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "SYR vs STO",
       "result": "W",
       "min": 33,
@@ -143,7 +143,7 @@
       "pointsPlus": 64
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "SYR @ GT",
       "result": "W",
       "min": 37,
@@ -161,7 +161,7 @@
       "pointsPlus": 80
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "SYR vs FSU",
       "result": "W",
       "min": 18,
@@ -179,7 +179,7 @@
       "pointsPlus": 329
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "SYR vs VT",
       "result": "L",
       "min": 33,
@@ -197,7 +197,7 @@
       "pointsPlus": 120
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "SYR @ NCSU",
       "result": "L",
       "min": 29,
@@ -215,7 +215,7 @@
       "pointsPlus": 301
     },
     {
-      "date": "2026-02-03",
+      "date": "2026-02-02",
       "matchup": "SYR @ UNC",
       "result": "L",
       "min": 30,
@@ -233,7 +233,7 @@
       "pointsPlus": 151
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "SYR vs CAL",
       "result": "W",
       "min": 44,
@@ -251,7 +251,7 @@
       "pointsPlus": 119
     },
     {
-      "date": "2026-02-17",
+      "date": "2026-02-16",
       "matchup": "SYR @ DUKE",
       "result": "L",
       "min": 36,

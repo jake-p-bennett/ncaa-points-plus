@@ -17,7 +17,7 @@
   "volatilityPctile": 17,
   "gameLog": [
     {
-      "date": "2025-12-28",
+      "date": "2025-12-27",
       "matchup": "STAN vs CSUN",
       "result": "W",
       "min": 4,
@@ -26,7 +26,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-31",
+      "date": "2025-12-30",
       "matchup": "STAN vs ND",
       "result": "L",
       "min": 22,
@@ -35,7 +35,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2026-01-03",
+      "date": "2026-01-02",
       "matchup": "STAN vs LOU",
       "result": "W",
       "min": 4,
@@ -44,7 +44,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "STAN @ VT",
       "result": "W",
       "min": 19,
@@ -62,7 +62,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "STAN vs UNC",
       "result": "W",
       "min": 9,
@@ -80,7 +80,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-01-25",
+      "date": "2026-01-24",
       "matchup": "STAN vs CAL",
       "result": "L",
       "min": 29,
@@ -89,7 +89,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "STAN @ MIA",
       "result": "L",
       "min": 4,
@@ -107,7 +107,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "STAN vs CLEM",
       "result": "L",
       "min": 8,
@@ -116,7 +116,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "STAN vs GT",
       "result": "W",
       "min": 30,
@@ -125,7 +125,7 @@
       "pointsPlus": 90
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "STAN @ BC",
       "result": "W",
       "min": 15,

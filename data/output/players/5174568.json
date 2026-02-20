@@ -17,7 +17,7 @@
   "volatilityPctile": 41,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "MINN vs GWEB",
       "result": "W",
       "min": 22,
@@ -35,7 +35,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-11-13",
+      "date": "2025-11-12",
       "matchup": "MINN @ MIZ",
       "result": "L",
       "min": 14,
@@ -44,7 +44,7 @@
       "pointsPlus": 51
     },
     {
-      "date": "2025-11-16",
+      "date": "2025-11-15",
       "matchup": "MINN vs GB",
       "result": "W",
       "min": 12,
@@ -53,7 +53,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "MINN vs CHST",
       "result": "W",
       "min": 13,
@@ -71,7 +71,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-28",
+      "date": "2025-11-27",
       "matchup": "MINN vs STAN",
       "result": "L",
       "min": 24,
@@ -80,7 +80,7 @@
       "pointsPlus": 98
     },
     {
-      "date": "2025-11-29",
+      "date": "2025-11-28",
       "matchup": "MINN vs SCU",
       "result": "L",
       "min": 30,
@@ -89,7 +89,7 @@
       "pointsPlus": 73
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "MINN vs IU",
       "result": "W",
       "min": 37,
@@ -98,7 +98,7 @@
       "pointsPlus": 129
     },
     {
-      "date": "2025-12-11",
+      "date": "2025-12-10",
       "matchup": "MINN @ PUR",
       "result": "L",
       "min": 34,
@@ -125,7 +125,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "MINN vs FDU",
       "result": "W",
       "min": 35,
@@ -143,7 +143,7 @@
       "pointsPlus": 54
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "MINN vs IOWA",
       "result": "W",
       "min": 30,
@@ -152,7 +152,7 @@
       "pointsPlus": 116
     },
     {
-      "date": "2026-01-10",
+      "date": "2026-01-09",
       "matchup": "MINN vs USC",
       "result": "L",
       "min": 45,
@@ -161,7 +161,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "MINN vs WIS",
       "result": "L",
       "min": 29,
@@ -197,7 +197,7 @@
       "pointsPlus": 198
     },
     {
-      "date": "2026-01-29",
+      "date": "2026-01-28",
       "matchup": "MINN @ WIS",
       "result": "L",
       "min": 38,
@@ -215,7 +215,7 @@
       "pointsPlus": 153
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "MINN vs MSU",
       "result": "W",
       "min": 36,
@@ -233,7 +233,7 @@
       "pointsPlus": 90
     },
     {
-      "date": "2026-02-15",
+      "date": "2026-02-14",
       "matchup": "MINN @ WASH",
       "result": "L",
       "min": 40,
@@ -242,7 +242,7 @@
       "pointsPlus": 140
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "MINN @ ORE",
       "result": "W",
       "min": 37,

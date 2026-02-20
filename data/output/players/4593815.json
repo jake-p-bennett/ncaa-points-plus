@@ -17,7 +17,7 @@
   "volatilityPctile": 47,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "TA&M vs NWST",
       "result": "W",
       "min": 19,
@@ -26,7 +26,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-07",
+      "date": "2025-11-06",
       "matchup": "TA&M vs TXSO",
       "result": "W",
       "min": 17,
@@ -44,7 +44,7 @@
       "pointsPlus": 61
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "TA&M vs UCF",
       "result": "L",
       "min": 29,
@@ -53,7 +53,7 @@
       "pointsPlus": 123
     },
     {
-      "date": "2025-11-19",
+      "date": "2025-11-18",
       "matchup": "TA&M vs MONT",
       "result": "W",
       "min": 21,
@@ -62,7 +62,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-11-22",
+      "date": "2025-11-21",
       "matchup": "TA&M vs MAN",
       "result": "W",
       "min": 20,
@@ -71,7 +71,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "TA&M vs MVSU",
       "result": "W",
       "min": 4,
@@ -89,7 +89,7 @@
       "pointsPlus": 160
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-12-02",
       "matchup": "TA&M @ PITT",
       "result": "W",
       "min": 28,
@@ -107,7 +107,7 @@
       "pointsPlus": 119
     },
     {
-      "date": "2025-12-15",
+      "date": "2025-12-14",
       "matchup": "TA&M vs JAX",
       "result": "W",
       "min": 16,
@@ -125,7 +125,7 @@
       "pointsPlus": 219
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "TA&M vs PV",
       "result": "W",
       "min": 20,
@@ -143,7 +143,7 @@
       "pointsPlus": 147
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "TA&M @ AUB",
       "result": "W",
       "min": 28,
@@ -161,7 +161,7 @@
       "pointsPlus": 148
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "TA&M @ TENN",
       "result": "L",
       "min": 39,
@@ -179,7 +179,7 @@
       "pointsPlus": 166
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "TA&M vs MSST",
       "result": "W",
       "min": 27,
@@ -206,7 +206,7 @@
       "pointsPlus": 159
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "TA&M @ ALA",
       "result": "L",
       "min": 28,
@@ -215,7 +215,7 @@
       "pointsPlus": 165
     },
     {
-      "date": "2026-02-08",
+      "date": "2026-02-07",
       "matchup": "TA&M vs FLA",
       "result": "L",
       "min": 30,
@@ -224,7 +224,7 @@
       "pointsPlus": 84
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "TA&M vs MIZ",
       "result": "L",
       "min": 30,
@@ -242,7 +242,7 @@
       "pointsPlus": 78
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "TA&M vs MISS",
       "result": "W",
       "min": 32,

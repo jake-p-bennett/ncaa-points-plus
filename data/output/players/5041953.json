@@ -17,7 +17,7 @@
   "volatilityPctile": 86,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "ARIZ vs FLA",
       "result": "W",
       "min": 36,
@@ -26,7 +26,7 @@
       "pointsPlus": 313
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-07",
       "matchup": "ARIZ vs UTU",
       "result": "W",
       "min": 28,
@@ -35,7 +35,7 @@
       "pointsPlus": 188
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "ARIZ vs NAU",
       "result": "W",
       "min": 21,
@@ -44,7 +44,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "ARIZ vs UCLA",
       "result": "W",
       "min": 21,
@@ -53,7 +53,7 @@
       "pointsPlus": 78
     },
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "ARIZ @ CONN",
       "result": "W",
       "min": 37,
@@ -62,7 +62,7 @@
       "pointsPlus": 194
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-24",
       "matchup": "ARIZ vs DEN",
       "result": "W",
       "min": 21,
@@ -80,7 +80,7 @@
       "pointsPlus": 167
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "ARIZ vs AUB",
       "result": "W",
       "min": 34,
@@ -89,7 +89,7 @@
       "pointsPlus": 162
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "ARIZ vs ALA",
       "result": "W",
       "min": 20,
@@ -98,7 +98,7 @@
       "pointsPlus": 47
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "ARIZ vs ACU",
       "result": "W",
       "min": 26,
@@ -107,7 +107,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2025-12-21",
+      "date": "2025-12-20",
       "matchup": "ARIZ vs SDSU",
       "result": "W",
       "min": 23,
@@ -116,7 +116,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "ARIZ vs BCU",
       "result": "W",
       "min": 27,
@@ -125,7 +125,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-12-30",
+      "date": "2025-12-29",
       "matchup": "ARIZ vs SDST",
       "result": "W",
       "min": 30,
@@ -143,7 +143,7 @@
       "pointsPlus": 163
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "ARIZ vs KSU",
       "result": "W",
       "min": 26,
@@ -161,7 +161,7 @@
       "pointsPlus": 213
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "ARIZ vs ASU",
       "result": "W",
       "min": 35,
@@ -179,7 +179,7 @@
       "pointsPlus": 38
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "ARIZ vs CIN",
       "result": "W",
       "min": 25,
@@ -197,7 +197,7 @@
       "pointsPlus": 234
     },
     {
-      "date": "2026-01-27",
+      "date": "2026-01-26",
       "matchup": "ARIZ @ BYU",
       "result": "W",
       "min": 26,
@@ -224,7 +224,7 @@
       "pointsPlus": 95
     },
     {
-      "date": "2026-02-10",
+      "date": "2026-02-09",
       "matchup": "ARIZ @ KU",
       "result": "L",
       "min": 31,

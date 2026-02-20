@@ -17,7 +17,7 @@
   "volatilityPctile": 36,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "NU vs MERC",
       "result": "W",
       "min": 26,
@@ -35,7 +35,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-10",
       "matchup": "NU vs CLE",
       "result": "W",
       "min": 17,
@@ -44,7 +44,7 @@
       "pointsPlus": 156
     },
     {
-      "date": "2025-11-15",
+      "date": "2025-11-14",
       "matchup": "NU @ DEP",
       "result": "W",
       "min": 19,
@@ -71,7 +71,7 @@
       "pointsPlus": 81
     },
     {
-      "date": "2025-11-28",
+      "date": "2025-11-27",
       "matchup": "NU vs OKST",
       "result": "L",
       "min": 34,
@@ -80,7 +80,7 @@
       "pointsPlus": 52
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "NU @ WIS",
       "result": "L",
       "min": 26,
@@ -107,7 +107,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-12-17",
+      "date": "2025-12-16",
       "matchup": "NU vs VAL",
       "result": "W",
       "min": 20,
@@ -161,7 +161,7 @@
       "pointsPlus": 53
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "NU vs ILL",
       "result": "L",
       "min": 34,
@@ -179,7 +179,7 @@
       "pointsPlus": 173
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "NU @ USC",
       "result": "W",
       "min": 14,
@@ -197,7 +197,7 @@
       "pointsPlus": 133
     },
     {
-      "date": "2026-01-30",
+      "date": "2026-01-29",
       "matchup": "NU vs PSU",
       "result": "W",
       "min": 36,
@@ -206,7 +206,7 @@
       "pointsPlus": 162
     },
     {
-      "date": "2026-02-01",
+      "date": "2026-01-31",
       "matchup": "NU vs WASH",
       "result": "L",
       "min": 31,
@@ -215,7 +215,7 @@
       "pointsPlus": 108
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "matchup": "NU @ ILL",
       "result": "L",
       "min": 22,
@@ -233,7 +233,7 @@
       "pointsPlus": 129
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "NU vs MICH",
       "result": "L",
       "min": 25,
@@ -251,7 +251,7 @@
       "pointsPlus": 62
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "NU vs MD",
       "result": "W",
       "min": 21,

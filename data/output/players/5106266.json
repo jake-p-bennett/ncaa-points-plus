@@ -17,7 +17,7 @@
   "volatilityPctile": 9,
   "gameLog": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-04",
       "matchup": "KSU vs UNCG",
       "result": "W",
       "min": 3,
@@ -26,7 +26,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-09",
+      "date": "2025-11-08",
       "matchup": "KSU vs BELL",
       "result": "W",
       "min": 3,
@@ -35,7 +35,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "KSU vs TLSA",
       "result": "W",
       "min": 7,
@@ -44,7 +44,7 @@
       "pointsPlus": 21
     },
     {
-      "date": "2025-11-21",
+      "date": "2025-11-20",
       "matchup": "KSU vs MSST",
       "result": "W",
       "min": 3,
@@ -53,7 +53,7 @@
       "pointsPlus": 19
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "KSU @ IU",
       "result": "L",
       "min": 1,
@@ -62,7 +62,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-02",
+      "date": "2025-12-01",
       "matchup": "KSU vs BGSU",
       "result": "L",
       "min": 13,
@@ -80,7 +80,7 @@
       "pointsPlus": 0
     },
     {
-      "date": "2025-12-09",
+      "date": "2025-12-08",
       "matchup": "KSU vs MVSU",
       "result": "W",
       "min": 18,
@@ -125,7 +125,7 @@
       "pointsPlus": 39
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "KSU @ ARIZ",
       "result": "L",
       "min": 19,
@@ -143,7 +143,7 @@
       "pointsPlus": 57
     },
     {
-      "date": "2026-01-15",
+      "date": "2026-01-14",
       "matchup": "KSU vs UCF",
       "result": "L",
       "min": 31,
@@ -152,7 +152,7 @@
       "pointsPlus": 95
     },
     {
-      "date": "2026-01-18",
+      "date": "2026-01-17",
       "matchup": "KSU @ OKST",
       "result": "L",
       "min": 26,
@@ -161,7 +161,7 @@
       "pointsPlus": 35
     },
     {
-      "date": "2026-01-21",
+      "date": "2026-01-20",
       "matchup": "KSU vs UTAH",
       "result": "W",
       "min": 35,
@@ -170,7 +170,7 @@
       "pointsPlus": 19
     },
     {
-      "date": "2026-01-25",
+      "date": "2026-01-24",
       "matchup": "KSU vs KU",
       "result": "L",
       "min": 23,
@@ -179,7 +179,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "KSU @ WVU",
       "result": "L",
       "min": 27,
@@ -206,7 +206,7 @@
       "pointsPlus": 43
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "KSU vs CIN",
       "result": "L",
       "min": 30,
@@ -224,7 +224,7 @@
       "pointsPlus": 136
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-17",
       "matchup": "KSU vs BAY",
       "result": "W",
       "min": 31,

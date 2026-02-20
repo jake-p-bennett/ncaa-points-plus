@@ -17,7 +17,7 @@
   "volatilityPctile": 62,
   "gameLog": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-04",
       "matchup": "WVU vs MSM",
       "result": "W",
       "min": 35,
@@ -26,7 +26,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2025-11-07",
+      "date": "2025-11-06",
       "matchup": "WVU vs CAM",
       "result": "W",
       "min": 31,
@@ -53,7 +53,7 @@
       "pointsPlus": 69
     },
     {
-      "date": "2025-11-18",
+      "date": "2025-11-17",
       "matchup": "WVU vs LAF",
       "result": "W",
       "min": 30,
@@ -89,7 +89,7 @@
       "pointsPlus": 94
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-03",
       "matchup": "WVU vs COPP",
       "result": "W",
       "min": 17,
@@ -107,7 +107,7 @@
       "pointsPlus": 48
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "WVU vs LR",
       "result": "W",
       "min": 22,
@@ -116,7 +116,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "matchup": "WVU vs OSU",
       "result": "L",
       "min": 44,
@@ -125,7 +125,7 @@
       "pointsPlus": 185
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-22",
       "matchup": "WVU vs MVSU",
       "result": "W",
       "min": 20,
@@ -134,7 +134,7 @@
       "pointsPlus": 83
     },
     {
-      "date": "2026-01-07",
+      "date": "2026-01-06",
       "matchup": "WVU vs CIN",
       "result": "W",
       "min": 25,
@@ -152,7 +152,7 @@
       "pointsPlus": 212
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "matchup": "WVU @ HOU",
       "result": "L",
       "min": 24,
@@ -170,7 +170,7 @@
       "pointsPlus": 112
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "WVU @ ASU",
       "result": "W",
       "min": 29,
@@ -188,7 +188,7 @@
       "pointsPlus": 87
     },
     {
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "matchup": "WVU vs KSU",
       "result": "W",
       "min": 23,
@@ -206,7 +206,7 @@
       "pointsPlus": 181
     },
     {
-      "date": "2026-02-06",
+      "date": "2026-02-05",
       "matchup": "WVU @ CIN",
       "result": "W",
       "min": 33,
@@ -233,7 +233,7 @@
       "pointsPlus": 104
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-18",
       "matchup": "WVU vs UTAH",
       "result": "L",
       "min": 30,

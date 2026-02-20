@@ -17,7 +17,7 @@
   "volatilityPctile": 71,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "PSU vs FAIR",
       "result": "W",
       "min": 35,
@@ -71,7 +71,7 @@
       "pointsPlus": 16
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "PSU vs BU",
       "result": "W",
       "min": 31,
@@ -98,7 +98,7 @@
       "pointsPlus": 219
     },
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "matchup": "PSU @ IU",
       "result": "L",
       "min": 31,
@@ -134,7 +134,7 @@
       "pointsPlus": 198
     },
     {
-      "date": "2026-01-04",
+      "date": "2026-01-03",
       "matchup": "PSU vs ILL",
       "result": "L",
       "min": 27,
@@ -152,7 +152,7 @@
       "pointsPlus": 189
     },
     {
-      "date": "2026-01-23",
+      "date": "2026-01-22",
       "matchup": "PSU vs WIS",
       "result": "L",
       "min": 35,
@@ -161,7 +161,7 @@
       "pointsPlus": 58
     },
     {
-      "date": "2026-01-27",
+      "date": "2026-01-26",
       "matchup": "PSU @ OSU",
       "result": "L",
       "min": 33,
@@ -170,7 +170,7 @@
       "pointsPlus": 41
     },
     {
-      "date": "2026-01-30",
+      "date": "2026-01-29",
       "matchup": "PSU @ NU",
       "result": "L",
       "min": 28,
@@ -206,7 +206,7 @@
       "pointsPlus": 77
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "matchup": "PSU @ WASH",
       "result": "W",
       "min": 35,

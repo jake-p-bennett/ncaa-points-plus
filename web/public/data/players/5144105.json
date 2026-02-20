@@ -17,7 +17,7 @@
   "volatilityPctile": 79,
   "gameLog": [
     {
-      "date": "2025-11-04",
+      "date": "2025-11-03",
       "matchup": "VILL vs BYU",
       "result": "L",
       "min": 22,
@@ -26,7 +26,7 @@
       "pointsPlus": 49
     },
     {
-      "date": "2025-11-09",
+      "date": "2025-11-08",
       "matchup": "VILL vs QUC",
       "result": "W",
       "min": 34,
@@ -35,7 +35,7 @@
       "pointsPlus": 219
     },
     {
-      "date": "2025-11-12",
+      "date": "2025-11-11",
       "matchup": "VILL vs SHU",
       "result": "W",
       "min": 28,
@@ -44,7 +44,7 @@
       "pointsPlus": 42
     },
     {
-      "date": "2025-11-16",
+      "date": "2025-11-15",
       "matchup": "VILL vs DUQ",
       "result": "W",
       "min": 30,
@@ -53,7 +53,7 @@
       "pointsPlus": 198
     },
     {
-      "date": "2025-11-20",
+      "date": "2025-11-19",
       "matchup": "VILL @ LAS",
       "result": "W",
       "min": 34,
@@ -62,7 +62,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-11-26",
+      "date": "2025-11-25",
       "matchup": "VILL vs ODU",
       "result": "W",
       "min": 29,
@@ -80,7 +80,7 @@
       "pointsPlus": 125
     },
     {
-      "date": "2025-12-07",
+      "date": "2025-12-06",
       "matchup": "VILL vs PENN",
       "result": "W",
       "min": 23,
@@ -107,7 +107,7 @@
       "pointsPlus": 126
     },
     {
-      "date": "2025-12-20",
+      "date": "2025-12-19",
       "matchup": "VILL vs WIS",
       "result": "W",
       "min": 22,
@@ -116,7 +116,7 @@
       "pointsPlus": 68
     },
     {
-      "date": "2025-12-24",
+      "date": "2025-12-23",
       "matchup": "VILL @ HALL",
       "result": "W",
       "min": 37,
@@ -143,7 +143,7 @@
       "pointsPlus": 115
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-07",
       "matchup": "VILL vs CREI",
       "result": "L",
       "min": 33,
@@ -170,7 +170,7 @@
       "pointsPlus": 55
     },
     {
-      "date": "2026-01-18",
+      "date": "2026-01-17",
       "matchup": "VILL vs SJU",
       "result": "L",
       "min": 26,
@@ -179,7 +179,7 @@
       "pointsPlus": 31
     },
     {
-      "date": "2026-01-22",
+      "date": "2026-01-21",
       "matchup": "VILL vs GTWN",
       "result": "W",
       "min": 32,
@@ -197,7 +197,7 @@
       "pointsPlus": 49
     },
     {
-      "date": "2026-01-31",
+      "date": "2026-01-30",
       "matchup": "VILL vs PROV",
       "result": "W",
       "min": 33,
@@ -224,7 +224,7 @@
       "pointsPlus": 274
     },
     {
-      "date": "2026-02-11",
+      "date": "2026-02-10",
       "matchup": "VILL vs MARQ",
       "result": "W",
       "min": 31,

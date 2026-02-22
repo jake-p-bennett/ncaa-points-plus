@@ -4,17 +4,17 @@
   "team": "LOU",
   "teamName": "Louisville Cardinals",
   "conference": "ACC",
-  "rank": 619,
-  "gp": 26,
+  "rank": 620,
+  "gp": 27,
   "ppg": 3.3,
   "adjPpg": 3.5,
   "pointsPlus": 37,
-  "mpg": 12.5,
+  "mpg": 12.6,
   "position": "C",
   "jersey": "15",
   "classYear": "Senior",
-  "pointsPlusStdDev": 49.7,
-  "volatilityPctile": 41,
+  "pointsPlusStdDev": 49.1,
+  "volatilityPctile": 38,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 20,
       "pts": 17,
-      "adjPts": 20.6,
-      "pointsPlus": 215
+      "adjPts": 20.7,
+      "pointsPlus": 217
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 10,
       "pts": 3,
-      "adjPts": 3.5,
-      "pointsPlus": 37
+      "adjPts": 3.4,
+      "pointsPlus": 36
     },
     {
       "date": "2026-01-13",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 18,
       "pts": 9,
-      "adjPts": 10.0,
+      "adjPts": 9.9,
       "pointsPlus": 104
     },
     {
@@ -176,7 +176,7 @@
       "min": 16,
       "pts": 9,
       "adjPts": 9.9,
-      "pointsPlus": 103
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-24",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 14,
       "pts": 3,
-      "adjPts": 2.9,
+      "adjPts": 3.0,
       "pointsPlus": 31
     },
     {
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 11,
       "pts": 3,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
     },
     {
@@ -203,7 +203,7 @@
       "min": 14,
       "pts": 8,
       "adjPts": 7.0,
-      "pointsPlus": 73
+      "pointsPlus": 74
     },
     {
       "date": "2026-02-04",
@@ -212,7 +212,7 @@
       "min": 10,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 21
+      "pointsPlus": 22
     },
     {
       "date": "2026-02-07",
@@ -249,6 +249,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "LOU vs GT",
+      "result": "W",
+      "min": 17,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 40
     }
   ]
 }

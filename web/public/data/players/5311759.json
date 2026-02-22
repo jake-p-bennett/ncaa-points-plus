@@ -4,17 +4,17 @@
   "team": "VAN",
   "teamName": "Vanderbilt Commodores",
   "conference": "SEC",
-  "rank": 635,
-  "gp": 25,
-  "ppg": 3.2,
-  "adjPpg": 3.0,
-  "pointsPlus": 32,
-  "mpg": 12.4,
+  "rank": 633,
+  "gp": 26,
+  "ppg": 3.4,
+  "adjPpg": 3.2,
+  "pointsPlus": 34,
+  "mpg": 13.0,
   "position": "G",
   "jersey": "7",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 32.2,
-  "volatilityPctile": 6,
+  "pointsPlusStdDev": 33.8,
+  "volatilityPctile": 7,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 4,
       "pts": 3,
       "adjPts": 2.7,
-      "pointsPlus": 28
+      "pointsPlus": 29
     },
     {
       "date": "2025-11-12",
@@ -50,7 +50,7 @@
       "min": 15,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-20",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 20,
       "pts": 5,
-      "adjPts": 4.6,
+      "adjPts": 4.5,
       "pointsPlus": 47
     },
     {
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 22,
       "pts": 3,
-      "adjPts": 3.1,
+      "adjPts": 3.0,
       "pointsPlus": 32
     },
     {
@@ -212,7 +212,7 @@
       "min": 21,
       "pts": 4,
       "adjPts": 3.6,
-      "pointsPlus": 37
+      "pointsPlus": 38
     },
     {
       "date": "2026-02-10",
@@ -221,7 +221,7 @@
       "min": 32,
       "pts": 8,
       "adjPts": 6.9,
-      "pointsPlus": 72
+      "pointsPlus": 73
     },
     {
       "date": "2026-02-14",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 31,
       "pts": 11,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.4,
+      "pointsPlus": 99
     },
     {
       "date": "2026-02-18",
@@ -238,8 +238,17 @@
       "result": "L",
       "min": 20,
       "pts": 5,
-      "adjPts": 4.9,
-      "pointsPlus": 51
+      "adjPts": 4.8,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "VAN vs TENN",
+      "result": "L",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 8.7,
+      "pointsPlus": 91
     }
   ]
 }

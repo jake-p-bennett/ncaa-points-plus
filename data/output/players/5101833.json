@@ -4,17 +4,17 @@
   "team": "ALA",
   "teamName": "Alabama Crimson Tide",
   "conference": "SEC",
-  "rank": 212,
-  "gp": 23,
-  "ppg": 11.9,
-  "adjPpg": 11.6,
-  "pointsPlus": 121,
-  "mpg": 29.2,
+  "rank": 207,
+  "gp": 24,
+  "ppg": 12.0,
+  "adjPpg": 11.7,
+  "pointsPlus": 123,
+  "mpg": 29.3,
   "position": "F",
   "jersey": "5",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 52.2,
-  "volatilityPctile": 47,
+  "pointsPlusStdDev": 51.9,
+  "volatilityPctile": 45,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 32,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-08",
@@ -31,8 +31,8 @@
       "result": "W",
       "min": 24,
       "pts": 6,
-      "adjPts": 6.0,
-      "pointsPlus": 62
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2025-11-13",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 29,
       "pts": 9,
-      "adjPts": 9.7,
-      "pointsPlus": 101
+      "adjPts": 9.5,
+      "pointsPlus": 99
     },
     {
       "date": "2025-11-24",
@@ -59,7 +59,7 @@
       "min": 30,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-11-25",
@@ -68,7 +68,7 @@
       "min": 18,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-26",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 9.6,
-      "pointsPlus": 100
+      "adjPts": 9.7,
+      "pointsPlus": 102
     },
     {
       "date": "2025-12-03",
@@ -86,7 +86,7 @@
       "min": 36,
       "pts": 20,
       "adjPts": 24.4,
-      "pointsPlus": 254
+      "pointsPlus": 255
     },
     {
       "date": "2025-12-07",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 19,
       "pts": 5,
-      "adjPts": 5.2,
-      "pointsPlus": 54
+      "adjPts": 5.3,
+      "pointsPlus": 55
     },
     {
       "date": "2025-12-21",
@@ -122,7 +122,7 @@
       "min": 30,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 34,
       "pts": 25,
-      "adjPts": 23.4,
-      "pointsPlus": 244
+      "adjPts": 23.6,
+      "pointsPlus": 247
     },
     {
       "date": "2026-01-10",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 32,
       "pts": 11,
-      "adjPts": 10.3,
+      "adjPts": 10.2,
       "pointsPlus": 107
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 29,
       "pts": 13,
-      "adjPts": 11.8,
-      "pointsPlus": 123
+      "adjPts": 11.6,
+      "pointsPlus": 122
     },
     {
       "date": "2026-01-17",
@@ -167,7 +167,7 @@
       "min": 35,
       "pts": 12,
       "adjPts": 10.7,
-      "pointsPlus": 111
+      "pointsPlus": 113
     },
     {
       "date": "2026-02-01",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 30,
       "pts": 12,
-      "adjPts": 10.2,
-      "pointsPlus": 106
+      "adjPts": 10.3,
+      "pointsPlus": 108
     },
     {
       "date": "2026-02-07",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 35,
       "pts": 17,
-      "adjPts": 14.6,
-      "pointsPlus": 153
+      "adjPts": 14.7,
+      "pointsPlus": 154
     },
     {
       "date": "2026-02-11",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 27,
       "pts": 13,
-      "adjPts": 13.3,
-      "pointsPlus": 139
+      "adjPts": 13.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-02-14",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 27,
       "pts": 8,
-      "adjPts": 7.8,
-      "pointsPlus": 81
+      "adjPts": 7.7,
+      "pointsPlus": 80
     },
     {
       "date": "2026-02-18",
@@ -220,8 +220,17 @@
       "result": "W",
       "min": 45,
       "pts": 19,
-      "adjPts": 16.3,
+      "adjPts": 16.1,
       "pointsPlus": 169
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "ALA @ LSU",
+      "result": "W",
+      "min": 32,
+      "pts": 16,
+      "adjPts": 14.9,
+      "pointsPlus": 156
     }
   ]
 }

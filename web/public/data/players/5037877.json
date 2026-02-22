@@ -4,16 +4,16 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 659,
-  "gp": 16,
-  "ppg": 1.3,
+  "rank": 664,
+  "gp": 17,
+  "ppg": 1.4,
   "adjPpg": 1.4,
-  "pointsPlus": 14,
-  "mpg": 13.1,
+  "pointsPlus": 15,
+  "mpg": 13.0,
   "position": "G",
   "jersey": "11",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 21.6,
+  "pointsPlusStdDev": 21.2,
   "volatilityPctile": 1,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 32,
       "pts": 8,
       "adjPts": 8.2,
-      "pointsPlus": 85
+      "pointsPlus": 86
     },
     {
       "date": "2025-12-20",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 12,
       "pts": 3,
-      "adjPts": 3.2,
+      "adjPts": 3.1,
       "pointsPlus": 33
     },
     {
@@ -159,6 +159,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "MD vs WASH",
+      "result": "W",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
     }
   ]
 }

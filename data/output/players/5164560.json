@@ -4,16 +4,16 @@
   "team": "CAL",
   "teamName": "California Golden Bears",
   "conference": "ACC",
-  "rank": 579,
-  "gp": 24,
-  "ppg": 4.2,
-  "adjPpg": 4.3,
-  "pointsPlus": 44,
-  "mpg": 17.2,
+  "rank": 592,
+  "gp": 25,
+  "ppg": 4.0,
+  "adjPpg": 4.1,
+  "pointsPlus": 43,
+  "mpg": 16.8,
   "position": "G",
   "jersey": "3",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 45.4,
+  "pointsPlusStdDev": 45.5,
   "volatilityPctile": 30,
   "gameLog": [
     {
@@ -31,7 +31,7 @@
       "result": "L",
       "min": 16,
       "pts": 6,
-      "adjPts": 5.2,
+      "adjPts": 5.1,
       "pointsPlus": 54
     },
     {
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 13,
       "pts": 6,
-      "adjPts": 6.4,
-      "pointsPlus": 67
+      "adjPts": 6.3,
+      "pointsPlus": 66
     },
     {
       "date": "2025-12-02",
@@ -86,7 +86,7 @@
       "min": 17,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-13",
@@ -95,7 +95,7 @@
       "min": 34,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-19",
@@ -104,7 +104,7 @@
       "min": 36,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-12-21",
@@ -131,7 +131,7 @@
       "min": 17,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 64
+      "pointsPlus": 65
     },
     {
       "date": "2026-01-07",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 23,
       "pts": 4,
-      "adjPts": 4.5,
+      "adjPts": 4.4,
       "pointsPlus": 46
     },
     {
@@ -149,7 +149,7 @@
       "min": 19,
       "pts": 2,
       "adjPts": 2.0,
-      "pointsPlus": 20
+      "pointsPlus": 21
     },
     {
       "date": "2026-01-14",
@@ -185,7 +185,7 @@
       "min": 13,
       "pts": 1,
       "adjPts": 0.9,
-      "pointsPlus": 9
+      "pointsPlus": 10
     },
     {
       "date": "2026-01-31",
@@ -229,8 +229,17 @@
       "result": "W",
       "min": 20,
       "pts": 6,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 6.9,
+      "pointsPlus": 72
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "CAL vs STAN",
+      "result": "W",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "RUTG",
   "teamName": "Rutgers Scarlet Knights",
   "conference": "Big Ten",
-  "rank": 645,
-  "gp": 26,
-  "ppg": 2.3,
-  "adjPpg": 2.4,
-  "pointsPlus": 25,
-  "mpg": 15.1,
+  "rank": 651,
+  "gp": 27,
+  "ppg": 2.2,
+  "adjPpg": 2.3,
+  "pointsPlus": 24,
+  "mpg": 14.7,
   "position": "F",
   "jersey": "4",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 25.3,
-  "volatilityPctile": 2,
+  "pointsPlusStdDev": 25.4,
+  "volatilityPctile": 3,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 14,
       "pts": 2,
-      "adjPts": 2.0,
-      "pointsPlus": 21
+      "adjPts": 2.1,
+      "pointsPlus": 22
     },
     {
       "date": "2025-12-13",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 12,
       "pts": 6,
-      "adjPts": 7.6,
-      "pointsPlus": 79
+      "adjPts": 7.7,
+      "pointsPlus": 81
     },
     {
       "date": "2025-12-20",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 15,
       "pts": 4,
-      "adjPts": 4.3,
-      "pointsPlus": 45
+      "adjPts": 4.2,
+      "pointsPlus": 44
     },
     {
       "date": "2026-01-11",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 14,
       "pts": 2,
-      "adjPts": 2.1,
-      "pointsPlus": 22
+      "adjPts": 2.0,
+      "pointsPlus": 21
     },
     {
       "date": "2026-01-27",
@@ -212,7 +212,7 @@
       "min": 14,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 19
+      "pointsPlus": 20
     },
     {
       "date": "2026-02-03",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 15,
       "pts": 6,
-      "adjPts": 6.4,
-      "pointsPlus": 67
+      "adjPts": 6.3,
+      "pointsPlus": 66
     },
     {
       "date": "2026-02-07",
@@ -246,6 +246,15 @@
       "matchup": "RUTG @ PSU",
       "result": "W",
       "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "RUTG @ MINN",
+      "result": "L",
+      "min": 4,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

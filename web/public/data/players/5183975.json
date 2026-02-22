@@ -4,16 +4,16 @@
   "team": "BYU",
   "teamName": "BYU Cougars",
   "conference": "Big 12",
-  "rank": 655,
-  "gp": 13,
-  "ppg": 1.8,
-  "adjPpg": 1.8,
-  "pointsPlus": 18,
-  "mpg": 13.8,
+  "rank": 661,
+  "gp": 14,
+  "ppg": 1.6,
+  "adjPpg": 1.6,
+  "pointsPlus": 17,
+  "mpg": 13.3,
   "position": "C",
   "jersey": "34",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 22.1,
+  "pointsPlusStdDev": 21.9,
   "volatilityPctile": 1,
   "gameLog": [
     {
@@ -31,7 +31,7 @@
       "result": "W",
       "min": 12,
       "pts": 4,
-      "adjPts": 3.5,
+      "adjPts": 3.4,
       "pointsPlus": 36
     },
     {
@@ -41,7 +41,7 @@
       "min": 17,
       "pts": 3,
       "adjPts": 2.7,
-      "pointsPlus": 28
+      "pointsPlus": 29
     },
     {
       "date": "2026-01-10",
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 5.5,
+      "adjPts": 5.6,
       "pointsPlus": 58
     },
     {
@@ -129,6 +129,15 @@
       "matchup": "BYU @ ARIZ",
       "result": "L",
       "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "BYU vs ISU",
+      "result": "W",
+      "min": 7,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

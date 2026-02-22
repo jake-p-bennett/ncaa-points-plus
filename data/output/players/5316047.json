@@ -4,16 +4,16 @@
   "team": "FSU",
   "teamName": "Florida State Seminoles",
   "conference": "ACC",
-  "rank": 503,
-  "gp": 26,
+  "rank": 501,
+  "gp": 27,
   "ppg": 5.6,
   "adjPpg": 5.7,
-  "pointsPlus": 59,
-  "mpg": 18.3,
+  "pointsPlus": 60,
+  "mpg": 18.5,
   "position": "F",
   "jersey": "3",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 35.2,
+  "pointsPlusStdDev": 34.8,
   "volatilityPctile": 9,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 19,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-07",
@@ -32,7 +32,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-11",
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 11,
       "pts": 1,
-      "adjPts": 0.8,
+      "adjPts": 0.9,
       "pointsPlus": 9
     },
     {
@@ -122,7 +122,7 @@
       "min": 16,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-22",
@@ -131,7 +131,7 @@
       "min": 18,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-30",
@@ -149,7 +149,7 @@
       "min": 5,
       "pts": 2,
       "adjPts": 2.4,
-      "pointsPlus": 25
+      "pointsPlus": 26
     },
     {
       "date": "2026-01-10",
@@ -176,7 +176,7 @@
       "min": 29,
       "pts": 11,
       "adjPts": 10.2,
-      "pointsPlus": 106
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-20",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 31,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.3,
       "pointsPlus": 87
     },
     {
@@ -194,7 +194,7 @@
       "min": 25,
       "pts": 4,
       "adjPts": 3.5,
-      "pointsPlus": 36
+      "pointsPlus": 37
     },
     {
       "date": "2026-01-28",
@@ -212,7 +212,7 @@
       "min": 27,
       "pts": 6,
       "adjPts": 6.3,
-      "pointsPlus": 65
+      "pointsPlus": 66
     },
     {
       "date": "2026-02-07",
@@ -239,7 +239,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 7.9,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-02-17",
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 27,
       "pts": 8,
-      "adjPts": 9.4,
-      "pointsPlus": 97
+      "adjPts": 9.2,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "FSU @ CLEM",
+      "result": "W",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 7.3,
+      "pointsPlus": 77
     }
   ]
 }

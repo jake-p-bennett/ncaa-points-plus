@@ -4,16 +4,16 @@
   "team": "COLO",
   "teamName": "Colorado Buffaloes",
   "conference": "Big 12",
-  "rank": 574,
-  "gp": 24,
+  "rank": 577,
+  "gp": 25,
   "ppg": 4.5,
   "adjPpg": 4.3,
   "pointsPlus": 45,
-  "mpg": 15.8,
+  "mpg": 15.9,
   "position": "G",
   "jersey": "11",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 31.7,
+  "pointsPlusStdDev": 31.6,
   "volatilityPctile": 5,
   "gameLog": [
     {
@@ -41,7 +41,7 @@
       "min": 14,
       "pts": 6,
       "adjPts": 4.6,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2025-11-17",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 14,
       "pts": 6,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.3,
+      "pointsPlus": 66
     },
     {
       "date": "2025-12-01",
@@ -122,7 +122,7 @@
       "min": 17,
       "pts": 7,
       "adjPts": 7.3,
-      "pointsPlus": 76
+      "pointsPlus": 77
     },
     {
       "date": "2025-12-28",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 18,
       "pts": 7,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.4,
+      "pointsPlus": 67
     },
     {
       "date": "2026-01-07",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 18,
       "pts": 2,
-      "adjPts": 1.8,
+      "adjPts": 1.9,
       "pointsPlus": 19
     },
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 5,
       "pts": 2,
-      "adjPts": 2.3,
-      "pointsPlus": 24
+      "adjPts": 2.2,
+      "pointsPlus": 23
     },
     {
       "date": "2026-01-24",
@@ -176,7 +176,7 @@
       "min": 26,
       "pts": 9,
       "adjPts": 8.2,
-      "pointsPlus": 85
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-29",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 23,
       "pts": 5,
-      "adjPts": 5.1,
-      "pointsPlus": 53
+      "adjPts": 5.2,
+      "pointsPlus": 55
     },
     {
       "date": "2026-02-04",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 20,
       "pts": 12,
-      "adjPts": 11.0,
-      "pointsPlus": 114
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-02-07",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 21,
       "pts": 8,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.3,
+      "pointsPlus": 76
     },
     {
       "date": "2026-02-11",
@@ -229,8 +229,17 @@
       "result": "L",
       "min": 33,
       "pts": 9,
-      "adjPts": 8.4,
-      "pointsPlus": 88
+      "adjPts": 8.5,
+      "pointsPlus": 89
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "COLO vs OKST",
+      "result": "W",
+      "min": 17,
+      "pts": 4,
+      "adjPts": 3.3,
+      "pointsPlus": 35
     }
   ]
 }

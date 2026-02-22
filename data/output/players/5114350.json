@@ -4,17 +4,17 @@
   "team": "VAN",
   "teamName": "Vanderbilt Commodores",
   "conference": "SEC",
-  "rank": 344,
-  "gp": 26,
+  "rank": 340,
+  "gp": 27,
   "ppg": 9.3,
-  "adjPpg": 8.9,
+  "adjPpg": 8.8,
   "pointsPlus": 92,
-  "mpg": 25.6,
+  "mpg": 25.3,
   "position": "F",
   "jersey": "10",
   "classYear": "Senior",
-  "pointsPlusStdDev": 53.4,
-  "volatilityPctile": 51,
+  "pointsPlusStdDev": 52.5,
+  "volatilityPctile": 47,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 22,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 16,
       "pts": 7,
       "adjPts": 6.4,
-      "pointsPlus": 66
+      "pointsPlus": 67
     },
     {
       "date": "2025-11-12",
@@ -50,7 +50,7 @@
       "min": 25,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-11-20",
@@ -95,7 +95,7 @@
       "min": 28,
       "pts": 9,
       "adjPts": 7.9,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-13",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 30,
       "pts": 17,
-      "adjPts": 16.5,
-      "pointsPlus": 172
+      "adjPts": 16.3,
+      "pointsPlus": 171
     },
     {
       "date": "2026-01-07",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 34,
       "pts": 12,
-      "adjPts": 11.3,
-      "pointsPlus": 118
+      "adjPts": 11.2,
+      "pointsPlus": 117
     },
     {
       "date": "2026-01-14",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 23,
       "pts": 5,
-      "adjPts": 4.3,
+      "adjPts": 4.2,
       "pointsPlus": 45
     },
     {
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 27,
       "pts": 5,
-      "adjPts": 4.6,
+      "adjPts": 4.5,
       "pointsPlus": 47
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 32,
       "pts": 17,
-      "adjPts": 17.4,
-      "pointsPlus": 181
+      "adjPts": 17.1,
+      "pointsPlus": 179
     },
     {
       "date": "2026-02-07",
@@ -221,7 +221,7 @@
       "min": 20,
       "pts": 13,
       "adjPts": 11.6,
-      "pointsPlus": 121
+      "pointsPlus": 122
     },
     {
       "date": "2026-02-10",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 25,
       "pts": 7,
-      "adjPts": 6.0,
-      "pointsPlus": 63
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 33,
       "pts": 23,
-      "adjPts": 19.5,
-      "pointsPlus": 204
+      "adjPts": 19.7,
+      "pointsPlus": 206
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,17 @@
       "result": "L",
       "min": 26,
       "pts": 9,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.6,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "VAN vs TENN",
+      "result": "L",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 7.6,
+      "pointsPlus": 79
     }
   ]
 }

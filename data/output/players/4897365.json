@@ -4,17 +4,17 @@
   "team": "WVU",
   "teamName": "West Virginia Mountaineers",
   "conference": "Big 12",
-  "rank": 71,
-  "gp": 26,
-  "ppg": 15.5,
-  "adjPpg": 15.9,
+  "rank": 73,
+  "gp": 27,
+  "ppg": 15.4,
+  "adjPpg": 15.8,
   "pointsPlus": 165,
-  "mpg": 34.7,
+  "mpg": 34.8,
   "position": "G",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 71.2,
-  "volatilityPctile": 89,
+  "pointsPlusStdDev": 70.2,
+  "volatilityPctile": 88,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 38,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-06",
@@ -32,7 +32,7 @@
       "min": 34,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 240
+      "pointsPlus": 241
     },
     {
       "date": "2025-11-09",
@@ -41,7 +41,7 @@
       "min": 32,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-13",
@@ -50,7 +50,7 @@
       "min": 28,
       "pts": 15,
       "adjPts": 16.5,
-      "pointsPlus": 172
+      "pointsPlus": 173
     },
     {
       "date": "2025-11-17",
@@ -59,7 +59,7 @@
       "min": 34,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 250
+      "pointsPlus": 252
     },
     {
       "date": "2025-11-21",
@@ -68,7 +68,7 @@
       "min": 38,
       "pts": 17,
       "adjPts": 20.7,
-      "pointsPlus": 216
+      "pointsPlus": 217
     },
     {
       "date": "2025-11-23",
@@ -77,7 +77,7 @@
       "min": 35,
       "pts": 16,
       "adjPts": 14.4,
-      "pointsPlus": 150
+      "pointsPlus": 151
     },
     {
       "date": "2025-11-30",
@@ -95,7 +95,7 @@
       "min": 29,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-12-06",
@@ -104,7 +104,7 @@
       "min": 39,
       "pts": 24,
       "adjPts": 22.3,
-      "pointsPlus": 232
+      "pointsPlus": 233
     },
     {
       "date": "2025-12-09",
@@ -113,7 +113,7 @@
       "min": 30,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 250
+      "pointsPlus": 252
     },
     {
       "date": "2025-12-13",
@@ -122,7 +122,7 @@
       "min": 39,
       "pts": 24,
       "adjPts": 23.7,
-      "pointsPlus": 247
+      "pointsPlus": 248
     },
     {
       "date": "2025-12-22",
@@ -131,7 +131,7 @@
       "min": 32,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-02",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 38,
       "pts": 24,
-      "adjPts": 28.8,
-      "pointsPlus": 300
+      "adjPts": 28.7,
+      "pointsPlus": 301
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 26.1,
-      "pointsPlus": 271
+      "adjPts": 25.8,
+      "pointsPlus": 270
     },
     {
       "date": "2026-01-13",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 38,
       "pts": 13,
-      "adjPts": 16.9,
-      "pointsPlus": 177
+      "adjPts": 16.8,
+      "pointsPlus": 176
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 30,
       "pts": 14,
-      "adjPts": 12.6,
-      "pointsPlus": 131
+      "adjPts": 12.7,
+      "pointsPlus": 133
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 39,
       "pts": 8,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.3,
+      "pointsPlus": 76
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 32,
       "pts": 10,
-      "adjPts": 10.4,
-      "pointsPlus": 109
+      "adjPts": 10.5,
+      "pointsPlus": 110
     },
     {
       "date": "2026-01-27",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 38,
       "pts": 17,
-      "adjPts": 14.7,
-      "pointsPlus": 153
+      "adjPts": 14.5,
+      "pointsPlus": 152
     },
     {
       "date": "2026-01-31",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 38,
       "pts": 16,
-      "adjPts": 19.2,
-      "pointsPlus": 200
+      "adjPts": 19.1,
+      "pointsPlus": 201
     },
     {
       "date": "2026-02-08",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 26,
       "pts": 21,
-      "adjPts": 19.1,
-      "pointsPlus": 199
+      "adjPts": 19.2,
+      "pointsPlus": 201
     },
     {
       "date": "2026-02-18",
@@ -248,7 +248,16 @@
       "min": 36,
       "pts": 12,
       "adjPts": 11.1,
-      "pointsPlus": 115
+      "pointsPlus": 117
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "WVU @ TCU",
+      "result": "L",
+      "min": 38,
+      "pts": 13,
+      "adjPts": 13.5,
+      "pointsPlus": 142
     }
   ]
 }

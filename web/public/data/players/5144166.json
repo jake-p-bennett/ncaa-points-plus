@@ -4,17 +4,17 @@
   "team": "MIZ",
   "teamName": "Missouri Tigers",
   "conference": "SEC",
-  "rank": 383,
-  "gp": 26,
-  "ppg": 8.2,
-  "adjPpg": 7.7,
-  "pointsPlus": 81,
-  "mpg": 22.0,
+  "rank": 392,
+  "gp": 27,
+  "ppg": 8.1,
+  "adjPpg": 7.6,
+  "pointsPlus": 80,
+  "mpg": 21.9,
   "position": "G",
   "jersey": "5",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 49.8,
-  "volatilityPctile": 41,
+  "pointsPlusStdDev": 49.7,
+  "volatilityPctile": 40,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -50,7 +50,7 @@
       "min": 17,
       "pts": 8,
       "adjPts": 9.5,
-      "pointsPlus": 99
+      "pointsPlus": 100
     },
     {
       "date": "2025-11-17",
@@ -95,7 +95,7 @@
       "min": 23,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 64
+      "pointsPlus": 65
     },
     {
       "date": "2025-12-07",
@@ -130,7 +130,7 @@
       "result": "L",
       "min": 25,
       "pts": 2,
-      "adjPts": 2.2,
+      "adjPts": 2.1,
       "pointsPlus": 22
     },
     {
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 23,
       "pts": 13,
-      "adjPts": 11.2,
-      "pointsPlus": 117
+      "adjPts": 11.3,
+      "pointsPlus": 118
     },
     {
       "date": "2026-01-17",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 29,
       "pts": 11,
-      "adjPts": 10.4,
+      "adjPts": 10.3,
       "pointsPlus": 108
     },
     {
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 39,
       "pts": 21,
-      "adjPts": 18.7,
-      "pointsPlus": 195
+      "adjPts": 18.8,
+      "pointsPlus": 197
     },
     {
       "date": "2026-01-27",
@@ -203,7 +203,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 9.8,
-      "pointsPlus": 102
+      "pointsPlus": 103
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 30,
       "pts": 16,
-      "adjPts": 14.6,
-      "pointsPlus": 152
+      "adjPts": 14.3,
+      "pointsPlus": 150
     },
     {
       "date": "2026-02-07",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 32,
       "pts": 14,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.4,
+      "pointsPlus": 140
     },
     {
       "date": "2026-02-11",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 33,
       "pts": 17,
-      "adjPts": 14.4,
-      "pointsPlus": 150
+      "adjPts": 14.6,
+      "pointsPlus": 153
     },
     {
       "date": "2026-02-14",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 31,
       "pts": 5,
-      "adjPts": 4.7,
+      "adjPts": 4.6,
       "pointsPlus": 49
     },
     {
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 32,
       "pts": 16,
-      "adjPts": 15.0,
-      "pointsPlus": 156
+      "adjPts": 15.1,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "MIZ @ ARK",
+      "result": "L",
+      "min": 19,
+      "pts": 5,
+      "adjPts": 4.2,
+      "pointsPlus": 45
     }
   ]
 }

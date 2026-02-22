@@ -4,17 +4,17 @@
   "team": "UK",
   "teamName": "Kentucky Wildcats",
   "conference": "SEC",
-  "rank": 471,
-  "gp": 25,
-  "ppg": 6.2,
-  "adjPpg": 6.2,
-  "pointsPlus": 64,
-  "mpg": 13.9,
+  "rank": 486,
+  "gp": 26,
+  "ppg": 5.9,
+  "adjPpg": 5.9,
+  "pointsPlus": 62,
+  "mpg": 13.4,
   "position": "G",
   "jersey": "2",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 53.9,
-  "volatilityPctile": 52,
+  "pointsPlusStdDev": 54.5,
+  "volatilityPctile": 53,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -50,7 +50,7 @@
       "min": 19,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-18",
@@ -95,7 +95,7 @@
       "min": 19,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-12-09",
@@ -104,7 +104,7 @@
       "min": 19,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 229
+      "pointsPlus": 231
     },
     {
       "date": "2025-12-13",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 10,
       "pts": 5,
-      "adjPts": 4.6,
+      "adjPts": 4.5,
       "pointsPlus": 47
     },
     {
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 19,
       "pts": 12,
-      "adjPts": 12.9,
-      "pointsPlus": 135
+      "adjPts": 13.0,
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 17,
       "pts": 11,
-      "adjPts": 11.3,
-      "pointsPlus": 117
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-27",
@@ -212,7 +212,7 @@
       "min": 17,
       "pts": 5,
       "adjPts": 4.5,
-      "pointsPlus": 46
+      "pointsPlus": 47
     },
     {
       "date": "2026-02-07",
@@ -240,6 +240,15 @@
       "pts": 5,
       "adjPts": 4.2,
       "pointsPlus": 44
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "UK @ AUB",
+      "result": "L",
+      "min": 2,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

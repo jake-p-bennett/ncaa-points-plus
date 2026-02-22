@@ -4,16 +4,16 @@
   "team": "WAKE",
   "teamName": "Wake Forest Demon Deacons",
   "conference": "ACC",
-  "rank": 502,
-  "gp": 26,
-  "ppg": 5.5,
-  "adjPpg": 5.7,
-  "pointsPlus": 59,
-  "mpg": 14.2,
+  "rank": 515,
+  "gp": 27,
+  "ppg": 5.3,
+  "adjPpg": 5.5,
+  "pointsPlus": 57,
+  "mpg": 14.3,
   "position": "G",
   "jersey": "10",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 50.1,
+  "pointsPlusStdDev": 50.7,
   "volatilityPctile": 42,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 25,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-11",
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 7,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 64
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2025-11-16",
@@ -77,7 +77,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-28",
@@ -86,7 +86,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-02",
@@ -104,7 +104,7 @@
       "min": 11,
       "pts": 4,
       "adjPts": 5.3,
-      "pointsPlus": 55
+      "pointsPlus": 56
     },
     {
       "date": "2025-12-14",
@@ -131,7 +131,7 @@
       "min": 10,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 29
+      "pointsPlus": 30
     },
     {
       "date": "2025-12-31",
@@ -149,7 +149,7 @@
       "min": 9,
       "pts": 2,
       "adjPts": 2.0,
-      "pointsPlus": 20
+      "pointsPlus": 21
     },
     {
       "date": "2026-01-07",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 8,
       "pts": 6,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2026-01-10",
@@ -185,7 +185,7 @@
       "min": 11,
       "pts": 4,
       "adjPts": 3.5,
-      "pointsPlus": 36
+      "pointsPlus": 37
     },
     {
       "date": "2026-01-24",
@@ -203,7 +203,7 @@
       "min": 26,
       "pts": 10,
       "adjPts": 11.0,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-31",
@@ -221,7 +221,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 123
+      "pointsPlus": 124
     },
     {
       "date": "2026-02-11",
@@ -248,7 +248,16 @@
       "min": 30,
       "pts": 16,
       "adjPts": 19.5,
-      "pointsPlus": 203
+      "pointsPlus": 204
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "WAKE @ VT",
+      "result": "L",
+      "min": 16,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

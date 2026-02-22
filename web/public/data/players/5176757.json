@@ -4,16 +4,16 @@
   "team": "UTAH",
   "teamName": "Utah Utes",
   "conference": "Big 12",
-  "rank": 633,
-  "gp": 26,
-  "ppg": 3.0,
+  "rank": 636,
+  "gp": 27,
+  "ppg": 3.1,
   "adjPpg": 3.1,
   "pointsPlus": 32,
-  "mpg": 13.0,
+  "mpg": 13.1,
   "position": "F",
   "jersey": "7",
   "classYear": "Junior",
-  "pointsPlusStdDev": 29.3,
+  "pointsPlusStdDev": 28.8,
   "volatilityPctile": 4,
   "gameLog": [
     {
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 17,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 107
+      "adjPts": 10.1,
+      "pointsPlus": 106
     },
     {
       "date": "2025-12-02",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 17,
       "pts": 1,
-      "adjPts": 1.0,
+      "adjPts": 1.1,
       "pointsPlus": 11
     },
     {
@@ -167,7 +167,7 @@
       "min": 16,
       "pts": 3,
       "adjPts": 3.0,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 16,
       "pts": 5,
-      "adjPts": 5.1,
-      "pointsPlus": 53
+      "adjPts": 5.2,
+      "pointsPlus": 55
     },
     {
       "date": "2026-01-20",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 16,
       "pts": 9,
-      "adjPts": 7.8,
+      "adjPts": 7.7,
       "pointsPlus": 81
     },
     {
@@ -248,7 +248,16 @@
       "min": 23,
       "pts": 3,
       "adjPts": 4.0,
-      "pointsPlus": 41
+      "pointsPlus": 42
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "UTAH vs UCF",
+      "result": "L",
+      "min": 16,
+      "pts": 4,
+      "adjPts": 3.7,
+      "pointsPlus": 38
     }
   ]
 }

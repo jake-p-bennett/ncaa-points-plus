@@ -4,17 +4,17 @@
   "team": "FLA",
   "teamName": "Florida Gators",
   "conference": "SEC",
-  "rank": 315,
-  "gp": 26,
-  "ppg": 9.9,
-  "adjPpg": 9.4,
-  "pointsPlus": 98,
+  "rank": 306,
+  "gp": 27,
+  "ppg": 10.1,
+  "adjPpg": 9.7,
+  "pointsPlus": 101,
   "mpg": 21.3,
   "position": "G",
   "jersey": "7",
   "classYear": "Junior",
-  "pointsPlusStdDev": 53.7,
-  "volatilityPctile": 52,
+  "pointsPlusStdDev": 54.4,
+  "volatilityPctile": 53,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 18,
       "pts": 8,
       "adjPts": 8.4,
-      "pointsPlus": 87
+      "pointsPlus": 88
     },
     {
       "date": "2025-11-06",
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 18,
       "pts": 7,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.4,
+      "pointsPlus": 67
     },
     {
       "date": "2025-11-16",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 26,
       "pts": 15,
-      "adjPts": 15.7,
-      "pointsPlus": 164
+      "adjPts": 15.5,
+      "pointsPlus": 163
     },
     {
       "date": "2025-11-21",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 29,
       "pts": 20,
-      "adjPts": 20.5,
-      "pointsPlus": 213
+      "adjPts": 20.8,
+      "pointsPlus": 218
     },
     {
       "date": "2025-11-28",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 30,
       "pts": 18,
-      "adjPts": 13.7,
-      "pointsPlus": 142
+      "adjPts": 13.9,
+      "pointsPlus": 145
     },
     {
       "date": "2025-12-02",
@@ -86,7 +86,7 @@
       "min": 26,
       "pts": 6,
       "adjPts": 7.3,
-      "pointsPlus": 76
+      "pointsPlus": 77
     },
     {
       "date": "2025-12-09",
@@ -95,7 +95,7 @@
       "min": 18,
       "pts": 3,
       "adjPts": 3.5,
-      "pointsPlus": 36
+      "pointsPlus": 37
     },
     {
       "date": "2025-12-13",
@@ -122,7 +122,7 @@
       "min": 15,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-12-29",
@@ -131,7 +131,7 @@
       "min": 18,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 10,
       "pts": 5,
-      "adjPts": 4.9,
-      "pointsPlus": 51
+      "adjPts": 4.8,
+      "pointsPlus": 50
     },
     {
       "date": "2026-01-06",
@@ -149,7 +149,7 @@
       "min": 25,
       "pts": 11,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 28,
       "pts": 15,
-      "adjPts": 16.1,
-      "pointsPlus": 168
+      "adjPts": 16.2,
+      "pointsPlus": 170
     },
     {
       "date": "2026-01-13",
@@ -167,7 +167,7 @@
       "min": 27,
       "pts": 13,
       "adjPts": 11.6,
-      "pointsPlus": 121
+      "pointsPlus": 122
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 15,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 29
+      "pointsPlus": 30
     },
     {
       "date": "2026-01-20",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 24,
       "pts": 18,
-      "adjPts": 17.0,
-      "pointsPlus": 177
+      "adjPts": 16.8,
+      "pointsPlus": 176
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 28,
       "pts": 12,
-      "adjPts": 10.3,
-      "pointsPlus": 108
+      "adjPts": 10.4,
+      "pointsPlus": 109
     },
     {
       "date": "2026-01-28",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 20,
       "pts": 11,
-      "adjPts": 10.7,
-      "pointsPlus": 111
+      "adjPts": 10.5,
+      "pointsPlus": 110
     },
     {
       "date": "2026-02-01",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 19,
       "pts": 11,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.4,
+      "pointsPlus": 99
     },
     {
       "date": "2026-02-11",
@@ -239,7 +239,7 @@
       "min": 29,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 198
+      "pointsPlus": 199
     },
     {
       "date": "2026-02-17",
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 17,
       "pts": 5,
-      "adjPts": 4.9,
-      "pointsPlus": 51
+      "adjPts": 4.8,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "FLA @ MISS",
+      "result": "W",
+      "min": 22,
+      "pts": 15,
+      "adjPts": 15.1,
+      "pointsPlus": 158
     }
   ]
 }

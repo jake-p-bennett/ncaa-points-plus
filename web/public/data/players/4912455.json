@@ -4,16 +4,16 @@
   "team": "ND",
   "teamName": "Notre Dame Fighting Irish",
   "conference": "ACC",
-  "rank": 175,
-  "gp": 26,
-  "ppg": 12.3,
-  "adjPpg": 12.5,
-  "pointsPlus": 130,
-  "mpg": 32.1,
+  "rank": 186,
+  "gp": 27,
+  "ppg": 12.1,
+  "adjPpg": 12.2,
+  "pointsPlus": 128,
+  "mpg": 32.3,
   "position": "G",
   "jersey": "11",
   "classYear": "Junior",
-  "pointsPlusStdDev": 74.7,
+  "pointsPlusStdDev": 74.3,
   "volatilityPctile": 91,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 29,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 198
+      "pointsPlus": 199
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 30,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 188
+      "pointsPlus": 189
     },
     {
       "date": "2025-11-16",
@@ -50,7 +50,7 @@
       "min": 32,
       "pts": 11,
       "adjPts": 10.9,
-      "pointsPlus": 113
+      "pointsPlus": 114
     },
     {
       "date": "2025-11-19",
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 34,
       "pts": 9,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 106
     },
     {
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 35,
       "pts": 11,
-      "adjPts": 10.7,
-      "pointsPlus": 111
+      "adjPts": 10.5,
+      "pointsPlus": 110
     },
     {
       "date": "2025-12-05",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 38,
       "pts": 15,
-      "adjPts": 15.4,
-      "pointsPlus": 160
+      "adjPts": 15.6,
+      "pointsPlus": 164
     },
     {
       "date": "2025-12-10",
@@ -113,7 +113,7 @@
       "min": 29,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-13",
@@ -122,7 +122,7 @@
       "min": 32,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 271
+      "pointsPlus": 273
     },
     {
       "date": "2025-12-21",
@@ -131,7 +131,7 @@
       "min": 35,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-30",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 31,
       "pts": 21,
-      "adjPts": 21.2,
-      "pointsPlus": 221
+      "adjPts": 21.4,
+      "pointsPlus": 224
     },
     {
       "date": "2026-01-10",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 25,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.3,
       "pointsPlus": 87
     },
     {
@@ -176,7 +176,7 @@
       "min": 35,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 61
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-21",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 33,
       "pts": 22,
-      "adjPts": 25.7,
-      "pointsPlus": 268
+      "adjPts": 25.2,
+      "pointsPlus": 264
     },
     {
       "date": "2026-01-27",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 47,
       "pts": 18,
-      "adjPts": 20.0,
-      "pointsPlus": 209
+      "adjPts": 19.8,
+      "pointsPlus": 207
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 35,
       "pts": 17,
       "adjPts": 17.4,
-      "pointsPlus": 182
+      "pointsPlus": 183
     },
     {
       "date": "2026-02-04",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 39,
       "pts": 18,
-      "adjPts": 16.3,
-      "pointsPlus": 170
+      "adjPts": 16.5,
+      "pointsPlus": 173
     },
     {
       "date": "2026-02-10",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 32,
       "pts": 16,
-      "adjPts": 14.0,
-      "pointsPlus": 146
+      "adjPts": 14.1,
+      "pointsPlus": 147
     },
     {
       "date": "2026-02-14",
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 40,
       "pts": 20,
-      "adjPts": 19.2,
-      "pointsPlus": 201
+      "adjPts": 19.1,
+      "pointsPlus": 200
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "ND @ PITT",
+      "result": "L",
+      "min": 38,
+      "pts": 6,
+      "adjPts": 6.6,
+      "pointsPlus": 69
     }
   ]
 }

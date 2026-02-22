@@ -4,16 +4,16 @@
   "team": "SMU",
   "teamName": "SMU Mustangs",
   "conference": "ACC",
-  "rank": 372,
-  "gp": 19,
-  "ppg": 7.8,
-  "adjPpg": 8.0,
-  "pointsPlus": 84,
+  "rank": 355,
+  "gp": 20,
+  "ppg": 8.1,
+  "adjPpg": 8.4,
+  "pointsPlus": 88,
   "mpg": 17.8,
   "position": "C",
   "jersey": "10",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 72.7,
+  "pointsPlusStdDev": 73.1,
   "volatilityPctile": 90,
   "gameLog": [
     {
@@ -22,8 +22,8 @@
       "result": "W",
       "min": 11,
       "pts": 6,
-      "adjPts": 5.5,
-      "pointsPlus": 57
+      "adjPts": 5.4,
+      "pointsPlus": 56
     },
     {
       "date": "2025-12-03",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 27,
       "pts": 16,
-      "adjPts": 15.1,
-      "pointsPlus": 157
+      "adjPts": 14.9,
+      "pointsPlus": 156
     },
     {
       "date": "2025-12-21",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 19,
       "pts": 12,
-      "adjPts": 12.5,
-      "pointsPlus": 130
+      "adjPts": 12.6,
+      "pointsPlus": 132
     },
     {
       "date": "2026-01-07",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 35,
       "pts": 23,
-      "adjPts": 27.9,
-      "pointsPlus": 291
+      "adjPts": 28.0,
+      "pointsPlus": 294
     },
     {
       "date": "2026-01-14",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 28,
       "pts": 12,
-      "adjPts": 11.8,
-      "pointsPlus": 123
+      "adjPts": 11.9,
+      "pointsPlus": 124
     },
     {
       "date": "2026-01-17",
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 12,
       "pts": 4,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
     },
     {
@@ -140,7 +140,7 @@
       "min": 12,
       "pts": 2,
       "adjPts": 2.0,
-      "pointsPlus": 20
+      "pointsPlus": 21
     },
     {
       "date": "2026-02-03",
@@ -158,7 +158,7 @@
       "min": 19,
       "pts": 10,
       "adjPts": 11.0,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-02-10",
@@ -176,7 +176,7 @@
       "min": 30,
       "pts": 19,
       "adjPts": 19.5,
-      "pointsPlus": 203
+      "pointsPlus": 204
     },
     {
       "date": "2026-02-17",
@@ -184,8 +184,17 @@
       "result": "W",
       "min": 13,
       "pts": 3,
-      "adjPts": 2.9,
+      "adjPts": 3.0,
       "pointsPlus": 31
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "SMU vs BC",
+      "result": "W",
+      "min": 18,
+      "pts": 13,
+      "adjPts": 14.9,
+      "pointsPlus": 156
     }
   ]
 }

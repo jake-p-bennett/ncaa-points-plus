@@ -4,17 +4,17 @@
   "team": "SMU",
   "teamName": "SMU Mustangs",
   "conference": "ACC",
-  "rank": 155,
-  "gp": 26,
-  "ppg": 12.9,
-  "adjPpg": 13.0,
-  "pointsPlus": 135,
-  "mpg": 34.0,
+  "rank": 154,
+  "gp": 27,
+  "ppg": 13.0,
+  "adjPpg": 13.1,
+  "pointsPlus": 138,
+  "mpg": 33.8,
   "position": "G",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 63.1,
-  "volatilityPctile": 78,
+  "pointsPlusStdDev": 63.0,
+  "volatilityPctile": 77,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 36,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-06",
@@ -41,7 +41,7 @@
       "min": 35,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-15",
@@ -50,7 +50,7 @@
       "min": 38,
       "pts": 14,
       "adjPts": 12.9,
-      "pointsPlus": 134
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-18",
@@ -68,7 +68,7 @@
       "min": 34,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 250
+      "pointsPlus": 252
     },
     {
       "date": "2025-11-24",
@@ -77,7 +77,7 @@
       "min": 31,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-28",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 41,
       "pts": 6,
-      "adjPts": 5.5,
-      "pointsPlus": 57
+      "adjPts": 5.4,
+      "pointsPlus": 56
     },
     {
       "date": "2025-12-03",
@@ -95,7 +95,7 @@
       "min": 34,
       "pts": 10,
       "adjPts": 9.4,
-      "pointsPlus": 98
+      "pointsPlus": 99
     },
     {
       "date": "2025-12-07",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 43,
       "pts": 9,
-      "adjPts": 7.6,
-      "pointsPlus": 80
+      "adjPts": 7.7,
+      "pointsPlus": 81
     },
     {
       "date": "2025-12-13",
@@ -113,7 +113,7 @@
       "min": 33,
       "pts": 8,
       "adjPts": 7.5,
-      "pointsPlus": 79
+      "pointsPlus": 78
     },
     {
       "date": "2025-12-21",
@@ -122,7 +122,7 @@
       "min": 30,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-12-28",
@@ -131,7 +131,7 @@
       "min": 28,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 39,
       "pts": 15,
-      "adjPts": 15.6,
-      "pointsPlus": 163
+      "adjPts": 15.7,
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-07",
@@ -149,7 +149,7 @@
       "min": 35,
       "pts": 12,
       "adjPts": 14.6,
-      "pointsPlus": 152
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 38,
       "pts": 20,
-      "adjPts": 24.3,
-      "pointsPlus": 253
+      "adjPts": 24.4,
+      "pointsPlus": 255
     },
     {
       "date": "2026-01-14",
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 33,
       "pts": 4,
-      "adjPts": 3.9,
+      "adjPts": 4.0,
       "pointsPlus": 41
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 35,
       "pts": 13,
-      "adjPts": 14.5,
-      "pointsPlus": 151
+      "adjPts": 14.3,
+      "pointsPlus": 150
     },
     {
       "date": "2026-01-20",
@@ -185,7 +185,7 @@
       "min": 31,
       "pts": 24,
       "adjPts": 22.3,
-      "pointsPlus": 232
+      "pointsPlus": 233
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 33,
       "pts": 19,
-      "adjPts": 17.2,
-      "pointsPlus": 179
+      "adjPts": 17.4,
+      "pointsPlus": 182
     },
     {
       "date": "2026-01-31",
@@ -203,7 +203,7 @@
       "min": 36,
       "pts": 13,
       "adjPts": 12.8,
-      "pointsPlus": 133
+      "pointsPlus": 134
     },
     {
       "date": "2026-02-03",
@@ -221,7 +221,7 @@
       "min": 28,
       "pts": 5,
       "adjPts": 5.5,
-      "pointsPlus": 57
+      "pointsPlus": 58
     },
     {
       "date": "2026-02-10",
@@ -230,7 +230,7 @@
       "min": 31,
       "pts": 7,
       "adjPts": 7.2,
-      "pointsPlus": 75
+      "pointsPlus": 76
     },
     {
       "date": "2026-02-14",
@@ -249,6 +249,15 @@
       "pts": 7,
       "adjPts": 6.9,
       "pointsPlus": 72
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "SMU vs BC",
+      "result": "W",
+      "min": 29,
+      "pts": 15,
+      "adjPts": 17.2,
+      "pointsPlus": 180
     }
   ]
 }

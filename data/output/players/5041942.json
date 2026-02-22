@@ -4,17 +4,17 @@
   "team": "HOU",
   "teamName": "Houston Cougars",
   "conference": "Big 12",
-  "rank": 554,
-  "gp": 24,
+  "rank": 557,
+  "gp": 25,
   "ppg": 4.6,
-  "adjPpg": 4.7,
+  "adjPpg": 4.6,
   "pointsPlus": 49,
-  "mpg": 16.8,
+  "mpg": 16.6,
   "position": "G",
   "jersey": "1",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 52.1,
-  "volatilityPctile": 47,
+  "pointsPlusStdDev": 51.6,
+  "volatilityPctile": 44,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -86,7 +86,7 @@
       "min": 24,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-12-13",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 24,
       "pts": 12,
-      "adjPts": 11.0,
-      "pointsPlus": 114
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-13",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 22,
       "pts": 7,
-      "adjPts": 9.2,
-      "pointsPlus": 96
+      "adjPts": 9.3,
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-18",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 17,
       "pts": 8,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.3,
+      "pointsPlus": 76
     },
     {
       "date": "2026-01-24",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 17,
       "pts": 13,
-      "adjPts": 15.6,
+      "adjPts": 15.5,
       "pointsPlus": 163
     },
     {
@@ -203,7 +203,7 @@
       "min": 8,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 29
+      "pointsPlus": 30
     },
     {
       "date": "2026-02-10",
@@ -230,7 +230,16 @@
       "min": 16,
       "pts": 3,
       "adjPts": 3.5,
-      "pointsPlus": 37
+      "pointsPlus": 36
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "HOU vs ARIZ",
+      "result": "L",
+      "min": 13,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 33
     }
   ]
 }

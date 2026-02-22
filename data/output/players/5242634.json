@@ -5,16 +5,16 @@
   "teamName": "UCF Knights",
   "conference": "Big 12",
   "rank": 539,
-  "gp": 23,
+  "gp": 24,
   "ppg": 5.0,
   "adjPpg": 4.9,
-  "pointsPlus": 51,
-  "mpg": 16.3,
+  "pointsPlus": 52,
+  "mpg": 16.1,
   "position": "G",
   "jersey": "11",
   "classYear": "Junior",
-  "pointsPlusStdDev": 42.0,
-  "volatilityPctile": 21,
+  "pointsPlusStdDev": 41.5,
+  "volatilityPctile": 20,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -41,7 +41,7 @@
       "min": 18,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-11-14",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 21,
       "pts": 15,
-      "adjPts": 12.7,
-      "pointsPlus": 133
+      "adjPts": 12.8,
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-17",
@@ -59,7 +59,7 @@
       "min": 18,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-20",
@@ -68,7 +68,7 @@
       "min": 23,
       "pts": 5,
       "adjPts": 5.5,
-      "pointsPlus": 57
+      "pointsPlus": 58
     },
     {
       "date": "2025-11-25",
@@ -176,7 +176,7 @@
       "min": 21,
       "pts": 9,
       "adjPts": 8.1,
-      "pointsPlus": 84
+      "pointsPlus": 85
     },
     {
       "date": "2026-01-27",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 14,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.5,
       "pointsPlus": 57
     },
     {
@@ -221,7 +221,16 @@
       "min": 5,
       "pts": 3,
       "adjPts": 4.0,
-      "pointsPlus": 41
+      "pointsPlus": 42
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "UCF @ UTAH",
+      "result": "W",
+      "min": 12,
+      "pts": 6,
+      "adjPts": 5.6,
+      "pointsPlus": 58
     }
   ]
 }

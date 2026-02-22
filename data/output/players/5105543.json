@@ -4,16 +4,16 @@
   "team": "BC",
   "teamName": "Boston College Eagles",
   "conference": "ACC",
-  "rank": 589,
-  "gp": 26,
-  "ppg": 4.2,
+  "rank": 591,
+  "gp": 27,
+  "ppg": 4.1,
   "adjPpg": 4.1,
   "pointsPlus": 43,
-  "mpg": 25.8,
+  "mpg": 25.7,
   "position": "G",
   "jersey": "23",
   "classYear": "Senior",
-  "pointsPlusStdDev": 26.9,
+  "pointsPlusStdDev": 26.7,
   "volatilityPctile": 3,
   "gameLog": [
     {
@@ -77,7 +77,7 @@
       "min": 36,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-26",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 25,
       "pts": 4,
-      "adjPts": 3.8,
+      "adjPts": 3.7,
       "pointsPlus": 39
     },
     {
@@ -212,7 +212,7 @@
       "min": 20,
       "pts": 2,
       "adjPts": 2.4,
-      "pointsPlus": 25
+      "pointsPlus": 26
     },
     {
       "date": "2026-02-07",
@@ -230,7 +230,7 @@
       "min": 20,
       "pts": 4,
       "adjPts": 4.2,
-      "pointsPlus": 43
+      "pointsPlus": 44
     },
     {
       "date": "2026-02-14",
@@ -239,7 +239,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 8.1,
-      "pointsPlus": 84
+      "pointsPlus": 85
     },
     {
       "date": "2026-02-17",
@@ -247,8 +247,17 @@
       "result": "L",
       "min": 32,
       "pts": 10,
-      "adjPts": 9.0,
-      "pointsPlus": 94
+      "adjPts": 9.1,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "BC @ SMU",
+      "result": "L",
+      "min": 23,
+      "pts": 4,
+      "adjPts": 3.5,
+      "pointsPlus": 37
     }
   ]
 }

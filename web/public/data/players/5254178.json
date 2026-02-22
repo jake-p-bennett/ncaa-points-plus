@@ -4,17 +4,17 @@
   "team": "SC",
   "teamName": "South Carolina Gamecocks",
   "conference": "SEC",
-  "rank": 593,
-  "gp": 24,
-  "ppg": 4.1,
-  "adjPpg": 4.0,
-  "pointsPlus": 42,
-  "mpg": 14.3,
+  "rank": 602,
+  "gp": 25,
+  "ppg": 4.0,
+  "adjPpg": 3.9,
+  "pointsPlus": 41,
+  "mpg": 14.0,
   "position": "G",
   "jersey": "13",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 40.2,
-  "volatilityPctile": 17,
+  "pointsPlusStdDev": 40.6,
+  "volatilityPctile": 18,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -41,7 +41,7 @@
       "min": 20,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-18",
@@ -50,7 +50,7 @@
       "min": 17,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-21",
@@ -59,7 +59,7 @@
       "min": 7,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 38
+      "pointsPlus": 39
     },
     {
       "date": "2025-11-23",
@@ -85,7 +85,7 @@
       "result": "L",
       "min": 12,
       "pts": 3,
-      "adjPts": 2.9,
+      "adjPts": 3.0,
       "pointsPlus": 31
     },
     {
@@ -95,7 +95,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-13",
@@ -122,7 +122,7 @@
       "min": 19,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-30",
@@ -167,7 +167,7 @@
       "min": 21,
       "pts": 5,
       "adjPts": 4.5,
-      "pointsPlus": 46
+      "pointsPlus": 47
     },
     {
       "date": "2026-01-24",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 15,
       "pts": 4,
-      "adjPts": 3.8,
+      "adjPts": 3.7,
       "pointsPlus": 39
     },
     {
@@ -221,13 +221,22 @@
       "min": 15,
       "pts": 5,
       "adjPts": 3.8,
-      "pointsPlus": 39
+      "pointsPlus": 40
     },
     {
       "date": "2026-02-17",
       "matchup": "SC @ FLA",
       "result": "L",
       "min": 2,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "SC vs MSST",
+      "result": "W",
+      "min": 6,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

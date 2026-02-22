@@ -5,15 +5,15 @@
   "teamName": "Tennessee Volunteers",
   "conference": "SEC",
   "rank": 519,
-  "gp": 24,
-  "ppg": 5.5,
-  "adjPpg": 5.3,
-  "pointsPlus": 56,
-  "mpg": 16.0,
+  "gp": 25,
+  "ppg": 5.6,
+  "adjPpg": 5.4,
+  "pointsPlus": 57,
+  "mpg": 16.6,
   "position": "F",
   "jersey": "6",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 34.5,
+  "pointsPlusStdDev": 34.3,
   "volatilityPctile": 8,
   "gameLog": [
     {
@@ -59,7 +59,7 @@
       "min": 16,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-24",
@@ -68,7 +68,7 @@
       "min": 10,
       "pts": 4,
       "adjPts": 4.1,
-      "pointsPlus": 42
+      "pointsPlus": 43
     },
     {
       "date": "2025-12-02",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 9,
       "pts": 5,
-      "adjPts": 5.4,
-      "pointsPlus": 56
+      "adjPts": 5.3,
+      "pointsPlus": 55
     },
     {
       "date": "2025-12-16",
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 25,
       "pts": 10,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 97
     },
     {
@@ -140,7 +140,7 @@
       "min": 19,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-13",
@@ -176,7 +176,7 @@
       "min": 12,
       "pts": 4,
       "adjPts": 3.4,
-      "pointsPlus": 35
+      "pointsPlus": 36
     },
     {
       "date": "2026-01-31",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 33,
       "pts": 10,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.7,
+      "pointsPlus": 91
     },
     {
       "date": "2026-02-03",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 22,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.0,
       "pointsPlus": 53
     },
     {
@@ -230,7 +230,16 @@
       "min": 21,
       "pts": 13,
       "adjPts": 11.6,
-      "pointsPlus": 121
+      "pointsPlus": 122
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "TENN @ VAN",
+      "result": "W",
+      "min": 30,
+      "pts": 8,
+      "adjPts": 7.6,
+      "pointsPlus": 79
     }
   ]
 }

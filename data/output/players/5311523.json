@@ -4,12 +4,12 @@
   "team": "MISS",
   "teamName": "Ole Miss Rebels",
   "conference": "SEC",
-  "rank": 277,
-  "gp": 26,
-  "ppg": 10.6,
-  "adjPpg": 10.2,
-  "pointsPlus": 106,
-  "mpg": 30.1,
+  "rank": 268,
+  "gp": 27,
+  "ppg": 10.7,
+  "adjPpg": 10.3,
+  "pointsPlus": 108,
+  "mpg": 30.2,
   "position": "G",
   "jersey": "6",
   "classYear": "Senior",
@@ -23,7 +23,7 @@
       "min": 27,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-07",
@@ -32,7 +32,7 @@
       "min": 25,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 35,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 271
+      "pointsPlus": 273
     },
     {
       "date": "2025-11-14",
@@ -50,7 +50,7 @@
       "min": 26,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-18",
@@ -59,7 +59,7 @@
       "min": 37,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-25",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 39,
       "pts": 12,
-      "adjPts": 14.9,
-      "pointsPlus": 155
+      "adjPts": 14.8,
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-26",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 34,
       "pts": 15,
-      "adjPts": 13.8,
-      "pointsPlus": 144
+      "adjPts": 13.9,
+      "pointsPlus": 146
     },
     {
       "date": "2025-12-02",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 25,
       "pts": 4,
-      "adjPts": 4.2,
-      "pointsPlus": 44
+      "adjPts": 4.1,
+      "pointsPlus": 43
     },
     {
       "date": "2025-12-06",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 33,
       "pts": 16,
-      "adjPts": 16.0,
-      "pointsPlus": 166
+      "adjPts": 16.2,
+      "pointsPlus": 170
     },
     {
       "date": "2025-12-13",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 34,
       "pts": 9,
-      "adjPts": 8.0,
+      "adjPts": 8.1,
       "pointsPlus": 84
     },
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 26,
       "pts": 16,
-      "adjPts": 13.7,
-      "pointsPlus": 143
+      "adjPts": 13.6,
+      "pointsPlus": 142
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 29,
       "pts": 7,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.7,
+      "pointsPlus": 70
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 32,
       "pts": 17,
-      "adjPts": 15.5,
-      "pointsPlus": 161
+      "adjPts": 15.2,
+      "pointsPlus": 160
     },
     {
       "date": "2026-01-20",
@@ -185,7 +185,7 @@
       "min": 35,
       "pts": 8,
       "adjPts": 6.9,
-      "pointsPlus": 72
+      "pointsPlus": 73
     },
     {
       "date": "2026-01-24",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 30,
       "pts": 14,
-      "adjPts": 13.1,
-      "pointsPlus": 137
+      "adjPts": 13.2,
+      "pointsPlus": 139
     },
     {
       "date": "2026-02-03",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 28,
       "pts": 11,
-      "adjPts": 11.8,
-      "pointsPlus": 123
+      "adjPts": 11.9,
+      "pointsPlus": 125
     },
     {
       "date": "2026-02-07",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 26,
       "pts": 11,
-      "adjPts": 10.3,
+      "adjPts": 10.2,
       "pointsPlus": 107
     },
     {
@@ -230,7 +230,7 @@
       "min": 25,
       "pts": 5,
       "adjPts": 3.8,
-      "pointsPlus": 39
+      "pointsPlus": 40
     },
     {
       "date": "2026-02-14",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 30,
       "pts": 5,
-      "adjPts": 4.6,
+      "adjPts": 4.5,
       "pointsPlus": 47
     },
     {
@@ -247,8 +247,17 @@
       "result": "L",
       "min": 40,
       "pts": 12,
-      "adjPts": 10.2,
-      "pointsPlus": 106
+      "adjPts": 10.3,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "MISS vs FLA",
+      "result": "L",
+      "min": 32,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 146
     }
   ]
 }

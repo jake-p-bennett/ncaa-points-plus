@@ -4,17 +4,17 @@
   "team": "USC",
   "teamName": "USC Trojans",
   "conference": "Big Ten",
-  "rank": 272,
-  "gp": 26,
-  "ppg": 10.1,
+  "rank": 271,
+  "gp": 27,
+  "ppg": 10.0,
   "adjPpg": 10.3,
-  "pointsPlus": 107,
-  "mpg": 30.5,
+  "pointsPlus": 108,
+  "mpg": 30.7,
   "position": "F",
   "jersey": "6",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 55.2,
-  "volatilityPctile": 56,
+  "pointsPlusStdDev": 54.4,
+  "volatilityPctile": 53,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 27,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 240
+      "pointsPlus": 241
     },
     {
       "date": "2025-11-09",
@@ -32,7 +32,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-14",
@@ -41,7 +41,7 @@
       "min": 32,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-20",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 33,
       "pts": 7,
-      "adjPts": 8.8,
-      "pointsPlus": 92
+      "adjPts": 9.0,
+      "pointsPlus": 94
     },
     {
       "date": "2025-11-26",
@@ -77,7 +77,7 @@
       "min": 30,
       "pts": 11,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-02",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 36,
       "pts": 17,
-      "adjPts": 17.6,
-      "pointsPlus": 183
+      "adjPts": 17.7,
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-06",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 31,
       "pts": 4,
-      "adjPts": 4.1,
-      "pointsPlus": 43
+      "adjPts": 4.2,
+      "pointsPlus": 44
     },
     {
       "date": "2025-12-09",
@@ -113,7 +113,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-17",
@@ -122,7 +122,7 @@
       "min": 20,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-21",
@@ -131,7 +131,7 @@
       "min": 20,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-02",
@@ -158,7 +158,7 @@
       "min": 28,
       "pts": 9,
       "adjPts": 10.7,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2026-01-13",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 36,
       "pts": 12,
-      "adjPts": 11.5,
-      "pointsPlus": 120
+      "adjPts": 11.7,
+      "pointsPlus": 122
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 35,
       "pts": 13,
       "adjPts": 13.8,
-      "pointsPlus": 144
+      "pointsPlus": 145
     },
     {
       "date": "2026-01-21",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 26,
       "pts": 4,
-      "adjPts": 5.0,
+      "adjPts": 4.9,
       "pointsPlus": 52
     },
     {
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 30,
       "pts": 9,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.2,
+      "pointsPlus": 96
     },
     {
       "date": "2026-02-08",
@@ -230,7 +230,7 @@
       "min": 34,
       "pts": 10,
       "adjPts": 9.1,
-      "pointsPlus": 95
+      "pointsPlus": 96
     },
     {
       "date": "2026-02-11",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 38,
       "pts": 12,
-      "adjPts": 11.9,
-      "pointsPlus": 123
+      "adjPts": 11.8,
+      "pointsPlus": 124
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,17 @@
       "result": "L",
       "min": 35,
       "pts": 14,
-      "adjPts": 15.1,
-      "pointsPlus": 157
+      "adjPts": 14.7,
+      "pointsPlus": 154
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "USC vs ORE",
+      "result": "L",
+      "min": 36,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 98
     }
   ]
 }

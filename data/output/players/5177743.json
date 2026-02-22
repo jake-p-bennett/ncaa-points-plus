@@ -4,17 +4,17 @@
   "team": "UCLA",
   "teamName": "UCLA Bruins",
   "conference": "Big Ten",
-  "rank": 546,
-  "gp": 26,
-  "ppg": 4.8,
-  "adjPpg": 4.8,
-  "pointsPlus": 51,
-  "mpg": 18.7,
+  "rank": 556,
+  "gp": 27,
+  "ppg": 4.7,
+  "adjPpg": 4.7,
+  "pointsPlus": 49,
+  "mpg": 18.3,
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 38.4,
-  "volatilityPctile": 14,
+  "pointsPlusStdDev": 39.2,
+  "volatilityPctile": 15,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -41,7 +41,7 @@
       "min": 23,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-14",
@@ -59,7 +59,7 @@
       "min": 19,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-21",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 29,
       "pts": 9,
-      "adjPts": 9.1,
-      "pointsPlus": 95
+      "adjPts": 9.2,
+      "pointsPlus": 96
     },
     {
       "date": "2025-12-03",
@@ -86,7 +86,7 @@
       "min": 26,
       "pts": 7,
       "adjPts": 7.3,
-      "pointsPlus": 76
+      "pointsPlus": 77
     },
     {
       "date": "2025-12-06",
@@ -113,7 +113,7 @@
       "min": 20,
       "pts": 9,
       "adjPts": 8.2,
-      "pointsPlus": 85
+      "pointsPlus": 86
     },
     {
       "date": "2025-12-19",
@@ -122,7 +122,7 @@
       "min": 27,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-23",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 22,
       "pts": 5,
-      "adjPts": 4.8,
-      "pointsPlus": 50
+      "adjPts": 4.9,
+      "pointsPlus": 51
     },
     {
       "date": "2026-01-14",
@@ -176,7 +176,7 @@
       "min": 18,
       "pts": 8,
       "adjPts": 7.9,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-20",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 6.3,
+      "adjPts": 6.2,
       "pointsPlus": 65
     },
     {
@@ -203,7 +203,7 @@
       "min": 12,
       "pts": 3,
       "adjPts": 3.1,
-      "pointsPlus": 32
+      "pointsPlus": 33
     },
     {
       "date": "2026-01-31",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 28,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.1,
       "pointsPlus": 54
     },
     {
@@ -238,14 +238,23 @@
       "result": "L",
       "min": 24,
       "pts": 2,
-      "adjPts": 2.0,
-      "pointsPlus": 21
+      "adjPts": 2.1,
+      "pointsPlus": 22
     },
     {
       "date": "2026-02-17",
       "matchup": "UCLA @ MSU",
       "result": "L",
       "min": 16,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "UCLA vs ILL",
+      "result": "W",
+      "min": 10,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

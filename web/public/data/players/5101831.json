@@ -4,17 +4,17 @@
   "team": "SYR",
   "teamName": "Syracuse Orange",
   "conference": "ACC",
-  "rank": 478,
-  "gp": 27,
+  "rank": 482,
+  "gp": 28,
   "ppg": 5.8,
   "adjPpg": 6.0,
   "pointsPlus": 63,
-  "mpg": 15.0,
+  "mpg": 15.1,
   "position": "F",
   "jersey": "0",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 47.6,
-  "volatilityPctile": 36,
+  "pointsPlusStdDev": 47.0,
+  "volatilityPctile": 34,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-15",
@@ -50,7 +50,7 @@
       "min": 11,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-24",
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 20,
       "pts": 9,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 106
     },
     {
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 20,
       "pts": 14,
-      "adjPts": 16.4,
-      "pointsPlus": 171
+      "adjPts": 16.2,
+      "pointsPlus": 170
     },
     {
       "date": "2025-12-02",
@@ -86,7 +86,7 @@
       "min": 26,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2025-12-11",
@@ -104,7 +104,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-17",
@@ -113,7 +113,7 @@
       "min": 27,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-20",
@@ -131,7 +131,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-31",
@@ -140,7 +140,7 @@
       "min": 11,
       "pts": 2,
       "adjPts": 2.4,
-      "pointsPlus": 25
+      "pointsPlus": 26
     },
     {
       "date": "2026-01-06",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 13,
       "pts": 6,
-      "adjPts": 5.4,
-      "pointsPlus": 57
+      "adjPts": 5.5,
+      "pointsPlus": 58
     },
     {
       "date": "2026-01-17",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 5,
       "pts": 1,
-      "adjPts": 1.2,
+      "adjPts": 1.1,
       "pointsPlus": 12
     },
     {
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 15,
       "pts": 11,
-      "adjPts": 10.8,
-      "pointsPlus": 113
+      "adjPts": 10.9,
+      "pointsPlus": 114
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 9,
       "pts": 4,
-      "adjPts": 4.2,
-      "pointsPlus": 44
+      "adjPts": 4.1,
+      "pointsPlus": 43
     },
     {
       "date": "2026-01-27",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 9,
       "pts": 10,
-      "adjPts": 10.1,
-      "pointsPlus": 105
+      "adjPts": 10.2,
+      "pointsPlus": 107
     },
     {
       "date": "2026-02-14",
@@ -248,7 +248,7 @@
       "min": 7,
       "pts": 3,
       "adjPts": 2.6,
-      "pointsPlus": 27
+      "pointsPlus": 28
     },
     {
       "date": "2026-02-16",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 9,
       "pts": 3,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "SYR vs UNC",
+      "result": "L",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 6.3,
+      "pointsPlus": 66
     }
   ]
 }

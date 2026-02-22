@@ -4,16 +4,16 @@
   "team": "NU",
   "teamName": "Northwestern Wildcats",
   "conference": "Big Ten",
-  "rank": 444,
+  "rank": 442,
   "gp": 26,
   "ppg": 6.7,
   "adjPpg": 6.7,
-  "pointsPlus": 70,
+  "pointsPlus": 71,
   "mpg": 21.7,
   "position": "G",
   "jersey": "44",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 48.2,
+  "pointsPlusStdDev": 48.6,
   "volatilityPctile": 37,
   "gameLog": [
     {
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 25,
       "pts": 6,
-      "adjPts": 6.7,
-      "pointsPlus": 70
+      "adjPts": 6.6,
+      "pointsPlus": 69
     },
     {
       "date": "2025-11-23",
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 30,
       "pts": 6,
-      "adjPts": 5.8,
-      "pointsPlus": 61
+      "adjPts": 5.7,
+      "pointsPlus": 60
     },
     {
       "date": "2025-11-27",
@@ -68,7 +68,7 @@
       "min": 29,
       "pts": 14,
       "adjPts": 11.7,
-      "pointsPlus": 121
+      "pointsPlus": 122
     },
     {
       "date": "2025-12-03",
@@ -86,7 +86,7 @@
       "min": 33,
       "pts": 14,
       "adjPts": 13.8,
-      "pointsPlus": 144
+      "pointsPlus": 145
     },
     {
       "date": "2025-12-13",
@@ -95,7 +95,7 @@
       "min": 18,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-16",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 18,
       "pts": 7,
-      "adjPts": 6.4,
-      "pointsPlus": 67
+      "adjPts": 6.5,
+      "pointsPlus": 68
     },
     {
       "date": "2025-12-30",
@@ -131,7 +131,7 @@
       "min": 26,
       "pts": 7,
       "adjPts": 8.3,
-      "pointsPlus": 87
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-08",
@@ -140,7 +140,7 @@
       "min": 17,
       "pts": 5,
       "adjPts": 5.8,
-      "pointsPlus": 60
+      "pointsPlus": 61
     },
     {
       "date": "2026-01-11",
@@ -149,7 +149,7 @@
       "min": 17,
       "pts": 4,
       "adjPts": 4.1,
-      "pointsPlus": 42
+      "pointsPlus": 43
     },
     {
       "date": "2026-01-14",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 19,
       "pts": 4,
-      "adjPts": 4.3,
-      "pointsPlus": 45
+      "adjPts": 4.2,
+      "pointsPlus": 44
     },
     {
       "date": "2026-01-17",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 26,
       "pts": 20,
-      "adjPts": 18.3,
+      "adjPts": 18.2,
       "pointsPlus": 191
     },
     {
@@ -203,7 +203,7 @@
       "min": 16,
       "pts": 3,
       "adjPts": 3.1,
-      "pointsPlus": 32
+      "pointsPlus": 33
     },
     {
       "date": "2026-02-04",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 16,
       "pts": 4,
-      "adjPts": 4.3,
-      "pointsPlus": 45
+      "adjPts": 4.2,
+      "pointsPlus": 44
     },
     {
       "date": "2026-02-08",
@@ -221,7 +221,7 @@
       "min": 28,
       "pts": 6,
       "adjPts": 7.4,
-      "pointsPlus": 77
+      "pointsPlus": 78
     },
     {
       "date": "2026-02-11",
@@ -239,7 +239,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 10.7,
-      "pointsPlus": 111
+      "pointsPlus": 112
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 31,
       "pts": 16,
-      "adjPts": 15.3,
-      "pointsPlus": 160
+      "adjPts": 15.5,
+      "pointsPlus": 163
     }
   ]
 }

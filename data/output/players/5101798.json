@@ -4,17 +4,17 @@
   "team": "MSU",
   "teamName": "Michigan State Spartans",
   "conference": "Big Ten",
-  "rank": 531,
+  "rank": 533,
   "gp": 25,
   "ppg": 5.1,
-  "adjPpg": 5.1,
+  "adjPpg": 5.0,
   "pointsPlus": 53,
   "mpg": 15.0,
   "position": "F",
   "jersey": "3",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 39.3,
-  "volatilityPctile": 15,
+  "pointsPlusStdDev": 39.5,
+  "volatilityPctile": 16,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -31,7 +31,7 @@
       "result": "W",
       "min": 23,
       "pts": 18,
-      "adjPts": 15.4,
+      "adjPts": 15.3,
       "pointsPlus": 160
     },
     {
@@ -50,7 +50,7 @@
       "min": 18,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-21",
@@ -77,7 +77,7 @@
       "min": 16,
       "pts": 11,
       "adjPts": 11.5,
-      "pointsPlus": 119
+      "pointsPlus": 121
     },
     {
       "date": "2025-12-06",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 14,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.1,
       "pointsPlus": 54
     },
     {
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 19,
       "pts": 6,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.3,
+      "pointsPlus": 66
     },
     {
       "date": "2026-01-20",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 20,
       "pts": 8,
-      "adjPts": 7.7,
-      "pointsPlus": 80
+      "adjPts": 7.8,
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-27",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 17,
       "pts": 5,
-      "adjPts": 5.9,
-      "pointsPlus": 62
+      "adjPts": 6.0,
+      "pointsPlus": 63
     },
     {
       "date": "2026-02-07",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 18,
       "pts": 8,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-02-13",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 18,
       "pts": 4,
-      "adjPts": 4.3,
+      "adjPts": 4.2,
       "pointsPlus": 44
     }
   ]

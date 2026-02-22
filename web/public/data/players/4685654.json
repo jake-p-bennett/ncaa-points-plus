@@ -4,17 +4,17 @@
   "team": "BYU",
   "teamName": "BYU Cougars",
   "conference": "Big 12",
-  "rank": 403,
-  "gp": 23,
-  "ppg": 7.3,
-  "adjPpg": 7.4,
-  "pointsPlus": 77,
-  "mpg": 28.1,
+  "rank": 381,
+  "gp": 24,
+  "ppg": 7.8,
+  "adjPpg": 7.9,
+  "pointsPlus": 83,
+  "mpg": 28.5,
   "position": "F",
   "jersey": "30",
   "classYear": "Junior",
-  "pointsPlusStdDev": 51.1,
-  "volatilityPctile": 44,
+  "pointsPlusStdDev": 56.4,
+  "volatilityPctile": 60,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 20,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-27",
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 32,
       "pts": 18,
-      "adjPts": 18.9,
-      "pointsPlus": 197
+      "adjPts": 18.6,
+      "pointsPlus": 195
     },
     {
       "date": "2025-11-28",
@@ -104,7 +104,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2026-01-03",
@@ -112,7 +112,7 @@
       "result": "W",
       "min": 35,
       "pts": 4,
-      "adjPts": 3.5,
+      "adjPts": 3.4,
       "pointsPlus": 36
     },
     {
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 24,
       "pts": 5,
-      "adjPts": 4.5,
-      "pointsPlus": 47
+      "adjPts": 4.6,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-10",
@@ -131,7 +131,7 @@
       "min": 33,
       "pts": 8,
       "adjPts": 7.4,
-      "pointsPlus": 77
+      "pointsPlus": 78
     },
     {
       "date": "2026-01-14",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 36,
       "pts": 2,
-      "adjPts": 2.0,
-      "pointsPlus": 21
+      "adjPts": 2.1,
+      "pointsPlus": 22
     },
     {
       "date": "2026-01-17",
@@ -149,7 +149,7 @@
       "min": 30,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 52
+      "pointsPlus": 53
     },
     {
       "date": "2026-01-24",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 31,
       "pts": 15,
-      "adjPts": 15.7,
-      "pointsPlus": 163
+      "adjPts": 15.8,
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-31",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 14,
       "pts": 2,
-      "adjPts": 2.3,
-      "pointsPlus": 24
+      "adjPts": 2.2,
+      "pointsPlus": 23
     },
     {
       "date": "2026-02-04",
@@ -185,7 +185,7 @@
       "min": 31,
       "pts": 8,
       "adjPts": 6.7,
-      "pointsPlus": 69
+      "pointsPlus": 70
     },
     {
       "date": "2026-02-07",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 24,
       "pts": 12,
-      "adjPts": 11.0,
-      "pointsPlus": 114
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-02-14",
@@ -212,7 +212,7 @@
       "min": 39,
       "pts": 9,
       "adjPts": 8.1,
-      "pointsPlus": 84
+      "pointsPlus": 85
     },
     {
       "date": "2026-02-18",
@@ -220,8 +220,17 @@
       "result": "L",
       "min": 25,
       "pts": 10,
-      "adjPts": 10.4,
-      "pointsPlus": 109
+      "adjPts": 10.5,
+      "pointsPlus": 110
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "BYU vs ISU",
+      "result": "W",
+      "min": 36,
+      "pts": 17,
+      "adjPts": 19.7,
+      "pointsPlus": 207
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "STAN",
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
-  "rank": 648,
-  "gp": 14,
-  "ppg": 2.4,
-  "adjPpg": 2.3,
-  "pointsPlus": 24,
-  "mpg": 14.6,
+  "rank": 654,
+  "gp": 15,
+  "ppg": 2.3,
+  "adjPpg": 2.2,
+  "pointsPlus": 23,
+  "mpg": 13.7,
   "position": "F",
   "jersey": "2",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 40.0,
-  "volatilityPctile": 17,
+  "pointsPlusStdDev": 39.5,
+  "volatilityPctile": 16,
   "gameLog": [
     {
       "date": "2025-12-27",
@@ -32,7 +32,7 @@
       "min": 22,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 21
+      "pointsPlus": 22
     },
     {
       "date": "2026-01-02",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 19,
       "pts": 11,
-      "adjPts": 10.8,
-      "pointsPlus": 113
+      "adjPts": 10.9,
+      "pointsPlus": 114
     },
     {
       "date": "2026-01-10",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 29,
       "pts": 10,
-      "adjPts": 9.0,
-      "pointsPlus": 94
+      "adjPts": 9.1,
+      "pointsPlus": 96
     },
     {
       "date": "2026-02-04",
@@ -121,7 +121,7 @@
       "result": "W",
       "min": 30,
       "pts": 9,
-      "adjPts": 8.7,
+      "adjPts": 8.6,
       "pointsPlus": 90
     },
     {
@@ -138,6 +138,15 @@
       "matchup": "STAN @ WAKE",
       "result": "L",
       "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "STAN @ CAL",
+      "result": "L",
+      "min": 2,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

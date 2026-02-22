@@ -4,17 +4,17 @@
   "team": "KU",
   "teamName": "Kansas Jayhawks",
   "conference": "Big 12",
-  "rank": 18,
-  "gp": 15,
-  "ppg": 20.0,
-  "adjPpg": 20.0,
-  "pointsPlus": 208,
-  "mpg": 26.9,
+  "rank": 17,
+  "gp": 16,
+  "ppg": 19.8,
+  "adjPpg": 20.1,
+  "pointsPlus": 211,
+  "mpg": 27.2,
   "position": "G",
   "jersey": "22",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 59.8,
-  "volatilityPctile": 69,
+  "pointsPlusStdDev": 60.0,
+  "volatilityPctile": 70,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 22,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-07",
@@ -31,8 +31,8 @@
       "result": "L",
       "min": 28,
       "pts": 22,
-      "adjPts": 22.9,
-      "pointsPlus": 239
+      "adjPts": 23.0,
+      "pointsPlus": 241
     },
     {
       "date": "2025-12-07",
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 23,
       "pts": 17,
-      "adjPts": 16.5,
-      "pointsPlus": 172
+      "adjPts": 16.3,
+      "pointsPlus": 170
     },
     {
       "date": "2025-12-13",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 23,
       "pts": 26,
-      "adjPts": 23.6,
-      "pointsPlus": 246
+      "adjPts": 23.8,
+      "pointsPlus": 249
     },
     {
       "date": "2026-01-06",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 32,
       "pts": 32,
-      "adjPts": 32.7,
-      "pointsPlus": 341
+      "adjPts": 33.3,
+      "pointsPlus": 350
     },
     {
       "date": "2026-01-10",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 31,
       "pts": 23,
-      "adjPts": 30.4,
-      "pointsPlus": 316
+      "adjPts": 30.6,
+      "pointsPlus": 321
     },
     {
       "date": "2026-01-13",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 27,
       "pts": 16,
-      "adjPts": 18.7,
-      "pointsPlus": 195
+      "adjPts": 18.5,
+      "pointsPlus": 194
     },
     {
       "date": "2026-01-16",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 23,
       "pts": 26,
-      "adjPts": 23.8,
-      "pointsPlus": 248
+      "adjPts": 24.0,
+      "pointsPlus": 251
     },
     {
       "date": "2026-01-20",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 32,
       "pts": 16,
-      "adjPts": 14.4,
-      "pointsPlus": 150
+      "adjPts": 14.5,
+      "pointsPlus": 152
     },
     {
       "date": "2026-01-31",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 20,
       "pts": 18,
-      "adjPts": 16.9,
-      "pointsPlus": 176
+      "adjPts": 17.0,
+      "pointsPlus": 178
     },
     {
       "date": "2026-02-02",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 35,
       "pts": 19,
-      "adjPts": 19.1,
-      "pointsPlus": 199
+      "adjPts": 19.0,
+      "pointsPlus": 200
     },
     {
       "date": "2026-02-07",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 34,
       "pts": 14,
-      "adjPts": 12.9,
-      "pointsPlus": 135
+      "adjPts": 13.0,
+      "pointsPlus": 136
     },
     {
       "date": "2026-02-14",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 24,
       "pts": 10,
-      "adjPts": 11.7,
-      "pointsPlus": 122
+      "adjPts": 11.6,
+      "pointsPlus": 121
     },
     {
       "date": "2026-02-18",
@@ -149,7 +149,16 @@
       "min": 18,
       "pts": 23,
       "adjPts": 19.2,
-      "pointsPlus": 200
+      "pointsPlus": 201
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "KU vs CIN",
+      "result": "L",
+      "min": 32,
+      "pts": 17,
+      "adjPts": 20.3,
+      "pointsPlus": 213
     }
   ]
 }

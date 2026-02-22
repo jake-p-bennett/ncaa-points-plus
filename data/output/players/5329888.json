@@ -4,17 +4,17 @@
   "team": "OU",
   "teamName": "Oklahoma Sooners",
   "conference": "SEC",
-  "rank": 567,
-  "gp": 14,
-  "ppg": 4.7,
-  "adjPpg": 4.4,
-  "pointsPlus": 46,
-  "mpg": 16.2,
+  "rank": 582,
+  "gp": 15,
+  "ppg": 4.5,
+  "adjPpg": 4.2,
+  "pointsPlus": 44,
+  "mpg": 15.7,
   "position": "C",
   "jersey": "15",
   "classYear": "Senior",
-  "pointsPlusStdDev": 47.7,
-  "volatilityPctile": 36,
+  "pointsPlusStdDev": 46.5,
+  "volatilityPctile": 32,
   "gameLog": [
     {
       "date": "2025-12-29",
@@ -68,7 +68,7 @@
       "min": 19,
       "pts": 5,
       "adjPts": 3.8,
-      "pointsPlus": 39
+      "pointsPlus": 40
     },
     {
       "date": "2026-01-20",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 17,
       "pts": 5,
-      "adjPts": 4.9,
-      "pointsPlus": 51
+      "adjPts": 4.8,
+      "pointsPlus": 50
     },
     {
       "date": "2026-01-24",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 26,
       "pts": 9,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-01-27",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 29,
       "pts": 9,
-      "adjPts": 8.4,
-      "pointsPlus": 88
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-02-04",
@@ -141,6 +141,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "OU vs TA&M",
+      "result": "L",
+      "min": 8,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
     }
   ]
 }

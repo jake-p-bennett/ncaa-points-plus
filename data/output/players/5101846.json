@@ -4,16 +4,16 @@
   "team": "SC",
   "teamName": "South Carolina Gamecocks",
   "conference": "SEC",
-  "rank": 640,
-  "gp": 16,
+  "rank": 643,
+  "gp": 17,
   "ppg": 2.9,
   "adjPpg": 2.7,
   "pointsPlus": 28,
-  "mpg": 14.0,
+  "mpg": 14.1,
   "position": "F",
   "jersey": "6",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 23.7,
+  "pointsPlusStdDev": 23.0,
   "volatilityPctile": 2,
   "gameLog": [
     {
@@ -41,7 +41,7 @@
       "min": 8,
       "pts": 2,
       "adjPts": 2.4,
-      "pointsPlus": 25
+      "pointsPlus": 26
     },
     {
       "date": "2025-12-22",
@@ -68,7 +68,7 @@
       "min": 3,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 29
+      "pointsPlus": 30
     },
     {
       "date": "2026-01-14",
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 9,
       "pts": 7,
-      "adjPts": 6.0,
+      "adjPts": 5.9,
       "pointsPlus": 62
     },
     {
@@ -95,7 +95,7 @@
       "min": 19,
       "pts": 4,
       "adjPts": 3.6,
-      "pointsPlus": 37
+      "pointsPlus": 38
     },
     {
       "date": "2026-01-24",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 19,
       "pts": 5,
-      "adjPts": 4.2,
-      "pointsPlus": 44
+      "adjPts": 4.3,
+      "pointsPlus": 45
     },
     {
       "date": "2026-01-28",
@@ -130,7 +130,7 @@
       "result": "L",
       "min": 21,
       "pts": 8,
-      "adjPts": 7.5,
+      "adjPts": 7.4,
       "pointsPlus": 78
     },
     {
@@ -159,6 +159,15 @@
       "pts": 1,
       "adjPts": 1.0,
       "pointsPlus": 10
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "SC vs MSST",
+      "result": "W",
+      "min": 16,
+      "pts": 3,
+      "adjPts": 2.7,
+      "pointsPlus": 28
     }
   ]
 }

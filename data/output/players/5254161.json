@@ -4,16 +4,16 @@
   "team": "DEP",
   "teamName": "DePaul Blue Demons",
   "conference": "Big East",
-  "rank": 523,
-  "gp": 22,
-  "ppg": 5.1,
-  "adjPpg": 5.2,
-  "pointsPlus": 55,
+  "rank": 536,
+  "gp": 23,
+  "ppg": 4.9,
+  "adjPpg": 5.0,
+  "pointsPlus": 53,
   "mpg": 17.5,
   "position": "G",
   "jersey": "22",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 61.4,
+  "pointsPlusStdDev": 61.2,
   "volatilityPctile": 73,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 21,
       "pts": 15,
       "adjPts": 15.6,
-      "pointsPlus": 163
+      "pointsPlus": 164
     },
     {
       "date": "2025-11-18",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 30,
       "pts": 22,
-      "adjPts": 20.7,
-      "pointsPlus": 216
+      "adjPts": 20.5,
+      "pointsPlus": 215
     },
     {
       "date": "2025-12-06",
@@ -95,7 +95,7 @@
       "min": 30,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-12-09",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 27,
       "pts": 10,
-      "adjPts": 11.6,
-      "pointsPlus": 121
+      "adjPts": 11.7,
+      "pointsPlus": 122
     },
     {
       "date": "2025-12-31",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 19,
       "pts": 5,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.4,
+      "pointsPlus": 67
     },
     {
       "date": "2026-01-28",
@@ -185,7 +185,7 @@
       "min": 16,
       "pts": 3,
       "adjPts": 3.0,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2026-02-07",
@@ -203,12 +203,21 @@
       "min": 18,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 30
+      "pointsPlus": 31
     },
     {
       "date": "2026-02-18",
       "matchup": "DEP @ HALL",
       "result": "W",
+      "min": 17,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "DEP vs PROV",
+      "result": "L",
       "min": 17,
       "pts": 0,
       "adjPts": 0.0,

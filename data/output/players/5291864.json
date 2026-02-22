@@ -4,17 +4,17 @@
   "team": "KU",
   "teamName": "Kansas Jayhawks",
   "conference": "Big 12",
-  "rank": 618,
-  "gp": 22,
-  "ppg": 3.5,
+  "rank": 623,
+  "gp": 23,
+  "ppg": 3.4,
   "adjPpg": 3.5,
   "pointsPlus": 37,
-  "mpg": 13.1,
+  "mpg": 12.7,
   "position": "G",
   "jersey": "7",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 45.0,
-  "volatilityPctile": 28,
+  "pointsPlusStdDev": 44.3,
+  "volatilityPctile": 26,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 20,
       "pts": 7,
       "adjPts": 7.3,
-      "pointsPlus": 76
+      "pointsPlus": 77
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 25,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-15",
@@ -86,7 +86,7 @@
       "min": 14,
       "pts": 5,
       "adjPts": 5.4,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2025-12-02",
@@ -131,7 +131,7 @@
       "min": 19,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-03",
@@ -213,6 +213,15 @@
       "pts": 3,
       "adjPts": 2.5,
       "pointsPlus": 26
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "KU vs CIN",
+      "result": "L",
+      "min": 4,
+      "pts": 2,
+      "adjPts": 2.4,
+      "pointsPlus": 25
     }
   ]
 }

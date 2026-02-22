@@ -4,16 +4,16 @@
   "team": "WVU",
   "teamName": "West Virginia Mountaineers",
   "conference": "Big 12",
-  "rank": 580,
-  "gp": 26,
-  "ppg": 4.1,
-  "adjPpg": 4.3,
+  "rank": 587,
+  "gp": 27,
+  "ppg": 4.0,
+  "adjPpg": 4.2,
   "pointsPlus": 44,
-  "mpg": 17.1,
+  "mpg": 16.7,
   "position": "G",
   "jersey": "2",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 33.2,
+  "pointsPlusStdDev": 33.1,
   "volatilityPctile": 7,
   "gameLog": [
     {
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 19,
       "pts": 8,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 102
     },
     {
@@ -86,7 +86,7 @@
       "min": 23,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-03",
@@ -95,7 +95,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-12-06",
@@ -131,7 +131,7 @@
       "min": 22,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-02",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 24,
       "pts": 7,
-      "adjPts": 8.2,
+      "adjPts": 8.1,
       "pointsPlus": 85
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 18,
       "pts": 2,
-      "adjPts": 2.3,
-      "pointsPlus": 24
+      "adjPts": 2.2,
+      "pointsPlus": 23
     },
     {
       "date": "2026-01-13",
@@ -176,7 +176,7 @@
       "min": 22,
       "pts": 6,
       "adjPts": 5.4,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2026-01-21",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 12,
       "pts": 4,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
     },
     {
@@ -248,7 +248,16 @@
       "min": 18,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 38
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "WVU @ TCU",
+      "result": "L",
+      "min": 8,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 22
     }
   ]
 }

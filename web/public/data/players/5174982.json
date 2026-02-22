@@ -4,7 +4,7 @@
   "team": "NEB",
   "teamName": "Nebraska Cornhuskers",
   "conference": "Big Ten",
-  "rank": 448,
+  "rank": 447,
   "gp": 25,
   "ppg": 6.6,
   "adjPpg": 6.6,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "9",
   "classYear": "Junior",
-  "pointsPlusStdDev": 39.1,
-  "volatilityPctile": 15,
+  "pointsPlusStdDev": 39.5,
+  "volatilityPctile": 16,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -41,7 +41,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-15",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 32,
       "pts": 16,
-      "adjPts": 14.2,
-      "pointsPlus": 148
+      "adjPts": 14.3,
+      "pointsPlus": 150
     },
     {
       "date": "2025-11-20",
@@ -95,7 +95,7 @@
       "min": 19,
       "pts": 14,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-13",
@@ -104,7 +104,7 @@
       "min": 26,
       "pts": 3,
       "adjPts": 3.2,
-      "pointsPlus": 34
+      "pointsPlus": 33
     },
     {
       "date": "2025-12-21",
@@ -113,7 +113,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-30",
@@ -122,7 +122,7 @@
       "min": 22,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-02",
@@ -140,7 +140,7 @@
       "min": 22,
       "pts": 8,
       "adjPts": 7.9,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-10",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 25,
       "pts": 8,
-      "adjPts": 8.3,
+      "adjPts": 8.2,
       "pointsPlus": 86
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 23,
       "pts": 4,
-      "adjPts": 4.1,
-      "pointsPlus": 43
+      "adjPts": 4.2,
+      "pointsPlus": 44
     },
     {
       "date": "2026-01-17",
@@ -167,7 +167,7 @@
       "min": 28,
       "pts": 4,
       "adjPts": 4.2,
-      "pointsPlus": 43
+      "pointsPlus": 44
     },
     {
       "date": "2026-01-21",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 28,
       "pts": 8,
-      "adjPts": 8.3,
-      "pointsPlus": 86
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-24",
@@ -185,7 +185,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 9.5,
-      "pointsPlus": 99
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-27",
@@ -194,7 +194,7 @@
       "min": 36,
       "pts": 5,
       "adjPts": 5.1,
-      "pointsPlus": 53
+      "pointsPlus": 54
     },
     {
       "date": "2026-02-01",
@@ -203,7 +203,7 @@
       "min": 25,
       "pts": 3,
       "adjPts": 3.2,
-      "pointsPlus": 34
+      "pointsPlus": 33
     },
     {
       "date": "2026-02-07",
@@ -212,7 +212,7 @@
       "min": 18,
       "pts": 4,
       "adjPts": 4.1,
-      "pointsPlus": 42
+      "pointsPlus": 43
     },
     {
       "date": "2026-02-10",
@@ -221,7 +221,7 @@
       "min": 24,
       "pts": 5,
       "adjPts": 5.3,
-      "pointsPlus": 55
+      "pointsPlus": 56
     },
     {
       "date": "2026-02-14",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 21,
       "pts": 4,
-      "adjPts": 5.0,
+      "adjPts": 4.9,
       "pointsPlus": 52
     }
   ]

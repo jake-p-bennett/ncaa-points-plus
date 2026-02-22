@@ -4,16 +4,16 @@
   "team": "BUT",
   "teamName": "Butler Bulldogs",
   "conference": "Big East",
-  "rank": 396,
+  "rank": 397,
   "gp": 26,
   "ppg": 7.5,
   "adjPpg": 7.5,
-  "pointsPlus": 78,
+  "pointsPlus": 79,
   "mpg": 19.7,
   "position": "G",
   "jersey": "1",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 49.8,
+  "pointsPlusStdDev": 50.3,
   "volatilityPctile": 41,
   "gameLog": [
     {
@@ -41,7 +41,7 @@
       "min": 14,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-15",
@@ -50,7 +50,7 @@
       "min": 19,
       "pts": 9,
       "adjPts": 7.9,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-21",
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 8,
       "pts": 9,
-      "adjPts": 10.0,
+      "adjPts": 9.9,
       "pointsPlus": 104
     },
     {
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 35,
       "pts": 18,
-      "adjPts": 13.7,
-      "pointsPlus": 142
+      "adjPts": 13.9,
+      "pointsPlus": 145
     },
     {
       "date": "2025-12-16",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 23,
       "pts": 10,
-      "adjPts": 11.6,
-      "pointsPlus": 121
+      "adjPts": 11.7,
+      "pointsPlus": 122
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 22,
       "pts": 11,
       "adjPts": 11.5,
-      "pointsPlus": 119
+      "pointsPlus": 120
     },
     {
       "date": "2025-12-22",
@@ -131,7 +131,7 @@
       "min": 21,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-30",
@@ -140,7 +140,7 @@
       "min": 29,
       "pts": 11,
       "adjPts": 10.7,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2026-01-03",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 22,
       "pts": 11,
-      "adjPts": 11.0,
-      "pointsPlus": 114
+      "adjPts": 11.1,
+      "pointsPlus": 117
     },
     {
       "date": "2026-01-14",
@@ -185,7 +185,7 @@
       "min": 19,
       "pts": 15,
       "adjPts": 17.0,
-      "pointsPlus": 178
+      "pointsPlus": 179
     },
     {
       "date": "2026-01-23",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 12.0,
-      "pointsPlus": 125
+      "adjPts": 12.2,
+      "pointsPlus": 127
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 14,
       "pts": 3,
-      "adjPts": 3.0,
-      "pointsPlus": 32
+      "adjPts": 3.1,
+      "pointsPlus": 33
     },
     {
       "date": "2026-02-04",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 25,
       "pts": 8,
-      "adjPts": 6.1,
-      "pointsPlus": 63
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2026-02-07",
@@ -230,7 +230,7 @@
       "min": 28,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 29
+      "pointsPlus": 30
     },
     {
       "date": "2026-02-11",
@@ -239,7 +239,7 @@
       "min": 30,
       "pts": 12,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2026-02-15",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 23,
       "pts": 5,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.4,
+      "pointsPlus": 67
     }
   ]
 }

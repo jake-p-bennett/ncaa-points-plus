@@ -4,17 +4,17 @@
   "team": "RUTG",
   "teamName": "Rutgers Scarlet Knights",
   "conference": "Big Ten",
-  "rank": 598,
-  "gp": 25,
-  "ppg": 3.8,
-  "adjPpg": 3.9,
-  "pointsPlus": 41,
-  "mpg": 13.1,
+  "rank": 566,
+  "gp": 26,
+  "ppg": 4.2,
+  "adjPpg": 4.5,
+  "pointsPlus": 47,
+  "mpg": 13.5,
   "position": "G",
   "jersey": "2",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 42.4,
-  "volatilityPctile": 22,
+  "pointsPlusStdDev": 52.0,
+  "volatilityPctile": 46,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -68,7 +68,7 @@
       "min": 10,
       "pts": 5,
       "adjPts": 5.4,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2025-11-25",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 19,
       "pts": 10,
-      "adjPts": 12.6,
-      "pointsPlus": 131
+      "adjPts": 12.9,
+      "pointsPlus": 135
     },
     {
       "date": "2025-12-20",
@@ -149,7 +149,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-08",
@@ -158,7 +158,7 @@
       "min": 14,
       "pts": 3,
       "adjPts": 3.2,
-      "pointsPlus": 34
+      "pointsPlus": 33
     },
     {
       "date": "2026-01-11",
@@ -185,7 +185,7 @@
       "min": 22,
       "pts": 7,
       "adjPts": 8.7,
-      "pointsPlus": 90
+      "pointsPlus": 91
     },
     {
       "date": "2026-01-23",
@@ -212,7 +212,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 5.6,
-      "pointsPlus": 58
+      "pointsPlus": 59
     },
     {
       "date": "2026-02-03",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 16,
       "pts": 10,
-      "adjPts": 10.7,
-      "pointsPlus": 111
+      "adjPts": 10.4,
+      "pointsPlus": 109
     },
     {
       "date": "2026-02-15",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 16,
       "pts": 12,
-      "adjPts": 11.0,
-      "pointsPlus": 114
+      "adjPts": 10.9,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "RUTG @ MINN",
+      "result": "L",
+      "min": 23,
+      "pts": 16,
+      "adjPts": 19.1,
+      "pointsPlus": 200
     }
   ]
 }

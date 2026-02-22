@@ -4,7 +4,7 @@
   "team": "LSU",
   "teamName": "LSU Tigers",
   "conference": "SEC",
-  "rank": 86,
+  "rank": 83,
   "gp": 16,
   "ppg": 15.2,
   "adjPpg": 15.2,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "11",
   "classYear": "Junior",
-  "pointsPlusStdDev": 55.5,
-  "volatilityPctile": 58,
+  "pointsPlusStdDev": 55.2,
+  "volatilityPctile": 56,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -23,7 +23,7 @@
       "min": 26,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-10",
@@ -41,7 +41,7 @@
       "min": 31,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-18",
@@ -50,7 +50,7 @@
       "min": 27,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-21",
@@ -59,7 +59,7 @@
       "min": 29,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-28",
@@ -68,7 +68,7 @@
       "min": 33,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 188
+      "pointsPlus": 189
     },
     {
       "date": "2025-11-29",
@@ -77,7 +77,7 @@
       "min": 20,
       "pts": 12,
       "adjPts": 13.6,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2025-12-03",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 26.9,
-      "pointsPlus": 280
+      "adjPts": 26.4,
+      "pointsPlus": 276
     },
     {
       "date": "2025-12-07",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 33,
       "pts": 13,
-      "adjPts": 13.1,
-      "pointsPlus": 136
+      "adjPts": 13.0,
+      "pointsPlus": 137
     },
     {
       "date": "2025-12-13",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 36,
       "pts": 16,
-      "adjPts": 14.0,
-      "pointsPlus": 146
+      "adjPts": 14.1,
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-19",
@@ -113,7 +113,7 @@
       "min": 32,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-22",
@@ -122,7 +122,7 @@
       "min": 31,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-29",
@@ -131,7 +131,7 @@
       "min": 35,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 229
+      "pointsPlus": 231
     },
     {
       "date": "2026-01-20",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 31,
       "pts": 18,
-      "adjPts": 15.4,
+      "adjPts": 15.3,
       "pointsPlus": 160
     },
     {
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 28,
       "pts": 14,
-      "adjPts": 12.7,
-      "pointsPlus": 133
+      "adjPts": 12.5,
+      "pointsPlus": 131
     }
   ]
 }

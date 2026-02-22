@@ -4,17 +4,17 @@
   "team": "SJU",
   "teamName": "St. John's Red Storm",
   "conference": "Big East",
-  "rank": 83,
-  "gp": 26,
-  "ppg": 16.0,
+  "rank": 81,
+  "gp": 27,
+  "ppg": 15.9,
   "adjPpg": 15.3,
-  "pointsPlus": 160,
-  "mpg": 30.2,
+  "pointsPlus": 161,
+  "mpg": 30.1,
   "position": "F",
   "jersey": "24",
   "classYear": "Senior",
-  "pointsPlusStdDev": 59.5,
-  "volatilityPctile": 69,
+  "pointsPlusStdDev": 59.3,
+  "volatilityPctile": 68,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 24,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 28,
       "pts": 27,
       "adjPts": 20.4,
-      "pointsPlus": 213
+      "pointsPlus": 214
     },
     {
       "date": "2025-11-15",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 30,
       "pts": 16,
-      "adjPts": 18.7,
-      "pointsPlus": 195
+      "adjPts": 18.5,
+      "pointsPlus": 194
     },
     {
       "date": "2025-11-25",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 26,
       "pts": 9,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2025-11-26",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 35,
       "pts": 24,
-      "adjPts": 20.7,
-      "pointsPlus": 215
+      "adjPts": 20.8,
+      "pointsPlus": 218
     },
     {
       "date": "2025-12-06",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 35,
       "pts": 15,
-      "adjPts": 15.3,
-      "pointsPlus": 160
+      "adjPts": 15.1,
+      "pointsPlus": 158
     },
     {
       "date": "2025-12-13",
@@ -113,7 +113,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-23",
@@ -122,7 +122,7 @@
       "min": 27,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-31",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 29,
       "pts": 25,
-      "adjPts": 25.3,
-      "pointsPlus": 263
+      "adjPts": 25.9,
+      "pointsPlus": 271
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 34,
       "pts": 33,
-      "adjPts": 25.1,
-      "pointsPlus": 261
+      "adjPts": 25.4,
+      "pointsPlus": 266
     },
     {
       "date": "2026-01-06",
@@ -149,7 +149,7 @@
       "min": 30,
       "pts": 18,
       "adjPts": 16.6,
-      "pointsPlus": 173
+      "pointsPlus": 174
     },
     {
       "date": "2026-01-10",
@@ -158,7 +158,7 @@
       "min": 30,
       "pts": 12,
       "adjPts": 11.7,
-      "pointsPlus": 122
+      "pointsPlus": 123
     },
     {
       "date": "2026-01-13",
@@ -167,7 +167,7 @@
       "min": 26,
       "pts": 22,
       "adjPts": 20.7,
-      "pointsPlus": 216
+      "pointsPlus": 217
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 37,
       "pts": 17,
       "adjPts": 18.4,
-      "pointsPlus": 192
+      "pointsPlus": 193
     },
     {
       "date": "2026-01-20",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 27,
       "pts": 9,
-      "adjPts": 11.4,
-      "pointsPlus": 118
+      "adjPts": 11.6,
+      "pointsPlus": 121
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 31,
       "pts": 13,
       "adjPts": 11.7,
-      "pointsPlus": 122
+      "pointsPlus": 123
     },
     {
       "date": "2026-01-28",
@@ -203,7 +203,7 @@
       "min": 28,
       "pts": 15,
       "adjPts": 13.8,
-      "pointsPlus": 144
+      "pointsPlus": 145
     },
     {
       "date": "2026-02-03",
@@ -212,7 +212,7 @@
       "min": 36,
       "pts": 16,
       "adjPts": 18.2,
-      "pointsPlus": 189
+      "pointsPlus": 190
     },
     {
       "date": "2026-02-06",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 35,
       "pts": 21,
-      "adjPts": 24.4,
-      "pointsPlus": 255
+      "adjPts": 24.5,
+      "pointsPlus": 257
     },
     {
       "date": "2026-02-09",
@@ -230,7 +230,7 @@
       "min": 40,
       "pts": 25,
       "adjPts": 22.5,
-      "pointsPlus": 235
+      "pointsPlus": 236
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 32,
       "pts": 14,
-      "adjPts": 10.6,
-      "pointsPlus": 111
+      "adjPts": 10.8,
+      "pointsPlus": 113
     },
     {
       "date": "2026-02-18",
@@ -248,7 +248,16 @@
       "min": 30,
       "pts": 10,
       "adjPts": 9.4,
-      "pointsPlus": 98
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "SJU vs CREI",
+      "result": "W",
+      "min": 27,
+      "pts": 15,
+      "adjPts": 14.7,
+      "pointsPlus": 154
     }
   ]
 }

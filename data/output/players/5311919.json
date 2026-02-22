@@ -4,16 +4,16 @@
   "team": "KSU",
   "teamName": "Kansas State Wildcats",
   "conference": "Big 12",
-  "rank": 592,
+  "rank": 593,
   "gp": 15,
   "ppg": 4.1,
   "adjPpg": 4.1,
-  "pointsPlus": 42,
+  "pointsPlus": 43,
   "mpg": 17.9,
   "position": "F",
   "jersey": "0",
   "classYear": "Junior",
-  "pointsPlusStdDev": 33.9,
+  "pointsPlusStdDev": 34.0,
   "volatilityPctile": 8,
   "gameLog": [
     {
@@ -68,7 +68,7 @@
       "min": 18,
       "pts": 4,
       "adjPts": 4.7,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2025-11-25",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 22,
       "pts": 9,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.2,
+      "pointsPlus": 96
     },
     {
       "date": "2025-12-01",
@@ -113,7 +113,7 @@
       "min": 25,
       "pts": 9,
       "adjPts": 8.8,
-      "pointsPlus": 91
+      "pointsPlus": 92
     },
     {
       "date": "2025-12-20",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 19,
       "pts": 3,
-      "adjPts": 3.1,
+      "adjPts": 3.2,
       "pointsPlus": 33
     },
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 21,
       "pts": 8,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.3,
+      "pointsPlus": 76
     }
   ]
 }

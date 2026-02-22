@@ -4,17 +4,17 @@
   "team": "OKST",
   "teamName": "Oklahoma State Cowboys",
   "conference": "Big 12",
-  "rank": 562,
-  "gp": 22,
-  "ppg": 4.6,
-  "adjPpg": 4.5,
-  "pointsPlus": 47,
-  "mpg": 14.6,
+  "rank": 561,
+  "gp": 23,
+  "ppg": 4.7,
+  "adjPpg": 4.6,
+  "pointsPlus": 48,
+  "mpg": 14.7,
   "position": "F",
   "jersey": "19",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 37.8,
-  "volatilityPctile": 13,
+  "pointsPlusStdDev": 37.3,
+  "volatilityPctile": 12,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -50,7 +50,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-19",
@@ -68,7 +68,7 @@
       "min": 19,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-27",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 19,
       "pts": 6,
-      "adjPts": 5.3,
+      "adjPts": 5.4,
       "pointsPlus": 56
     },
     {
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 15,
       "pts": 4,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
     },
     {
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 14,
       "pts": 11,
-      "adjPts": 9.5,
+      "adjPts": 9.4,
       "pointsPlus": 99
     },
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 18,
       "pts": 7,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.3,
+      "pointsPlus": 76
     },
     {
       "date": "2026-01-24",
@@ -185,7 +185,7 @@
       "min": 17,
       "pts": 7,
       "adjPts": 6.5,
-      "pointsPlus": 67
+      "pointsPlus": 68
     },
     {
       "date": "2026-02-04",
@@ -194,7 +194,7 @@
       "min": 12,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 29
+      "pointsPlus": 30
     },
     {
       "date": "2026-02-10",
@@ -213,6 +213,15 @@
       "pts": 1,
       "adjPts": 1.1,
       "pointsPlus": 12
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "OKST @ COLO",
+      "result": "L",
+      "min": 16,
+      "pts": 7,
+      "adjPts": 6.3,
+      "pointsPlus": 66
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 179,
-  "gp": 25,
+  "rank": 180,
+  "gp": 26,
   "ppg": 12.7,
-  "adjPpg": 12.4,
+  "adjPpg": 12.3,
   "pointsPlus": 129,
-  "mpg": 30.6,
+  "mpg": 30.7,
   "position": "F",
   "jersey": "7",
   "classYear": "Senior",
-  "pointsPlusStdDev": 66.9,
-  "volatilityPctile": 85,
+  "pointsPlusStdDev": 65.8,
+  "volatilityPctile": 82,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 28,
       "pts": 25,
       "adjPts": 25.0,
-      "pointsPlus": 260
+      "pointsPlus": 262
     },
     {
       "date": "2025-11-08",
@@ -41,7 +41,7 @@
       "min": 23,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-18",
@@ -50,7 +50,7 @@
       "min": 35,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-11-21",
@@ -59,7 +59,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-27",
@@ -68,7 +68,7 @@
       "min": 34,
       "pts": 11,
       "adjPts": 13.4,
-      "pointsPlus": 139
+      "pointsPlus": 140
     },
     {
       "date": "2025-12-03",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 32,
       "pts": 21,
-      "adjPts": 20.6,
-      "pointsPlus": 215
+      "adjPts": 20.7,
+      "pointsPlus": 216
     },
     {
       "date": "2025-12-06",
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 32,
       "pts": 24,
-      "adjPts": 24.2,
+      "adjPts": 24.1,
       "pointsPlus": 252
     },
     {
@@ -104,7 +104,7 @@
       "min": 25,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 271
+      "pointsPlus": 273
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2026-01-03",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 38,
       "pts": 7,
-      "adjPts": 7.5,
-      "pointsPlus": 78
+      "adjPts": 7.6,
+      "pointsPlus": 79
     },
     {
       "date": "2026-01-07",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 31,
       "pts": 18,
-      "adjPts": 18.4,
-      "pointsPlus": 192
+      "adjPts": 18.1,
+      "pointsPlus": 190
     },
     {
       "date": "2026-01-10",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 26,
       "pts": 13,
-      "adjPts": 11.2,
-      "pointsPlus": 117
+      "adjPts": 11.3,
+      "pointsPlus": 118
     },
     {
       "date": "2026-01-14",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 31,
       "pts": 13,
-      "adjPts": 12.6,
-      "pointsPlus": 132
+      "adjPts": 12.4,
+      "pointsPlus": 130
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 32,
       "pts": 10,
       "adjPts": 9.4,
-      "pointsPlus": 98
+      "pointsPlus": 99
     },
     {
       "date": "2026-01-24",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 28,
       "pts": 7,
-      "adjPts": 6.6,
-      "pointsPlus": 69
+      "adjPts": 6.5,
+      "pointsPlus": 68
     },
     {
       "date": "2026-01-27",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 35,
       "pts": 6,
-      "adjPts": 5.3,
+      "adjPts": 5.4,
       "pointsPlus": 56
     },
     {
@@ -203,7 +203,7 @@
       "min": 38,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2026-02-07",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 40,
       "pts": 19,
-      "adjPts": 17.3,
-      "pointsPlus": 180
+      "adjPts": 17.0,
+      "pointsPlus": 178
     },
     {
       "date": "2026-02-10",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 37,
       "pts": 14,
-      "adjPts": 13.2,
-      "pointsPlus": 138
+      "adjPts": 13.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-02-14",
@@ -230,7 +230,7 @@
       "min": 36,
       "pts": 11,
       "adjPts": 9.5,
-      "pointsPlus": 99
+      "pointsPlus": 100
     },
     {
       "date": "2026-02-18",
@@ -240,6 +240,15 @@
       "pts": 11,
       "adjPts": 8.3,
       "pointsPlus": 87
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "ARK vs MIZ",
+      "result": "W",
+      "min": 32,
+      "pts": 12,
+      "adjPts": 11.5,
+      "pointsPlus": 120
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "RUTG",
   "teamName": "Rutgers Scarlet Knights",
   "conference": "Big Ten",
-  "rank": 349,
-  "gp": 26,
-  "ppg": 8.2,
-  "adjPpg": 8.6,
-  "pointsPlus": 90,
-  "mpg": 23.0,
+  "rank": 357,
+  "gp": 27,
+  "ppg": 7.9,
+  "adjPpg": 8.4,
+  "pointsPlus": 88,
+  "mpg": 22.7,
   "position": "G",
   "jersey": "5",
   "classYear": "Junior",
-  "pointsPlusStdDev": 51.7,
-  "volatilityPctile": 46,
+  "pointsPlusStdDev": 52.5,
+  "volatilityPctile": 47,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -32,7 +32,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-14",
@@ -50,7 +50,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-21",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 23,
       "pts": 13,
-      "adjPts": 14.0,
-      "pointsPlus": 146
+      "adjPts": 14.1,
+      "pointsPlus": 147
     },
     {
       "date": "2025-11-25",
@@ -86,7 +86,7 @@
       "min": 21,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-02",
@@ -95,7 +95,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 8.5,
-      "pointsPlus": 88
+      "pointsPlus": 89
     },
     {
       "date": "2025-12-06",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 27,
       "pts": 5,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.4,
+      "pointsPlus": 67
     },
     {
       "date": "2025-12-20",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 18,
       "pts": 4,
-      "adjPts": 4.0,
+      "adjPts": 3.9,
       "pointsPlus": 41
     },
     {
@@ -149,7 +149,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-08",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 24,
       "pts": 9,
-      "adjPts": 9.7,
-      "pointsPlus": 101
+      "adjPts": 9.5,
+      "pointsPlus": 99
     },
     {
       "date": "2026-01-11",
@@ -167,7 +167,7 @@
       "min": 41,
       "pts": 14,
       "adjPts": 14.6,
-      "pointsPlus": 152
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 25,
       "pts": 8,
       "adjPts": 7.4,
-      "pointsPlus": 77
+      "pointsPlus": 78
     },
     {
       "date": "2026-01-20",
@@ -185,7 +185,7 @@
       "min": 32,
       "pts": 17,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2026-01-23",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 36,
       "pts": 14,
-      "adjPts": 16.3,
-      "pointsPlus": 169
+      "adjPts": 16.2,
+      "pointsPlus": 170
     },
     {
       "date": "2026-01-31",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 26,
       "pts": 9,
-      "adjPts": 9.6,
-      "pointsPlus": 100
+      "adjPts": 9.4,
+      "pointsPlus": 98
     },
     {
       "date": "2026-02-07",
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 27,
       "pts": 10,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 124
     },
     {
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 20,
       "pts": 6,
-      "adjPts": 5.7,
-      "pointsPlus": 60
+      "adjPts": 5.8,
+      "pointsPlus": 61
     },
     {
       "date": "2026-02-18",
@@ -249,6 +249,15 @@
       "pts": 7,
       "adjPts": 6.4,
       "pointsPlus": 67
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "RUTG @ MINN",
+      "result": "L",
+      "min": 16,
+      "pts": 2,
+      "adjPts": 2.4,
+      "pointsPlus": 25
     }
   ]
 }

@@ -4,16 +4,16 @@
   "team": "MISS",
   "teamName": "Ole Miss Rebels",
   "conference": "SEC",
-  "rank": 630,
-  "gp": 26,
-  "ppg": 3.2,
+  "rank": 635,
+  "gp": 27,
+  "ppg": 3.1,
   "adjPpg": 3.1,
-  "pointsPlus": 33,
-  "mpg": 16.3,
+  "pointsPlus": 32,
+  "mpg": 16.1,
   "position": "F",
   "jersey": "4",
   "classYear": "Junior",
-  "pointsPlusStdDev": 34.4,
+  "pointsPlusStdDev": 34.0,
   "volatilityPctile": 8,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-18",
@@ -68,7 +68,7 @@
       "min": 26,
       "pts": 6,
       "adjPts": 7.4,
-      "pointsPlus": 77
+      "pointsPlus": 78
     },
     {
       "date": "2025-11-26",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 20,
       "pts": 4,
-      "adjPts": 4.2,
-      "pointsPlus": 44
+      "adjPts": 4.1,
+      "pointsPlus": 43
     },
     {
       "date": "2025-12-06",
@@ -131,7 +131,7 @@
       "min": 16,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-03",
@@ -249,6 +249,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "MISS vs FLA",
+      "result": "L",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
     }
   ]
 }

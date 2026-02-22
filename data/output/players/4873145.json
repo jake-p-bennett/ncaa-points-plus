@@ -4,17 +4,17 @@
   "team": "SYR",
   "teamName": "Syracuse Orange",
   "conference": "ACC",
-  "rank": 43,
-  "gp": 18,
-  "ppg": 17.1,
-  "adjPpg": 17.5,
-  "pointsPlus": 182,
-  "mpg": 30.3,
+  "rank": 49,
+  "gp": 19,
+  "ppg": 16.7,
+  "adjPpg": 17.1,
+  "pointsPlus": 179,
+  "mpg": 30.2,
   "position": "F",
   "jersey": "1",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 62.8,
-  "volatilityPctile": 77,
+  "pointsPlusStdDev": 64.1,
+  "volatilityPctile": 78,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 25,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 23,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-15",
@@ -41,7 +41,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-18",
@@ -50,7 +50,7 @@
       "min": 32,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 188
+      "pointsPlus": 189
     },
     {
       "date": "2025-12-31",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 28,
       "pts": 18,
-      "adjPts": 22.0,
-      "pointsPlus": 229
+      "adjPts": 21.9,
+      "pointsPlus": 230
     },
     {
       "date": "2026-01-06",
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 34,
       "pts": 27,
-      "adjPts": 26.0,
+      "adjPts": 25.8,
       "pointsPlus": 271
     },
     {
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 30,
       "pts": 22,
-      "adjPts": 24.2,
-      "pointsPlus": 252
+      "adjPts": 24.3,
+      "pointsPlus": 254
     },
     {
       "date": "2026-01-13",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 34,
       "pts": 25,
-      "adjPts": 22.6,
-      "pointsPlus": 236
+      "adjPts": 22.9,
+      "pointsPlus": 240
     },
     {
       "date": "2026-01-17",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 36,
       "pts": 19,
-      "adjPts": 22.2,
-      "pointsPlus": 231
+      "adjPts": 21.8,
+      "pointsPlus": 228
     },
     {
       "date": "2026-01-21",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 32,
       "pts": 10,
-      "adjPts": 9.8,
-      "pointsPlus": 102
+      "adjPts": 9.9,
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-24",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 32,
       "pts": 14,
-      "adjPts": 14.7,
-      "pointsPlus": 153
+      "adjPts": 14.5,
+      "pointsPlus": 152
     },
     {
       "date": "2026-01-27",
@@ -122,7 +122,7 @@
       "min": 34,
       "pts": 24,
       "adjPts": 23.0,
-      "pointsPlus": 239
+      "pointsPlus": 241
     },
     {
       "date": "2026-01-31",
@@ -131,7 +131,7 @@
       "min": 22,
       "pts": 7,
       "adjPts": 7.2,
-      "pointsPlus": 75
+      "pointsPlus": 76
     },
     {
       "date": "2026-02-02",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 35,
       "pts": 23,
-      "adjPts": 23.9,
-      "pointsPlus": 249
+      "adjPts": 24.1,
+      "pointsPlus": 252
     },
     {
       "date": "2026-02-07",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 33,
       "pts": 5,
-      "adjPts": 5.6,
+      "adjPts": 5.5,
       "pointsPlus": 58
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 34,
       "pts": 16,
-      "adjPts": 16.2,
-      "pointsPlus": 168
+      "adjPts": 16.3,
+      "pointsPlus": 171
     },
     {
       "date": "2026-02-14",
@@ -167,7 +167,7 @@
       "min": 33,
       "pts": 18,
       "adjPts": 15.8,
-      "pointsPlus": 164
+      "pointsPlus": 166
     },
     {
       "date": "2026-02-16",
@@ -175,8 +175,17 @@
       "result": "L",
       "min": 21,
       "pts": 9,
-      "adjPts": 10.9,
-      "pointsPlus": 114
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "SYR vs UNC",
+      "result": "L",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 9.4,
+      "pointsPlus": 99
     }
   ]
 }

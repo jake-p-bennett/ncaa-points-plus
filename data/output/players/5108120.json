@@ -4,16 +4,16 @@
   "team": "TTU",
   "teamName": "Texas Tech Red Raiders",
   "conference": "Big 12",
-  "rank": 608,
-  "gp": 25,
+  "rank": 611,
+  "gp": 26,
   "ppg": 3.9,
-  "adjPpg": 3.8,
+  "adjPpg": 3.7,
   "pointsPlus": 39,
-  "mpg": 18.0,
+  "mpg": 17.7,
   "position": "G",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 42.3,
+  "pointsPlusStdDev": 41.7,
   "volatilityPctile": 21,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 28,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 26,
       "pts": 3,
       "adjPts": 3.2,
-      "pointsPlus": 34
+      "pointsPlus": 33
     },
     {
       "date": "2025-11-14",
@@ -50,7 +50,7 @@
       "min": 31,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-20",
@@ -131,7 +131,7 @@
       "min": 18,
       "pts": 9,
       "adjPts": 7.5,
-      "pointsPlus": 78
+      "pointsPlus": 79
     },
     {
       "date": "2026-01-06",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 15,
       "pts": 2,
-      "adjPts": 1.8,
+      "adjPts": 1.9,
       "pointsPlus": 19
     },
     {
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 28,
       "pts": 7,
-      "adjPts": 6.4,
-      "pointsPlus": 67
+      "adjPts": 6.5,
+      "pointsPlus": 68
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 14,
       "pts": 3,
       "adjPts": 2.7,
-      "pointsPlus": 28
+      "pointsPlus": 29
     },
     {
       "date": "2026-02-02",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 33,
       "pts": 6,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.7,
+      "pointsPlus": 70
     },
     {
       "date": "2026-02-08",
@@ -240,6 +240,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "TTU vs KSU",
+      "result": "W",
+      "min": 9,
+      "pts": 3,
+      "adjPts": 2.6,
+      "pointsPlus": 27
     }
   ]
 }

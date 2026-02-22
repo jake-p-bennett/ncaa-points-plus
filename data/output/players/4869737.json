@@ -4,17 +4,17 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 141,
-  "gp": 20,
-  "ppg": 13.2,
-  "adjPpg": 13.5,
-  "pointsPlus": 141,
-  "mpg": 30.4,
+  "rank": 145,
+  "gp": 21,
+  "ppg": 13.1,
+  "adjPpg": 13.4,
+  "pointsPlus": 140,
+  "mpg": 30.3,
   "position": "G",
   "jersey": "9",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 74.9,
-  "volatilityPctile": 92,
+  "pointsPlusStdDev": 73.3,
+  "volatilityPctile": 91,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 30,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-11-06",
@@ -32,7 +32,7 @@
       "min": 32,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-09",
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 38,
       "pts": 8,
-      "adjPts": 7.3,
-      "pointsPlus": 76
+      "adjPts": 7.4,
+      "pointsPlus": 77
     },
     {
       "date": "2025-11-14",
@@ -50,7 +50,7 @@
       "min": 37,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 271
+      "pointsPlus": 273
     },
     {
       "date": "2025-11-18",
@@ -59,7 +59,7 @@
       "min": 37,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 240
+      "pointsPlus": 241
     },
     {
       "date": "2025-11-27",
@@ -68,7 +68,7 @@
       "min": 39,
       "pts": 25,
       "adjPts": 25.0,
-      "pointsPlus": 260
+      "pointsPlus": 262
     },
     {
       "date": "2025-11-28",
@@ -77,7 +77,7 @@
       "min": 28,
       "pts": 9,
       "adjPts": 8.1,
-      "pointsPlus": 84
+      "pointsPlus": 85
     },
     {
       "date": "2025-12-03",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 33,
       "pts": 12,
-      "adjPts": 12.8,
-      "pointsPlus": 133
+      "adjPts": 12.5,
+      "pointsPlus": 131
     },
     {
       "date": "2025-12-06",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 37,
       "pts": 16,
-      "adjPts": 14.8,
-      "pointsPlus": 154
+      "adjPts": 14.9,
+      "pointsPlus": 156
     },
     {
       "date": "2025-12-13",
@@ -104,7 +104,7 @@
       "min": 22,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-19",
@@ -131,7 +131,7 @@
       "min": 16,
       "pts": 4,
       "adjPts": 4.6,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-01-25",
@@ -140,7 +140,7 @@
       "min": 28,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-29",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 37,
       "pts": 13,
-      "adjPts": 14.0,
-      "pointsPlus": 146
+      "adjPts": 13.7,
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-31",
@@ -158,7 +158,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 21.9,
-      "pointsPlus": 228
+      "pointsPlus": 229
     },
     {
       "date": "2026-02-04",
@@ -167,7 +167,7 @@
       "min": 25,
       "pts": 15,
       "adjPts": 18.6,
-      "pointsPlus": 193
+      "pointsPlus": 194
     },
     {
       "date": "2026-02-07",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 40,
       "pts": 21,
-      "adjPts": 22.4,
-      "pointsPlus": 233
+      "adjPts": 21.9,
+      "pointsPlus": 229
     },
     {
       "date": "2026-02-11",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 38,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.0,
       "pointsPlus": 105
     },
     {
@@ -193,8 +193,17 @@
       "result": "W",
       "min": 30,
       "pts": 5,
-      "adjPts": 5.9,
-      "pointsPlus": 62
+      "adjPts": 6.0,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "WASH @ MD",
+      "result": "L",
+      "min": 30,
+      "pts": 12,
+      "adjPts": 11.7,
+      "pointsPlus": 122
     }
   ]
 }

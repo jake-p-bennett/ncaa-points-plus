@@ -4,17 +4,17 @@
   "team": "TEX",
   "teamName": "Texas Longhorns",
   "conference": "SEC",
-  "rank": 53,
-  "gp": 26,
-  "ppg": 17.7,
+  "rank": 52,
+  "gp": 27,
+  "ppg": 17.9,
   "adjPpg": 17.0,
-  "pointsPlus": 177,
-  "mpg": 31.2,
+  "pointsPlus": 178,
+  "mpg": 31.5,
   "position": "G",
   "jersey": "3",
   "classYear": "Junior",
-  "pointsPlusStdDev": 68.2,
-  "volatilityPctile": 86,
+  "pointsPlusStdDev": 66.8,
+  "volatilityPctile": 84,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -22,8 +22,8 @@
       "result": "L",
       "min": 36,
       "pts": 16,
-      "adjPts": 19.4,
-      "pointsPlus": 202
+      "adjPts": 19.5,
+      "pointsPlus": 204
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-12",
@@ -50,7 +50,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-18",
@@ -59,7 +59,7 @@
       "min": 26,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 271
+      "pointsPlus": 273
     },
     {
       "date": "2025-11-24",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 35,
       "pts": 24,
-      "adjPts": 21.7,
-      "pointsPlus": 226
+      "adjPts": 21.9,
+      "pointsPlus": 229
     },
     {
       "date": "2025-11-25",
@@ -77,7 +77,7 @@
       "min": 26,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 188
+      "pointsPlus": 189
     },
     {
       "date": "2025-11-26",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 32,
       "pts": 15,
-      "adjPts": 16.7,
-      "pointsPlus": 174
+      "adjPts": 16.5,
+      "pointsPlus": 173
     },
     {
       "date": "2025-12-08",
@@ -104,7 +104,7 @@
       "min": 29,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-12",
@@ -113,7 +113,7 @@
       "min": 25,
       "pts": 9,
       "adjPts": 10.5,
-      "pointsPlus": 109
+      "pointsPlus": 110
     },
     {
       "date": "2025-12-16",
@@ -122,7 +122,7 @@
       "min": 27,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-22",
@@ -131,7 +131,7 @@
       "min": 35,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 37,
       "pts": 34,
-      "adjPts": 31.0,
-      "pointsPlus": 322
+      "adjPts": 30.5,
+      "pointsPlus": 319
     },
     {
       "date": "2026-01-06",
@@ -149,7 +149,7 @@
       "min": 23,
       "pts": 5,
       "adjPts": 5.4,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2026-01-10",
@@ -158,7 +158,7 @@
       "min": 23,
       "pts": 18,
       "adjPts": 13.6,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 34,
       "pts": 14,
-      "adjPts": 13.1,
-      "pointsPlus": 137
+      "adjPts": 13.2,
+      "pointsPlus": 139
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 37,
       "pts": 17,
-      "adjPts": 14.4,
-      "pointsPlus": 150
+      "adjPts": 14.6,
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-21",
@@ -185,7 +185,7 @@
       "min": 36,
       "pts": 29,
       "adjPts": 29.0,
-      "pointsPlus": 302
+      "pointsPlus": 304
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 39,
       "pts": 26,
-      "adjPts": 22.1,
-      "pointsPlus": 230
+      "adjPts": 22.0,
+      "pointsPlus": 231
     },
     {
       "date": "2026-01-28",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 37,
       "pts": 30,
-      "adjPts": 25.9,
-      "pointsPlus": 269
+      "adjPts": 26.0,
+      "pointsPlus": 272
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 37,
       "pts": 18,
-      "adjPts": 16.0,
-      "pointsPlus": 167
+      "adjPts": 16.1,
+      "pointsPlus": 169
     },
     {
       "date": "2026-02-03",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 38,
       "pts": 22,
-      "adjPts": 21.4,
-      "pointsPlus": 223
+      "adjPts": 21.1,
+      "pointsPlus": 221
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 37,
       "pts": 7,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.1,
+      "pointsPlus": 74
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 37,
       "pts": 25,
-      "adjPts": 24.3,
-      "pointsPlus": 253
+      "adjPts": 23.9,
+      "pointsPlus": 251
     },
     {
       "date": "2026-02-17",
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 21,
       "pts": 21,
-      "adjPts": 19.8,
-      "pointsPlus": 206
+      "adjPts": 19.6,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "TEX @ UGA",
+      "result": "L",
+      "min": 38,
+      "pts": 21,
+      "adjPts": 17.8,
+      "pointsPlus": 186
     }
   ]
 }

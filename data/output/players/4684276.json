@@ -4,8 +4,8 @@
   "team": "ALA",
   "teamName": "Alabama Crimson Tide",
   "conference": "SEC",
-  "rank": 63,
-  "gp": 22,
+  "rank": 62,
+  "gp": 23,
   "ppg": 16.9,
   "adjPpg": 16.4,
   "pointsPlus": 171,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 69.4,
-  "volatilityPctile": 88,
+  "pointsPlusStdDev": 68.8,
+  "volatilityPctile": 87,
   "gameLog": [
     {
       "date": "2025-11-08",
@@ -22,8 +22,8 @@
       "result": "W",
       "min": 33,
       "pts": 21,
-      "adjPts": 20.9,
-      "pointsPlus": 218
+      "adjPts": 21.3,
+      "pointsPlus": 223
     },
     {
       "date": "2025-11-13",
@@ -32,7 +32,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 22.3,
-      "pointsPlus": 232
+      "pointsPlus": 234
     },
     {
       "date": "2025-11-19",
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 31,
       "pts": 11,
-      "adjPts": 11.8,
-      "pointsPlus": 123
+      "adjPts": 11.6,
+      "pointsPlus": 121
     },
     {
       "date": "2025-11-24",
@@ -50,7 +50,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-25",
@@ -59,7 +59,7 @@
       "min": 25,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 271
+      "pointsPlus": 273
     },
     {
       "date": "2025-11-26",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 27,
       "pts": 17,
-      "adjPts": 16.3,
-      "pointsPlus": 169
+      "adjPts": 16.5,
+      "pointsPlus": 173
     },
     {
       "date": "2025-12-13",
@@ -86,7 +86,7 @@
       "min": 29,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 250
+      "pointsPlus": 252
     },
     {
       "date": "2025-12-21",
@@ -95,7 +95,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-12-29",
@@ -104,7 +104,7 @@
       "min": 27,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 271
+      "pointsPlus": 273
     },
     {
       "date": "2026-01-03",
@@ -113,7 +113,7 @@
       "min": 34,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 271
+      "pointsPlus": 272
     },
     {
       "date": "2026-01-07",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 27,
       "pts": 22,
-      "adjPts": 20.6,
-      "pointsPlus": 215
+      "adjPts": 20.8,
+      "pointsPlus": 218
     },
     {
       "date": "2026-01-10",
@@ -130,7 +130,7 @@
       "result": "L",
       "min": 29,
       "pts": 18,
-      "adjPts": 16.8,
+      "adjPts": 16.7,
       "pointsPlus": 175
     },
     {
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 30,
       "pts": 15,
-      "adjPts": 13.7,
-      "pointsPlus": 142
+      "adjPts": 13.4,
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-17",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 28,
       "pts": 9,
-      "adjPts": 8.0,
+      "adjPts": 8.1,
       "pointsPlus": 84
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 24,
       "pts": 5,
-      "adjPts": 4.9,
-      "pointsPlus": 51
+      "adjPts": 4.8,
+      "pointsPlus": 50
     },
     {
       "date": "2026-02-01",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 27,
       "pts": 19,
-      "adjPts": 19.1,
-      "pointsPlus": 198
+      "adjPts": 19.0,
+      "pointsPlus": 199
     },
     {
       "date": "2026-02-04",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 34,
       "pts": 20,
-      "adjPts": 17.0,
-      "pointsPlus": 177
+      "adjPts": 17.1,
+      "pointsPlus": 180
     },
     {
       "date": "2026-02-07",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 31,
       "pts": 15,
-      "adjPts": 12.9,
-      "pointsPlus": 135
+      "adjPts": 13.0,
+      "pointsPlus": 136
     },
     {
       "date": "2026-02-11",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 25,
       "pts": 12,
-      "adjPts": 12.3,
-      "pointsPlus": 128
+      "adjPts": 12.1,
+      "pointsPlus": 127
     },
     {
       "date": "2026-02-14",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 27,
       "pts": 20,
-      "adjPts": 19.4,
-      "pointsPlus": 202
+      "adjPts": 19.1,
+      "pointsPlus": 201
     },
     {
       "date": "2026-02-18",
@@ -211,8 +211,17 @@
       "result": "W",
       "min": 25,
       "pts": 15,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 134
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "ALA @ LSU",
+      "result": "W",
+      "min": 29,
+      "pts": 17,
+      "adjPts": 15.9,
+      "pointsPlus": 166
     }
   ]
 }

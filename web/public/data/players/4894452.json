@@ -4,12 +4,12 @@
   "team": "WAKE",
   "teamName": "Wake Forest Demon Deacons",
   "conference": "ACC",
-  "rank": 190,
-  "gp": 26,
-  "ppg": 12.1,
-  "adjPpg": 12.2,
-  "pointsPlus": 127,
-  "mpg": 27.6,
+  "rank": 195,
+  "gp": 27,
+  "ppg": 11.9,
+  "adjPpg": 12.0,
+  "pointsPlus": 126,
+  "mpg": 27.4,
   "position": "G",
   "jersey": "6",
   "classYear": "Junior",
@@ -23,7 +23,7 @@
       "min": 30,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-07",
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 13.3,
-      "pointsPlus": 138
+      "adjPts": 13.4,
+      "pointsPlus": 140
     },
     {
       "date": "2025-11-16",
@@ -50,7 +50,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-20",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 31,
       "pts": 19,
-      "adjPts": 19.1,
-      "pointsPlus": 199
+      "adjPts": 19.0,
+      "pointsPlus": 200
     },
     {
       "date": "2025-11-21",
@@ -68,7 +68,7 @@
       "min": 25,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 198
+      "pointsPlus": 199
     },
     {
       "date": "2025-11-25",
@@ -77,7 +77,7 @@
       "min": 21,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-28",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 19,
       "pts": 7,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.3,
+      "pointsPlus": 66
     },
     {
       "date": "2025-12-06",
@@ -104,7 +104,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 10.6,
-      "pointsPlus": 110
+      "pointsPlus": 112
     },
     {
       "date": "2025-12-14",
@@ -113,7 +113,7 @@
       "min": 28,
       "pts": 33,
       "adjPts": 33.0,
-      "pointsPlus": 344
+      "pointsPlus": 346
     },
     {
       "date": "2025-12-17",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 37,
       "pts": 20,
-      "adjPts": 18.7,
-      "pointsPlus": 195
+      "adjPts": 18.9,
+      "pointsPlus": 198
     },
     {
       "date": "2025-12-31",
@@ -149,7 +149,7 @@
       "min": 26,
       "pts": 7,
       "adjPts": 6.9,
-      "pointsPlus": 72
+      "pointsPlus": 73
     },
     {
       "date": "2026-01-07",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 37,
       "pts": 13,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.4,
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-10",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 37,
       "pts": 15,
-      "adjPts": 13.6,
-      "pointsPlus": 141
+      "adjPts": 13.7,
+      "pointsPlus": 144
     },
     {
       "date": "2026-01-20",
@@ -185,7 +185,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 14.9,
-      "pointsPlus": 155
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 26,
       "pts": 5,
       "adjPts": 6.1,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-27",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 42,
       "pts": 18,
-      "adjPts": 19.8,
-      "pointsPlus": 207
+      "adjPts": 19.9,
+      "pointsPlus": 208
     },
     {
       "date": "2026-01-31",
@@ -221,7 +221,7 @@
       "min": 29,
       "pts": 10,
       "adjPts": 9.8,
-      "pointsPlus": 102
+      "pointsPlus": 103
     },
     {
       "date": "2026-02-11",
@@ -239,7 +239,7 @@
       "min": 14,
       "pts": 7,
       "adjPts": 7.3,
-      "pointsPlus": 76
+      "pointsPlus": 77
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 28,
       "pts": 14,
-      "adjPts": 17.1,
-      "pointsPlus": 178
+      "adjPts": 17.0,
+      "pointsPlus": 179
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "WAKE @ VT",
+      "result": "L",
+      "min": 23,
+      "pts": 7,
+      "adjPts": 6.9,
+      "pointsPlus": 73
     }
   ]
 }

@@ -5,16 +5,16 @@
   "teamName": "Kansas State Wildcats",
   "conference": "Big 12",
   "rank": 621,
-  "gp": 25,
+  "gp": 26,
   "ppg": 3.3,
   "adjPpg": 3.5,
   "pointsPlus": 37,
-  "mpg": 15.9,
+  "mpg": 16.2,
   "position": "G",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 36.7,
-  "volatilityPctile": 11,
+  "pointsPlusStdDev": 36.0,
+  "volatilityPctile": 9,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 23,
       "pts": 15,
-      "adjPts": 15.5,
-      "pointsPlus": 162
+      "adjPts": 15.3,
+      "pointsPlus": 161
     },
     {
       "date": "2025-12-01",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 16,
       "pts": 6,
-      "adjPts": 7.6,
-      "pointsPlus": 79
+      "adjPts": 7.7,
+      "pointsPlus": 81
     },
     {
       "date": "2025-12-08",
@@ -167,7 +167,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 6.7,
-      "pointsPlus": 69
+      "pointsPlus": 70
     },
     {
       "date": "2026-01-20",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 31,
       "pts": 2,
-      "adjPts": 1.8,
+      "adjPts": 1.9,
       "pointsPlus": 19
     },
     {
@@ -194,7 +194,7 @@
       "min": 15,
       "pts": 3,
       "adjPts": 4.0,
-      "pointsPlus": 41
+      "pointsPlus": 42
     },
     {
       "date": "2026-02-01",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 14,
       "pts": 2,
-      "adjPts": 2.0,
-      "pointsPlus": 21
+      "adjPts": 2.1,
+      "pointsPlus": 22
     },
     {
       "date": "2026-02-11",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 10,
       "pts": 3,
-      "adjPts": 2.7,
+      "adjPts": 2.8,
       "pointsPlus": 29
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "KSU @ TTU",
+      "result": "L",
+      "min": 23,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 42
     }
   ]
 }

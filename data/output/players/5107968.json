@@ -4,17 +4,17 @@
   "team": "TENN",
   "teamName": "Tennessee Volunteers",
   "conference": "SEC",
-  "rank": 38,
-  "gp": 26,
+  "rank": 40,
+  "gp": 27,
   "ppg": 18.1,
-  "adjPpg": 17.7,
+  "adjPpg": 17.6,
   "pointsPlus": 184,
-  "mpg": 34.0,
+  "mpg": 34.1,
   "position": "G",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 65.4,
-  "volatilityPctile": 81,
+  "pointsPlusStdDev": 64.2,
+  "volatilityPctile": 78,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 27,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-12",
@@ -41,7 +41,7 @@
       "min": 31,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-17",
@@ -50,7 +50,7 @@
       "min": 33,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-11-20",
@@ -59,7 +59,7 @@
       "min": 31,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-11-24",
@@ -68,7 +68,7 @@
       "min": 29,
       "pts": 32,
       "adjPts": 32.5,
-      "pointsPlus": 339
+      "pointsPlus": 340
     },
     {
       "date": "2025-11-25",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 38,
       "pts": 22,
-      "adjPts": 28.7,
-      "pointsPlus": 299
+      "adjPts": 28.5,
+      "pointsPlus": 298
     },
     {
       "date": "2025-11-26",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 36,
       "pts": 11,
-      "adjPts": 12.5,
-      "pointsPlus": 130
+      "adjPts": 12.3,
+      "pointsPlus": 129
     },
     {
       "date": "2025-12-02",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 35,
       "pts": 15,
-      "adjPts": 16.1,
-      "pointsPlus": 168
+      "adjPts": 15.8,
+      "pointsPlus": 165
     },
     {
       "date": "2025-12-16",
@@ -113,7 +113,7 @@
       "min": 34,
       "pts": 23,
       "adjPts": 22.6,
-      "pointsPlus": 235
+      "pointsPlus": 237
     },
     {
       "date": "2025-12-21",
@@ -122,7 +122,7 @@
       "min": 24,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-30",
@@ -131,7 +131,7 @@
       "min": 28,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2026-01-03",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 35,
       "pts": 14,
-      "adjPts": 12.0,
+      "adjPts": 11.9,
       "pointsPlus": 125
     },
     {
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 38,
       "pts": 34,
-      "adjPts": 31.8,
-      "pointsPlus": 331
+      "adjPts": 31.5,
+      "pointsPlus": 330
     },
     {
       "date": "2026-01-10",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 48,
       "pts": 18,
-      "adjPts": 15.3,
-      "pointsPlus": 159
+      "adjPts": 15.4,
+      "pointsPlus": 162
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 33,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 250
+      "pointsPlus": 251
     },
     {
       "date": "2026-01-24",
@@ -185,7 +185,7 @@
       "min": 38,
       "pts": 24,
       "adjPts": 18.1,
-      "pointsPlus": 189
+      "pointsPlus": 190
     },
     {
       "date": "2026-01-28",
@@ -203,7 +203,7 @@
       "min": 29,
       "pts": 11,
       "adjPts": 9.5,
-      "pointsPlus": 99
+      "pointsPlus": 100
     },
     {
       "date": "2026-02-03",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 34,
       "pts": 20,
-      "adjPts": 20.5,
-      "pointsPlus": 213
+      "adjPts": 20.1,
+      "pointsPlus": 211
     },
     {
       "date": "2026-02-07",
@@ -221,7 +221,7 @@
       "min": 36,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2026-02-11",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 37,
       "pts": 18,
-      "adjPts": 16.4,
-      "pointsPlus": 171
+      "adjPts": 16.1,
+      "pointsPlus": 169
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 35,
       "pts": 12,
-      "adjPts": 11.3,
-      "pointsPlus": 118
+      "adjPts": 11.2,
+      "pointsPlus": 117
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 37,
       "pts": 16,
-      "adjPts": 14.2,
-      "pointsPlus": 148
+      "adjPts": 14.3,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "TENN @ VAN",
+      "result": "W",
+      "min": 36,
+      "pts": 17,
+      "adjPts": 16.0,
+      "pointsPlus": 168
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "MIZ",
   "teamName": "Missouri Tigers",
   "conference": "SEC",
-  "rank": 331,
-  "gp": 26,
-  "ppg": 9.2,
-  "adjPpg": 9.1,
-  "pointsPlus": 95,
+  "rank": 338,
+  "gp": 27,
+  "ppg": 9.0,
+  "adjPpg": 8.9,
+  "pointsPlus": 93,
   "mpg": 26.8,
   "position": "G",
   "jersey": "0",
   "classYear": "Junior",
-  "pointsPlusStdDev": 55.5,
-  "volatilityPctile": 58,
+  "pointsPlusStdDev": 55.6,
+  "volatilityPctile": 57,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-07",
@@ -32,7 +32,7 @@
       "min": 36,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-09",
@@ -41,7 +41,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-12",
@@ -50,7 +50,7 @@
       "min": 26,
       "pts": 10,
       "adjPts": 11.9,
-      "pointsPlus": 124
+      "pointsPlus": 125
     },
     {
       "date": "2025-11-17",
@@ -59,7 +59,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-20",
@@ -95,7 +95,7 @@
       "min": 37,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 64
+      "pointsPlus": 65
     },
     {
       "date": "2025-12-07",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 29,
       "pts": 5,
-      "adjPts": 5.7,
+      "adjPts": 5.6,
       "pointsPlus": 59
     },
     {
@@ -113,7 +113,7 @@
       "min": 37,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 198
+      "pointsPlus": 199
     },
     {
       "date": "2025-12-14",
@@ -122,7 +122,7 @@
       "min": 30,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-22",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 26,
       "pts": 12,
-      "adjPts": 12.9,
-      "pointsPlus": 135
+      "adjPts": 12.6,
+      "pointsPlus": 132
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 35,
       "pts": 19,
-      "adjPts": 19.1,
-      "pointsPlus": 198
+      "adjPts": 19.0,
+      "pointsPlus": 199
     },
     {
       "date": "2026-01-07",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 35,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 64
+      "adjPts": 6.0,
+      "pointsPlus": 63
     },
     {
       "date": "2026-01-14",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 17,
       "pts": 4,
-      "adjPts": 3.8,
+      "adjPts": 3.7,
       "pointsPlus": 39
     },
     {
@@ -185,7 +185,7 @@
       "min": 26,
       "pts": 4,
       "adjPts": 3.4,
-      "pointsPlus": 35
+      "pointsPlus": 36
     },
     {
       "date": "2026-01-24",
@@ -203,7 +203,7 @@
       "min": 15,
       "pts": 5,
       "adjPts": 3.8,
-      "pointsPlus": 39
+      "pointsPlus": 40
     },
     {
       "date": "2026-01-31",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 23,
       "pts": 9,
-      "adjPts": 8.2,
+      "adjPts": 8.1,
       "pointsPlus": 85
     },
     {
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 22,
       "pts": 6,
-      "adjPts": 5.8,
-      "pointsPlus": 61
+      "adjPts": 5.7,
+      "pointsPlus": 60
     },
     {
       "date": "2026-02-11",
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 25,
       "pts": 3,
-      "adjPts": 2.5,
+      "adjPts": 2.6,
       "pointsPlus": 27
     },
     {
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 21,
       "pts": 11,
-      "adjPts": 10.3,
+      "adjPts": 10.2,
       "pointsPlus": 107
     },
     {
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 16,
       "pts": 13,
-      "adjPts": 12.2,
-      "pointsPlus": 127
+      "adjPts": 12.3,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "MIZ @ ARK",
+      "result": "L",
+      "min": 25,
+      "pts": 5,
+      "adjPts": 4.2,
+      "pointsPlus": 45
     }
   ]
 }

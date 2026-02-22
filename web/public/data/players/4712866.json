@@ -4,8 +4,8 @@
   "team": "CREI",
   "teamName": "Creighton Bluejays",
   "conference": "Big East",
-  "rank": 435,
-  "gp": 27,
+  "rank": 431,
+  "gp": 28,
   "ppg": 6.8,
   "adjPpg": 6.9,
   "pointsPlus": 72,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "41",
   "classYear": "Junior",
-  "pointsPlusStdDev": 60.4,
+  "pointsPlusStdDev": 60.2,
   "volatilityPctile": 71,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-11",
@@ -59,7 +59,7 @@
       "min": 12,
       "pts": 6,
       "adjPts": 5.5,
-      "pointsPlus": 57
+      "pointsPlus": 58
     },
     {
       "date": "2025-11-25",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 13,
       "pts": 10,
-      "adjPts": 11.7,
-      "pointsPlus": 122
+      "adjPts": 11.6,
+      "pointsPlus": 121
     },
     {
       "date": "2025-11-27",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 26,
       "pts": 18,
-      "adjPts": 15.6,
-      "pointsPlus": 162
+      "adjPts": 15.4,
+      "pointsPlus": 161
     },
     {
       "date": "2025-12-17",
@@ -113,7 +113,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 7.2,
-      "pointsPlus": 75
+      "pointsPlus": 76
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 31,
       "pts": 14,
       "adjPts": 13.2,
-      "pointsPlus": 137
+      "pointsPlus": 138
     },
     {
       "date": "2025-12-22",
@@ -131,7 +131,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-30",
@@ -140,7 +140,7 @@
       "min": 35,
       "pts": 16,
       "adjPts": 14.7,
-      "pointsPlus": 153
+      "pointsPlus": 155
     },
     {
       "date": "2026-01-04",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 34,
       "pts": 2,
-      "adjPts": 2.5,
-      "pointsPlus": 26
+      "adjPts": 2.6,
+      "pointsPlus": 27
     },
     {
       "date": "2026-01-07",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 19,
       "pts": 14,
-      "adjPts": 14.0,
-      "pointsPlus": 145
+      "adjPts": 14.2,
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-13",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 24,
       "pts": 3,
-      "adjPts": 3.0,
-      "pointsPlus": 32
+      "adjPts": 3.1,
+      "pointsPlus": 33
     },
     {
       "date": "2026-01-16",
@@ -194,7 +194,7 @@
       "min": 22,
       "pts": 8,
       "adjPts": 7.2,
-      "pointsPlus": 75
+      "pointsPlus": 76
     },
     {
       "date": "2026-01-27",
@@ -203,7 +203,7 @@
       "min": 14,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 29
+      "pointsPlus": 30
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 7,
       "pts": 3,
       "adjPts": 3.5,
-      "pointsPlus": 36
+      "pointsPlus": 37
     },
     {
       "date": "2026-02-04",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 25,
       "pts": 18,
-      "adjPts": 22.7,
-      "pointsPlus": 237
+      "adjPts": 23.2,
+      "pointsPlus": 243
     },
     {
       "date": "2026-02-11",
@@ -257,7 +257,16 @@
       "min": 25,
       "pts": 8,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "CREI @ SJU",
+      "result": "L",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 64
     }
   ]
 }

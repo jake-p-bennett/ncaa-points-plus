@@ -4,16 +4,16 @@
   "team": "SYR",
   "teamName": "Syracuse Orange",
   "conference": "ACC",
-  "rank": 192,
-  "gp": 27,
-  "ppg": 11.6,
-  "adjPpg": 12.2,
-  "pointsPlus": 127,
-  "mpg": 31.3,
+  "rank": 200,
+  "gp": 28,
+  "ppg": 11.3,
+  "adjPpg": 11.9,
+  "pointsPlus": 124,
+  "mpg": 30.9,
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 74.4,
+  "pointsPlusStdDev": 74.8,
   "volatilityPctile": 91,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 34,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-24",
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 36,
       "pts": 10,
-      "adjPts": 13.0,
+      "adjPts": 12.9,
       "pointsPlus": 136
     },
     {
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 31,
       "pts": 9,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 106
     },
     {
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 36,
       "pts": 19,
-      "adjPts": 20.4,
-      "pointsPlus": 213
+      "adjPts": 20.6,
+      "pointsPlus": 216
     },
     {
       "date": "2025-12-11",
@@ -95,7 +95,7 @@
       "min": 35,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-13",
@@ -104,7 +104,7 @@
       "min": 34,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-17",
@@ -122,7 +122,7 @@
       "min": 35,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-22",
@@ -131,7 +131,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-31",
@@ -158,7 +158,7 @@
       "min": 25,
       "pts": 7,
       "adjPts": 7.7,
-      "pointsPlus": 80
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-13",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 18,
       "pts": 6,
-      "adjPts": 5.4,
-      "pointsPlus": 57
+      "adjPts": 5.5,
+      "pointsPlus": 58
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 36,
       "pts": 27,
-      "adjPts": 31.6,
-      "pointsPlus": 329
+      "adjPts": 30.9,
+      "pointsPlus": 324
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 33,
       "pts": 11,
-      "adjPts": 10.8,
-      "pointsPlus": 113
+      "adjPts": 10.9,
+      "pointsPlus": 114
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 25,
       "pts": 11,
-      "adjPts": 11.5,
-      "pointsPlus": 120
+      "adjPts": 11.4,
+      "pointsPlus": 119
     },
     {
       "date": "2026-01-27",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 36,
       "pts": 28,
-      "adjPts": 28.8,
-      "pointsPlus": 301
+      "adjPts": 28.9,
+      "pointsPlus": 303
     },
     {
       "date": "2026-02-02",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 30,
       "pts": 8,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 34,
       "pts": 13,
-      "adjPts": 14.5,
-      "pointsPlus": 151
+      "adjPts": 14.3,
+      "pointsPlus": 150
     },
     {
       "date": "2026-02-11",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 44,
       "pts": 27,
-      "adjPts": 27.3,
-      "pointsPlus": 284
+      "adjPts": 27.5,
+      "pointsPlus": 288
     },
     {
       "date": "2026-02-14",
@@ -248,7 +248,7 @@
       "min": 35,
       "pts": 13,
       "adjPts": 11.4,
-      "pointsPlus": 119
+      "pointsPlus": 120
     },
     {
       "date": "2026-02-16",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 36,
       "pts": 10,
-      "adjPts": 12.1,
-      "pointsPlus": 126
+      "adjPts": 12.2,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "SYR vs UNC",
+      "result": "L",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 44
     }
   ]
 }

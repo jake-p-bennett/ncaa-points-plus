@@ -4,16 +4,16 @@
   "team": "UCF",
   "teamName": "UCF Knights",
   "conference": "Big 12",
-  "rank": 497,
-  "gp": 25,
-  "ppg": 5.6,
-  "adjPpg": 5.8,
+  "rank": 505,
+  "gp": 26,
+  "ppg": 5.5,
+  "adjPpg": 5.7,
   "pointsPlus": 60,
-  "mpg": 17.4,
+  "mpg": 17.7,
   "position": "C",
   "jersey": "7",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 40.1,
+  "pointsPlusStdDev": 39.7,
   "volatilityPctile": 17,
   "gameLog": [
     {
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 15,
       "pts": 11,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.4,
+      "pointsPlus": 99
     },
     {
       "date": "2025-11-17",
@@ -77,7 +77,7 @@
       "min": 18,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-29",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 22,
       "pts": 6,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.7,
+      "pointsPlus": 70
     },
     {
       "date": "2026-01-06",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 12,
       "pts": 4,
-      "adjPts": 4.7,
+      "adjPts": 4.6,
       "pointsPlus": 49
     },
     {
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 24,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.5,
       "pointsPlus": 57
     },
     {
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 29,
       "pts": 14,
-      "adjPts": 14.1,
+      "adjPts": 14.0,
       "pointsPlus": 147
     },
     {
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 28,
       "pts": 7,
-      "adjPts": 9.2,
-      "pointsPlus": 96
+      "adjPts": 9.3,
+      "pointsPlus": 98
     },
     {
       "date": "2026-02-17",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 18,
       "pts": 2,
-      "adjPts": 2.0,
-      "pointsPlus": 21
+      "adjPts": 2.1,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "UCF @ UTAH",
+      "result": "W",
+      "min": 23,
+      "pts": 4,
+      "adjPts": 3.7,
+      "pointsPlus": 39
     }
   ]
 }

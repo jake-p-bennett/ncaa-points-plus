@@ -4,17 +4,17 @@
   "team": "ORE",
   "teamName": "Oregon Ducks",
   "conference": "Big Ten",
-  "rank": 52,
-  "gp": 19,
-  "ppg": 16.8,
-  "adjPpg": 17.0,
-  "pointsPlus": 177,
-  "mpg": 29.3,
+  "rank": 55,
+  "gp": 20,
+  "ppg": 16.7,
+  "adjPpg": 16.8,
+  "pointsPlus": 176,
+  "mpg": 29.8,
   "position": "C",
   "jersey": "32",
   "classYear": "Senior",
-  "pointsPlusStdDev": 76.8,
-  "volatilityPctile": 93,
+  "pointsPlusStdDev": 75.9,
+  "volatilityPctile": 92,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-07",
@@ -32,7 +32,7 @@
       "min": 31,
       "pts": 25,
       "adjPts": 25.0,
-      "pointsPlus": 260
+      "pointsPlus": 262
     },
     {
       "date": "2025-11-12",
@@ -41,7 +41,7 @@
       "min": 31,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-11-17",
@@ -50,7 +50,7 @@
       "min": 31,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 250
+      "pointsPlus": 252
     },
     {
       "date": "2025-11-24",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 33,
       "pts": 10,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.7,
+      "pointsPlus": 91
     },
     {
       "date": "2025-11-25",
@@ -68,7 +68,7 @@
       "min": 20,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-06",
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 25,
       "pts": 3,
-      "adjPts": 3.2,
+      "adjPts": 3.1,
       "pointsPlus": 33
     },
     {
@@ -95,7 +95,7 @@
       "min": 25,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 188
+      "pointsPlus": 189
     },
     {
       "date": "2025-12-21",
@@ -104,7 +104,7 @@
       "min": 37,
       "pts": 28,
       "adjPts": 28.0,
-      "pointsPlus": 292
+      "pointsPlus": 293
     },
     {
       "date": "2025-12-28",
@@ -113,7 +113,7 @@
       "min": 27,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 271
+      "pointsPlus": 273
     },
     {
       "date": "2026-01-02",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 34,
       "pts": 16,
-      "adjPts": 15.3,
-      "pointsPlus": 160
+      "adjPts": 15.5,
+      "pointsPlus": 163
     },
     {
       "date": "2026-01-05",
@@ -131,7 +131,7 @@
       "min": 30,
       "pts": 28,
       "adjPts": 28.4,
-      "pointsPlus": 296
+      "pointsPlus": 298
     },
     {
       "date": "2026-01-08",
@@ -140,7 +140,7 @@
       "min": 33,
       "pts": 14,
       "adjPts": 13.8,
-      "pointsPlus": 144
+      "pointsPlus": 145
     },
     {
       "date": "2026-01-13",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 25,
       "pts": 10,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 124
     },
     {
@@ -158,7 +158,7 @@
       "min": 34,
       "pts": 23,
       "adjPts": 24.4,
-      "pointsPlus": 254
+      "pointsPlus": 256
     },
     {
       "date": "2026-02-09",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 34,
       "pts": 15,
-      "adjPts": 15.5,
-      "pointsPlus": 162
+      "adjPts": 15.3,
+      "pointsPlus": 161
     },
     {
       "date": "2026-02-14",
@@ -184,8 +184,17 @@
       "result": "L",
       "min": 35,
       "pts": 15,
-      "adjPts": 17.8,
-      "pointsPlus": 186
+      "adjPts": 17.9,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "ORE @ USC",
+      "result": "W",
+      "min": 38,
+      "pts": 14,
+      "adjPts": 13.0,
+      "pointsPlus": 137
     }
   ]
 }

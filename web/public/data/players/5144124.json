@@ -4,17 +4,17 @@
   "team": "DUKE",
   "teamName": "Duke Blue Devils",
   "conference": "ACC",
-  "rank": 498,
-  "gp": 26,
+  "rank": 497,
+  "gp": 27,
   "ppg": 5.7,
   "adjPpg": 5.8,
   "pointsPlus": 60,
-  "mpg": 18.3,
+  "mpg": 18.5,
   "position": "G",
   "jersey": "14",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 43.4,
-  "volatilityPctile": 25,
+  "pointsPlusStdDev": 42.9,
+  "volatilityPctile": 23,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-14",
@@ -68,7 +68,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-23",
@@ -104,7 +104,7 @@
       "min": 34,
       "pts": 10,
       "adjPts": 11.6,
-      "pointsPlus": 121
+      "pointsPlus": 122
     },
     {
       "date": "2025-12-16",
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 18,
       "pts": 8,
-      "adjPts": 8.1,
+      "adjPts": 8.0,
       "pointsPlus": 84
     },
     {
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 25,
       "pts": 10,
-      "adjPts": 10.1,
-      "pointsPlus": 105
+      "adjPts": 10.2,
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 17,
       "pts": 5,
       "adjPts": 5.2,
-      "pointsPlus": 54
+      "pointsPlus": 55
     },
     {
       "date": "2026-01-24",
@@ -185,7 +185,7 @@
       "min": 24,
       "pts": 5,
       "adjPts": 4.6,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-01-26",
@@ -194,7 +194,7 @@
       "min": 15,
       "pts": 14,
       "adjPts": 13.8,
-      "pointsPlus": 143
+      "pointsPlus": 144
     },
     {
       "date": "2026-01-31",
@@ -203,7 +203,7 @@
       "min": 30,
       "pts": 2,
       "adjPts": 2.0,
-      "pointsPlus": 20
+      "pointsPlus": 21
     },
     {
       "date": "2026-02-03",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 18,
       "pts": 6,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 6.9,
+      "pointsPlus": 72
     },
     {
       "date": "2026-02-07",
@@ -248,7 +248,16 @@
       "min": 24,
       "pts": 14,
       "adjPts": 14.3,
-      "pointsPlus": 149
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "DUKE vs MICH",
+      "result": "W",
+      "min": 24,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 65
     }
   ]
 }

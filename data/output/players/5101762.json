@@ -4,7 +4,7 @@
   "team": "USC",
   "teamName": "USC Trojans",
   "conference": "Big Ten",
-  "rank": 542,
+  "rank": 545,
   "gp": 24,
   "ppg": 4.8,
   "adjPpg": 4.9,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "8",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 42.3,
-  "volatilityPctile": 21,
+  "pointsPlusStdDev": 42.9,
+  "volatilityPctile": 23,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 5,
       "pts": 2,
-      "adjPts": 2.5,
-      "pointsPlus": 26
+      "adjPts": 2.6,
+      "pointsPlus": 27
     },
     {
       "date": "2025-11-26",
@@ -86,7 +86,7 @@
       "min": 35,
       "pts": 11,
       "adjPts": 11.4,
-      "pointsPlus": 119
+      "pointsPlus": 120
     },
     {
       "date": "2025-12-06",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 40,
       "pts": 13,
-      "adjPts": 13.5,
-      "pointsPlus": 140
+      "adjPts": 13.6,
+      "pointsPlus": 143
     },
     {
       "date": "2025-12-09",
@@ -104,7 +104,7 @@
       "min": 32,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-12-14",
@@ -131,7 +131,7 @@
       "min": 17,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2026-01-02",
@@ -149,7 +149,7 @@
       "min": 30,
       "pts": 12,
       "adjPts": 13.9,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2026-01-09",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 19,
       "pts": 10,
-      "adjPts": 9.6,
-      "pointsPlus": 100
+      "adjPts": 9.7,
+      "pointsPlus": 102
     },
     {
       "date": "2026-01-21",
@@ -203,7 +203,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 6.1,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2026-02-03",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 22,
       "pts": 2,
-      "adjPts": 2.1,
-      "pointsPlus": 22
+      "adjPts": 2.0,
+      "pointsPlus": 21
     },
     {
       "date": "2026-02-08",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 5,
       "pts": 4,
-      "adjPts": 3.7,
+      "adjPts": 3.6,
       "pointsPlus": 38
     },
     {
@@ -230,7 +230,7 @@
       "min": 9,
       "pts": 3,
       "adjPts": 3.2,
-      "pointsPlus": 34
+      "pointsPlus": 33
     }
   ]
 }

@@ -5,16 +5,16 @@
   "teamName": "Clemson Tigers",
   "conference": "ACC",
   "rank": 213,
-  "gp": 27,
-  "ppg": 11.4,
-  "adjPpg": 11.6,
+  "gp": 28,
+  "ppg": 11.5,
+  "adjPpg": 11.5,
   "pointsPlus": 121,
-  "mpg": 24.5,
+  "mpg": 24.8,
   "position": "F",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 37.1,
-  "volatilityPctile": 11,
+  "pointsPlusStdDev": 36.8,
+  "volatilityPctile": 10,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-15",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 12,
       "pts": 3,
-      "adjPts": 3.0,
-      "pointsPlus": 32
+      "adjPts": 3.1,
+      "pointsPlus": 33
     },
     {
       "date": "2025-11-17",
@@ -59,7 +59,7 @@
       "min": 29,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-21",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 28,
       "pts": 14,
-      "adjPts": 18.5,
-      "pointsPlus": 193
+      "adjPts": 18.6,
+      "pointsPlus": 195
     },
     {
       "date": "2025-11-23",
@@ -77,7 +77,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 10.2,
-      "pointsPlus": 106
+      "pointsPlus": 107
     },
     {
       "date": "2025-11-28",
@@ -86,7 +86,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-03",
@@ -95,7 +95,7 @@
       "min": 32,
       "pts": 19,
       "adjPts": 14.4,
-      "pointsPlus": 150
+      "pointsPlus": 151
     },
     {
       "date": "2025-12-09",
@@ -104,7 +104,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 127
+      "pointsPlus": 128
     },
     {
       "date": "2025-12-13",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 13,
       "pts": 6,
-      "adjPts": 5.8,
-      "pointsPlus": 61
+      "adjPts": 5.7,
+      "pointsPlus": 60
     },
     {
       "date": "2025-12-21",
@@ -140,7 +140,7 @@
       "min": 29,
       "pts": 14,
       "adjPts": 14.3,
-      "pointsPlus": 149
+      "pointsPlus": 150
     },
     {
       "date": "2026-01-03",
@@ -149,7 +149,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 15.4,
-      "pointsPlus": 161
+      "pointsPlus": 162
     },
     {
       "date": "2026-01-07",
@@ -158,7 +158,7 @@
       "min": 26,
       "pts": 17,
       "adjPts": 14.9,
-      "pointsPlus": 155
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-10",
@@ -167,7 +167,7 @@
       "min": 32,
       "pts": 16,
       "adjPts": 16.5,
-      "pointsPlus": 172
+      "pointsPlus": 173
     },
     {
       "date": "2026-01-13",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 14,
       "pts": 10,
-      "adjPts": 11.7,
-      "pointsPlus": 122
+      "adjPts": 11.5,
+      "pointsPlus": 120
     },
     {
       "date": "2026-01-17",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 10.5,
-      "pointsPlus": 109
+      "adjPts": 10.3,
+      "pointsPlus": 108
     },
     {
       "date": "2026-01-20",
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 18,
       "pts": 9,
-      "adjPts": 8.7,
+      "adjPts": 8.6,
       "pointsPlus": 90
     },
     {
@@ -212,7 +212,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 11.0,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-02-04",
@@ -221,7 +221,7 @@
       "min": 12,
       "pts": 9,
       "adjPts": 9.4,
-      "pointsPlus": 98
+      "pointsPlus": 99
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 23,
       "pts": 13,
-      "adjPts": 13.1,
-      "pointsPlus": 137
+      "adjPts": 13.2,
+      "pointsPlus": 139
     },
     {
       "date": "2026-02-11",
@@ -239,7 +239,7 @@
       "min": 27,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 61
+      "pointsPlus": 62
     },
     {
       "date": "2026-02-14",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 31,
       "pts": 10,
-      "adjPts": 12.1,
-      "pointsPlus": 126
+      "adjPts": 12.2,
+      "pointsPlus": 128
     },
     {
       "date": "2026-02-18",
@@ -257,7 +257,16 @@
       "min": 27,
       "pts": 8,
       "adjPts": 7.4,
-      "pointsPlus": 77
+      "pointsPlus": 78
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "CLEM vs FSU",
+      "result": "L",
+      "min": 32,
+      "pts": 12,
+      "adjPts": 11.0,
+      "pointsPlus": 115
     }
   ]
 }

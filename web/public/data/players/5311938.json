@@ -4,17 +4,17 @@
   "team": "WVU",
   "teamName": "West Virginia Mountaineers",
   "conference": "Big 12",
-  "rank": 454,
-  "gp": 26,
-  "ppg": 6.2,
-  "adjPpg": 6.6,
+  "rank": 456,
+  "gp": 27,
+  "ppg": 6.1,
+  "adjPpg": 6.5,
   "pointsPlus": 68,
   "mpg": 16.4,
   "position": "F",
   "jersey": "5",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 65.8,
-  "volatilityPctile": 82,
+  "pointsPlusStdDev": 64.8,
+  "volatilityPctile": 80,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -32,7 +32,7 @@
       "min": 23,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-09",
@@ -50,7 +50,7 @@
       "min": 23,
       "pts": 10,
       "adjPts": 11.0,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2025-11-17",
@@ -59,7 +59,7 @@
       "min": 28,
       "pts": 25,
       "adjPts": 25.0,
-      "pointsPlus": 260
+      "pointsPlus": 262
     },
     {
       "date": "2025-11-21",
@@ -95,7 +95,7 @@
       "min": 10,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-12-06",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 19,
       "pts": 10,
-      "adjPts": 11.7,
-      "pointsPlus": 122
+      "adjPts": 11.6,
+      "pointsPlus": 121
     },
     {
       "date": "2026-01-06",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 14,
       "pts": 5,
-      "adjPts": 5.7,
+      "adjPts": 5.6,
       "pointsPlus": 59
     },
     {
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 22,
       "pts": 16,
-      "adjPts": 20.9,
+      "adjPts": 20.7,
       "pointsPlus": 217
     },
     {
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 19,
       "pts": 5,
-      "adjPts": 4.5,
-      "pointsPlus": 47
+      "adjPts": 4.6,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-24",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 23,
       "pts": 14,
-      "adjPts": 16.8,
-      "pointsPlus": 175
+      "adjPts": 16.7,
+      "pointsPlus": 176
     },
     {
       "date": "2026-02-08",
@@ -239,7 +239,7 @@
       "min": 15,
       "pts": 1,
       "adjPts": 0.9,
-      "pointsPlus": 9
+      "pointsPlus": 10
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,17 @@
       "result": "L",
       "min": 10,
       "pts": 2,
-      "adjPts": 1.8,
+      "adjPts": 1.9,
       "pointsPlus": 19
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "WVU @ TCU",
+      "result": "L",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 5.2,
+      "pointsPlus": 55
     }
   ]
 }

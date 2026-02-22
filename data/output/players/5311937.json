@@ -4,16 +4,16 @@
   "team": "UTAH",
   "teamName": "Utah Utes",
   "conference": "Big 12",
-  "rank": 644,
-  "gp": 25,
+  "rank": 648,
+  "gp": 26,
   "ppg": 2.5,
   "adjPpg": 2.5,
   "pointsPlus": 26,
-  "mpg": 16.1,
+  "mpg": 16.2,
   "position": "G",
   "jersey": "21",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 30.1,
+  "pointsPlusStdDev": 29.8,
   "volatilityPctile": 4,
   "gameLog": [
     {
@@ -41,7 +41,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-15",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 19,
       "pts": 6,
-      "adjPts": 5.5,
-      "pointsPlus": 57
+      "adjPts": 5.4,
+      "pointsPlus": 56
     },
     {
       "date": "2025-12-20",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 17,
       "pts": 4,
-      "adjPts": 4.1,
-      "pointsPlus": 43
+      "adjPts": 4.2,
+      "pointsPlus": 44
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 14,
       "pts": 5,
-      "adjPts": 5.2,
-      "pointsPlus": 54
+      "adjPts": 5.3,
+      "pointsPlus": 55
     },
     {
       "date": "2026-01-07",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 14,
       "pts": 4,
-      "adjPts": 3.7,
-      "pointsPlus": 39
+      "adjPts": 3.8,
+      "pointsPlus": 40
     },
     {
       "date": "2026-01-14",
@@ -167,7 +167,7 @@
       "min": 21,
       "pts": 7,
       "adjPts": 7.0,
-      "pointsPlus": 73
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 19,
       "pts": 5,
-      "adjPts": 5.1,
-      "pointsPlus": 53
+      "adjPts": 5.2,
+      "pointsPlus": 55
     },
     {
       "date": "2026-01-20",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 16,
       "pts": 4,
-      "adjPts": 3.5,
+      "adjPts": 3.4,
       "pointsPlus": 36
     },
     {
@@ -240,6 +240,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "UTAH vs UCF",
+      "result": "L",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
     }
   ]
 }

@@ -4,16 +4,16 @@
   "team": "MISS",
   "teamName": "Ole Miss Rebels",
   "conference": "SEC",
-  "rank": 596,
-  "gp": 25,
-  "ppg": 4.2,
-  "adjPpg": 4.0,
-  "pointsPlus": 41,
-  "mpg": 13.4,
+  "rank": 607,
+  "gp": 26,
+  "ppg": 4.0,
+  "adjPpg": 3.8,
+  "pointsPlus": 40,
+  "mpg": 13.0,
   "position": "G",
   "jersey": "8",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 42.5,
+  "pointsPlusStdDev": 42.4,
   "volatilityPctile": 22,
   "gameLog": [
     {
@@ -68,7 +68,7 @@
       "min": 20,
       "pts": 5,
       "adjPts": 6.2,
-      "pointsPlus": 64
+      "pointsPlus": 65
     },
     {
       "date": "2025-11-26",
@@ -95,7 +95,7 @@
       "min": 7,
       "pts": 1,
       "adjPts": 1.0,
-      "pointsPlus": 10
+      "pointsPlus": 11
     },
     {
       "date": "2025-12-13",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 19,
       "pts": 11,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 98
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 14,
       "pts": 7,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.7,
+      "pointsPlus": 70
     },
     {
       "date": "2026-01-14",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 13,
       "pts": 5,
-      "adjPts": 4.6,
+      "adjPts": 4.5,
       "pointsPlus": 47
     },
     {
@@ -212,7 +212,7 @@
       "min": 16,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2026-02-07",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 29,
       "pts": 16,
-      "adjPts": 15.0,
-      "pointsPlus": 156
+      "adjPts": 14.8,
+      "pointsPlus": 155
     },
     {
       "date": "2026-02-11",
@@ -230,7 +230,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 9.1,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,17 @@
       "result": "L",
       "min": 31,
       "pts": 6,
-      "adjPts": 5.5,
-      "pointsPlus": 57
+      "adjPts": 5.4,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "MISS vs FLA",
+      "result": "L",
+      "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

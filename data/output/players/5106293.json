@@ -4,17 +4,17 @@
   "team": "OU",
   "teamName": "Oklahoma Sooners",
   "conference": "SEC",
-  "rank": 486,
-  "gp": 26,
-  "ppg": 6.2,
-  "adjPpg": 5.9,
-  "pointsPlus": 62,
-  "mpg": 20.8,
+  "rank": 479,
+  "gp": 27,
+  "ppg": 6.4,
+  "adjPpg": 6.1,
+  "pointsPlus": 64,
+  "mpg": 21.0,
   "position": "F",
   "jersey": "5",
   "classYear": "Senior",
   "pointsPlusStdDev": 53.5,
-  "volatilityPctile": 52,
+  "volatilityPctile": 50,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 25,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-08",
@@ -59,7 +59,7 @@
       "min": 23,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-23",
@@ -86,7 +86,7 @@
       "min": 33,
       "pts": 11,
       "adjPts": 10.2,
-      "pointsPlus": 106
+      "pointsPlus": 107
     },
     {
       "date": "2025-12-06",
@@ -104,7 +104,7 @@
       "min": 24,
       "pts": 5,
       "adjPts": 4.2,
-      "pointsPlus": 43
+      "pointsPlus": 44
     },
     {
       "date": "2025-12-16",
@@ -122,7 +122,7 @@
       "min": 24,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-29",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 29,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 107
+      "adjPts": 10.1,
+      "pointsPlus": 106
     },
     {
       "date": "2026-01-07",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 17,
       "pts": 5,
-      "adjPts": 4.2,
-      "pointsPlus": 44
+      "adjPts": 4.3,
+      "pointsPlus": 45
     },
     {
       "date": "2026-01-13",
@@ -176,7 +176,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 4.5,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-20",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 16,
       "pts": 7,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.7,
+      "pointsPlus": 70
     },
     {
       "date": "2026-01-24",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 28,
       "pts": 9,
-      "adjPts": 7.7,
+      "adjPts": 7.6,
       "pointsPlus": 80
     },
     {
@@ -230,7 +230,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 9.4,
-      "pointsPlus": 98
+      "pointsPlus": 99
     },
     {
       "date": "2026-02-14",
@@ -249,6 +249,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "OU vs TA&M",
+      "result": "L",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 10.3,
+      "pointsPlus": 108
     }
   ]
 }

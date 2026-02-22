@@ -4,17 +4,17 @@
   "team": "CIN",
   "teamName": "Cincinnati Bearcats",
   "conference": "Big 12",
-  "rank": 203,
-  "gp": 16,
-  "ppg": 11.4,
-  "adjPpg": 11.8,
-  "pointsPlus": 123,
-  "mpg": 30.2,
+  "rank": 216,
+  "gp": 17,
+  "ppg": 11.0,
+  "adjPpg": 11.5,
+  "pointsPlus": 120,
+  "mpg": 29.5,
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 63.2,
-  "volatilityPctile": 78,
+  "pointsPlusStdDev": 63.5,
+  "volatilityPctile": 77,
   "gameLog": [
     {
       "date": "2025-12-17",
@@ -23,7 +23,7 @@
       "min": 20,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-12-21",
@@ -32,7 +32,7 @@
       "min": 29,
       "pts": 10,
       "adjPts": 12.2,
-      "pointsPlus": 127
+      "pointsPlus": 128
     },
     {
       "date": "2025-12-29",
@@ -41,7 +41,7 @@
       "min": 25,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2026-01-03",
@@ -59,7 +59,7 @@
       "min": 29,
       "pts": 8,
       "adjPts": 10.6,
-      "pointsPlus": 110
+      "pointsPlus": 112
     },
     {
       "date": "2026-01-11",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 35,
       "pts": 14,
-      "adjPts": 12.7,
-      "pointsPlus": 133
+      "adjPts": 12.8,
+      "pointsPlus": 134
     },
     {
       "date": "2026-01-14",
@@ -77,7 +77,7 @@
       "min": 31,
       "pts": 6,
       "adjPts": 5.4,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2026-01-17",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 30,
       "pts": 15,
-      "adjPts": 17.5,
-      "pointsPlus": 183
+      "adjPts": 17.4,
+      "pointsPlus": 182
     },
     {
       "date": "2026-01-21",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 27,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.5,
       "pointsPlus": 57
     },
     {
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 36,
       "pts": 17,
-      "adjPts": 15.6,
-      "pointsPlus": 162
+      "adjPts": 15.7,
+      "pointsPlus": 164
     },
     {
       "date": "2026-01-31",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 35,
       "pts": 18,
-      "adjPts": 23.8,
-      "pointsPlus": 248
+      "adjPts": 23.9,
+      "pointsPlus": 251
     },
     {
       "date": "2026-02-08",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 34,
       "pts": 15,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.7,
+      "pointsPlus": 144
     },
     {
       "date": "2026-02-11",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 32,
       "pts": 24,
-      "adjPts": 20.8,
-      "pointsPlus": 216
+      "adjPts": 20.5,
+      "pointsPlus": 215
     },
     {
       "date": "2026-02-15",
@@ -158,7 +158,16 @@
       "min": 29,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 38
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "CIN @ KU",
+      "result": "W",
+      "min": 19,
+      "pts": 5,
+      "adjPts": 5.6,
+      "pointsPlus": 59
     }
   ]
 }

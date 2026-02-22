@@ -4,17 +4,17 @@
   "team": "TTU",
   "teamName": "Texas Tech Red Raiders",
   "conference": "Big 12",
-  "rank": 167,
-  "gp": 26,
-  "ppg": 12.5,
-  "adjPpg": 12.7,
-  "pointsPlus": 132,
-  "mpg": 34.2,
+  "rank": 157,
+  "gp": 27,
+  "ppg": 13.0,
+  "adjPpg": 13.0,
+  "pointsPlus": 137,
+  "mpg": 34.3,
   "position": "G",
   "jersey": "12",
   "classYear": "Senior",
-  "pointsPlusStdDev": 56.5,
-  "volatilityPctile": 61,
+  "pointsPlusStdDev": 59.0,
+  "volatilityPctile": 67,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -23,7 +23,7 @@
       "min": 36,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 229
+      "pointsPlus": 231
     },
     {
       "date": "2025-11-07",
@@ -32,7 +32,7 @@
       "min": 35,
       "pts": 19,
       "adjPts": 19.0,
-      "pointsPlus": 198
+      "pointsPlus": 199
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 34,
       "pts": 3,
       "adjPts": 3.2,
-      "pointsPlus": 34
+      "pointsPlus": 33
     },
     {
       "date": "2025-11-14",
@@ -50,7 +50,7 @@
       "min": 37,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-11-20",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 22,
       "pts": 9,
-      "adjPts": 9.5,
-      "pointsPlus": 99
+      "adjPts": 9.6,
+      "pointsPlus": 100
     },
     {
       "date": "2025-11-26",
@@ -77,7 +77,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-30",
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 32,
       "pts": 9,
-      "adjPts": 8.5,
+      "adjPts": 8.4,
       "pointsPlus": 88
     },
     {
@@ -113,7 +113,7 @@
       "min": 34,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 40,
       "pts": 5,
       "adjPts": 6.1,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2025-12-28",
@@ -131,7 +131,7 @@
       "min": 36,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-03",
@@ -140,7 +140,7 @@
       "min": 33,
       "pts": 15,
       "adjPts": 12.5,
-      "pointsPlus": 130
+      "pointsPlus": 131
     },
     {
       "date": "2026-01-06",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 39,
       "pts": 13,
-      "adjPts": 16.9,
-      "pointsPlus": 177
+      "adjPts": 16.8,
+      "pointsPlus": 176
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 35,
       "pts": 17,
-      "adjPts": 15.3,
-      "pointsPlus": 159
+      "adjPts": 15.4,
+      "pointsPlus": 161
     },
     {
       "date": "2026-01-14",
@@ -167,7 +167,7 @@
       "min": 37,
       "pts": 12,
       "adjPts": 11.1,
-      "pointsPlus": 115
+      "pointsPlus": 117
     },
     {
       "date": "2026-01-17",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 31,
       "pts": 21,
-      "adjPts": 19.2,
-      "pointsPlus": 200
+      "adjPts": 19.4,
+      "pointsPlus": 203
     },
     {
       "date": "2026-01-24",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 37,
       "pts": 18,
-      "adjPts": 23.5,
+      "adjPts": 23.3,
       "pointsPlus": 244
     },
     {
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 37,
       "pts": 11,
-      "adjPts": 10.0,
-      "pointsPlus": 104
+      "adjPts": 10.1,
+      "pointsPlus": 105
     },
     {
       "date": "2026-02-02",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 40,
       "pts": 12,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.4,
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-08",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 40,
       "pts": 15,
-      "adjPts": 19.8,
-      "pointsPlus": 206
+      "adjPts": 20.0,
+      "pointsPlus": 209
     },
     {
       "date": "2026-02-11",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 30,
       "pts": 20,
-      "adjPts": 18.0,
-      "pointsPlus": 187
+      "adjPts": 18.1,
+      "pointsPlus": 190
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 44,
       "pts": 11,
-      "adjPts": 11.5,
-      "pointsPlus": 120
+      "adjPts": 11.6,
+      "pointsPlus": 121
     },
     {
       "date": "2026-02-17",
@@ -248,7 +248,16 @@
       "min": 38,
       "pts": 12,
       "adjPts": 10.9,
-      "pointsPlus": 113
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "TTU vs KSU",
+      "result": "W",
+      "min": 38,
+      "pts": 26,
+      "adjPts": 22.2,
+      "pointsPlus": 233
     }
   ]
 }

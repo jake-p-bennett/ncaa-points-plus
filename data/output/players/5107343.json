@@ -4,17 +4,17 @@
   "team": "CAL",
   "teamName": "California Golden Bears",
   "conference": "ACC",
-  "rank": 632,
-  "gp": 16,
-  "ppg": 3.0,
-  "adjPpg": 3.1,
-  "pointsPlus": 32,
-  "mpg": 14.8,
+  "rank": 639,
+  "gp": 17,
+  "ppg": 2.8,
+  "adjPpg": 2.9,
+  "pointsPlus": 30,
+  "mpg": 14.3,
   "position": "G",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 21.8,
-  "volatilityPctile": 1,
+  "pointsPlusStdDev": 22.7,
+  "volatilityPctile": 2,
   "gameLog": [
     {
       "date": "2025-11-25",
@@ -22,7 +22,7 @@
       "result": "W",
       "min": 16,
       "pts": 4,
-      "adjPts": 4.3,
+      "adjPts": 4.2,
       "pointsPlus": 44
     },
     {
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 14,
       "pts": 3,
-      "adjPts": 2.9,
+      "adjPts": 3.0,
       "pointsPlus": 31
     },
     {
@@ -95,7 +95,7 @@
       "min": 14,
       "pts": 5,
       "adjPts": 5.2,
-      "pointsPlus": 54
+      "pointsPlus": 55
     },
     {
       "date": "2026-01-24",
@@ -104,7 +104,7 @@
       "min": 11,
       "pts": 7,
       "adjPts": 7.3,
-      "pointsPlus": 76
+      "pointsPlus": 77
     },
     {
       "date": "2026-01-28",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 17,
       "pts": 5,
-      "adjPts": 4.5,
-      "pointsPlus": 47
+      "adjPts": 4.6,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-31",
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 16,
       "pts": 6,
-      "adjPts": 5.8,
+      "adjPts": 5.7,
       "pointsPlus": 60
     },
     {
@@ -154,6 +154,15 @@
     {
       "date": "2026-02-14",
       "matchup": "CAL @ BC",
+      "result": "W",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "CAL vs STAN",
       "result": "W",
       "min": 7,
       "pts": 0,

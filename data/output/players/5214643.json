@@ -4,7 +4,7 @@
   "team": "COLO",
   "teamName": "Colorado Buffaloes",
   "conference": "Big 12",
-  "rank": 555,
+  "rank": 553,
   "gp": 24,
   "ppg": 4.7,
   "adjPpg": 4.7,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "15",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 41.6,
-  "volatilityPctile": 20,
+  "pointsPlusStdDev": 41.9,
+  "volatilityPctile": 21,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 14,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-14",
@@ -41,7 +41,7 @@
       "min": 19,
       "pts": 6,
       "adjPts": 4.6,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2025-11-17",
@@ -59,7 +59,7 @@
       "min": 24,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-11-27",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 28,
       "pts": 11,
-      "adjPts": 11.4,
-      "pointsPlus": 119
+      "adjPts": 11.5,
+      "pointsPlus": 121
     },
     {
       "date": "2025-12-01",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 26,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.5,
       "pointsPlus": 57
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 10,
       "pts": 6,
-      "adjPts": 7.9,
-      "pointsPlus": 83
+      "adjPts": 8.0,
+      "pointsPlus": 84
     },
     {
       "date": "2026-01-20",
@@ -212,7 +212,7 @@
       "min": 5,
       "pts": 3,
       "adjPts": 3.1,
-      "pointsPlus": 32
+      "pointsPlus": 33
     },
     {
       "date": "2026-02-04",

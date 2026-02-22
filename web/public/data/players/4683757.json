@@ -4,17 +4,17 @@
   "team": "GT",
   "teamName": "Georgia Tech Yellow Jackets",
   "conference": "ACC",
-  "rank": 79,
-  "gp": 25,
-  "ppg": 15.1,
-  "adjPpg": 15.5,
-  "pointsPlus": 162,
-  "mpg": 30.1,
+  "rank": 84,
+  "gp": 26,
+  "ppg": 14.7,
+  "adjPpg": 15.1,
+  "pointsPlus": 159,
+  "mpg": 29.7,
   "position": "F",
   "jersey": "14",
   "classYear": "Senior",
-  "pointsPlusStdDev": 65.7,
-  "volatilityPctile": 82,
+  "pointsPlusStdDev": 67.4,
+  "volatilityPctile": 85,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 42,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-07",
@@ -32,7 +32,7 @@
       "min": 24,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 188
+      "pointsPlus": 189
     },
     {
       "date": "2025-11-10",
@@ -41,7 +41,7 @@
       "min": 33,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-14",
@@ -50,7 +50,7 @@
       "min": 28,
       "pts": 12,
       "adjPts": 10.2,
-      "pointsPlus": 106
+      "pointsPlus": 107
     },
     {
       "date": "2025-11-18",
@@ -68,7 +68,7 @@
       "min": 31,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 188
+      "pointsPlus": 189
     },
     {
       "date": "2025-11-28",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 34,
       "pts": 23,
-      "adjPts": 20.9,
-      "pointsPlus": 218
+      "adjPts": 20.6,
+      "pointsPlus": 216
     },
     {
       "date": "2025-12-06",
@@ -95,7 +95,7 @@
       "min": 25,
       "pts": 23,
       "adjPts": 23.0,
-      "pointsPlus": 240
+      "pointsPlus": 241
     },
     {
       "date": "2025-12-16",
@@ -104,7 +104,7 @@
       "min": 33,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-20",
@@ -113,7 +113,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-12-28",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 35,
       "pts": 23,
-      "adjPts": 27.9,
-      "pointsPlus": 291
+      "adjPts": 28.0,
+      "pointsPlus": 294
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 26,
       "pts": 16,
-      "adjPts": 18.7,
-      "pointsPlus": 195
+      "adjPts": 18.3,
+      "pointsPlus": 192
     },
     {
       "date": "2026-01-06",
@@ -149,7 +149,7 @@
       "min": 37,
       "pts": 11,
       "adjPts": 11.3,
-      "pointsPlus": 117
+      "pointsPlus": 118
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 37,
       "pts": 23,
-      "adjPts": 24.1,
-      "pointsPlus": 251
+      "adjPts": 23.8,
+      "pointsPlus": 249
     },
     {
       "date": "2026-01-14",
@@ -167,7 +167,7 @@
       "min": 29,
       "pts": 11,
       "adjPts": 12.1,
-      "pointsPlus": 126
+      "pointsPlus": 127
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 38,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 209
+      "pointsPlus": 211
     },
     {
       "date": "2026-01-24",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 39,
       "pts": 19,
-      "adjPts": 23.2,
-      "pointsPlus": 241
+      "adjPts": 23.1,
+      "pointsPlus": 242
     },
     {
       "date": "2026-01-27",
@@ -194,7 +194,7 @@
       "min": 26,
       "pts": 8,
       "adjPts": 7.9,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-31",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 30,
       "pts": 14,
-      "adjPts": 14.6,
-      "pointsPlus": 152
+      "adjPts": 14.7,
+      "pointsPlus": 154
     },
     {
       "date": "2026-02-04",
@@ -221,7 +221,7 @@
       "min": 30,
       "pts": 18,
       "adjPts": 16.7,
-      "pointsPlus": 174
+      "pointsPlus": 175
     },
     {
       "date": "2026-02-14",
@@ -230,7 +230,7 @@
       "min": 31,
       "pts": 16,
       "adjPts": 16.5,
-      "pointsPlus": 172
+      "pointsPlus": 173
     },
     {
       "date": "2026-02-18",
@@ -238,8 +238,17 @@
       "result": "L",
       "min": 29,
       "pts": 12,
-      "adjPts": 13.4,
-      "pointsPlus": 139
+      "adjPts": 13.2,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "GT @ LOU",
+      "result": "L",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 5.9,
+      "pointsPlus": 62
     }
   ]
 }

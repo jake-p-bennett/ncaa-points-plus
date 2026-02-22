@@ -4,16 +4,16 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 597,
-  "gp": 10,
-  "ppg": 3.7,
-  "adjPpg": 4.0,
-  "pointsPlus": 41,
-  "mpg": 13.8,
+  "rank": 617,
+  "gp": 11,
+  "ppg": 3.4,
+  "adjPpg": 3.6,
+  "pointsPlus": 38,
+  "mpg": 13.5,
   "position": "F",
   "jersey": "41",
   "classYear": "Senior",
-  "pointsPlusStdDev": 44.2,
+  "pointsPlusStdDev": 44.5,
   "volatilityPctile": 27,
   "gameLog": [
     {
@@ -22,8 +22,8 @@
       "result": "L",
       "min": 16,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 106
+      "adjPts": 10.3,
+      "pointsPlus": 108
     },
     {
       "date": "2026-01-17",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 24,
       "pts": 12,
-      "adjPts": 12.4,
-      "pointsPlus": 129
+      "adjPts": 12.5,
+      "pointsPlus": 131
     },
     {
       "date": "2026-01-29",
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 20,
       "pts": 2,
-      "adjPts": 2.2,
+      "adjPts": 2.1,
       "pointsPlus": 22
     },
     {
@@ -68,7 +68,7 @@
       "min": 13,
       "pts": 4,
       "adjPts": 4.2,
-      "pointsPlus": 43
+      "pointsPlus": 44
     },
     {
       "date": "2026-02-04",
@@ -105,6 +105,15 @@
       "pts": 4,
       "adjPts": 4.8,
       "pointsPlus": 50
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "WASH @ MD",
+      "result": "L",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

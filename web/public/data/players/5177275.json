@@ -4,17 +4,17 @@
   "team": "HALL",
   "teamName": "Seton Hall Pirates",
   "conference": "Big East",
-  "rank": 181,
-  "gp": 27,
-  "ppg": 12.7,
-  "adjPpg": 12.4,
-  "pointsPlus": 129,
-  "mpg": 30.0,
+  "rank": 191,
+  "gp": 28,
+  "ppg": 12.5,
+  "adjPpg": 12.2,
+  "pointsPlus": 128,
+  "mpg": 30.2,
   "position": "G",
   "jersey": "0",
   "classYear": "Junior",
-  "pointsPlusStdDev": 66.3,
-  "volatilityPctile": 83,
+  "pointsPlusStdDev": 67.2,
+  "volatilityPctile": 85,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 25,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-07",
@@ -50,7 +50,7 @@
       "min": 29,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-18",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 36,
       "pts": 18,
-      "adjPts": 16.7,
-      "pointsPlus": 174
+      "adjPts": 16.8,
+      "pointsPlus": 176
     },
     {
       "date": "2025-11-26",
@@ -95,7 +95,7 @@
       "min": 31,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-06",
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 31,
       "pts": 10,
-      "adjPts": 8.7,
+      "adjPts": 8.5,
       "pointsPlus": 90
     },
     {
@@ -113,7 +113,7 @@
       "min": 31,
       "pts": 16,
       "adjPts": 16.2,
-      "pointsPlus": 169
+      "pointsPlus": 170
     },
     {
       "date": "2025-12-19",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 32,
       "pts": 9,
-      "adjPts": 6.8,
-      "pointsPlus": 71
+      "adjPts": 6.9,
+      "pointsPlus": 73
     },
     {
       "date": "2025-12-23",
@@ -140,7 +140,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 127
+      "pointsPlus": 128
     },
     {
       "date": "2026-01-04",
@@ -149,7 +149,7 @@
       "min": 29,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 81
+      "pointsPlus": 82
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 31,
       "pts": 22,
-      "adjPts": 22.2,
-      "pointsPlus": 232
+      "adjPts": 22.8,
+      "pointsPlus": 239
     },
     {
       "date": "2026-01-13",
@@ -167,7 +167,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-17",
@@ -185,7 +185,7 @@
       "min": 32,
       "pts": 3,
       "adjPts": 3.0,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 34,
       "pts": 14,
       "adjPts": 15.9,
-      "pointsPlus": 166
+      "pointsPlus": 167
     },
     {
       "date": "2026-01-28",
@@ -203,7 +203,7 @@
       "min": 36,
       "pts": 24,
       "adjPts": 21.6,
-      "pointsPlus": 225
+      "pointsPlus": 227
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 34,
       "pts": 19,
       "adjPts": 17.9,
-      "pointsPlus": 186
+      "pointsPlus": 187
     },
     {
       "date": "2026-02-04",
@@ -221,7 +221,7 @@
       "min": 35,
       "pts": 18,
       "adjPts": 19.5,
-      "pointsPlus": 203
+      "pointsPlus": 204
     },
     {
       "date": "2026-02-07",
@@ -230,7 +230,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 203
+      "pointsPlus": 205
     },
     {
       "date": "2026-02-11",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 36,
       "pts": 31,
-      "adjPts": 23.5,
-      "pointsPlus": 245
+      "adjPts": 23.9,
+      "pointsPlus": 250
     },
     {
       "date": "2026-02-15",
@@ -257,7 +257,16 @@
       "min": 36,
       "pts": 19,
       "adjPts": 21.6,
-      "pointsPlus": 225
+      "pointsPlus": 226
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "HALL vs GTWN",
+      "result": "W",
+      "min": 36,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 65
     }
   ]
 }

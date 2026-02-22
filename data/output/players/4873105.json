@@ -4,17 +4,17 @@
   "team": "VT",
   "teamName": "Virginia Tech Hokies",
   "conference": "ACC",
-  "rank": 165,
-  "gp": 27,
+  "rank": 168,
+  "gp": 28,
   "ppg": 12.6,
-  "adjPpg": 12.8,
+  "adjPpg": 12.7,
   "pointsPlus": 133,
   "mpg": 30.7,
   "position": "G",
   "jersey": "3",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 70.4,
-  "volatilityPctile": 88,
+  "pointsPlusStdDev": 69.0,
+  "volatilityPctile": 87,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -31,8 +31,8 @@
       "result": "W",
       "min": 20,
       "pts": 8,
-      "adjPts": 6.1,
-      "pointsPlus": 63
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2025-11-12",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 31,
       "pts": 16,
-      "adjPts": 15.5,
-      "pointsPlus": 162
+      "adjPts": 15.3,
+      "pointsPlus": 161
     },
     {
       "date": "2025-12-06",
@@ -104,7 +104,7 @@
       "min": 23,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-11",
@@ -113,7 +113,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-14",
@@ -122,7 +122,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-20",
@@ -131,7 +131,7 @@
       "min": 44,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-31",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 42,
       "pts": 30,
-      "adjPts": 33.4,
-      "pointsPlus": 348
+      "adjPts": 32.9,
+      "pointsPlus": 345
     },
     {
       "date": "2026-01-03",
@@ -149,7 +149,7 @@
       "min": 27,
       "pts": 14,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-07",
@@ -158,7 +158,7 @@
       "min": 24,
       "pts": 14,
       "adjPts": 14.6,
-      "pointsPlus": 152
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-10",
@@ -167,7 +167,7 @@
       "min": 29,
       "pts": 6,
       "adjPts": 6.1,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 35,
       "pts": 11,
-      "adjPts": 9.6,
-      "pointsPlus": 100
+      "adjPts": 9.7,
+      "pointsPlus": 101
     },
     {
       "date": "2026-01-17",
@@ -185,7 +185,7 @@
       "min": 33,
       "pts": 16,
       "adjPts": 16.5,
-      "pointsPlus": 172
+      "pointsPlus": 173
     },
     {
       "date": "2026-01-21",
@@ -194,7 +194,7 @@
       "min": 37,
       "pts": 24,
       "adjPts": 24.6,
-      "pointsPlus": 256
+      "pointsPlus": 258
     },
     {
       "date": "2026-01-24",
@@ -203,7 +203,7 @@
       "min": 36,
       "pts": 18,
       "adjPts": 17.7,
-      "pointsPlus": 184
+      "pointsPlus": 186
     },
     {
       "date": "2026-01-27",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 37,
       "pts": 20,
-      "adjPts": 19.2,
-      "pointsPlus": 201
+      "adjPts": 19.1,
+      "pointsPlus": 200
     },
     {
       "date": "2026-01-31",
@@ -221,7 +221,7 @@
       "min": 40,
       "pts": 11,
       "adjPts": 13.4,
-      "pointsPlus": 139
+      "pointsPlus": 140
     },
     {
       "date": "2026-02-07",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 34,
       "pts": 19,
-      "adjPts": 23.2,
-      "pointsPlus": 241
+      "adjPts": 23.1,
+      "pointsPlus": 242
     },
     {
       "date": "2026-02-14",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 35,
       "pts": 16,
-      "adjPts": 14.5,
-      "pointsPlus": 151
+      "adjPts": 14.6,
+      "pointsPlus": 153
     },
     {
       "date": "2026-02-17",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 39,
       "pts": 10,
-      "adjPts": 10.5,
-      "pointsPlus": 109
+      "adjPts": 10.3,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "VT vs WAKE",
+      "result": "W",
+      "min": 31,
+      "pts": 12,
+      "adjPts": 11.1,
+      "pointsPlus": 117
     }
   ]
 }

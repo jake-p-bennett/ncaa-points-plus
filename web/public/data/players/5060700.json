@@ -4,17 +4,17 @@
   "team": "HOU",
   "teamName": "Houston Cougars",
   "conference": "Big 12",
-  "rank": 388,
-  "gp": 26,
+  "rank": 389,
+  "gp": 27,
   "ppg": 7.6,
   "adjPpg": 7.7,
   "pointsPlus": 80,
-  "mpg": 22.6,
+  "mpg": 22.4,
   "position": "F",
   "jersey": "11",
   "classYear": "Junior",
-  "pointsPlusStdDev": 40.4,
-  "volatilityPctile": 18,
+  "pointsPlusStdDev": 40.1,
+  "volatilityPctile": 17,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 29,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-12",
@@ -49,7 +49,7 @@
       "result": "W",
       "min": 22,
       "pts": 4,
-      "adjPts": 3.4,
+      "adjPts": 3.5,
       "pointsPlus": 36
     },
     {
@@ -59,7 +59,7 @@
       "min": 20,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-24",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 33,
       "pts": 7,
-      "adjPts": 7.5,
-      "pointsPlus": 78
+      "adjPts": 7.6,
+      "pointsPlus": 79
     },
     {
       "date": "2025-11-26",
@@ -86,7 +86,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-12-06",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 18,
       "pts": 6,
-      "adjPts": 5.4,
-      "pointsPlus": 57
+      "adjPts": 5.5,
+      "pointsPlus": 58
     },
     {
       "date": "2025-12-10",
@@ -131,7 +131,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-03",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 34,
       "pts": 11,
-      "adjPts": 11.1,
-      "pointsPlus": 115
+      "adjPts": 11.0,
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 24,
       "pts": 12,
-      "adjPts": 11.0,
-      "pointsPlus": 114
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-13",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 13.2,
-      "pointsPlus": 138
+      "adjPts": 13.3,
+      "pointsPlus": 139
     },
     {
       "date": "2026-01-18",
@@ -176,7 +176,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 10.9,
-      "pointsPlus": 113
+      "pointsPlus": 115
     },
     {
       "date": "2026-01-24",
@@ -212,7 +212,7 @@
       "min": 14,
       "pts": 7,
       "adjPts": 6.4,
-      "pointsPlus": 66
+      "pointsPlus": 67
     },
     {
       "date": "2026-02-07",
@@ -221,7 +221,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 9.4,
-      "pointsPlus": 98
+      "pointsPlus": 99
     },
     {
       "date": "2026-02-10",
@@ -247,8 +247,17 @@
       "result": "L",
       "min": 28,
       "pts": 4,
-      "adjPts": 4.7,
+      "adjPts": 4.6,
       "pointsPlus": 49
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "HOU vs ARIZ",
+      "result": "L",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 7.4,
+      "pointsPlus": 77
     }
   ]
 }

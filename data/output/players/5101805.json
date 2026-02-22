@@ -4,7 +4,7 @@
   "team": "ALA",
   "teamName": "Alabama Crimson Tide",
   "conference": "SEC",
-  "rank": 628,
+  "rank": 632,
   "gp": 10,
   "ppg": 3.3,
   "adjPpg": 3.3,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "4",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 46.4,
+  "pointsPlusStdDev": 46.8,
   "volatilityPctile": 33,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 5,
       "pts": 3,
       "adjPts": 3.2,
-      "pointsPlus": 34
+      "pointsPlus": 33
     },
     {
       "date": "2025-11-24",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 16,
       "pts": 12,
-      "adjPts": 11.5,
-      "pointsPlus": 120
+      "adjPts": 11.7,
+      "pointsPlus": 122
     },
     {
       "date": "2025-12-03",

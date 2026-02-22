@@ -4,17 +4,17 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 493,
+  "rank": 492,
   "gp": 17,
   "ppg": 5.6,
   "adjPpg": 5.8,
-  "pointsPlus": 60,
+  "pointsPlus": 61,
   "mpg": 16.5,
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 65.0,
-  "volatilityPctile": 81,
+  "pointsPlusStdDev": 66.0,
+  "volatilityPctile": 83,
   "gameLog": [
     {
       "date": "2025-11-07",
@@ -22,8 +22,8 @@
       "result": "L",
       "min": 27,
       "pts": 19,
-      "adjPts": 19.2,
-      "pointsPlus": 200
+      "adjPts": 19.7,
+      "pointsPlus": 206
     },
     {
       "date": "2025-11-24",
@@ -32,7 +32,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-25",
@@ -59,7 +59,7 @@
       "min": 26,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-12-06",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 21,
       "pts": 15,
-      "adjPts": 15.3,
-      "pointsPlus": 160
+      "adjPts": 15.4,
+      "pointsPlus": 162
     },
     {
       "date": "2025-12-20",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 13.4,
-      "pointsPlus": 139
+      "adjPts": 13.2,
+      "pointsPlus": 138
     },
     {
       "date": "2025-12-28",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 15,
       "pts": 2,
-      "adjPts": 2.1,
-      "pointsPlus": 22
+      "adjPts": 2.0,
+      "pointsPlus": 21
     },
     {
       "date": "2026-01-10",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 12,
       "pts": 5,
-      "adjPts": 5.3,
-      "pointsPlus": 56
+      "adjPts": 5.2,
+      "pointsPlus": 55
     },
     {
       "date": "2026-01-13",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 19,
       "pts": 6,
-      "adjPts": 6.5,
-      "pointsPlus": 67
+      "adjPts": 6.3,
+      "pointsPlus": 66
     },
     {
       "date": "2026-01-24",

@@ -4,17 +4,17 @@
   "team": "CREI",
   "teamName": "Creighton Bluejays",
   "conference": "Big East",
-  "rank": 533,
-  "gp": 15,
-  "ppg": 4.9,
-  "adjPpg": 5.0,
-  "pointsPlus": 52,
-  "mpg": 13.1,
+  "rank": 543,
+  "gp": 16,
+  "ppg": 4.8,
+  "adjPpg": 4.9,
+  "pointsPlus": 51,
+  "mpg": 13.2,
   "position": "G",
   "jersey": "10",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 52.7,
-  "volatilityPctile": 49,
+  "pointsPlusStdDev": 51.7,
+  "volatilityPctile": 44,
   "gameLog": [
     {
       "date": "2025-11-19",
@@ -31,8 +31,8 @@
       "result": "L",
       "min": 23,
       "pts": 16,
-      "adjPts": 14.6,
-      "pointsPlus": 153
+      "adjPts": 14.8,
+      "pointsPlus": 155
     },
     {
       "date": "2025-11-25",
@@ -40,7 +40,7 @@
       "result": "L",
       "min": 20,
       "pts": 12,
-      "adjPts": 14.0,
+      "adjPts": 13.9,
       "pointsPlus": 146
     },
     {
@@ -50,7 +50,7 @@
       "min": 13,
       "pts": 3,
       "adjPts": 3.1,
-      "pointsPlus": 32
+      "pointsPlus": 33
     },
     {
       "date": "2026-01-04",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 10,
       "pts": 6,
-      "adjPts": 6.0,
-      "pointsPlus": 62
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-16",
@@ -86,7 +86,7 @@
       "min": 10,
       "pts": 8,
       "adjPts": 7.2,
-      "pointsPlus": 75
+      "pointsPlus": 76
     },
     {
       "date": "2026-01-27",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 24,
       "pts": 8,
-      "adjPts": 8.1,
-      "pointsPlus": 84
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-02-07",
@@ -140,7 +140,7 @@
       "min": 22,
       "pts": 8,
       "adjPts": 8.7,
-      "pointsPlus": 90
+      "pointsPlus": 91
     },
     {
       "date": "2026-02-18",
@@ -150,6 +150,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "CREI @ SJU",
+      "result": "L",
+      "min": 15,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 32
     }
   ]
 }

@@ -4,16 +4,16 @@
   "team": "SC",
   "teamName": "South Carolina Gamecocks",
   "conference": "SEC",
-  "rank": 282,
-  "gp": 26,
-  "ppg": 10.5,
-  "adjPpg": 10.1,
-  "pointsPlus": 105,
-  "mpg": 17.5,
+  "rank": 272,
+  "gp": 27,
+  "ppg": 10.7,
+  "adjPpg": 10.2,
+  "pointsPlus": 107,
+  "mpg": 17.6,
   "position": "F",
   "jersey": "31",
   "classYear": "Junior",
-  "pointsPlusStdDev": 70.8,
+  "pointsPlusStdDev": 70.2,
   "volatilityPctile": 88,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 18,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-21",
@@ -68,7 +68,7 @@
       "min": 20,
       "pts": 16,
       "adjPts": 16.7,
-      "pointsPlus": 174
+      "pointsPlus": 175
     },
     {
       "date": "2025-11-28",
@@ -77,7 +77,7 @@
       "min": 16,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 229
+      "pointsPlus": 231
     },
     {
       "date": "2025-12-02",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 25,
       "pts": 18,
-      "adjPts": 17.7,
-      "pointsPlus": 184
+      "adjPts": 17.8,
+      "pointsPlus": 187
     },
     {
       "date": "2025-12-06",
@@ -95,7 +95,7 @@
       "min": 16,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-13",
@@ -122,7 +122,7 @@
       "min": 16,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-30",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 20,
       "pts": 17,
-      "adjPts": 15.9,
-      "pointsPlus": 166
+      "adjPts": 16.0,
+      "pointsPlus": 168
     },
     {
       "date": "2026-01-06",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 25,
       "pts": 30,
-      "adjPts": 28.3,
-      "pointsPlus": 295
+      "adjPts": 28.0,
+      "pointsPlus": 293
     },
     {
       "date": "2026-01-10",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 19,
       "pts": 9,
-      "adjPts": 7.7,
+      "adjPts": 7.6,
       "pointsPlus": 80
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 26,
       "pts": 10,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.7,
+      "pointsPlus": 91
     },
     {
       "date": "2026-01-20",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 28,
       "pts": 17,
-      "adjPts": 15.1,
-      "pointsPlus": 158
+      "adjPts": 15.2,
+      "pointsPlus": 159
     },
     {
       "date": "2026-01-24",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 23,
       "pts": 12,
-      "adjPts": 11.3,
-      "pointsPlus": 118
+      "adjPts": 11.2,
+      "pointsPlus": 117
     },
     {
       "date": "2026-02-03",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 17,
       "pts": 12,
-      "adjPts": 11.2,
-      "pointsPlus": 117
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 19,
       "pts": 12,
-      "adjPts": 11.7,
-      "pointsPlus": 122
+      "adjPts": 11.5,
+      "pointsPlus": 120
     },
     {
       "date": "2026-02-14",
@@ -239,7 +239,7 @@
       "min": 12,
       "pts": 4,
       "adjPts": 3.0,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2026-02-17",
@@ -248,7 +248,16 @@
       "min": 16,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "SC vs MSST",
+      "result": "W",
+      "min": 21,
+      "pts": 16,
+      "adjPts": 14.3,
+      "pointsPlus": 150
     }
   ]
 }

@@ -4,16 +4,16 @@
   "team": "ASU",
   "teamName": "Arizona State Sun Devils",
   "conference": "Big 12",
-  "rank": 511,
-  "gp": 26,
-  "ppg": 5.7,
-  "adjPpg": 5.5,
-  "pointsPlus": 57,
-  "mpg": 16.8,
+  "rank": 506,
+  "gp": 27,
+  "ppg": 5.9,
+  "adjPpg": 5.6,
+  "pointsPlus": 59,
+  "mpg": 16.9,
   "position": "F",
   "jersey": "23",
   "classYear": "Senior",
-  "pointsPlusStdDev": 37.5,
+  "pointsPlusStdDev": 37.8,
   "volatilityPctile": 12,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 19,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-14",
@@ -59,7 +59,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-24",
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 16,
       "pts": 5,
-      "adjPts": 4.7,
+      "adjPts": 4.6,
       "pointsPlus": 49
     },
     {
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 14,
       "pts": 9,
-      "adjPts": 8.0,
+      "adjPts": 8.1,
       "pointsPlus": 84
     },
     {
@@ -104,7 +104,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-13",
@@ -113,7 +113,7 @@
       "min": 14,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-12-17",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 29,
       "pts": 16,
-      "adjPts": 14.4,
-      "pointsPlus": 150
+      "adjPts": 14.5,
+      "pointsPlus": 152
     },
     {
       "date": "2026-01-07",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 20,
       "pts": 4,
-      "adjPts": 3.7,
-      "pointsPlus": 39
+      "adjPts": 3.8,
+      "pointsPlus": 40
     },
     {
       "date": "2026-01-10",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 8.7,
+      "adjPts": 8.5,
       "pointsPlus": 90
     },
     {
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 12,
       "pts": 2,
-      "adjPts": 2.6,
+      "adjPts": 2.7,
       "pointsPlus": 28
     },
     {
@@ -203,7 +203,7 @@
       "min": 19,
       "pts": 9,
       "adjPts": 8.2,
-      "pointsPlus": 85
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-31",
@@ -221,7 +221,7 @@
       "min": 19,
       "pts": 7,
       "adjPts": 6.5,
-      "pointsPlus": 67
+      "pointsPlus": 68
     },
     {
       "date": "2026-02-07",
@@ -230,7 +230,7 @@
       "min": 19,
       "pts": 4,
       "adjPts": 3.6,
-      "pointsPlus": 37
+      "pointsPlus": 38
     },
     {
       "date": "2026-02-10",
@@ -248,7 +248,16 @@
       "min": 14,
       "pts": 1,
       "adjPts": 1.0,
-      "pointsPlus": 10
+      "pointsPlus": 11
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "ASU @ BAY",
+      "result": "L",
+      "min": 18,
+      "pts": 10,
+      "adjPts": 9.2,
+      "pointsPlus": 97
     }
   ]
 }

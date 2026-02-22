@@ -4,16 +4,16 @@
   "team": "ARIZ",
   "teamName": "Arizona Wildcats",
   "conference": "Big 12",
-  "rank": 248,
-  "gp": 26,
-  "ppg": 10.8,
-  "adjPpg": 10.7,
-  "pointsPlus": 112,
+  "rank": 260,
+  "gp": 27,
+  "ppg": 10.6,
+  "adjPpg": 10.5,
+  "pointsPlus": 110,
   "mpg": 24.5,
   "position": "C",
   "jersey": "13",
   "classYear": "Junior",
-  "pointsPlusStdDev": 55.3,
+  "pointsPlusStdDev": 55.5,
   "volatilityPctile": 57,
   "gameLog": [
     {
@@ -41,7 +41,7 @@
       "min": 17,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-14",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 34,
       "pts": 10,
-      "adjPts": 10.7,
-      "pointsPlus": 111
+      "adjPts": 10.4,
+      "pointsPlus": 109
     },
     {
       "date": "2025-11-19",
@@ -59,7 +59,7 @@
       "min": 29,
       "pts": 9,
       "adjPts": 10.5,
-      "pointsPlus": 109
+      "pointsPlus": 110
     },
     {
       "date": "2025-11-24",
@@ -77,7 +77,7 @@
       "min": 26,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-12-06",
@@ -86,7 +86,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 6.9,
-      "pointsPlus": 72
+      "pointsPlus": 73
     },
     {
       "date": "2025-12-13",
@@ -95,7 +95,7 @@
       "min": 29,
       "pts": 14,
       "adjPts": 10.6,
-      "pointsPlus": 110
+      "pointsPlus": 111
     },
     {
       "date": "2025-12-16",
@@ -104,7 +104,7 @@
       "min": 18,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 18,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-29",
@@ -131,7 +131,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-03",
@@ -140,7 +140,7 @@
       "min": 17,
       "pts": 7,
       "adjPts": 6.5,
-      "pointsPlus": 67
+      "pointsPlus": 68
     },
     {
       "date": "2026-01-07",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 29,
       "pts": 25,
-      "adjPts": 21.6,
-      "pointsPlus": 225
+      "adjPts": 21.4,
+      "pointsPlus": 224
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 27,
       "pts": 8,
-      "adjPts": 8.2,
-      "pointsPlus": 85
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 30,
       "pts": 17,
-      "adjPts": 15.5,
-      "pointsPlus": 161
+      "adjPts": 15.6,
+      "pointsPlus": 163
     },
     {
       "date": "2026-01-21",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 30,
       "pts": 17,
-      "adjPts": 20.4,
+      "adjPts": 20.3,
       "pointsPlus": 213
     },
     {
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 23,
       "pts": 11,
-      "adjPts": 14.5,
-      "pointsPlus": 151
+      "adjPts": 14.6,
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-26",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 23,
       "pts": 15,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.7,
+      "pointsPlus": 143
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 31,
       "pts": 14,
-      "adjPts": 15.9,
-      "pointsPlus": 165
+      "adjPts": 15.7,
+      "pointsPlus": 164
     },
     {
       "date": "2026-02-14",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 38,
       "pts": 10,
-      "adjPts": 10.1,
+      "adjPts": 10.0,
       "pointsPlus": 105
     },
     {
@@ -249,6 +249,15 @@
       "pts": 5,
       "adjPts": 4.7,
       "pointsPlus": 49
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "ARIZ @ HOU",
+      "result": "W",
+      "min": 25,
+      "pts": 4,
+      "adjPts": 5.2,
+      "pointsPlus": 54
     }
   ]
 }

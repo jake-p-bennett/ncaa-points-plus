@@ -4,16 +4,16 @@
   "team": "CLEM",
   "teamName": "Clemson Tigers",
   "conference": "ACC",
-  "rank": 518,
-  "gp": 27,
-  "ppg": 5.3,
-  "adjPpg": 5.4,
-  "pointsPlus": 56,
+  "rank": 516,
+  "gp": 28,
+  "ppg": 5.5,
+  "adjPpg": 5.5,
+  "pointsPlus": 57,
   "mpg": 19.0,
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 40.7,
+  "pointsPlusStdDev": 40.6,
   "volatilityPctile": 18,
   "gameLog": [
     {
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 22,
       "pts": 11,
-      "adjPts": 14.5,
-      "pointsPlus": 151
+      "adjPts": 14.6,
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-23",
@@ -104,7 +104,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 9.4,
-      "pointsPlus": 98
+      "pointsPlus": 99
     },
     {
       "date": "2025-12-13",
@@ -149,7 +149,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 11.0,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-07",
@@ -158,7 +158,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 7.9,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-10",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 20,
       "pts": 7,
-      "adjPts": 8.2,
-      "pointsPlus": 85
+      "adjPts": 8.0,
+      "pointsPlus": 84
     },
     {
       "date": "2026-01-17",
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 19,
       "pts": 8,
-      "adjPts": 7.7,
+      "adjPts": 7.6,
       "pointsPlus": 80
     },
     {
@@ -212,7 +212,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.8,
-      "pointsPlus": 92
+      "pointsPlus": 93
     },
     {
       "date": "2026-02-04",
@@ -230,7 +230,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 6.1,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2026-02-11",
@@ -258,6 +258,15 @@
       "pts": 7,
       "adjPts": 6.5,
       "pointsPlus": 68
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "CLEM vs FSU",
+      "result": "L",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 8.2,
+      "pointsPlus": 86
     }
   ]
 }

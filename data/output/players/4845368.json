@@ -4,17 +4,17 @@
   "team": "MIA",
   "teamName": "Miami Hurricanes",
   "conference": "ACC",
-  "rank": 214,
-  "gp": 22,
-  "ppg": 11.5,
-  "adjPpg": 11.6,
-  "pointsPlus": 120,
-  "mpg": 28.0,
+  "rank": 206,
+  "gp": 23,
+  "ppg": 11.7,
+  "adjPpg": 11.8,
+  "pointsPlus": 123,
+  "mpg": 27.8,
   "position": "G",
   "jersey": "10",
   "classYear": "Junior",
-  "pointsPlusStdDev": 46.5,
-  "volatilityPctile": 33,
+  "pointsPlusStdDev": 47.0,
+  "volatilityPctile": 34,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 32,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-06",
@@ -32,7 +32,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-10",
@@ -41,7 +41,7 @@
       "min": 21,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-11-16",
@@ -59,7 +59,7 @@
       "min": 31,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 188
+      "pointsPlus": 189
     },
     {
       "date": "2025-11-27",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 28,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 179
+      "adjPts": 17.6,
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-02",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 35,
       "pts": 17,
-      "adjPts": 17.4,
-      "pointsPlus": 181
+      "adjPts": 17.1,
+      "pointsPlus": 179
     },
     {
       "date": "2025-12-06",
@@ -95,7 +95,7 @@
       "min": 35,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-13",
@@ -104,7 +104,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-16",
@@ -113,7 +113,7 @@
       "min": 27,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-21",
@@ -131,7 +131,7 @@
       "min": 33,
       "pts": 11,
       "adjPts": 12.1,
-      "pointsPlus": 126
+      "pointsPlus": 127
     },
     {
       "date": "2026-01-07",
@@ -176,7 +176,7 @@
       "min": 20,
       "pts": 3,
       "adjPts": 2.7,
-      "pointsPlus": 28
+      "pointsPlus": 29
     },
     {
       "date": "2026-01-24",
@@ -185,7 +185,7 @@
       "min": 29,
       "pts": 14,
       "adjPts": 14.3,
-      "pointsPlus": 149
+      "pointsPlus": 150
     },
     {
       "date": "2026-01-28",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 26,
       "pts": 12,
-      "adjPts": 12.5,
-      "pointsPlus": 130
+      "adjPts": 12.6,
+      "pointsPlus": 132
     },
     {
       "date": "2026-02-14",
@@ -211,8 +211,17 @@
       "result": "W",
       "min": 22,
       "pts": 3,
-      "adjPts": 2.9,
+      "adjPts": 3.0,
       "pointsPlus": 31
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "MIA @ UVA",
+      "result": "L",
+      "min": 23,
+      "pts": 15,
+      "adjPts": 16.5,
+      "pointsPlus": 173
     }
   ]
 }

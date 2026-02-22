@@ -4,17 +4,17 @@
   "team": "HOU",
   "teamName": "Houston Cougars",
   "conference": "Big 12",
-  "rank": 316,
-  "gp": 26,
-  "ppg": 9.5,
+  "rank": 313,
+  "gp": 27,
+  "ppg": 9.6,
   "adjPpg": 9.4,
-  "pointsPlus": 98,
-  "mpg": 24.7,
+  "pointsPlus": 99,
+  "mpg": 25.0,
   "position": "F",
   "jersey": "5",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 45.2,
-  "volatilityPctile": 29,
+  "pointsPlusStdDev": 44.8,
+  "volatilityPctile": 28,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-08",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 26,
       "pts": 18,
-      "adjPts": 15.5,
-      "pointsPlus": 162
+      "adjPts": 15.6,
+      "pointsPlus": 163
     },
     {
       "date": "2025-11-20",
@@ -59,7 +59,7 @@
       "min": 15,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-24",
@@ -68,7 +68,7 @@
       "min": 30,
       "pts": 8,
       "adjPts": 8.2,
-      "pointsPlus": 85
+      "pointsPlus": 86
     },
     {
       "date": "2025-11-25",
@@ -77,7 +77,7 @@
       "min": 33,
       "pts": 5,
       "adjPts": 5.4,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2025-11-26",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 28,
       "pts": 15,
-      "adjPts": 13.6,
-      "pointsPlus": 141
+      "adjPts": 13.7,
+      "pointsPlus": 144
     },
     {
       "date": "2025-12-10",
@@ -113,7 +113,7 @@
       "min": 17,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-20",
@@ -121,7 +121,7 @@
       "result": "W",
       "min": 23,
       "pts": 9,
-      "adjPts": 7.7,
+      "adjPts": 7.6,
       "pointsPlus": 80
     },
     {
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 31,
       "pts": 11,
-      "adjPts": 11.1,
-      "pointsPlus": 115
+      "adjPts": 11.0,
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-10",
@@ -158,7 +158,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 10.1,
-      "pointsPlus": 105
+      "pointsPlus": 106
     },
     {
       "date": "2026-01-13",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 28,
       "pts": 7,
-      "adjPts": 9.2,
-      "pointsPlus": 96
+      "adjPts": 9.3,
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-18",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 27,
       "pts": 18,
-      "adjPts": 16.3,
-      "pointsPlus": 170
+      "adjPts": 16.4,
+      "pointsPlus": 172
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 34,
       "pts": 8,
-      "adjPts": 8.2,
-      "pointsPlus": 85
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-31",
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 26,
       "pts": 13,
-      "adjPts": 15.6,
+      "adjPts": 15.5,
       "pointsPlus": 163
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 29,
       "pts": 14,
-      "adjPts": 12.7,
-      "pointsPlus": 133
+      "adjPts": 12.8,
+      "pointsPlus": 134
     },
     {
       "date": "2026-02-07",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 29,
       "pts": 16,
-      "adjPts": 15.0,
-      "pointsPlus": 156
+      "adjPts": 15.1,
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-10",
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 18,
       "pts": 6,
-      "adjPts": 5.5,
+      "adjPts": 5.6,
       "pointsPlus": 58
     },
     {
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 23,
       "pts": 9,
-      "adjPts": 7.8,
+      "adjPts": 7.7,
       "pointsPlus": 81
     },
     {
@@ -247,8 +247,17 @@
       "result": "L",
       "min": 25,
       "pts": 7,
-      "adjPts": 8.2,
+      "adjPts": 8.1,
       "pointsPlus": 85
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "HOU vs ARIZ",
+      "result": "L",
+      "min": 33,
+      "pts": 10,
+      "adjPts": 10.5,
+      "pointsPlus": 110
     }
   ]
 }

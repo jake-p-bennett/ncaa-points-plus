@@ -4,17 +4,17 @@
   "team": "ND",
   "teamName": "Notre Dame Fighting Irish",
   "conference": "ACC",
-  "rank": 522,
-  "gp": 25,
-  "ppg": 5.2,
+  "rank": 525,
+  "gp": 26,
+  "ppg": 5.1,
   "adjPpg": 5.2,
   "pointsPlus": 55,
-  "mpg": 15.1,
+  "mpg": 15.3,
   "position": "F",
   "jersey": "6",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 47.5,
-  "volatilityPctile": 35,
+  "pointsPlusStdDev": 46.9,
+  "volatilityPctile": 34,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 15,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-11",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 13,
       "pts": 4,
-      "adjPts": 4.1,
-      "pointsPlus": 43
+      "adjPts": 4.2,
+      "pointsPlus": 44
     },
     {
       "date": "2025-12-10",
@@ -131,7 +131,7 @@
       "min": 8,
       "pts": 7,
       "adjPts": 7.3,
-      "pointsPlus": 76
+      "pointsPlus": 77
     },
     {
       "date": "2026-01-02",
@@ -149,7 +149,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 7.3,
-      "pointsPlus": 76
+      "pointsPlus": 77
     },
     {
       "date": "2026-01-13",
@@ -158,7 +158,7 @@
       "min": 8,
       "pts": 5,
       "adjPts": 5.2,
-      "pointsPlus": 55
+      "pointsPlus": 54
     },
     {
       "date": "2026-01-17",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 22,
       "pts": 17,
-      "adjPts": 16.7,
-      "pointsPlus": 174
+      "adjPts": 16.8,
+      "pointsPlus": 176
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 18,
       "pts": 3,
-      "adjPts": 3.5,
-      "pointsPlus": 37
+      "adjPts": 3.4,
+      "pointsPlus": 36
     },
     {
       "date": "2026-01-27",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 42,
       "pts": 16,
-      "adjPts": 17.8,
-      "pointsPlus": 185
+      "adjPts": 17.6,
+      "pointsPlus": 184
     },
     {
       "date": "2026-01-31",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 19,
       "pts": 4,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
     },
     {
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 23,
       "pts": 11,
-      "adjPts": 9.6,
-      "pointsPlus": 100
+      "adjPts": 9.7,
+      "pointsPlus": 101
     },
     {
       "date": "2026-02-14",
@@ -240,6 +240,15 @@
       "pts": 3,
       "adjPts": 2.9,
       "pointsPlus": 30
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "ND @ PITT",
+      "result": "L",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 4.4,
+      "pointsPlus": 46
     }
   ]
 }

@@ -4,16 +4,16 @@
   "team": "UCF",
   "teamName": "UCF Knights",
   "conference": "Big 12",
-  "rank": 490,
-  "gp": 25,
+  "rank": 491,
+  "gp": 26,
   "ppg": 5.8,
-  "adjPpg": 5.8,
-  "pointsPlus": 61,
-  "mpg": 18.4,
+  "adjPpg": 5.9,
+  "pointsPlus": 62,
+  "mpg": 18.2,
   "position": "F",
   "jersey": "35",
   "classYear": "Senior",
-  "pointsPlusStdDev": 41.5,
+  "pointsPlusStdDev": 41.1,
   "volatilityPctile": 19,
   "gameLog": [
     {
@@ -31,8 +31,8 @@
       "result": "L",
       "min": 31,
       "pts": 12,
-      "adjPts": 11.2,
-      "pointsPlus": 117
+      "adjPts": 11.3,
+      "pointsPlus": 119
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-14",
@@ -68,7 +68,7 @@
       "min": 19,
       "pts": 5,
       "adjPts": 5.5,
-      "pointsPlus": 57
+      "pointsPlus": 58
     },
     {
       "date": "2025-11-25",
@@ -77,7 +77,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-29",
@@ -86,7 +86,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-12-07",
@@ -113,7 +113,7 @@
       "min": 19,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-12-23",
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 17,
       "pts": 8,
-      "adjPts": 9.1,
+      "adjPts": 9.0,
       "pointsPlus": 94
     },
     {
@@ -140,7 +140,7 @@
       "min": 26,
       "pts": 11,
       "adjPts": 9.2,
-      "pointsPlus": 95
+      "pointsPlus": 96
     },
     {
       "date": "2026-01-11",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 25,
       "pts": 11,
-      "adjPts": 9.5,
+      "adjPts": 9.4,
       "pointsPlus": 99
     },
     {
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 27,
       "pts": 8,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 97
     },
     {
@@ -185,7 +185,7 @@
       "min": 25,
       "pts": 11,
       "adjPts": 9.9,
-      "pointsPlus": 103
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-27",
@@ -194,7 +194,7 @@
       "min": 10,
       "pts": 1,
       "adjPts": 0.9,
-      "pointsPlus": 9
+      "pointsPlus": 10
     },
     {
       "date": "2026-01-31",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 25,
       "pts": 5,
-      "adjPts": 6.6,
-      "pointsPlus": 69
+      "adjPts": 6.7,
+      "pointsPlus": 70
     },
     {
       "date": "2026-02-17",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 64
+      "adjPts": 6.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "UCF @ UTAH",
+      "result": "W",
+      "min": 13,
+      "pts": 7,
+      "adjPts": 6.5,
+      "pointsPlus": 68
     }
   ]
 }

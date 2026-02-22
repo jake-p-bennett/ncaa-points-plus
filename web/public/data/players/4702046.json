@@ -4,16 +4,16 @@
   "team": "USC",
   "teamName": "USC Trojans",
   "conference": "Big Ten",
-  "rank": 346,
-  "gp": 14,
-  "ppg": 8.2,
-  "adjPpg": 8.8,
-  "pointsPlus": 92,
-  "mpg": 31.0,
+  "rank": 348,
+  "gp": 15,
+  "ppg": 8.1,
+  "adjPpg": 8.6,
+  "pointsPlus": 90,
+  "mpg": 30.6,
   "position": "G",
   "jersey": "13",
   "classYear": "Senior",
-  "pointsPlusStdDev": 107.7,
+  "pointsPlusStdDev": 104.8,
   "volatilityPctile": 100,
   "gameLog": [
     {
@@ -31,8 +31,8 @@
       "result": "L",
       "min": 16,
       "pts": 2,
-      "adjPts": 2.0,
-      "pointsPlus": 21
+      "adjPts": 2.1,
+      "pointsPlus": 22
     },
     {
       "date": "2026-01-05",
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 22,
       "pts": 6,
-      "adjPts": 5.7,
-      "pointsPlus": 60
+      "adjPts": 5.8,
+      "pointsPlus": 61
     },
     {
       "date": "2026-01-17",
@@ -68,7 +68,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 8.5,
-      "pointsPlus": 88
+      "pointsPlus": 89
     },
     {
       "date": "2026-01-21",
@@ -86,7 +86,7 @@
       "min": 34,
       "pts": 5,
       "adjPts": 4.6,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-01-28",
@@ -95,7 +95,7 @@
       "min": 40,
       "pts": 33,
       "adjPts": 40.8,
-      "pointsPlus": 425
+      "pointsPlus": 428
     },
     {
       "date": "2026-01-31",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 40,
       "pts": 18,
-      "adjPts": 18.6,
-      "pointsPlus": 194
+      "adjPts": 18.4,
+      "pointsPlus": 193
     },
     {
       "date": "2026-02-08",
@@ -131,7 +131,7 @@
       "min": 40,
       "pts": 14,
       "adjPts": 13.8,
-      "pointsPlus": 144
+      "pointsPlus": 145
     },
     {
       "date": "2026-02-18",
@@ -139,8 +139,17 @@
       "result": "L",
       "min": 33,
       "pts": 4,
-      "adjPts": 4.3,
-      "pointsPlus": 45
+      "adjPts": 4.2,
+      "pointsPlus": 44
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "USC vs ORE",
+      "result": "L",
+      "min": 25,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 65
     }
   ]
 }

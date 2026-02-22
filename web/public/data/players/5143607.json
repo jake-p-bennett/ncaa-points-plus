@@ -4,17 +4,17 @@
   "team": "BUT",
   "teamName": "Butler Bulldogs",
   "conference": "Big East",
-  "rank": 427,
-  "gp": 27,
-  "ppg": 6.9,
-  "adjPpg": 7.1,
-  "pointsPlus": 74,
-  "mpg": 19.7,
+  "rank": 436,
+  "gp": 28,
+  "ppg": 6.6,
+  "adjPpg": 6.8,
+  "pointsPlus": 72,
+  "mpg": 19.6,
   "position": "C",
   "jersey": "13",
   "classYear": "Junior",
-  "pointsPlusStdDev": 46.9,
-  "volatilityPctile": 34,
+  "pointsPlusStdDev": 48.6,
+  "volatilityPctile": 37,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -32,7 +32,7 @@
       "min": 14,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-11",
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 18,
       "pts": 8,
-      "adjPts": 7.8,
-      "pointsPlus": 81
+      "adjPts": 7.7,
+      "pointsPlus": 80
     },
     {
       "date": "2025-11-23",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 27,
       "pts": 6,
-      "adjPts": 6.7,
-      "pointsPlus": 70
+      "adjPts": 6.6,
+      "pointsPlus": 69
     },
     {
       "date": "2025-11-28",
@@ -77,7 +77,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-12-02",
@@ -95,7 +95,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-13",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 33,
       "pts": 11,
-      "adjPts": 8.4,
-      "pointsPlus": 87
+      "adjPts": 8.5,
+      "pointsPlus": 89
     },
     {
       "date": "2025-12-16",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 24,
       "pts": 13,
-      "adjPts": 15.1,
-      "pointsPlus": 158
+      "adjPts": 15.2,
+      "pointsPlus": 159
     },
     {
       "date": "2025-12-20",
@@ -131,7 +131,7 @@
       "min": 19,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-30",
@@ -149,7 +149,7 @@
       "min": 19,
       "pts": 9,
       "adjPts": 9.7,
-      "pointsPlus": 101
+      "pointsPlus": 102
     },
     {
       "date": "2026-01-06",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 25,
       "pts": 11,
-      "adjPts": 13.9,
-      "pointsPlus": 145
+      "adjPts": 14.2,
+      "pointsPlus": 148
     },
     {
       "date": "2026-01-20",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 19,
       "pts": 4,
-      "adjPts": 4.0,
+      "adjPts": 4.1,
       "pointsPlus": 42
     },
     {
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 19,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 63
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2026-02-04",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 26,
       "pts": 4,
-      "adjPts": 3.0,
+      "adjPts": 3.1,
       "pointsPlus": 32
     },
     {
@@ -230,7 +230,7 @@
       "min": 16,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 29
+      "pointsPlus": 30
     },
     {
       "date": "2026-02-11",
@@ -239,7 +239,7 @@
       "min": 22,
       "pts": 15,
       "adjPts": 17.5,
-      "pointsPlus": 182
+      "pointsPlus": 184
     },
     {
       "date": "2026-02-15",
@@ -256,8 +256,17 @@
       "result": "W",
       "min": 20,
       "pts": 7,
-      "adjPts": 7.1,
-      "pointsPlus": 74
+      "adjPts": 7.2,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "BUT vs XAV",
+      "result": "W",
+      "min": 15,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

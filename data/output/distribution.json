@@ -9,7 +9,7 @@
     "min": 20,
     "max": 30,
     "label": "20-30",
-    "count": 17
+    "count": 20
   },
   {
     "min": 30,
@@ -21,31 +21,31 @@
     "min": 40,
     "max": 50,
     "label": "40-50",
-    "count": 56
+    "count": 58
   },
   {
     "min": 50,
     "max": 60,
     "label": "50-60",
-    "count": 49
+    "count": 45
   },
   {
     "min": 60,
     "max": 70,
     "label": "60-70",
-    "count": 55
+    "count": 59
   },
   {
     "min": 70,
     "max": 80,
     "label": "70-80",
-    "count": 57
+    "count": 52
   },
   {
     "min": 80,
     "max": 90,
     "label": "80-90",
-    "count": 39
+    "count": 44
   },
   {
     "min": 90,
@@ -63,25 +63,25 @@
     "min": 110,
     "max": 120,
     "label": "110-120",
-    "count": 45
+    "count": 42
   },
   {
     "min": 120,
     "max": 130,
     "label": "120-130",
-    "count": 41
+    "count": 44
   },
   {
     "min": 130,
     "max": 140,
     "label": "130-140",
-    "count": 35
+    "count": 29
   },
   {
     "min": 140,
     "max": 150,
     "label": "140-150",
-    "count": 36
+    "count": 44
   },
   {
     "min": 150,
@@ -93,43 +93,43 @@
     "min": 160,
     "max": 170,
     "label": "160-170",
-    "count": 19
+    "count": 14
   },
   {
     "min": 170,
     "max": 180,
     "label": "170-180",
-    "count": 14
+    "count": 20
   },
   {
     "min": 180,
     "max": 190,
     "label": "180-190",
-    "count": 16
+    "count": 13
   },
   {
     "min": 190,
     "max": 200,
     "label": "190-200",
-    "count": 11
+    "count": 10
   },
   {
     "min": 200,
     "max": 210,
     "label": "200-210",
-    "count": 6
+    "count": 7
   },
   {
     "min": 210,
     "max": 220,
     "label": "210-220",
-    "count": 5
+    "count": 6
   },
   {
     "min": 220,
     "max": 230,
     "label": "220-230",
-    "count": 6
+    "count": 5
   },
   {
     "min": 230,
@@ -147,6 +147,12 @@
     "min": 250,
     "max": 260,
     "label": "250-260",
-    "count": 2
+    "count": 1
+  },
+  {
+    "min": 260,
+    "max": 270,
+    "label": "260-270",
+    "count": 1
   }
 ]

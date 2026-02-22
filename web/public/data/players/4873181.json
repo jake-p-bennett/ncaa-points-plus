@@ -5,16 +5,16 @@
   "teamName": "North Carolina Tar Heels",
   "conference": "ACC",
   "rank": 375,
-  "gp": 26,
+  "gp": 27,
   "ppg": 7.8,
   "adjPpg": 8.0,
-  "pointsPlus": 83,
-  "mpg": 24.2,
+  "pointsPlus": 84,
+  "mpg": 24.4,
   "position": "F",
   "jersey": "15",
   "classYear": "Junior",
-  "pointsPlusStdDev": 52.0,
-  "volatilityPctile": 46,
+  "pointsPlusStdDev": 51.2,
+  "volatilityPctile": 43,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -41,7 +41,7 @@
       "min": 25,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-14",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 31,
       "pts": 3,
-      "adjPts": 3.0,
-      "pointsPlus": 32
+      "adjPts": 3.1,
+      "pointsPlus": 33
     },
     {
       "date": "2025-12-13",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 14,
       "pts": 4,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
     },
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 21,
       "pts": 16,
-      "adjPts": 14.0,
-      "pointsPlus": 146
+      "adjPts": 14.1,
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-10",
@@ -167,7 +167,7 @@
       "min": 27,
       "pts": 7,
       "adjPts": 7.3,
-      "pointsPlus": 76
+      "pointsPlus": 77
     },
     {
       "date": "2026-01-17",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 16,
       "pts": 8,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 16,
       "pts": 17,
-      "adjPts": 18.9,
-      "pointsPlus": 197
+      "adjPts": 18.7,
+      "pointsPlus": 196
     },
     {
       "date": "2026-01-31",
@@ -221,7 +221,7 @@
       "min": 25,
       "pts": 5,
       "adjPts": 6.1,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2026-02-10",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 26,
       "pts": 13,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.4,
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 36,
       "pts": 19,
-      "adjPts": 20.9,
-      "pointsPlus": 218
+      "adjPts": 21.0,
+      "pointsPlus": 220
     },
     {
       "date": "2026-02-17",
@@ -249,6 +249,15 @@
       "pts": 13,
       "adjPts": 12.4,
       "pointsPlus": 130
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "UNC @ SYR",
+      "result": "W",
+      "min": 31,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 75
     }
   ]
 }

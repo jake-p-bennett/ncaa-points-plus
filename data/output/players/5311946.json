@@ -4,16 +4,16 @@
   "team": "BUT",
   "teamName": "Butler Bulldogs",
   "conference": "Big East",
-  "rank": 578,
-  "gp": 20,
-  "ppg": 4.2,
-  "adjPpg": 4.3,
-  "pointsPlus": 45,
-  "mpg": 14.7,
+  "rank": 586,
+  "gp": 21,
+  "ppg": 4.1,
+  "adjPpg": 4.2,
+  "pointsPlus": 44,
+  "mpg": 15.0,
   "position": "F",
   "jersey": "4",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 38.7,
+  "pointsPlusStdDev": 38.8,
   "volatilityPctile": 14,
   "gameLog": [
     {
@@ -68,7 +68,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-30",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 12,
       "pts": 7,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 7.1,
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-14",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 19,
       "pts": 7,
-      "adjPts": 7.1,
-      "pointsPlus": 74
+      "adjPts": 7.2,
+      "pointsPlus": 76
     },
     {
       "date": "2026-02-04",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 24,
       "pts": 7,
-      "adjPts": 5.3,
-      "pointsPlus": 55
+      "adjPts": 5.4,
+      "pointsPlus": 57
     },
     {
       "date": "2026-02-07",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 21,
       "pts": 2,
-      "adjPts": 2.5,
-      "pointsPlus": 26
+      "adjPts": 2.6,
+      "pointsPlus": 27
     },
     {
       "date": "2026-02-18",
@@ -193,8 +193,17 @@
       "result": "W",
       "min": 22,
       "pts": 12,
-      "adjPts": 12.1,
-      "pointsPlus": 126
+      "adjPts": 12.4,
+      "pointsPlus": 130
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "BUT vs XAV",
+      "result": "W",
+      "min": 21,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
     }
   ]
 }

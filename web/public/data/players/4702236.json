@@ -4,17 +4,17 @@
   "team": "USC",
   "teamName": "USC Trojans",
   "conference": "Big Ten",
-  "rank": 642,
-  "gp": 24,
-  "ppg": 2.5,
+  "rank": 645,
+  "gp": 25,
+  "ppg": 2.6,
   "adjPpg": 2.6,
   "pointsPlus": 27,
-  "mpg": 13.9,
+  "mpg": 13.8,
   "position": "F",
   "jersey": "5",
   "classYear": "Senior",
-  "pointsPlusStdDev": 32.9,
-  "volatilityPctile": 7,
+  "pointsPlusStdDev": 32.3,
+  "volatilityPctile": 6,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-14",
@@ -59,7 +59,7 @@
       "min": 29,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-25",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 23,
       "pts": 2,
-      "adjPts": 2.5,
-      "pointsPlus": 26
+      "adjPts": 2.6,
+      "pointsPlus": 27
     },
     {
       "date": "2025-11-26",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 24,
       "pts": 7,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.4,
+      "pointsPlus": 67
     },
     {
       "date": "2025-12-02",
@@ -140,7 +140,7 @@
       "min": 25,
       "pts": 5,
       "adjPts": 5.1,
-      "pointsPlus": 53
+      "pointsPlus": 54
     },
     {
       "date": "2026-01-05",
@@ -229,8 +229,17 @@
       "result": "L",
       "min": 29,
       "pts": 9,
-      "adjPts": 9.7,
-      "pointsPlus": 101
+      "adjPts": 9.5,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "USC vs ORE",
+      "result": "L",
+      "min": 13,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 33
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "ARIZ",
   "teamName": "Arizona Wildcats",
   "conference": "Big 12",
-  "rank": 292,
-  "gp": 26,
-  "ppg": 10.0,
-  "adjPpg": 9.9,
-  "pointsPlus": 103,
-  "mpg": 26.6,
+  "rank": 270,
+  "gp": 27,
+  "ppg": 10.2,
+  "adjPpg": 10.3,
+  "pointsPlus": 108,
+  "mpg": 27.0,
   "position": "F",
   "jersey": "8",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 50.2,
-  "volatilityPctile": 42,
+  "pointsPlusStdDev": 54.1,
+  "volatilityPctile": 52,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -49,7 +49,7 @@
       "result": "W",
       "min": 14,
       "pts": 4,
-      "adjPts": 4.3,
+      "adjPts": 4.2,
       "pointsPlus": 44
     },
     {
@@ -59,7 +59,7 @@
       "min": 30,
       "pts": 8,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2025-11-24",
@@ -68,7 +68,7 @@
       "min": 25,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-29",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 29,
       "pts": 12,
-      "adjPts": 10.3,
-      "pointsPlus": 108
+      "adjPts": 10.4,
+      "pointsPlus": 109
     },
     {
       "date": "2025-12-13",
@@ -113,7 +113,7 @@
       "min": 29,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-22",
@@ -122,7 +122,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-29",
@@ -131,7 +131,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 25,
       "pts": 13,
-      "adjPts": 12.0,
-      "pointsPlus": 125
+      "adjPts": 12.1,
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-07",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 25,
       "pts": 4,
-      "adjPts": 3.5,
+      "adjPts": 3.4,
       "pointsPlus": 36
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 31,
       "pts": 7,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.3,
+      "pointsPlus": 76
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 29,
       "pts": 15,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.7,
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 27,
       "pts": 10,
-      "adjPts": 9.1,
-      "pointsPlus": 95
+      "adjPts": 9.2,
+      "pointsPlus": 96
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 29,
       "pts": 14,
-      "adjPts": 16.8,
-      "pointsPlus": 175
+      "adjPts": 16.7,
+      "pointsPlus": 176
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 21,
       "pts": 7,
-      "adjPts": 9.2,
-      "pointsPlus": 96
+      "adjPts": 9.3,
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-26",
@@ -203,7 +203,7 @@
       "min": 34,
       "pts": 10,
       "adjPts": 9.4,
-      "pointsPlus": 98
+      "pointsPlus": 99
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 10.9,
-      "pointsPlus": 113
+      "pointsPlus": 115
     },
     {
       "date": "2026-02-07",
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 33,
       "pts": 13,
-      "adjPts": 14.7,
+      "adjPts": 14.6,
       "pointsPlus": 153
     },
     {
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 38,
       "pts": 13,
-      "adjPts": 13.1,
-      "pointsPlus": 136
+      "adjPts": 13.0,
+      "pointsPlus": 137
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 35,
       "pts": 18,
-      "adjPts": 16.9,
-      "pointsPlus": 176
+      "adjPts": 17.0,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "ARIZ @ HOU",
+      "result": "W",
+      "min": 39,
+      "pts": 16,
+      "adjPts": 20.7,
+      "pointsPlus": 217
     }
   ]
 }

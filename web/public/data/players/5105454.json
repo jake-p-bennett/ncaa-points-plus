@@ -4,17 +4,17 @@
   "team": "XAV",
   "teamName": "Xavier Musketeers",
   "conference": "Big East",
-  "rank": 235,
-  "gp": 26,
-  "ppg": 10.9,
-  "adjPpg": 11.0,
-  "pointsPlus": 114,
-  "mpg": 32.9,
+  "rank": 224,
+  "gp": 27,
+  "ppg": 11.2,
+  "adjPpg": 11.3,
+  "pointsPlus": 118,
+  "mpg": 33.0,
   "position": "G",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 62.5,
-  "volatilityPctile": 76,
+  "pointsPlusStdDev": 63.7,
+  "volatilityPctile": 77,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 37,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-06",
@@ -32,7 +32,7 @@
       "min": 33,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-11-10",
@@ -50,7 +50,7 @@
       "min": 29,
       "pts": 9,
       "adjPts": 11.1,
-      "pointsPlus": 116
+      "pointsPlus": 117
     },
     {
       "date": "2025-11-18",
@@ -122,7 +122,7 @@
       "min": 34,
       "pts": 14,
       "adjPts": 13.7,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2025-12-20",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 37,
       "pts": 14,
-      "adjPts": 14.2,
-      "pointsPlus": 147
+      "adjPts": 14.5,
+      "pointsPlus": 152
     },
     {
       "date": "2025-12-31",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 36,
       "pts": 16,
-      "adjPts": 18.6,
-      "pointsPlus": 194
+      "adjPts": 18.7,
+      "pointsPlus": 196
     },
     {
       "date": "2026-01-03",
@@ -149,7 +149,7 @@
       "min": 35,
       "pts": 14,
       "adjPts": 15.9,
-      "pointsPlus": 166
+      "pointsPlus": 167
     },
     {
       "date": "2026-01-07",
@@ -158,7 +158,7 @@
       "min": 37,
       "pts": 22,
       "adjPts": 20.7,
-      "pointsPlus": 216
+      "pointsPlus": 217
     },
     {
       "date": "2026-01-10",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 38,
       "pts": 23,
-      "adjPts": 17.5,
-      "pointsPlus": 182
+      "adjPts": 17.7,
+      "pointsPlus": 186
     },
     {
       "date": "2026-01-14",
@@ -176,7 +176,7 @@
       "min": 35,
       "pts": 15,
       "adjPts": 13.8,
-      "pointsPlus": 144
+      "pointsPlus": 145
     },
     {
       "date": "2026-01-21",
@@ -185,7 +185,7 @@
       "min": 39,
       "pts": 12,
       "adjPts": 11.7,
-      "pointsPlus": 122
+      "pointsPlus": 123
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 36,
       "pts": 18,
-      "adjPts": 17.9,
-      "pointsPlus": 187
+      "adjPts": 18.2,
+      "pointsPlus": 191
     },
     {
       "date": "2026-01-28",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 32,
       "pts": 2,
-      "adjPts": 2.5,
-      "pointsPlus": 26
+      "adjPts": 2.6,
+      "pointsPlus": 27
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 35,
       "pts": 13,
       "adjPts": 14.8,
-      "pointsPlus": 154
+      "pointsPlus": 155
     },
     {
       "date": "2026-02-03",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 34,
       "pts": 10,
-      "adjPts": 11.6,
-      "pointsPlus": 121
+      "adjPts": 11.7,
+      "pointsPlus": 122
     },
     {
       "date": "2026-02-09",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 31,
       "pts": 11,
-      "adjPts": 11.0,
-      "pointsPlus": 114
+      "adjPts": 11.1,
+      "pointsPlus": 117
     },
     {
       "date": "2026-02-14",
@@ -239,7 +239,7 @@
       "min": 36,
       "pts": 9,
       "adjPts": 8.5,
-      "pointsPlus": 88
+      "pointsPlus": 89
     },
     {
       "date": "2026-02-17",
@@ -248,7 +248,16 @@
       "min": 41,
       "pts": 15,
       "adjPts": 16.2,
-      "pointsPlus": 169
+      "pointsPlus": 170
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "XAV @ BUT",
+      "result": "L",
+      "min": 35,
+      "pts": 20,
+      "adjPts": 18.4,
+      "pointsPlus": 193
     }
   ]
 }

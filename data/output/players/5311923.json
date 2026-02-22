@@ -4,16 +4,16 @@
   "team": "KSU",
   "teamName": "Kansas State Wildcats",
   "conference": "Big 12",
-  "rank": 560,
-  "gp": 17,
-  "ppg": 4.4,
-  "adjPpg": 4.5,
-  "pointsPlus": 47,
-  "mpg": 12.8,
+  "rank": 550,
+  "gp": 18,
+  "ppg": 4.6,
+  "adjPpg": 4.7,
+  "pointsPlus": 50,
+  "mpg": 13.1,
   "position": "F",
   "jersey": "47",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 37.2,
+  "pointsPlusStdDev": 37.1,
   "volatilityPctile": 11,
   "gameLog": [
     {
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 9,
       "pts": 4,
-      "adjPts": 4.0,
-      "pointsPlus": 42
+      "adjPts": 4.1,
+      "pointsPlus": 43
     },
     {
       "date": "2025-11-17",
@@ -58,7 +58,7 @@
       "result": "W",
       "min": 16,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.3,
       "pointsPlus": 66
     },
     {
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 10,
       "pts": 2,
-      "adjPts": 2.1,
-      "pointsPlus": 22
+      "adjPts": 2.0,
+      "pointsPlus": 21
     },
     {
       "date": "2025-12-08",
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 14,
       "pts": 6,
-      "adjPts": 5.5,
+      "adjPts": 5.6,
       "pointsPlus": 58
     },
     {
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 23,
       "pts": 12,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.4,
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-27",
@@ -149,7 +149,7 @@
       "min": 19,
       "pts": 3,
       "adjPts": 4.0,
-      "pointsPlus": 41
+      "pointsPlus": 42
     },
     {
       "date": "2026-02-01",
@@ -157,7 +157,7 @@
       "result": "L",
       "min": 26,
       "pts": 8,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 97
     },
     {
@@ -166,8 +166,17 @@
       "result": "W",
       "min": 12,
       "pts": 7,
-      "adjPts": 6.4,
-      "pointsPlus": 67
+      "adjPts": 6.5,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "KSU @ TTU",
+      "result": "L",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 84
     }
   ]
 }

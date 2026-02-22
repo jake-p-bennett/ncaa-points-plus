@@ -4,17 +4,17 @@
   "team": "CIN",
   "teamName": "Cincinnati Bearcats",
   "conference": "Big 12",
-  "rank": 653,
-  "gp": 21,
-  "ppg": 2.0,
-  "adjPpg": 2.1,
-  "pointsPlus": 22,
-  "mpg": 13.4,
+  "rank": 658,
+  "gp": 22,
+  "ppg": 1.9,
+  "adjPpg": 2.0,
+  "pointsPlus": 21,
+  "mpg": 13.2,
   "position": "F",
   "jersey": "24",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 20.6,
-  "volatilityPctile": 0,
+  "pointsPlusStdDev": 20.8,
+  "volatilityPctile": 1,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -59,7 +59,7 @@
       "min": 16,
       "pts": 2,
       "adjPts": 2.0,
-      "pointsPlus": 20
+      "pointsPlus": 21
     },
     {
       "date": "2025-11-24",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 9,
       "pts": 6,
-      "adjPts": 7.9,
-      "pointsPlus": 83
+      "adjPts": 8.0,
+      "pointsPlus": 84
     },
     {
       "date": "2026-01-11",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 18,
       "pts": 4,
-      "adjPts": 4.7,
+      "adjPts": 4.6,
       "pointsPlus": 49
     },
     {
@@ -203,7 +203,16 @@
       "min": 10,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 38
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "CIN @ KU",
+      "result": "W",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

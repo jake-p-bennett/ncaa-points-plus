@@ -4,16 +4,16 @@
   "team": "AUB",
   "teamName": "Auburn Tigers",
   "conference": "SEC",
-  "rank": 100,
-  "gp": 26,
-  "ppg": 15.0,
-  "adjPpg": 14.5,
-  "pointsPlus": 151,
-  "mpg": 32.0,
+  "rank": 104,
+  "gp": 27,
+  "ppg": 14.7,
+  "adjPpg": 14.3,
+  "pointsPlus": 150,
+  "mpg": 32.1,
   "position": "G",
   "jersey": "0",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 78.2,
+  "pointsPlusStdDev": 78.3,
   "volatilityPctile": 95,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-11",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 33,
       "pts": 15,
-      "adjPts": 19.6,
-      "pointsPlus": 204
+      "adjPts": 19.4,
+      "pointsPlus": 203
     },
     {
       "date": "2025-11-19",
@@ -68,7 +68,7 @@
       "min": 29,
       "pts": 24,
       "adjPts": 24.9,
-      "pointsPlus": 259
+      "pointsPlus": 261
     },
     {
       "date": "2025-11-25",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 24,
       "pts": 16,
-      "adjPts": 16.4,
-      "pointsPlus": 170
+      "adjPts": 16.5,
+      "pointsPlus": 173
     },
     {
       "date": "2025-11-26",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 37,
       "pts": 27,
-      "adjPts": 26.9,
-      "pointsPlus": 281
+      "adjPts": 27.3,
+      "pointsPlus": 287
     },
     {
       "date": "2025-12-03",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 35,
       "pts": 30,
-      "adjPts": 31.3,
-      "pointsPlus": 327
+      "adjPts": 31.5,
+      "pointsPlus": 330
     },
     {
       "date": "2025-12-13",
@@ -113,7 +113,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 25,
       "pts": 5,
       "adjPts": 5.3,
-      "pointsPlus": 55
+      "pointsPlus": 56
     },
     {
       "date": "2025-12-29",
@@ -140,7 +140,7 @@
       "min": 32,
       "pts": 25,
       "adjPts": 21.2,
-      "pointsPlus": 221
+      "pointsPlus": 222
     },
     {
       "date": "2026-01-06",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 32,
       "pts": 11,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.4,
+      "pointsPlus": 99
     },
     {
       "date": "2026-01-10",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 32,
       "pts": 9,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 33,
       "pts": 9,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-01-20",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 34,
       "pts": 17,
-      "adjPts": 17.4,
-      "pointsPlus": 181
+      "adjPts": 17.1,
+      "pointsPlus": 179
     },
     {
       "date": "2026-01-24",
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 36,
       "pts": 7,
-      "adjPts": 6.6,
+      "adjPts": 6.5,
       "pointsPlus": 68
     },
     {
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 35,
       "pts": 11,
-      "adjPts": 11.8,
-      "pointsPlus": 123
+      "adjPts": 11.9,
+      "pointsPlus": 125
     },
     {
       "date": "2026-02-07",
@@ -221,7 +221,7 @@
       "min": 34,
       "pts": 25,
       "adjPts": 18.9,
-      "pointsPlus": 197
+      "pointsPlus": 198
     },
     {
       "date": "2026-02-10",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 36,
       "pts": 21,
-      "adjPts": 19.7,
-      "pointsPlus": 205
+      "adjPts": 19.8,
+      "pointsPlus": 208
     },
     {
       "date": "2026-02-14",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 38,
       "pts": 29,
-      "adjPts": 24.8,
+      "adjPts": 24.6,
       "pointsPlus": 258
     },
     {
@@ -247,8 +247,17 @@
       "result": "L",
       "min": 36,
       "pts": 21,
-      "adjPts": 19.1,
-      "pointsPlus": 199
+      "adjPts": 18.8,
+      "pointsPlus": 197
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "AUB vs UK",
+      "result": "W",
+      "min": 35,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 94
     }
   ]
 }

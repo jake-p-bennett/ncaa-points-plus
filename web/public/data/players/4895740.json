@@ -5,15 +5,15 @@
   "teamName": "Mississippi State Bulldogs",
   "conference": "SEC",
   "rank": 11,
-  "gp": 26,
-  "ppg": 22.4,
-  "adjPpg": 21.5,
-  "pointsPlus": 224,
-  "mpg": 33.0,
+  "gp": 27,
+  "ppg": 22.0,
+  "adjPpg": 21.1,
+  "pointsPlus": 221,
+  "mpg": 33.1,
   "position": "G",
   "jersey": "12",
   "classYear": "Junior",
-  "pointsPlusStdDev": 97.5,
+  "pointsPlusStdDev": 97.9,
   "volatilityPctile": 100,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 32,
       "pts": 27,
       "adjPts": 27.0,
-      "pointsPlus": 281
+      "pointsPlus": 283
     },
     {
       "date": "2025-11-10",
@@ -31,7 +31,7 @@
       "result": "L",
       "min": 36,
       "pts": 25,
-      "adjPts": 29.2,
+      "adjPts": 29.0,
       "pointsPlus": 304
     },
     {
@@ -41,7 +41,7 @@
       "min": 31,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-20",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 32,
       "pts": 23,
-      "adjPts": 19.9,
-      "pointsPlus": 207
+      "adjPts": 19.7,
+      "pointsPlus": 206
     },
     {
       "date": "2025-11-21",
@@ -59,7 +59,7 @@
       "min": 36,
       "pts": 29,
       "adjPts": 29.0,
-      "pointsPlus": 302
+      "pointsPlus": 304
     },
     {
       "date": "2025-11-24",
@@ -68,7 +68,7 @@
       "min": 41,
       "pts": 28,
       "adjPts": 28.0,
-      "pointsPlus": 292
+      "pointsPlus": 293
     },
     {
       "date": "2025-11-28",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 39,
       "pts": 16,
-      "adjPts": 14.0,
-      "pointsPlus": 146
+      "adjPts": 14.1,
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-03",
@@ -85,7 +85,7 @@
       "result": "W",
       "min": 33,
       "pts": 25,
-      "adjPts": 24.1,
+      "adjPts": 23.9,
       "pointsPlus": 251
     },
     {
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 30,
       "pts": 13,
-      "adjPts": 12.0,
-      "pointsPlus": 125
+      "adjPts": 12.1,
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-16",
@@ -113,7 +113,7 @@
       "min": 35,
       "pts": 34,
       "adjPts": 34.0,
-      "pointsPlus": 354
+      "pointsPlus": 356
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 37,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-12-29",
@@ -131,7 +131,7 @@
       "min": 24,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 229
+      "pointsPlus": 231
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 40,
       "pts": 38,
-      "adjPts": 35.6,
-      "pointsPlus": 370
+      "adjPts": 35.2,
+      "pointsPlus": 369
     },
     {
       "date": "2026-01-07",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 37,
       "pts": 30,
-      "adjPts": 26.7,
-      "pointsPlus": 278
+      "adjPts": 26.8,
+      "pointsPlus": 281
     },
     {
       "date": "2026-01-10",
@@ -158,7 +158,7 @@
       "min": 37,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 209
     },
     {
       "date": "2026-01-13",
@@ -167,7 +167,7 @@
       "min": 33,
       "pts": 23,
       "adjPts": 17.4,
-      "pointsPlus": 181
+      "pointsPlus": 182
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 36,
       "pts": 13,
-      "adjPts": 13.3,
-      "pointsPlus": 139
+      "adjPts": 13.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 31,
       "pts": 12,
-      "adjPts": 10.2,
-      "pointsPlus": 106
+      "adjPts": 10.3,
+      "pointsPlus": 108
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 30,
       "pts": 7,
       "adjPts": 6.6,
-      "pointsPlus": 68
+      "pointsPlus": 69
     },
     {
       "date": "2026-01-28",
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 32,
       "pts": 15,
-      "adjPts": 14.1,
+      "adjPts": 14.0,
       "pointsPlus": 147
     },
     {
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 32,
       "pts": 22,
-      "adjPts": 21.4,
-      "pointsPlus": 223
+      "adjPts": 21.0,
+      "pointsPlus": 221
     },
     {
       "date": "2026-02-07",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 33,
       "pts": 16,
-      "adjPts": 13.7,
-      "pointsPlus": 143
+      "adjPts": 13.6,
+      "pointsPlus": 142
     },
     {
       "date": "2026-02-11",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 33,
       "pts": 31,
-      "adjPts": 33.4,
-      "pointsPlus": 348
+      "adjPts": 33.6,
+      "pointsPlus": 352
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 36,
       "pts": 32,
-      "adjPts": 32.7,
-      "pointsPlus": 341
+      "adjPts": 32.2,
+      "pointsPlus": 338
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 39,
       "pts": 46,
-      "adjPts": 39.6,
-      "pointsPlus": 413
+      "adjPts": 39.9,
+      "pointsPlus": 418
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "MSST @ SC",
+      "result": "L",
+      "min": 37,
+      "pts": 13,
+      "adjPts": 12.4,
+      "pointsPlus": 130
     }
   ]
 }

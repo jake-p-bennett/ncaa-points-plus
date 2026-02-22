@@ -5,15 +5,15 @@
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
   "rank": 5,
-  "gp": 24,
-  "ppg": 22.5,
-  "adjPpg": 22.9,
-  "pointsPlus": 239,
-  "mpg": 34.2,
+  "gp": 25,
+  "ppg": 22.3,
+  "adjPpg": 22.7,
+  "pointsPlus": 238,
+  "mpg": 34.4,
   "position": "G",
   "jersey": "1",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 83.1,
+  "pointsPlusStdDev": 82.8,
   "volatilityPctile": 97,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 33,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 271
+      "pointsPlus": 273
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 33,
       "pts": 29,
       "adjPts": 29.0,
-      "pointsPlus": 302
+      "pointsPlus": 304
     },
     {
       "date": "2025-11-12",
@@ -41,7 +41,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-18",
@@ -50,7 +50,7 @@
       "min": 34,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 271
+      "pointsPlus": 273
     },
     {
       "date": "2025-11-21",
@@ -59,7 +59,7 @@
       "min": 28,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-11-27",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 38,
       "pts": 25,
-      "adjPts": 29.7,
-      "pointsPlus": 310
+      "adjPts": 29.8,
+      "pointsPlus": 313
     },
     {
       "date": "2025-11-28",
@@ -77,7 +77,7 @@
       "min": 35,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-12-01",
@@ -86,7 +86,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-07",
@@ -95,7 +95,7 @@
       "min": 33,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 188
+      "pointsPlus": 189
     },
     {
       "date": "2025-12-20",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 32,
       "pts": 32,
-      "adjPts": 28.8,
-      "pointsPlus": 300
+      "adjPts": 28.9,
+      "pointsPlus": 303
     },
     {
       "date": "2025-12-27",
@@ -113,7 +113,7 @@
       "min": 37,
       "pts": 30,
       "adjPts": 30.0,
-      "pointsPlus": 313
+      "pointsPlus": 314
     },
     {
       "date": "2025-12-30",
@@ -122,7 +122,7 @@
       "min": 35,
       "pts": 7,
       "adjPts": 7.2,
-      "pointsPlus": 75
+      "pointsPlus": 76
     },
     {
       "date": "2026-01-02",
@@ -131,7 +131,7 @@
       "min": 38,
       "pts": 28,
       "adjPts": 27.5,
-      "pointsPlus": 287
+      "pointsPlus": 289
     },
     {
       "date": "2026-01-07",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 38,
       "pts": 31,
-      "adjPts": 30.5,
-      "pointsPlus": 317
+      "adjPts": 30.7,
+      "pointsPlus": 322
     },
     {
       "date": "2026-01-10",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 30,
       "pts": 14,
-      "adjPts": 15.6,
-      "pointsPlus": 162
+      "adjPts": 15.4,
+      "pointsPlus": 161
     },
     {
       "date": "2026-01-14",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 36,
       "pts": 36,
-      "adjPts": 37.5,
-      "pointsPlus": 390
+      "adjPts": 37.7,
+      "pointsPlus": 395
     },
     {
       "date": "2026-01-17",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 31,
       "pts": 9,
-      "adjPts": 10.9,
-      "pointsPlus": 114
+      "adjPts": 11.0,
+      "pointsPlus": 115
     },
     {
       "date": "2026-01-24",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 31,
       "pts": 14,
-      "adjPts": 14.1,
-      "pointsPlus": 147
+      "adjPts": 14.2,
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-28",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 33,
       "pts": 19,
-      "adjPts": 19.9,
-      "pointsPlus": 207
+      "adjPts": 19.7,
+      "pointsPlus": 206
     },
     {
       "date": "2026-01-31",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 36,
       "pts": 26,
-      "adjPts": 23.5,
-      "pointsPlus": 245
+      "adjPts": 23.8,
+      "pointsPlus": 249
     },
     {
       "date": "2026-02-04",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 37,
       "pts": 18,
-      "adjPts": 22.0,
-      "pointsPlus": 229
+      "adjPts": 21.9,
+      "pointsPlus": 230
     },
     {
       "date": "2026-02-07",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 36,
       "pts": 40,
-      "adjPts": 38.5,
+      "adjPts": 38.2,
       "pointsPlus": 401
     },
     {
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 39,
       "pts": 22,
-      "adjPts": 25.7,
-      "pointsPlus": 268
+      "adjPts": 25.2,
+      "pointsPlus": 264
     },
     {
       "date": "2026-02-14",
@@ -230,7 +230,16 @@
       "min": 38,
       "pts": 26,
       "adjPts": 24.1,
-      "pointsPlus": 251
+      "pointsPlus": 253
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "STAN @ CAL",
+      "result": "L",
+      "min": 40,
+      "pts": 17,
+      "adjPts": 17.3,
+      "pointsPlus": 181
     }
   ]
 }

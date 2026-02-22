@@ -4,17 +4,17 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 130,
-  "gp": 26,
-  "ppg": 13.9,
-  "adjPpg": 13.7,
-  "pointsPlus": 143,
-  "mpg": 27.9,
+  "rank": 136,
+  "gp": 27,
+  "ppg": 13.8,
+  "adjPpg": 13.6,
+  "pointsPlus": 142,
+  "mpg": 28.0,
   "position": "G",
   "jersey": "0",
   "classYear": "Junior",
-  "pointsPlusStdDev": 54.6,
-  "volatilityPctile": 54,
+  "pointsPlusStdDev": 54.2,
+  "volatilityPctile": 52,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 22,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-05",
@@ -32,7 +32,7 @@
       "min": 22,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-09",
@@ -41,7 +41,7 @@
       "min": 22,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-11-14",
@@ -49,7 +49,7 @@
       "result": "W",
       "min": 24,
       "pts": 18,
-      "adjPts": 17.3,
+      "adjPts": 17.2,
       "pointsPlus": 180
     },
     {
@@ -59,7 +59,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-21",
@@ -68,7 +68,7 @@
       "min": 29,
       "pts": 16,
       "adjPts": 14.4,
-      "pointsPlus": 150
+      "pointsPlus": 151
     },
     {
       "date": "2025-11-23",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 36,
       "pts": 19,
-      "adjPts": 23.2,
-      "pointsPlus": 241
+      "adjPts": 23.1,
+      "pointsPlus": 242
     },
     {
       "date": "2025-11-29",
@@ -86,7 +86,7 @@
       "min": 22,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-02",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 28,
       "pts": 17,
-      "adjPts": 15.4,
-      "pointsPlus": 160
+      "adjPts": 15.5,
+      "pointsPlus": 163
     },
     {
       "date": "2025-12-13",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 34,
       "pts": 22,
-      "adjPts": 26.4,
-      "pointsPlus": 275
+      "adjPts": 26.3,
+      "pointsPlus": 276
     },
     {
       "date": "2025-12-18",
@@ -122,7 +122,7 @@
       "min": 22,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-12-29",
@@ -131,7 +131,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 36,
       "pts": 15,
-      "adjPts": 12.9,
-      "pointsPlus": 135
+      "adjPts": 13.0,
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-06",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 9.7,
-      "pointsPlus": 101
+      "adjPts": 9.6,
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-14",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 21,
       "pts": 3,
-      "adjPts": 3.1,
+      "adjPts": 3.0,
       "pointsPlus": 32
     },
     {
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 31,
       "pts": 18,
-      "adjPts": 15.4,
+      "adjPts": 15.3,
       "pointsPlus": 160
     },
     {
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 33,
       "pts": 8,
-      "adjPts": 7.8,
-      "pointsPlus": 81
+      "adjPts": 7.7,
+      "pointsPlus": 80
     },
     {
       "date": "2026-01-24",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 24,
       "pts": 5,
-      "adjPts": 4.7,
+      "adjPts": 4.6,
       "pointsPlus": 49
     },
     {
@@ -203,7 +203,7 @@
       "min": 35,
       "pts": 9,
       "adjPts": 9.7,
-      "pointsPlus": 101
+      "pointsPlus": 102
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 28,
       "pts": 14,
-      "adjPts": 11.9,
-      "pointsPlus": 124
+      "adjPts": 12.0,
+      "pointsPlus": 126
     },
     {
       "date": "2026-02-07",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 98
     },
     {
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 34,
       "pts": 20,
-      "adjPts": 17.8,
-      "pointsPlus": 186
+      "adjPts": 17.9,
+      "pointsPlus": 188
     },
     {
       "date": "2026-02-17",
@@ -248,7 +248,16 @@
       "min": 32,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 209
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "UGA vs TEX",
+      "result": "W",
+      "min": 32,
+      "pts": 12,
+      "adjPts": 11.1,
+      "pointsPlus": 116
     }
   ]
 }

@@ -5,16 +5,16 @@
   "teamName": "Mississippi State Bulldogs",
   "conference": "SEC",
   "rank": 616,
-  "gp": 26,
-  "ppg": 3.7,
+  "gp": 27,
+  "ppg": 3.8,
   "adjPpg": 3.6,
-  "pointsPlus": 37,
-  "mpg": 19.6,
+  "pointsPlus": 38,
+  "mpg": 19.5,
   "position": "F",
   "jersey": "0",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 37.1,
-  "volatilityPctile": 11,
+  "pointsPlusStdDev": 36.3,
+  "volatilityPctile": 10,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -85,7 +85,7 @@
       "result": "W",
       "min": 26,
       "pts": 11,
-      "adjPts": 10.6,
+      "adjPts": 10.5,
       "pointsPlus": 110
     },
     {
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 22,
       "pts": 2,
-      "adjPts": 1.8,
+      "adjPts": 1.9,
       "pointsPlus": 19
     },
     {
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 25,
       "pts": 8,
-      "adjPts": 7.1,
-      "pointsPlus": 74
+      "adjPts": 7.2,
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-10",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 28,
       "pts": 13,
-      "adjPts": 13.3,
-      "pointsPlus": 139
+      "adjPts": 13.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-21",
@@ -194,7 +194,7 @@
       "min": 25,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 29
+      "pointsPlus": 30
     },
     {
       "date": "2026-01-28",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 10.3,
+      "adjPts": 10.2,
       "pointsPlus": 107
     },
     {
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 25,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 64
+      "adjPts": 6.0,
+      "pointsPlus": 63
     },
     {
       "date": "2026-02-18",
@@ -249,6 +249,15 @@
       "pts": 2,
       "adjPts": 1.7,
       "pointsPlus": 18
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "MSST @ SC",
+      "result": "L",
+      "min": 17,
+      "pts": 5,
+      "adjPts": 4.8,
+      "pointsPlus": 50
     }
   ]
 }

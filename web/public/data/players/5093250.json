@@ -8,13 +8,13 @@
   "gp": 24,
   "ppg": 3.4,
   "adjPpg": 3.4,
-  "pointsPlus": 35,
+  "pointsPlus": 36,
   "mpg": 17.8,
   "position": "G",
   "jersey": "11",
   "classYear": "Junior",
-  "pointsPlusStdDev": 45.5,
-  "volatilityPctile": 30,
+  "pointsPlusStdDev": 46.1,
+  "volatilityPctile": 32,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 24,
       "pts": 9,
-      "adjPts": 9.6,
-      "pointsPlus": 100
+      "adjPts": 9.4,
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-29",
@@ -185,7 +185,7 @@
       "min": 14,
       "pts": 3,
       "adjPts": 3.1,
-      "pointsPlus": 32
+      "pointsPlus": 33
     },
     {
       "date": "2026-02-04",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 25,
       "pts": 20,
-      "adjPts": 19.1,
-      "pointsPlus": 199
+      "adjPts": 19.4,
+      "pointsPlus": 204
     }
   ]
 }

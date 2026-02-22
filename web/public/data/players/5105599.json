@@ -4,17 +4,17 @@
   "team": "MARQ",
   "teamName": "Marquette Golden Eagles",
   "conference": "Big East",
-  "rank": 356,
+  "rank": 354,
   "gp": 26,
   "ppg": 8.3,
   "adjPpg": 8.4,
-  "pointsPlus": 87,
+  "pointsPlus": 88,
   "mpg": 27.3,
   "position": "F",
   "jersey": "12",
   "classYear": "Senior",
-  "pointsPlusStdDev": 53.2,
-  "volatilityPctile": 50,
+  "pointsPlusStdDev": 54.4,
+  "volatilityPctile": 53,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-09",
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 21,
       "pts": 10,
-      "adjPts": 10.3,
-      "pointsPlus": 108
+      "adjPts": 10.2,
+      "pointsPlus": 107
     },
     {
       "date": "2025-11-12",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 33,
       "pts": 18,
-      "adjPts": 17.2,
-      "pointsPlus": 179
+      "adjPts": 17.5,
+      "pointsPlus": 183
     },
     {
       "date": "2025-11-19",
@@ -77,7 +77,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-28",
@@ -95,7 +95,7 @@
       "min": 38,
       "pts": 17,
       "adjPts": 17.0,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2025-12-06",
@@ -113,7 +113,7 @@
       "min": 26,
       "pts": 7,
       "adjPts": 7.4,
-      "pointsPlus": 77
+      "pointsPlus": 78
     },
     {
       "date": "2025-12-17",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 27,
       "pts": 4,
-      "adjPts": 4.0,
-      "pointsPlus": 42
+      "adjPts": 4.1,
+      "pointsPlus": 43
     },
     {
       "date": "2025-12-20",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 36,
       "pts": 19,
-      "adjPts": 24.0,
-      "pointsPlus": 250
+      "adjPts": 24.4,
+      "pointsPlus": 256
     },
     {
       "date": "2026-01-04",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 35,
       "pts": 14,
-      "adjPts": 10.6,
-      "pointsPlus": 111
+      "adjPts": 10.8,
+      "pointsPlus": 113
     },
     {
       "date": "2026-01-23",
@@ -194,7 +194,7 @@
       "min": 30,
       "pts": 11,
       "adjPts": 10.1,
-      "pointsPlus": 105
+      "pointsPlus": 106
     },
     {
       "date": "2026-01-27",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 32,
       "pts": 10,
-      "adjPts": 12.6,
-      "pointsPlus": 131
+      "adjPts": 12.9,
+      "pointsPlus": 135
     },
     {
       "date": "2026-02-07",
@@ -230,7 +230,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 8.7,
-      "pointsPlus": 90
+      "pointsPlus": 91
     },
     {
       "date": "2026-02-14",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 32,
       "pts": 7,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 7.1,
+      "pointsPlus": 74
     }
   ]
 }

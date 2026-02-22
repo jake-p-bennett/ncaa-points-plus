@@ -5,15 +5,15 @@
   "teamName": "Virginia Cavaliers",
   "conference": "ACC",
   "rank": 459,
-  "gp": 26,
-  "ppg": 6.5,
-  "adjPpg": 6.5,
-  "pointsPlus": 68,
-  "mpg": 18.2,
+  "gp": 27,
+  "ppg": 6.4,
+  "adjPpg": 6.4,
+  "pointsPlus": 67,
+  "mpg": 18.0,
   "position": "C",
   "jersey": "33",
   "classYear": "Senior",
-  "pointsPlusStdDev": 37.2,
+  "pointsPlusStdDev": 37.1,
   "volatilityPctile": 11,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-11",
@@ -41,7 +41,7 @@
       "min": 18,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 188
+      "pointsPlus": 189
     },
     {
       "date": "2025-11-15",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 21,
       "pts": 9,
-      "adjPts": 8.4,
-      "pointsPlus": 88
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2025-12-06",
@@ -95,7 +95,7 @@
       "min": 14,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-12-09",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 17,
       "pts": 7,
-      "adjPts": 6.7,
-      "pointsPlus": 70
+      "adjPts": 6.8,
+      "pointsPlus": 71
     },
     {
       "date": "2025-12-22",
@@ -122,7 +122,7 @@
       "min": 17,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-12-31",
@@ -131,7 +131,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 61
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-03",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 18,
       "pts": 12,
-      "adjPts": 12.1,
-      "pointsPlus": 126
+      "adjPts": 12.2,
+      "pointsPlus": 128
     },
     {
       "date": "2026-01-10",
@@ -158,7 +158,7 @@
       "min": 20,
       "pts": 5,
       "adjPts": 5.2,
-      "pointsPlus": 54
+      "pointsPlus": 55
     },
     {
       "date": "2026-01-13",
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 14,
       "pts": 3,
-      "adjPts": 2.9,
+      "adjPts": 3.0,
       "pointsPlus": 31
     },
     {
@@ -176,7 +176,7 @@
       "min": 18,
       "pts": 9,
       "adjPts": 7.9,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-24",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 18,
       "pts": 8,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-27",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 24,
       "pts": 7,
-      "adjPts": 8.2,
-      "pointsPlus": 85
+      "adjPts": 8.0,
+      "pointsPlus": 84
     },
     {
       "date": "2026-02-03",
@@ -212,7 +212,7 @@
       "min": 21,
       "pts": 5,
       "adjPts": 5.5,
-      "pointsPlus": 57
+      "pointsPlus": 58
     },
     {
       "date": "2026-02-07",
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 24,
       "pts": 4,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
     },
     {
@@ -239,7 +239,7 @@
       "min": 22,
       "pts": 8,
       "adjPts": 7.9,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 5.8,
+      "adjPts": 5.7,
       "pointsPlus": 60
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "UVA vs MIA",
+      "result": "W",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 43
     }
   ]
 }

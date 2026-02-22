@@ -5,16 +5,16 @@
   "teamName": "Boston College Eagles",
   "conference": "ACC",
   "rank": 485,
-  "gp": 26,
+  "gp": 27,
   "ppg": 6.0,
   "adjPpg": 6.0,
-  "pointsPlus": 62,
-  "mpg": 21.8,
+  "pointsPlus": 63,
+  "mpg": 22.2,
   "position": "G",
   "jersey": "9",
   "classYear": "Senior",
-  "pointsPlusStdDev": 59.9,
-  "volatilityPctile": 69,
+  "pointsPlusStdDev": 59.4,
+  "volatilityPctile": 68,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 34,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-11-06",
@@ -32,7 +32,7 @@
       "min": 30,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-11",
@@ -77,7 +77,7 @@
       "min": 39,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 229
+      "pointsPlus": 231
     },
     {
       "date": "2025-11-26",
@@ -113,7 +113,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-22",
@@ -176,7 +176,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 13.3,
-      "pointsPlus": 139
+      "pointsPlus": 140
     },
     {
       "date": "2026-01-21",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 13,
       "pts": 3,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
     },
     {
@@ -230,7 +230,7 @@
       "min": 28,
       "pts": 5,
       "adjPts": 5.2,
-      "pointsPlus": 54
+      "pointsPlus": 55
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 30,
       "pts": 14,
-      "adjPts": 14.1,
-      "pointsPlus": 147
+      "adjPts": 14.2,
+      "pointsPlus": 149
     },
     {
       "date": "2026-02-17",
@@ -247,8 +247,17 @@
       "result": "L",
       "min": 36,
       "pts": 14,
-      "adjPts": 12.7,
-      "pointsPlus": 132
+      "adjPts": 12.8,
+      "pointsPlus": 134
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "BC @ SMU",
+      "result": "L",
+      "min": 33,
+      "pts": 6,
+      "adjPts": 5.3,
+      "pointsPlus": 55
     }
   ]
 }

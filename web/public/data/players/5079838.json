@@ -4,17 +4,17 @@
   "team": "ISU",
   "teamName": "Iowa State Cyclones",
   "conference": "Big 12",
-  "rank": 351,
-  "gp": 26,
+  "rank": 352,
+  "gp": 27,
   "ppg": 8.3,
-  "adjPpg": 8.6,
+  "adjPpg": 8.5,
   "pointsPlus": 89,
-  "mpg": 24.0,
+  "mpg": 24.1,
   "position": "F",
   "jersey": "23",
   "classYear": "Junior",
-  "pointsPlusStdDev": 48.0,
-  "volatilityPctile": 36,
+  "pointsPlusStdDev": 47.8,
+  "volatilityPctile": 35,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-10",
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 31,
       "pts": 13,
-      "adjPts": 11.8,
-      "pointsPlus": 123
+      "adjPts": 11.6,
+      "pointsPlus": 122
     },
     {
       "date": "2025-11-17",
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 22,
       "pts": 7,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 7.1,
+      "pointsPlus": 74
     },
     {
       "date": "2025-11-25",
@@ -68,7 +68,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 11.7,
-      "pointsPlus": 122
+      "pointsPlus": 123
     },
     {
       "date": "2025-11-26",
@@ -77,7 +77,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.3,
-      "pointsPlus": 128
+      "pointsPlus": 129
     },
     {
       "date": "2025-12-03",
@@ -95,7 +95,7 @@
       "min": 30,
       "pts": 12,
       "adjPts": 12.7,
-      "pointsPlus": 133
+      "pointsPlus": 134
     },
     {
       "date": "2025-12-11",
@@ -104,7 +104,7 @@
       "min": 32,
       "pts": 6,
       "adjPts": 7.4,
-      "pointsPlus": 77
+      "pointsPlus": 78
     },
     {
       "date": "2025-12-14",
@@ -113,7 +113,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-21",
@@ -122,7 +122,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-29",
@@ -131,7 +131,7 @@
       "min": 20,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2026-01-02",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 31,
       "pts": 14,
-      "adjPts": 18.5,
-      "pointsPlus": 193
+      "adjPts": 18.6,
+      "pointsPlus": 195
     },
     {
       "date": "2026-01-07",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 14,
       "pts": 2,
-      "adjPts": 2.3,
-      "pointsPlus": 24
+      "adjPts": 2.2,
+      "pointsPlus": 23
     },
     {
       "date": "2026-01-17",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 19,
       "pts": 11,
-      "adjPts": 10.0,
-      "pointsPlus": 104
+      "adjPts": 10.1,
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 29,
       "pts": 9,
       "adjPts": 7.5,
-      "pointsPlus": 78
+      "pointsPlus": 79
     },
     {
       "date": "2026-01-29",
@@ -221,7 +221,7 @@
       "min": 21,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 38
+      "pointsPlus": 39
     },
     {
       "date": "2026-02-10",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 16,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 64
+      "adjPts": 6.3,
+      "pointsPlus": 66
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 22,
       "pts": 11,
-      "adjPts": 12.5,
-      "pointsPlus": 130
+      "adjPts": 12.3,
+      "pointsPlus": 129
     },
     {
       "date": "2026-02-16",
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 24,
       "pts": 10,
-      "adjPts": 13.0,
+      "adjPts": 12.9,
       "pointsPlus": 136
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "ISU @ BYU",
+      "result": "L",
+      "min": 27,
+      "pts": 6,
+      "adjPts": 5.7,
+      "pointsPlus": 59
     }
   ]
 }

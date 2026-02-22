@@ -4,17 +4,17 @@
   "team": "ASU",
   "teamName": "Arizona State Sun Devils",
   "conference": "Big 12",
-  "rank": 404,
+  "rank": 405,
   "gp": 21,
   "ppg": 7.2,
   "adjPpg": 7.3,
-  "pointsPlus": 76,
+  "pointsPlus": 77,
   "mpg": 23.3,
   "position": "G",
   "jersey": "4",
   "classYear": "Junior",
-  "pointsPlusStdDev": 54.5,
-  "volatilityPctile": 54,
+  "pointsPlusStdDev": 54.8,
+  "volatilityPctile": 55,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -50,7 +50,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-20",
@@ -59,7 +59,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-24",
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 24,
       "pts": 5,
-      "adjPts": 4.7,
+      "adjPts": 4.6,
       "pointsPlus": 49
     },
     {
@@ -77,7 +77,7 @@
       "min": 29,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 188
+      "pointsPlus": 189
     },
     {
       "date": "2025-11-26",
@@ -86,7 +86,7 @@
       "min": 28,
       "pts": 6,
       "adjPts": 5.6,
-      "pointsPlus": 58
+      "pointsPlus": 59
     },
     {
       "date": "2025-12-06",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 25,
       "pts": 9,
-      "adjPts": 9.4,
-      "pointsPlus": 98
+      "adjPts": 9.5,
+      "pointsPlus": 99
     },
     {
       "date": "2026-01-18",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 24,
       "pts": 10,
-      "adjPts": 13.0,
+      "adjPts": 12.9,
       "pointsPlus": 136
     },
     {
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 27,
       "pts": 2,
-      "adjPts": 2.6,
+      "adjPts": 2.7,
       "pointsPlus": 28
     },
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 27,
       "pts": 11,
-      "adjPts": 10.0,
-      "pointsPlus": 104
+      "adjPts": 10.1,
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-31",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 23,
       "pts": 7,
-      "adjPts": 7.3,
-      "pointsPlus": 76
+      "adjPts": 7.4,
+      "pointsPlus": 77
     },
     {
       "date": "2026-02-04",
@@ -185,7 +185,7 @@
       "min": 15,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 38
+      "pointsPlus": 39
     },
     {
       "date": "2026-02-07",

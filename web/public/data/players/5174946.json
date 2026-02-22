@@ -4,16 +4,16 @@
   "team": "LOU",
   "teamName": "Louisville Cardinals",
   "conference": "ACC",
-  "rank": 606,
-  "gp": 25,
-  "ppg": 3.8,
-  "adjPpg": 3.8,
-  "pointsPlus": 40,
-  "mpg": 14.0,
+  "rank": 599,
+  "gp": 26,
+  "ppg": 3.9,
+  "adjPpg": 3.9,
+  "pointsPlus": 41,
+  "mpg": 13.8,
   "position": "G",
   "jersey": "11",
   "classYear": "Senior",
-  "pointsPlusStdDev": 34.7,
+  "pointsPlusStdDev": 34.5,
   "volatilityPctile": 8,
   "gameLog": [
     {
@@ -68,7 +68,7 @@
       "min": 17,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-26",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 13,
       "pts": 12,
-      "adjPts": 12.4,
-      "pointsPlus": 129
+      "adjPts": 12.3,
+      "pointsPlus": 128
     },
     {
       "date": "2025-12-13",
@@ -121,7 +121,7 @@
       "result": "W",
       "min": 22,
       "pts": 3,
-      "adjPts": 3.0,
+      "adjPts": 3.1,
       "pointsPlus": 32
     },
     {
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 29,
       "pts": 5,
-      "adjPts": 5.8,
-      "pointsPlus": 61
+      "adjPts": 5.7,
+      "pointsPlus": 60
     },
     {
       "date": "2026-01-13",
@@ -167,7 +167,7 @@
       "min": 19,
       "pts": 7,
       "adjPts": 7.7,
-      "pointsPlus": 80
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-24",
@@ -176,7 +176,7 @@
       "min": 11,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 61
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-26",
@@ -203,7 +203,7 @@
       "min": 12,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 21
+      "pointsPlus": 22
     },
     {
       "date": "2026-02-07",
@@ -239,7 +239,16 @@
       "min": 8,
       "pts": 3,
       "adjPts": 2.6,
-      "pointsPlus": 27
+      "pointsPlus": 28
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "LOU vs GT",
+      "result": "W",
+      "min": 10,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 70
     }
   ]
 }

@@ -4,12 +4,12 @@
   "team": "COLO",
   "teamName": "Colorado Buffaloes",
   "conference": "Big 12",
-  "rank": 591,
-  "gp": 25,
+  "rank": 595,
+  "gp": 26,
   "ppg": 4.2,
-  "adjPpg": 4.1,
-  "pointsPlus": 43,
-  "mpg": 13.6,
+  "adjPpg": 4.0,
+  "pointsPlus": 42,
+  "mpg": 13.3,
   "position": "C",
   "jersey": "50",
   "classYear": "Senior",
@@ -23,7 +23,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-08",
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 24,
       "pts": 17,
-      "adjPts": 12.9,
-      "pointsPlus": 134
+      "adjPts": 13.1,
+      "pointsPlus": 137
     },
     {
       "date": "2025-11-17",
@@ -68,7 +68,7 @@
       "min": 20,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-11-28",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 19,
       "pts": 6,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.3,
+      "pointsPlus": 66
     },
     {
       "date": "2025-12-01",
@@ -122,7 +122,7 @@
       "min": 12,
       "pts": 4,
       "adjPts": 4.2,
-      "pointsPlus": 43
+      "pointsPlus": 44
     },
     {
       "date": "2025-12-28",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 18,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.5,
       "pointsPlus": 57
     },
     {
@@ -149,7 +149,7 @@
       "min": 14,
       "pts": 5,
       "adjPts": 4.6,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-01-10",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 9,
       "pts": 2,
-      "adjPts": 2.6,
+      "adjPts": 2.7,
       "pointsPlus": 28
     },
     {
@@ -240,6 +240,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "COLO vs OKST",
+      "result": "W",
+      "min": 5,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 17
     }
   ]
 }

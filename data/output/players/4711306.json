@@ -4,16 +4,16 @@
   "team": "UK",
   "teamName": "Kentucky Wildcats",
   "conference": "SEC",
-  "rank": 585,
-  "gp": 26,
+  "rank": 588,
+  "gp": 27,
   "ppg": 4.3,
   "adjPpg": 4.2,
   "pointsPlus": 44,
-  "mpg": 15.7,
+  "mpg": 15.6,
   "position": "F",
   "jersey": "10",
   "classYear": "Junior",
-  "pointsPlusStdDev": 41.7,
+  "pointsPlusStdDev": 41.2,
   "volatilityPctile": 20,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-07",
@@ -32,7 +32,7 @@
       "min": 18,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-11",
@@ -40,7 +40,7 @@
       "result": "L",
       "min": 23,
       "pts": 3,
-      "adjPts": 2.9,
+      "adjPts": 3.0,
       "pointsPlus": 31
     },
     {
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 9,
       "pts": 6,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.3,
+      "pointsPlus": 66
     },
     {
       "date": "2025-12-05",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 21,
       "pts": 6,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2025-12-20",
@@ -121,7 +121,7 @@
       "result": "W",
       "min": 12,
       "pts": 4,
-      "adjPts": 4.0,
+      "adjPts": 4.1,
       "pointsPlus": 42
     },
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 11,
       "pts": 6,
-      "adjPts": 5.8,
-      "pointsPlus": 61
+      "adjPts": 5.7,
+      "pointsPlus": 60
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 13,
       "pts": 6,
-      "adjPts": 5.5,
-      "pointsPlus": 57
+      "adjPts": 5.4,
+      "pointsPlus": 56
     },
     {
       "date": "2026-01-14",
@@ -176,7 +176,7 @@
       "min": 18,
       "pts": 2,
       "adjPts": 2.2,
-      "pointsPlus": 22
+      "pointsPlus": 23
     },
     {
       "date": "2026-01-21",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 29,
       "pts": 20,
-      "adjPts": 17.8,
-      "pointsPlus": 186
+      "adjPts": 17.9,
+      "pointsPlus": 188
     },
     {
       "date": "2026-02-07",
@@ -249,6 +249,15 @@
       "pts": 2,
       "adjPts": 1.7,
       "pointsPlus": 18
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "UK @ AUB",
+      "result": "L",
+      "min": 14,
+      "pts": 4,
+      "adjPts": 3.5,
+      "pointsPlus": 36
     }
   ]
 }

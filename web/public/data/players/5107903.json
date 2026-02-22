@@ -4,12 +4,12 @@
   "team": "DEP",
   "teamName": "DePaul Blue Demons",
   "conference": "Big East",
-  "rank": 236,
-  "gp": 26,
-  "ppg": 10.9,
-  "adjPpg": 11.0,
-  "pointsPlus": 114,
-  "mpg": 24.7,
+  "rank": 233,
+  "gp": 27,
+  "ppg": 11.2,
+  "adjPpg": 11.2,
+  "pointsPlus": 117,
+  "mpg": 25.0,
   "position": "F",
   "jersey": "35",
   "classYear": "Senior",
@@ -23,7 +23,7 @@
       "min": 21,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-07",
@@ -32,7 +32,7 @@
       "min": 31,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-11",
@@ -68,7 +68,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-28",
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 28,
       "pts": 9,
-      "adjPts": 8.7,
+      "adjPts": 8.6,
       "pointsPlus": 90
     },
     {
@@ -95,7 +95,7 @@
       "min": 31,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 271
+      "pointsPlus": 273
     },
     {
       "date": "2025-12-09",
@@ -113,7 +113,7 @@
       "min": 17,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-16",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 23,
       "pts": 11,
-      "adjPts": 11.0,
-      "pointsPlus": 114
+      "adjPts": 11.1,
+      "pointsPlus": 117
     },
     {
       "date": "2025-12-21",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 23,
       "pts": 7,
-      "adjPts": 8.1,
-      "pointsPlus": 85
+      "adjPts": 8.2,
+      "pointsPlus": 86
     },
     {
       "date": "2025-12-31",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 34,
       "pts": 9,
-      "adjPts": 9.1,
-      "pointsPlus": 95
+      "adjPts": 9.3,
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-10",
@@ -176,7 +176,7 @@
       "min": 28,
       "pts": 17,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2026-01-20",
@@ -185,7 +185,7 @@
       "min": 28,
       "pts": 11,
       "adjPts": 10.1,
-      "pointsPlus": 105
+      "pointsPlus": 106
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 17,
       "pts": 2,
-      "adjPts": 2.5,
-      "pointsPlus": 26
+      "adjPts": 2.6,
+      "pointsPlus": 27
     },
     {
       "date": "2026-01-28",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 27,
       "pts": 4,
-      "adjPts": 4.0,
-      "pointsPlus": 42
+      "adjPts": 4.1,
+      "pointsPlus": 43
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 30,
       "pts": 14,
       "adjPts": 12.6,
-      "pointsPlus": 131
+      "pointsPlus": 132
     },
     {
       "date": "2026-02-03",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 23,
       "pts": 7,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 7.1,
+      "pointsPlus": 74
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 16,
       "pts": 10,
-      "adjPts": 7.6,
-      "pointsPlus": 79
+      "adjPts": 7.7,
+      "pointsPlus": 81
     },
     {
       "date": "2026-02-11",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 32,
       "pts": 23,
-      "adjPts": 22.4,
-      "pointsPlus": 234
+      "adjPts": 22.5,
+      "pointsPlus": 236
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 30,
       "pts": 21,
-      "adjPts": 26.5,
-      "pointsPlus": 276
+      "adjPts": 27.0,
+      "pointsPlus": 283
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "DEP vs PROV",
+      "result": "L",
+      "min": 32,
+      "pts": 19,
+      "adjPts": 14.6,
+      "pointsPlus": 153
     }
   ]
 }

@@ -4,16 +4,16 @@
   "team": "PROV",
   "teamName": "Providence Friars",
   "conference": "Big East",
-  "rank": 363,
+  "rank": 364,
   "gp": 22,
   "ppg": 8.2,
   "adjPpg": 8.2,
-  "pointsPlus": 85,
+  "pointsPlus": 86,
   "mpg": 26.8,
   "position": "G",
   "jersey": "14",
   "classYear": "Senior",
-  "pointsPlusStdDev": 45.4,
+  "pointsPlusStdDev": 45.7,
   "volatilityPctile": 30,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2025-11-08",
@@ -31,7 +31,7 @@
       "result": "L",
       "min": 22,
       "pts": 3,
-      "adjPts": 2.9,
+      "adjPts": 3.0,
       "pointsPlus": 31
     },
     {
@@ -41,7 +41,7 @@
       "min": 26,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-14",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 26,
       "pts": 13,
-      "adjPts": 11.7,
-      "pointsPlus": 122
+      "adjPts": 11.8,
+      "pointsPlus": 123
     },
     {
       "date": "2025-11-22",
@@ -113,7 +113,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 9.2,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-19",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 26,
       "pts": 4,
-      "adjPts": 5.0,
-      "pointsPlus": 53
+      "adjPts": 5.1,
+      "pointsPlus": 54
     },
     {
       "date": "2026-01-03",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 20,
       "pts": 6,
-      "adjPts": 6.0,
-      "pointsPlus": 62
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-07",
@@ -140,7 +140,7 @@
       "min": 30,
       "pts": 12,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-10",
@@ -149,7 +149,7 @@
       "min": 30,
       "pts": 6,
       "adjPts": 5.4,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2026-01-13",
@@ -167,7 +167,7 @@
       "min": 29,
       "pts": 9,
       "adjPts": 8.8,
-      "pointsPlus": 91
+      "pointsPlus": 92
     },
     {
       "date": "2026-01-19",
@@ -176,7 +176,7 @@
       "min": 37,
       "pts": 9,
       "adjPts": 8.5,
-      "pointsPlus": 88
+      "pointsPlus": 89
     },
     {
       "date": "2026-01-24",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 34,
       "pts": 9,
-      "adjPts": 9.1,
-      "pointsPlus": 95
+      "adjPts": 9.3,
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-27",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 26,
       "pts": 7,
-      "adjPts": 8.8,
-      "pointsPlus": 92
+      "adjPts": 9.0,
+      "pointsPlus": 94
     }
   ]
 }

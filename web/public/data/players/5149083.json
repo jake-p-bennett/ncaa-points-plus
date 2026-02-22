@@ -4,16 +4,16 @@
   "team": "TEX",
   "teamName": "Texas Longhorns",
   "conference": "SEC",
-  "rank": 586,
-  "gp": 14,
-  "ppg": 4.1,
-  "adjPpg": 4.2,
-  "pointsPlus": 44,
-  "mpg": 12.4,
+  "rank": 594,
+  "gp": 15,
+  "ppg": 4.0,
+  "adjPpg": 4.0,
+  "pointsPlus": 42,
+  "mpg": 12.5,
   "position": "F",
   "jersey": "10",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 32.5,
+  "pointsPlusStdDev": 32.1,
   "volatilityPctile": 6,
   "gameLog": [
     {
@@ -41,7 +41,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-15",
@@ -50,7 +50,7 @@
       "min": 18,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 83
+      "pointsPlus": 84
     },
     {
       "date": "2025-11-24",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 15,
       "pts": 9,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-02-17",
@@ -141,6 +141,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "TEX @ UGA",
+      "result": "L",
+      "min": 14,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "CONN",
   "teamName": "UConn Huskies",
   "conference": "Big East",
-  "rank": 188,
-  "gp": 20,
-  "ppg": 12.4,
-  "adjPpg": 12.3,
+  "rank": 184,
+  "gp": 21,
+  "ppg": 12.3,
+  "adjPpg": 12.2,
   "pointsPlus": 128,
-  "mpg": 26.8,
+  "mpg": 26.7,
   "position": "G",
   "jersey": "24",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 52.7,
-  "volatilityPctile": 49,
+  "pointsPlusStdDev": 52.0,
+  "volatilityPctile": 46,
   "gameLog": [
     {
       "date": "2025-11-28",
@@ -22,7 +22,7 @@
       "result": "W",
       "min": 10,
       "pts": 2,
-      "adjPts": 2.2,
+      "adjPts": 2.1,
       "pointsPlus": 22
     },
     {
@@ -31,8 +31,8 @@
       "result": "W",
       "min": 23,
       "pts": 17,
-      "adjPts": 19.3,
-      "pointsPlus": 201
+      "adjPts": 19.1,
+      "pointsPlus": 200
     },
     {
       "date": "2025-12-05",
@@ -41,7 +41,7 @@
       "min": 17,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-09",
@@ -58,7 +58,7 @@
       "result": "W",
       "min": 25,
       "pts": 10,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 97
     },
     {
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 28,
       "pts": 12,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2025-12-21",
@@ -86,7 +86,7 @@
       "min": 31,
       "pts": 17,
       "adjPts": 15.3,
-      "pointsPlus": 160
+      "pointsPlus": 161
     },
     {
       "date": "2026-01-04",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 41,
       "pts": 24,
-      "adjPts": 18.2,
-      "pointsPlus": 190
+      "adjPts": 18.5,
+      "pointsPlus": 194
     },
     {
       "date": "2026-01-10",
@@ -113,7 +113,7 @@
       "min": 29,
       "pts": 16,
       "adjPts": 18.2,
-      "pointsPlus": 189
+      "pointsPlus": 190
     },
     {
       "date": "2026-01-13",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 35,
       "pts": 11,
-      "adjPts": 13.9,
-      "pointsPlus": 145
+      "adjPts": 14.2,
+      "pointsPlus": 148
     },
     {
       "date": "2026-01-17",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 31,
       "pts": 11,
-      "adjPts": 11.1,
-      "pointsPlus": 116
+      "adjPts": 11.4,
+      "pointsPlus": 119
     },
     {
       "date": "2026-01-24",
@@ -140,7 +140,7 @@
       "min": 18,
       "pts": 8,
       "adjPts": 8.7,
-      "pointsPlus": 90
+      "pointsPlus": 91
     },
     {
       "date": "2026-01-31",
@@ -149,7 +149,7 @@
       "min": 30,
       "pts": 16,
       "adjPts": 15.6,
-      "pointsPlus": 163
+      "pointsPlus": 164
     },
     {
       "date": "2026-02-03",
@@ -158,7 +158,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 11.7,
-      "pointsPlus": 122
+      "pointsPlus": 123
     },
     {
       "date": "2026-02-06",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 34,
       "pts": 11,
-      "adjPts": 11.0,
-      "pointsPlus": 114
+      "adjPts": 11.1,
+      "pointsPlus": 117
     },
     {
       "date": "2026-02-11",
@@ -176,7 +176,7 @@
       "min": 34,
       "pts": 15,
       "adjPts": 13.8,
-      "pointsPlus": 144
+      "pointsPlus": 145
     },
     {
       "date": "2026-02-14",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 27,
       "pts": 10,
-      "adjPts": 10.1,
-      "pointsPlus": 105
+      "adjPts": 10.4,
+      "pointsPlus": 109
     },
     {
       "date": "2026-02-18",
@@ -194,7 +194,16 @@
       "min": 31,
       "pts": 25,
       "adjPts": 24.4,
-      "pointsPlus": 254
+      "pointsPlus": 256
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "CONN @ VILL",
+      "result": "W",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 10.8,
+      "pointsPlus": 113
     }
   ]
 }

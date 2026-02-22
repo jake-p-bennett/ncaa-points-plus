@@ -4,17 +4,17 @@
   "team": "UCF",
   "teamName": "UCF Knights",
   "conference": "Big 12",
-  "rank": 125,
-  "gp": 25,
-  "ppg": 13.6,
-  "adjPpg": 13.9,
-  "pointsPlus": 145,
-  "mpg": 32.0,
+  "rank": 108,
+  "gp": 26,
+  "ppg": 14.0,
+  "adjPpg": 14.2,
+  "pointsPlus": 149,
+  "mpg": 32.2,
   "position": "G",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 76.2,
-  "volatilityPctile": 93,
+  "pointsPlusStdDev": 77.3,
+  "volatilityPctile": 94,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 33,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 167
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-08",
@@ -31,8 +31,8 @@
       "result": "L",
       "min": 19,
       "pts": 4,
-      "adjPts": 3.7,
-      "pointsPlus": 39
+      "adjPts": 3.8,
+      "pointsPlus": 40
     },
     {
       "date": "2025-11-11",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 35,
       "pts": 11,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.4,
+      "pointsPlus": 99
     },
     {
       "date": "2025-11-17",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 33,
       "pts": 18,
-      "adjPts": 19.8,
-      "pointsPlus": 207
+      "adjPts": 19.9,
+      "pointsPlus": 208
     },
     {
       "date": "2025-11-25",
@@ -95,7 +95,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-12-17",
@@ -104,7 +104,7 @@
       "min": 35,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-20",
@@ -113,7 +113,7 @@
       "min": 30,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-23",
@@ -122,7 +122,7 @@
       "min": 35,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 250
+      "pointsPlus": 252
     },
     {
       "date": "2026-01-03",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 33,
       "pts": 16,
-      "adjPts": 18.1,
-      "pointsPlus": 189
+      "adjPts": 17.9,
+      "pointsPlus": 188
     },
     {
       "date": "2026-01-06",
@@ -140,7 +140,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 10.8,
-      "pointsPlus": 113
+      "pointsPlus": 114
     },
     {
       "date": "2026-01-11",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 38,
       "pts": 13,
-      "adjPts": 11.2,
-      "pointsPlus": 117
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-17",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 35,
       "pts": 30,
-      "adjPts": 31.3,
-      "pointsPlus": 327
+      "adjPts": 31.5,
+      "pointsPlus": 330
     },
     {
       "date": "2026-01-20",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 30,
       "pts": 8,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 97
     },
     {
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 32,
       "pts": 19,
-      "adjPts": 17.1,
-      "pointsPlus": 178
+      "adjPts": 17.2,
+      "pointsPlus": 180
     },
     {
       "date": "2026-01-27",
@@ -194,7 +194,7 @@
       "min": 38,
       "pts": 12,
       "adjPts": 10.9,
-      "pointsPlus": 113
+      "pointsPlus": 115
     },
     {
       "date": "2026-01-31",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 34,
       "pts": 21,
-      "adjPts": 21.1,
-      "pointsPlus": 220
+      "adjPts": 21.0,
+      "pointsPlus": 221
     },
     {
       "date": "2026-02-04",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 35,
       "pts": 19,
-      "adjPts": 25.1,
-      "pointsPlus": 261
+      "adjPts": 25.3,
+      "pointsPlus": 265
     },
     {
       "date": "2026-02-17",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 37,
       "pts": 14,
-      "adjPts": 14.3,
-      "pointsPlus": 149
+      "adjPts": 14.6,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "UCF @ UTAH",
+      "result": "W",
+      "min": 36,
+      "pts": 24,
+      "adjPts": 22.3,
+      "pointsPlus": 233
     }
   ]
 }

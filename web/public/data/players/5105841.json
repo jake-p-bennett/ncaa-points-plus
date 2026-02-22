@@ -4,17 +4,17 @@
   "team": "TENN",
   "teamName": "Tennessee Volunteers",
   "conference": "SEC",
-  "rank": 443,
-  "gp": 24,
+  "rank": 440,
+  "gp": 25,
   "ppg": 6.9,
   "adjPpg": 6.8,
-  "pointsPlus": 70,
-  "mpg": 26.3,
+  "pointsPlus": 71,
+  "mpg": 25.9,
   "position": "F",
   "jersey": "34",
   "classYear": "Senior",
-  "pointsPlusStdDev": 45.8,
-  "volatilityPctile": 31,
+  "pointsPlusStdDev": 45.4,
+  "volatilityPctile": 29,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -50,7 +50,7 @@
       "min": 27,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 208
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-20",
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 106
     },
     {
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 31,
       "pts": 9,
-      "adjPts": 11.7,
+      "adjPts": 11.6,
       "pointsPlus": 122
     },
     {
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 29,
       "pts": 7,
-      "adjPts": 7.9,
-      "pointsPlus": 83
+      "adjPts": 7.8,
+      "pointsPlus": 82
     },
     {
       "date": "2025-12-02",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 28,
       "pts": 5,
-      "adjPts": 5.4,
-      "pointsPlus": 56
+      "adjPts": 5.3,
+      "pointsPlus": 55
     },
     {
       "date": "2025-12-16",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 31,
       "pts": 3,
-      "adjPts": 2.6,
+      "adjPts": 2.5,
       "pointsPlus": 27
     },
     {
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 38,
       "pts": 10,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-01-17",
@@ -185,7 +185,7 @@
       "min": 34,
       "pts": 5,
       "adjPts": 3.8,
-      "pointsPlus": 39
+      "pointsPlus": 40
     },
     {
       "date": "2026-01-28",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 26,
       "pts": 6,
-      "adjPts": 5.5,
-      "pointsPlus": 57
+      "adjPts": 5.4,
+      "pointsPlus": 56
     },
     {
       "date": "2026-02-14",
@@ -229,8 +229,17 @@
       "result": "W",
       "min": 35,
       "pts": 18,
-      "adjPts": 16.0,
-      "pointsPlus": 167
+      "adjPts": 16.1,
+      "pointsPlus": 169
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "TENN @ VAN",
+      "result": "W",
+      "min": 16,
+      "pts": 8,
+      "adjPts": 7.6,
+      "pointsPlus": 79
     }
   ]
 }

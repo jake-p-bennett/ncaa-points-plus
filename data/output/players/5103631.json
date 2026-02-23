@@ -4,7 +4,7 @@
   "team": "BC",
   "teamName": "Boston College Eagles",
   "conference": "ACC",
-  "rank": 290,
+  "rank": 289,
   "gp": 27,
   "ppg": 9.7,
   "adjPpg": 9.9,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "33",
   "classYear": "Junior",
-  "pointsPlusStdDev": 52.4,
+  "pointsPlusStdDev": 52.5,
   "volatilityPctile": 47,
   "gameLog": [
     {
@@ -230,7 +230,7 @@
       "min": 38,
       "pts": 15,
       "adjPts": 15.7,
-      "pointsPlus": 164
+      "pointsPlus": 165
     },
     {
       "date": "2026-02-14",

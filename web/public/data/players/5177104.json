@@ -4,7 +4,7 @@
   "team": "WVU",
   "teamName": "West Virginia Mountaineers",
   "conference": "Big 12",
-  "rank": 418,
+  "rank": 417,
   "gp": 27,
   "ppg": 7.0,
   "adjPpg": 7.2,
@@ -14,7 +14,7 @@
   "jersey": "1",
   "classYear": "Senior",
   "pointsPlusStdDev": 61.2,
-  "volatilityPctile": 73,
+  "volatilityPctile": 72,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 40,
       "pts": 14,
-      "adjPts": 13.8,
-      "pointsPlus": 145
+      "adjPts": 14.0,
+      "pointsPlus": 146
     },
     {
       "date": "2025-12-22",

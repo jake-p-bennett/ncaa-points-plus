@@ -4,7 +4,7 @@
   "team": "ARIZ",
   "teamName": "Arizona Wildcats",
   "conference": "Big 12",
-  "rank": 260,
+  "rank": 261,
   "gp": 27,
   "ppg": 10.6,
   "adjPpg": 10.5,
@@ -230,7 +230,7 @@
       "min": 31,
       "pts": 14,
       "adjPts": 15.7,
-      "pointsPlus": 164
+      "pointsPlus": 165
     },
     {
       "date": "2026-02-14",

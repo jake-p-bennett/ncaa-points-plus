@@ -4,7 +4,7 @@
   "team": "USC",
   "teamName": "USC Trojans",
   "conference": "Big Ten",
-  "rank": 645,
+  "rank": 646,
   "gp": 25,
   "ppg": 2.6,
   "adjPpg": 2.6,
@@ -149,7 +149,7 @@
       "min": 19,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 24
+      "pointsPlus": 25
     },
     {
       "date": "2026-01-09",

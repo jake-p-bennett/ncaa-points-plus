@@ -4,16 +4,16 @@
   "team": "OSU",
   "teamName": "Ohio State Buckeyes",
   "conference": "Big Ten",
-  "rank": 660,
-  "gp": 25,
+  "rank": 661,
+  "gp": 26,
   "ppg": 1.7,
-  "adjPpg": 1.7,
+  "adjPpg": 1.8,
   "pointsPlus": 18,
-  "mpg": 13.0,
+  "mpg": 12.9,
   "position": "G",
   "jersey": "4",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 24.2,
+  "pointsPlusStdDev": 23.8,
   "volatilityPctile": 2,
   "gameLog": [
     {
@@ -240,6 +240,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-22",
+      "matchup": "OSU @ MSU",
+      "result": "L",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 2.3,
+      "pointsPlus": 25
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-02-22T07:46:49.521050",
+  "generatedAt": "2026-02-23T07:46:49.153741",
   "season": "2025-26",
-  "asOfDate": "2026-02-21",
+  "asOfDate": "2026-02-22",
   "qualifyingCriteria": {
     "minGames": 10,
     "minMpg": 12.0
   },
-  "totalQualifyingPlayers": 664,
+  "totalQualifyingPlayers": 665,
   "leagueAvgPointsPlus": 100,
   "conferenceBreakdown": {
-    "Big Ten": 151,
+    "Big Ten": 152,
     "ACC": 150,
     "SEC": 139,
     "Big 12": 132,

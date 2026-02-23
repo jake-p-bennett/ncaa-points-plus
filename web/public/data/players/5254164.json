@@ -4,7 +4,7 @@
   "team": "MINN",
   "teamName": "Minnesota Golden Gophers",
   "conference": "Big Ten",
-  "rank": 657,
+  "rank": 658,
   "gp": 25,
   "ppg": 2.0,
   "adjPpg": 2.1,
@@ -131,7 +131,7 @@
       "min": 15,
       "pts": 3,
       "adjPts": 3.7,
-      "pointsPlus": 39
+      "pointsPlus": 38
     },
     {
       "date": "2026-01-09",

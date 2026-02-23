@@ -4,7 +4,7 @@
   "team": "SYR",
   "teamName": "Syracuse Orange",
   "conference": "ACC",
-  "rank": 319,
+  "rank": 320,
   "gp": 28,
   "ppg": 8.9,
   "adjPpg": 9.3,
@@ -86,7 +86,7 @@
       "min": 35,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 113
+      "pointsPlus": 114
     },
     {
       "date": "2025-12-11",
@@ -167,7 +167,7 @@
       "min": 28,
       "pts": 11,
       "adjPts": 10.1,
-      "pointsPlus": 105
+      "pointsPlus": 106
     },
     {
       "date": "2026-01-17",
@@ -194,7 +194,7 @@
       "min": 29,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 108
+      "pointsPlus": 109
     },
     {
       "date": "2026-01-27",

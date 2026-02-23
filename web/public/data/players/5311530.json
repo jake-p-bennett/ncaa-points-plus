@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "9",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 66.6,
+  "pointsPlusStdDev": 66.7,
   "volatilityPctile": 84,
   "gameLog": [
     {
@@ -49,7 +49,7 @@
       "result": "L",
       "min": 29,
       "pts": 10,
-      "adjPts": 9.2,
+      "adjPts": 9.1,
       "pointsPlus": 96
     },
     {
@@ -68,7 +68,7 @@
       "min": 28,
       "pts": 30,
       "adjPts": 30.0,
-      "pointsPlus": 314
+      "pointsPlus": 315
     },
     {
       "date": "2025-11-25",

@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "5",
   "classYear": "Senior",
-  "pointsPlusStdDev": 45.9,
-  "volatilityPctile": 31,
+  "pointsPlusStdDev": 45.4,
+  "volatilityPctile": 29,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -59,7 +59,7 @@
       "min": 36,
       "pts": 17,
       "adjPts": 17.2,
-      "pointsPlus": 180
+      "pointsPlus": 181
     },
     {
       "date": "2025-11-25",
@@ -95,7 +95,7 @@
       "min": 22,
       "pts": 11,
       "adjPts": 11.7,
-      "pointsPlus": 122
+      "pointsPlus": 123
     },
     {
       "date": "2025-12-11",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 35,
       "pts": 24,
-      "adjPts": 29.7,
-      "pointsPlus": 311
+      "adjPts": 29.2,
+      "pointsPlus": 307
     },
     {
       "date": "2025-12-14",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 36,
       "pts": 19,
-      "adjPts": 15.9,
+      "adjPts": 15.8,
       "pointsPlus": 166
     },
     {

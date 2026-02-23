@@ -4,7 +4,7 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 606,
+  "rank": 607,
   "gp": 16,
   "ppg": 3.9,
   "adjPpg": 3.8,
@@ -14,7 +14,7 @@
   "jersey": "24",
   "classYear": "Sophomore",
   "pointsPlusStdDev": 44.2,
-  "volatilityPctile": 25,
+  "volatilityPctile": 26,
   "gameLog": [
     {
       "date": "2025-11-03",

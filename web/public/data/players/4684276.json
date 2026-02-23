@@ -8,7 +8,7 @@
   "gp": 23,
   "ppg": 16.9,
   "adjPpg": 16.4,
-  "pointsPlus": 171,
+  "pointsPlus": 172,
   "mpg": 28.4,
   "position": "G",
   "jersey": "2",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 27,
       "pts": 19,
-      "adjPts": 19.0,
+      "adjPts": 18.9,
       "pointsPlus": 199
     },
     {
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 29,
       "pts": 17,
-      "adjPts": 15.9,
+      "adjPts": 15.8,
       "pointsPlus": 166
     }
   ]

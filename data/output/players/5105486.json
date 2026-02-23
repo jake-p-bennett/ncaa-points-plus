@@ -4,7 +4,7 @@
   "team": "TEX",
   "teamName": "Texas Longhorns",
   "conference": "SEC",
-  "rank": 488,
+  "rank": 487,
   "gp": 27,
   "ppg": 6.1,
   "adjPpg": 5.9,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "2",
   "classYear": "Senior",
-  "pointsPlusStdDev": 44.5,
-  "volatilityPctile": 27,
+  "pointsPlusStdDev": 44.6,
+  "volatilityPctile": 28,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -86,7 +86,7 @@
       "min": 32,
       "pts": 17,
       "adjPts": 16.3,
-      "pointsPlus": 170
+      "pointsPlus": 171
     },
     {
       "date": "2025-12-03",

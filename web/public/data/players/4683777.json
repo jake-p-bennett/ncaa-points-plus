@@ -4,7 +4,7 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 415,
+  "rank": 414,
   "gp": 25,
   "ppg": 7.2,
   "adjPpg": 7.2,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "21",
   "classYear": "Junior",
-  "pointsPlusStdDev": 48.0,
+  "pointsPlusStdDev": 48.1,
   "volatilityPctile": 36,
   "gameLog": [
     {
@@ -31,8 +31,8 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 15.1,
-      "pointsPlus": 158
+      "adjPts": 15.2,
+      "pointsPlus": 160
     },
     {
       "date": "2025-11-11",

@@ -4,7 +4,7 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 263,
+  "rank": 264,
   "gp": 26,
   "ppg": 10.7,
   "adjPpg": 10.5,
@@ -140,7 +140,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-10",
@@ -158,7 +158,7 @@
       "min": 33,
       "pts": 17,
       "adjPts": 17.1,
-      "pointsPlus": 179
+      "pointsPlus": 180
     },
     {
       "date": "2026-01-17",

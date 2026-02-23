@@ -4,7 +4,7 @@
   "team": "BYU",
   "teamName": "BYU Cougars",
   "conference": "Big 12",
-  "rank": 647,
+  "rank": 648,
   "gp": 26,
   "ppg": 2.5,
   "adjPpg": 2.5,
@@ -50,7 +50,7 @@
       "min": 22,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 24
+      "pointsPlus": 25
     },
     {
       "date": "2025-11-21",

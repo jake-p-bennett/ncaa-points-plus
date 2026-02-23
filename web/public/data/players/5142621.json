@@ -4,7 +4,7 @@
   "team": "HOU",
   "teamName": "Houston Cougars",
   "conference": "Big 12",
-  "rank": 313,
+  "rank": 314,
   "gp": 27,
   "ppg": 9.6,
   "adjPpg": 9.4,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "5",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 44.8,
+  "pointsPlusStdDev": 44.9,
   "volatilityPctile": 28,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 26,
       "pts": 18,
       "adjPts": 15.6,
-      "pointsPlus": 163
+      "pointsPlus": 164
     },
     {
       "date": "2025-11-20",

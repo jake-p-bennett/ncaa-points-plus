@@ -4,7 +4,7 @@
   "team": "HALL",
   "teamName": "Seton Hall Pirates",
   "conference": "Big East",
-  "rank": 481,
+  "rank": 482,
   "gp": 28,
   "ppg": 6.3,
   "adjPpg": 6.0,
@@ -14,7 +14,7 @@
   "jersey": "6",
   "classYear": "Senior",
   "pointsPlusStdDev": 41.7,
-  "volatilityPctile": 21,
+  "volatilityPctile": 20,
   "gameLog": [
     {
       "date": "2025-11-03",

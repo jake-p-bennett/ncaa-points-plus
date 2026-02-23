@@ -4,7 +4,7 @@
   "team": "CAL",
   "teamName": "California Golden Bears",
   "conference": "ACC",
-  "rank": 592,
+  "rank": 593,
   "gp": 25,
   "ppg": 4.0,
   "adjPpg": 4.1,
@@ -14,7 +14,7 @@
   "jersey": "3",
   "classYear": "Freshman",
   "pointsPlusStdDev": 45.5,
-  "volatilityPctile": 30,
+  "volatilityPctile": 29,
   "gameLog": [
     {
       "date": "2025-11-03",

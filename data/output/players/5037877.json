@@ -4,7 +4,7 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 664,
+  "rank": 665,
   "gp": 17,
   "ppg": 1.4,
   "adjPpg": 1.4,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "11",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 21.2,
+  "pointsPlusStdDev": 21.3,
   "volatilityPctile": 1,
   "gameLog": [
     {
@@ -131,7 +131,7 @@
       "min": 5,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 24
+      "pointsPlus": 25
     },
     {
       "date": "2026-02-01",

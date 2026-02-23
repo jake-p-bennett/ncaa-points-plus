@@ -4,7 +4,7 @@
   "team": "RUTG",
   "teamName": "Rutgers Scarlet Knights",
   "conference": "Big Ten",
-  "rank": 423,
+  "rank": 422,
   "gp": 22,
   "ppg": 6.8,
   "adjPpg": 7.1,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "3",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 53.8,
+  "pointsPlusStdDev": 53.7,
   "volatilityPctile": 51,
   "gameLog": [
     {
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 10,
       "pts": 9,
-      "adjPts": 8.9,
-      "pointsPlus": 93
+      "adjPts": 9.0,
+      "pointsPlus": 94
     },
     {
       "date": "2026-01-05",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 21,
       "pts": 9,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-20",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 18,
       "pts": 8,
-      "adjPts": 9.9,
-      "pointsPlus": 104
+      "adjPts": 9.7,
+      "pointsPlus": 102
     },
     {
       "date": "2026-01-23",

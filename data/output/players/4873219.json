@@ -4,7 +4,7 @@
   "team": "USC",
   "teamName": "USC Trojans",
   "conference": "Big Ten",
-  "rank": 271,
+  "rank": 272,
   "gp": 27,
   "ppg": 10.0,
   "adjPpg": 10.3,
@@ -14,7 +14,7 @@
   "jersey": "6",
   "classYear": "Sophomore",
   "pointsPlusStdDev": 54.4,
-  "volatilityPctile": 53,
+  "volatilityPctile": 52,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 33,
       "pts": 7,
-      "adjPts": 8.1,
-      "pointsPlus": 85
+      "adjPts": 8.2,
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-09",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 36,
       "pts": 9,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-28",
@@ -203,7 +203,7 @@
       "min": 26,
       "pts": 4,
       "adjPts": 4.9,
-      "pointsPlus": 52
+      "pointsPlus": 51
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 37,
       "pts": 15,
       "adjPts": 15.2,
-      "pointsPlus": 159
+      "pointsPlus": 160
     },
     {
       "date": "2026-02-03",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 38,
       "pts": 12,
-      "adjPts": 11.8,
-      "pointsPlus": 124
+      "adjPts": 12.0,
+      "pointsPlus": 126
     },
     {
       "date": "2026-02-18",

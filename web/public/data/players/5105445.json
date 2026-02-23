@@ -4,7 +4,7 @@
   "team": "CLEM",
   "teamName": "Clemson Tigers",
   "conference": "ACC",
-  "rank": 388,
+  "rank": 387,
   "gp": 28,
   "ppg": 7.7,
   "adjPpg": 7.7,
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 35,
       "pts": 16,
-      "adjPts": 13.6,
+      "adjPts": 13.5,
       "pointsPlus": 142
     },
     {

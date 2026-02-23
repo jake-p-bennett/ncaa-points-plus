@@ -4,16 +4,16 @@
   "team": "ILL",
   "teamName": "Illinois Fighting Illini",
   "conference": "Big Ten",
-  "rank": 234,
+  "rank": 233,
   "gp": 25,
   "ppg": 10.7,
-  "adjPpg": 11.1,
+  "adjPpg": 11.2,
   "pointsPlus": 117,
   "mpg": 25.5,
   "position": "C",
   "jersey": "13",
   "classYear": "Junior",
-  "pointsPlusStdDev": 56.6,
+  "pointsPlusStdDev": 56.7,
   "volatilityPctile": 61,
   "gameLog": [
     {
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 27,
       "pts": 7,
-      "adjPts": 6.9,
-      "pointsPlus": 72
+      "adjPts": 7.0,
+      "pointsPlus": 73
     },
     {
       "date": "2025-12-13",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 20,
       "pts": 7,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.5,
+      "pointsPlus": 89
     },
     {
       "date": "2026-01-14",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 29,
       "pts": 12,
-      "adjPts": 13.9,
-      "pointsPlus": 146
+      "adjPts": 14.0,
+      "pointsPlus": 147
     },
     {
       "date": "2026-02-10",
@@ -212,7 +212,7 @@
       "min": 37,
       "pts": 19,
       "adjPts": 17.6,
-      "pointsPlus": 184
+      "pointsPlus": 185
     },
     {
       "date": "2026-02-15",

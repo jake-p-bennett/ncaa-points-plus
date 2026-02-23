@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "14",
   "classYear": "Senior",
-  "pointsPlusStdDev": 51.9,
+  "pointsPlusStdDev": 51.8,
   "volatilityPctile": 45,
   "gameLog": [
     {
@@ -167,7 +167,7 @@
       "min": 17,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 24
+      "pointsPlus": 25
     },
     {
       "date": "2026-01-17",

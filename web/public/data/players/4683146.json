@@ -4,7 +4,7 @@
   "team": "TA&M",
   "teamName": "Texas A&M Aggies",
   "conference": "SEC",
-  "rank": 480,
+  "rank": 481,
   "gp": 27,
   "ppg": 6.4,
   "adjPpg": 6.1,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "7",
   "classYear": "Senior",
-  "pointsPlusStdDev": 57.2,
-  "volatilityPctile": 62,
+  "pointsPlusStdDev": 57.3,
+  "volatilityPctile": 63,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -230,7 +230,7 @@
       "min": 23,
       "pts": 20,
       "adjPts": 19.1,
-      "pointsPlus": 200
+      "pointsPlus": 201
     },
     {
       "date": "2026-02-14",

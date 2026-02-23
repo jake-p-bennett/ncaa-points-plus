@@ -8,12 +8,12 @@
   "gp": 27,
   "ppg": 13.9,
   "adjPpg": 14.3,
-  "pointsPlus": 149,
+  "pointsPlus": 150,
   "mpg": 31.4,
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 51.4,
+  "pointsPlusStdDev": 51.5,
   "volatilityPctile": 43,
   "gameLog": [
     {
@@ -203,7 +203,7 @@
       "min": 30,
       "pts": 16,
       "adjPts": 18.2,
-      "pointsPlus": 190
+      "pointsPlus": 191
     },
     {
       "date": "2026-01-31",

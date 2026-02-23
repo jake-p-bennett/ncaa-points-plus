@@ -4,7 +4,7 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 202,
+  "rank": 203,
   "gp": 27,
   "ppg": 11.3,
   "adjPpg": 11.8,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "7",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 87.4,
+  "pointsPlusStdDev": 87.2,
   "volatilityPctile": 98,
   "gameLog": [
     {
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 21,
       "pts": 11,
-      "adjPts": 13.6,
-      "pointsPlus": 143
+      "adjPts": 13.4,
+      "pointsPlus": 141
     },
     {
       "date": "2025-12-13",
@@ -185,7 +185,7 @@
       "min": 17,
       "pts": 16,
       "adjPts": 16.8,
-      "pointsPlus": 176
+      "pointsPlus": 177
     },
     {
       "date": "2026-01-24",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 15,
       "pts": 5,
-      "adjPts": 5.8,
+      "adjPts": 5.9,
       "pointsPlus": 61
     },
     {
@@ -203,7 +203,7 @@
       "min": 30,
       "pts": 18,
       "adjPts": 19.1,
-      "pointsPlus": 200
+      "pointsPlus": 201
     },
     {
       "date": "2026-02-05",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 34,
       "pts": 11,
-      "adjPts": 10.9,
-      "pointsPlus": 114
+      "adjPts": 11.0,
+      "pointsPlus": 115
     },
     {
       "date": "2026-02-08",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 40,
       "pts": 24,
-      "adjPts": 29.7,
-      "pointsPlus": 311
+      "adjPts": 29.2,
+      "pointsPlus": 307
     },
     {
       "date": "2026-02-15",
@@ -257,7 +257,7 @@
       "min": 39,
       "pts": 21,
       "adjPts": 22.0,
-      "pointsPlus": 230
+      "pointsPlus": 231
     }
   ]
 }

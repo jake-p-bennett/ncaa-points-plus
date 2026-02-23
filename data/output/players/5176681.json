@@ -4,7 +4,7 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 198,
+  "rank": 197,
   "gp": 27,
   "ppg": 12.2,
   "adjPpg": 11.9,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "4",
   "classYear": "Junior",
-  "pointsPlusStdDev": 54.3,
+  "pointsPlusStdDev": 54.4,
   "volatilityPctile": 52,
   "gameLog": [
     {
@@ -185,7 +185,7 @@
       "min": 26,
       "pts": 18,
       "adjPts": 17.2,
-      "pointsPlus": 180
+      "pointsPlus": 181
     },
     {
       "date": "2026-01-24",

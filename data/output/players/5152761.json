@@ -4,7 +4,7 @@
   "team": "ORE",
   "teamName": "Oregon Ducks",
   "conference": "Big Ten",
-  "rank": 638,
+  "rank": 639,
   "gp": 16,
   "ppg": 2.9,
   "adjPpg": 2.9,
@@ -140,7 +140,7 @@
       "min": 13,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 24
+      "pointsPlus": 25
     },
     {
       "date": "2026-01-25",

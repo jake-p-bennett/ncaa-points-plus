@@ -4,17 +4,17 @@
   "team": "IOWA",
   "teamName": "Iowa Hawkeyes",
   "conference": "Big Ten",
-  "rank": 362,
-  "gp": 26,
-  "ppg": 8.2,
-  "adjPpg": 8.3,
-  "pointsPlus": 87,
+  "rank": 358,
+  "gp": 27,
+  "ppg": 8.3,
+  "adjPpg": 8.4,
+  "pointsPlus": 88,
   "mpg": 20.5,
   "position": "F",
   "jersey": "7",
   "classYear": "Junior",
-  "pointsPlusStdDev": 59.9,
-  "volatilityPctile": 70,
+  "pointsPlusStdDev": 58.9,
+  "volatilityPctile": 67,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -86,7 +86,7 @@
       "min": 18,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 24
+      "pointsPlus": 25
     },
     {
       "date": "2025-12-06",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 28,
       "pts": 13,
-      "adjPts": 13.6,
+      "adjPts": 13.5,
       "pointsPlus": 142
     },
     {
@@ -221,7 +221,7 @@
       "min": 25,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 65
+      "pointsPlus": 66
     },
     {
       "date": "2026-02-11",
@@ -249,6 +249,15 @@
       "pts": 7,
       "adjPts": 8.3,
       "pointsPlus": 87
+    },
+    {
+      "date": "2026-02-22",
+      "matchup": "IOWA @ WIS",
+      "result": "L",
+      "min": 21,
+      "pts": 11,
+      "adjPts": 10.2,
+      "pointsPlus": 107
     }
   ]
 }

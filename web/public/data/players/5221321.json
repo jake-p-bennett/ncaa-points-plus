@@ -4,7 +4,7 @@
   "team": "TTU",
   "teamName": "Texas Tech Red Raiders",
   "conference": "Big 12",
-  "rank": 320,
+  "rank": 321,
   "gp": 26,
   "ppg": 9.0,
   "adjPpg": 9.3,
@@ -14,7 +14,7 @@
   "jersey": "11",
   "classYear": "Freshman",
   "pointsPlusStdDev": 66.0,
-  "volatilityPctile": 83,
+  "volatilityPctile": 82,
   "gameLog": [
     {
       "date": "2025-11-04",

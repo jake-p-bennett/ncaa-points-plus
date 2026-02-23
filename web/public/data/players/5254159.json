@@ -8,7 +8,7 @@
   "gp": 27,
   "ppg": 16.3,
   "adjPpg": 16.4,
-  "pointsPlus": 171,
+  "pointsPlus": 172,
   "mpg": 29.8,
   "position": "G",
   "jersey": "2",
@@ -40,7 +40,7 @@
       "result": "W",
       "min": 22,
       "pts": 15,
-      "adjPts": 11.6,
+      "adjPts": 11.5,
       "pointsPlus": 121
     },
     {
@@ -140,7 +140,7 @@
       "min": 26,
       "pts": 19,
       "adjPts": 17.3,
-      "pointsPlus": 181
+      "pointsPlus": 182
     },
     {
       "date": "2026-01-07",

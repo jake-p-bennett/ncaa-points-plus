@@ -4,7 +4,7 @@
   "team": "CAL",
   "teamName": "California Golden Bears",
   "conference": "ACC",
-  "rank": 360,
+  "rank": 361,
   "gp": 20,
   "ppg": 8.2,
   "adjPpg": 8.3,
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 27,
       "pts": 14,
-      "adjPts": 17.1,
+      "adjPts": 17.0,
       "pointsPlus": 179
     },
     {

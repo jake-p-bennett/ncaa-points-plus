@@ -8,7 +8,7 @@
   "gp": 27,
   "ppg": 11.2,
   "adjPpg": 11.3,
-  "pointsPlus": 118,
+  "pointsPlus": 119,
   "mpg": 33.0,
   "position": "G",
   "jersey": "1",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 29,
       "pts": 9,
-      "adjPts": 11.1,
-      "pointsPlus": 117
+      "adjPts": 11.0,
+      "pointsPlus": 115
     },
     {
       "date": "2025-11-18",
@@ -221,7 +221,7 @@
       "min": 34,
       "pts": 10,
       "adjPts": 11.7,
-      "pointsPlus": 122
+      "pointsPlus": 123
     },
     {
       "date": "2026-02-09",

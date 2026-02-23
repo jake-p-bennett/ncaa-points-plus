@@ -4,7 +4,7 @@
   "team": "KU",
   "teamName": "Kansas Jayhawks",
   "conference": "Big 12",
-  "rank": 125,
+  "rank": 126,
   "gp": 27,
   "ppg": 13.6,
   "adjPpg": 13.9,
@@ -59,7 +59,7 @@
       "min": 38,
       "pts": 15,
       "adjPts": 18.3,
-      "pointsPlus": 191
+      "pointsPlus": 192
     },
     {
       "date": "2025-11-24",

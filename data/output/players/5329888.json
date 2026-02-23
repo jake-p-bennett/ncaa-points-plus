@@ -4,7 +4,7 @@
   "team": "OU",
   "teamName": "Oklahoma Sooners",
   "conference": "SEC",
-  "rank": 582,
+  "rank": 583,
   "gp": 15,
   "ppg": 4.5,
   "adjPpg": 4.2,
@@ -14,7 +14,7 @@
   "jersey": "15",
   "classYear": "Senior",
   "pointsPlusStdDev": 46.5,
-  "volatilityPctile": 32,
+  "volatilityPctile": 33,
   "gameLog": [
     {
       "date": "2025-12-29",

@@ -4,7 +4,7 @@
   "team": "ORE",
   "teamName": "Oregon Ducks",
   "conference": "Big Ten",
-  "rank": 79,
+  "rank": 78,
   "gp": 12,
   "ppg": 15.6,
   "adjPpg": 15.5,
@@ -14,7 +14,7 @@
   "jersey": "3",
   "classYear": "Junior",
   "pointsPlusStdDev": 55.1,
-  "volatilityPctile": 56,
+  "volatilityPctile": 55,
   "gameLog": [
     {
       "date": "2025-11-07",

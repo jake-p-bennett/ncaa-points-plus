@@ -4,7 +4,7 @@
   "team": "HALL",
   "teamName": "Seton Hall Pirates",
   "conference": "Big East",
-  "rank": 274,
+  "rank": 275,
   "gp": 28,
   "ppg": 10.5,
   "adjPpg": 10.2,
@@ -167,7 +167,7 @@
       "min": 19,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 24
+      "pointsPlus": 25
     },
     {
       "date": "2026-01-17",

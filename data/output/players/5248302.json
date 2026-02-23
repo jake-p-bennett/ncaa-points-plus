@@ -4,7 +4,7 @@
   "team": "ISU",
   "teamName": "Iowa State Cyclones",
   "conference": "Big 12",
-  "rank": 333,
+  "rank": 334,
   "gp": 27,
   "ppg": 9.1,
   "adjPpg": 9.0,
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 30,
       "pts": 7,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.5,
+      "pointsPlus": 89
     },
     {
       "date": "2025-12-14",
@@ -167,7 +167,7 @@
       "min": 26,
       "pts": 2,
       "adjPts": 2.2,
-      "pointsPlus": 23
+      "pointsPlus": 24
     },
     {
       "date": "2026-01-17",
@@ -212,7 +212,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 11.1,
-      "pointsPlus": 116
+      "pointsPlus": 117
     },
     {
       "date": "2026-02-07",

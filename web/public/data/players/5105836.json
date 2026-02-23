@@ -4,7 +4,7 @@
   "team": "MICH",
   "teamName": "Michigan Wolverines",
   "conference": "Big Ten",
-  "rank": 412,
+  "rank": 411,
   "gp": 26,
   "ppg": 7.3,
   "adjPpg": 7.2,
@@ -14,7 +14,7 @@
   "jersey": "11",
   "classYear": "Senior",
   "pointsPlusStdDev": 39.6,
-  "volatilityPctile": 16,
+  "volatilityPctile": 17,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 27,
       "pts": 9,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-14",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 21,
       "pts": 5,
-      "adjPts": 4.9,
+      "adjPts": 5.0,
       "pointsPlus": 52
     },
     {
@@ -203,7 +203,7 @@
       "min": 21,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 24
+      "pointsPlus": 25
     },
     {
       "date": "2026-02-08",

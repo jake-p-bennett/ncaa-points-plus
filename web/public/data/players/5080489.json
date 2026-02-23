@@ -4,16 +4,16 @@
   "team": "FLA",
   "teamName": "Florida Gators",
   "conference": "SEC",
-  "rank": 56,
+  "rank": 57,
   "gp": 27,
   "ppg": 17.3,
   "adjPpg": 16.7,
-  "pointsPlus": 175,
+  "pointsPlus": 176,
   "mpg": 33.7,
   "position": "F",
   "jersey": "10",
   "classYear": "Junior",
-  "pointsPlusStdDev": 60.9,
+  "pointsPlusStdDev": 61.0,
   "volatilityPctile": 72,
   "gameLog": [
     {
@@ -68,7 +68,7 @@
       "min": 36,
       "pts": 20,
       "adjPts": 20.8,
-      "pointsPlus": 218
+      "pointsPlus": 219
     },
     {
       "date": "2025-11-28",
@@ -86,7 +86,7 @@
       "min": 40,
       "pts": 24,
       "adjPts": 29.2,
-      "pointsPlus": 306
+      "pointsPlus": 307
     },
     {
       "date": "2025-12-09",
@@ -95,7 +95,7 @@
       "min": 37,
       "pts": 18,
       "adjPts": 21.0,
-      "pointsPlus": 220
+      "pointsPlus": 221
     },
     {
       "date": "2025-12-13",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 38,
       "pts": 24,
-      "adjPts": 23.0,
+      "adjPts": 22.9,
       "pointsPlus": 241
     },
     {
@@ -149,7 +149,7 @@
       "min": 36,
       "pts": 21,
       "adjPts": 17.8,
-      "pointsPlus": 186
+      "pointsPlus": 187
     },
     {
       "date": "2026-01-10",
@@ -158,7 +158,7 @@
       "min": 37,
       "pts": 13,
       "adjPts": 14.1,
-      "pointsPlus": 147
+      "pointsPlus": 148
     },
     {
       "date": "2026-01-13",
@@ -221,7 +221,7 @@
       "min": 32,
       "pts": 22,
       "adjPts": 18.8,
-      "pointsPlus": 197
+      "pointsPlus": 198
     },
     {
       "date": "2026-02-11",

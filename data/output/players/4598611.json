@@ -4,7 +4,7 @@
   "team": "CIN",
   "teamName": "Cincinnati Bearcats",
   "conference": "Big 12",
-  "rank": 387,
+  "rank": 386,
   "gp": 26,
   "ppg": 7.4,
   "adjPpg": 7.8,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "32",
   "classYear": "Senior",
-  "pointsPlusStdDev": 56.4,
+  "pointsPlusStdDev": 56.5,
   "volatilityPctile": 60,
   "gameLog": [
     {
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 25,
       "pts": 15,
-      "adjPts": 20.0,
+      "adjPts": 19.9,
       "pointsPlus": 209
     },
     {
@@ -203,7 +203,7 @@
       "min": 28,
       "pts": 15,
       "adjPts": 19.4,
-      "pointsPlus": 203
+      "pointsPlus": 204
     },
     {
       "date": "2026-02-05",
@@ -248,7 +248,7 @@
       "min": 33,
       "pts": 14,
       "adjPts": 15.7,
-      "pointsPlus": 164
+      "pointsPlus": 165
     }
   ]
 }

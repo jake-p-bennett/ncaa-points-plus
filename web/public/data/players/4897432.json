@@ -4,7 +4,7 @@
   "team": "NEB",
   "teamName": "Nebraska Cornhuskers",
   "conference": "Big Ten",
-  "rank": 307,
+  "rank": 306,
   "gp": 27,
   "ppg": 9.5,
   "adjPpg": 9.6,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 49.3,
+  "pointsPlusStdDev": 49.4,
   "volatilityPctile": 39,
   "gameLog": [
     {
@@ -68,7 +68,7 @@
       "min": 31,
       "pts": 13,
       "adjPts": 11.1,
-      "pointsPlus": 116
+      "pointsPlus": 117
     },
     {
       "date": "2025-11-25",
@@ -104,7 +104,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 11.1,
-      "pointsPlus": 116
+      "pointsPlus": 117
     },
     {
       "date": "2025-12-13",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 32,
       "pts": 4,
-      "adjPts": 4.6,
+      "adjPts": 4.7,
       "pointsPlus": 49
     },
     {
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 35,
       "pts": 8,
-      "adjPts": 7.9,
-      "pointsPlus": 83
+      "adjPts": 8.0,
+      "pointsPlus": 84
     },
     {
       "date": "2026-01-10",
@@ -248,7 +248,7 @@
       "min": 36,
       "pts": 4,
       "adjPts": 4.9,
-      "pointsPlus": 52
+      "pointsPlus": 51
     },
     {
       "date": "2026-02-21",

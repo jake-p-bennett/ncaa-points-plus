@@ -4,7 +4,7 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 322,
+  "rank": 323,
   "gp": 27,
   "ppg": 9.3,
   "adjPpg": 9.2,
@@ -31,7 +31,7 @@
       "result": "L",
       "min": 15,
       "pts": 4,
-      "adjPts": 4.6,
+      "adjPts": 4.7,
       "pointsPlus": 49
     },
     {

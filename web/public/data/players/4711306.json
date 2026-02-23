@@ -4,7 +4,7 @@
   "team": "UK",
   "teamName": "Kentucky Wildcats",
   "conference": "SEC",
-  "rank": 588,
+  "rank": 589,
   "gp": 27,
   "ppg": 4.3,
   "adjPpg": 4.2,
@@ -59,7 +59,7 @@
       "min": 20,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 24
+      "pointsPlus": 25
     },
     {
       "date": "2025-11-21",

@@ -4,7 +4,7 @@
   "team": "SJU",
   "teamName": "St. John's Red Storm",
   "conference": "Big East",
-  "rank": 416,
+  "rank": 415,
   "gp": 25,
   "ppg": 7.2,
   "adjPpg": 7.2,
@@ -95,7 +95,7 @@
       "min": 25,
       "pts": 17,
       "adjPts": 19.3,
-      "pointsPlus": 202
+      "pointsPlus": 203
     },
     {
       "date": "2025-12-20",

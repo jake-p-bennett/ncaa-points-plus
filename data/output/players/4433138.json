@@ -4,7 +4,7 @@
   "team": "MICH",
   "teamName": "Michigan Wolverines",
   "conference": "Big Ten",
-  "rank": 349,
+  "rank": 348,
   "gp": 27,
   "ppg": 8.7,
   "adjPpg": 8.6,
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 14,
       "pts": 4,
-      "adjPts": 3.9,
-      "pointsPlus": 41
+      "adjPts": 4.0,
+      "pointsPlus": 42
     },
     {
       "date": "2026-01-27",
@@ -212,7 +212,7 @@
       "min": 21,
       "pts": 31,
       "adjPts": 28.3,
-      "pointsPlus": 296
+      "pointsPlus": 297
     },
     {
       "date": "2026-02-08",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 23,
       "pts": 8,
-      "adjPts": 7.9,
-      "pointsPlus": 83
+      "adjPts": 8.0,
+      "pointsPlus": 84
     },
     {
       "date": "2026-02-11",
@@ -230,7 +230,7 @@
       "min": 13,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 65
+      "pointsPlus": 66
     },
     {
       "date": "2026-02-14",

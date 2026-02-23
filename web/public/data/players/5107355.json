@@ -59,7 +59,7 @@
       "min": 17,
       "pts": 9,
       "adjPts": 8.3,
-      "pointsPlus": 87
+      "pointsPlus": 88
     },
     {
       "date": "2025-11-21",
@@ -203,7 +203,7 @@
       "min": 37,
       "pts": 11,
       "adjPts": 10.1,
-      "pointsPlus": 105
+      "pointsPlus": 106
     },
     {
       "date": "2026-02-02",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 40,
       "pts": 15,
-      "adjPts": 20.0,
+      "adjPts": 19.9,
       "pointsPlus": 209
     },
     {

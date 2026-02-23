@@ -5,16 +5,16 @@
   "teamName": "Wisconsin Badgers",
   "conference": "Big Ten",
   "rank": 571,
-  "gp": 26,
+  "gp": 27,
   "ppg": 4.3,
   "adjPpg": 4.4,
-  "pointsPlus": 46,
-  "mpg": 17.6,
+  "pointsPlus": 47,
+  "mpg": 17.4,
   "position": "F",
   "jersey": "32",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 44.0,
-  "volatilityPctile": 25,
+  "pointsPlusStdDev": 43.3,
+  "volatilityPctile": 24,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -86,7 +86,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 65
+      "pointsPlus": 66
     },
     {
       "date": "2025-12-06",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 25,
       "pts": 10,
-      "adjPts": 9.9,
-      "pointsPlus": 103
+      "adjPts": 10.0,
+      "pointsPlus": 105
     },
     {
       "date": "2026-02-07",
@@ -239,7 +239,7 @@
       "min": 18,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 24
+      "pointsPlus": 25
     },
     {
       "date": "2026-02-17",
@@ -249,6 +249,15 @@
       "pts": 2,
       "adjPts": 2.0,
       "pointsPlus": 21
+    },
+    {
+      "date": "2026-02-22",
+      "matchup": "WIS vs IOWA",
+      "result": "W",
+      "min": 14,
+      "pts": 4,
+      "adjPts": 4.9,
+      "pointsPlus": 51
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "SJU",
   "teamName": "St. John's Red Storm",
   "conference": "Big East",
-  "rank": 342,
+  "rank": 341,
   "gp": 27,
   "ppg": 8.7,
   "adjPpg": 8.8,
@@ -14,7 +14,7 @@
   "jersey": "1",
   "classYear": "Senior",
   "pointsPlusStdDev": 56.5,
-  "volatilityPctile": 61,
+  "volatilityPctile": 60,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 29,
       "pts": 7,
       "adjPts": 5.3,
-      "pointsPlus": 55
+      "pointsPlus": 56
     },
     {
       "date": "2025-11-15",
@@ -176,7 +176,7 @@
       "min": 35,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 113
+      "pointsPlus": 114
     },
     {
       "date": "2026-01-20",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 24,
       "pts": 5,
-      "adjPts": 3.9,
+      "adjPts": 3.8,
       "pointsPlus": 40
     },
     {

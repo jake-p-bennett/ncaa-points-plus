@@ -4,11 +4,11 @@
   "team": "UNC",
   "teamName": "North Carolina Tar Heels",
   "conference": "ACC",
-  "rank": 57,
+  "rank": 56,
   "gp": 25,
   "ppg": 16.5,
   "adjPpg": 16.7,
-  "pointsPlus": 175,
+  "pointsPlus": 176,
   "mpg": 30.8,
   "position": "C",
   "jersey": "13",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 29,
       "pts": 13,
-      "adjPts": 15.1,
-      "pointsPlus": 158
+      "adjPts": 15.2,
+      "pointsPlus": 160
     },
     {
       "date": "2025-12-02",
@@ -95,7 +95,7 @@
       "min": 37,
       "pts": 18,
       "adjPts": 18.6,
-      "pointsPlus": 195
+      "pointsPlus": 196
     },
     {
       "date": "2025-12-13",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 32,
       "pts": 17,
-      "adjPts": 16.8,
-      "pointsPlus": 176
+      "adjPts": 17.0,
+      "pointsPlus": 178
     },
     {
       "date": "2025-12-22",
@@ -203,7 +203,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 19.1,
-      "pointsPlus": 200
+      "pointsPlus": 201
     },
     {
       "date": "2026-02-02",

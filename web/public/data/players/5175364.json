@@ -4,10 +4,10 @@
   "team": "MARQ",
   "teamName": "Marquette Golden Eagles",
   "conference": "Big East",
-  "rank": 637,
+  "rank": 638,
   "gp": 27,
   "ppg": 3.0,
-  "adjPpg": 3.0,
+  "adjPpg": 3.1,
   "pointsPlus": 32,
   "mpg": 13.6,
   "position": "F",
@@ -149,7 +149,7 @@
       "min": 8,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 24
+      "pointsPlus": 25
     },
     {
       "date": "2026-01-07",

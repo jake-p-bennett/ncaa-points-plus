@@ -4,7 +4,7 @@
   "team": "MIZ",
   "teamName": "Missouri Tigers",
   "conference": "SEC",
-  "rank": 634,
+  "rank": 635,
   "gp": 19,
   "ppg": 3.1,
   "adjPpg": 3.2,
@@ -14,7 +14,7 @@
   "jersey": "45",
   "classYear": "Junior",
   "pointsPlusStdDev": 32.9,
-  "volatilityPctile": 6,
+  "volatilityPctile": 7,
   "gameLog": [
     {
       "date": "2025-11-03",

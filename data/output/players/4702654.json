@@ -4,17 +4,17 @@
   "team": "WIS",
   "teamName": "Wisconsin Badgers",
   "conference": "Big Ten",
-  "rank": 14,
-  "gp": 26,
-  "ppg": 20.3,
-  "adjPpg": 20.7,
-  "pointsPlus": 217,
-  "mpg": 31.0,
+  "rank": 12,
+  "gp": 27,
+  "ppg": 20.6,
+  "adjPpg": 21.1,
+  "pointsPlus": 222,
+  "mpg": 31.2,
   "position": "G",
   "jersey": "2",
   "classYear": "Senior",
-  "pointsPlusStdDev": 64.8,
-  "volatilityPctile": 80,
+  "pointsPlusStdDev": 68.2,
+  "volatilityPctile": 86,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 32,
       "pts": 32,
-      "adjPts": 32.5,
+      "adjPts": 32.4,
       "pointsPlus": 340
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 38,
       "pts": 21,
-      "adjPts": 20.7,
-      "pointsPlus": 217
+      "adjPts": 20.9,
+      "pointsPlus": 220
     },
     {
       "date": "2026-02-07",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 32,
       "pts": 29,
-      "adjPts": 33.7,
-      "pointsPlus": 353
+      "adjPts": 33.9,
+      "pointsPlus": 356
     },
     {
       "date": "2026-02-17",
@@ -247,8 +247,17 @@
       "result": "L",
       "min": 33,
       "pts": 14,
-      "adjPts": 13.8,
-      "pointsPlus": 145
+      "adjPts": 14.0,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2026-02-22",
+      "matchup": "WIS vs IOWA",
+      "result": "W",
+      "min": 36,
+      "pts": 27,
+      "adjPts": 32.9,
+      "pointsPlus": 345
     }
   ]
 }

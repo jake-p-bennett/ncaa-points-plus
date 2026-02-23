@@ -7,14 +7,14 @@
   "rank": 573,
   "gp": 27,
   "ppg": 4.2,
-  "adjPpg": 4.4,
+  "adjPpg": 4.3,
   "pointsPlus": 46,
   "mpg": 19.5,
   "position": "G",
   "jersey": "3",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 49.4,
-  "volatilityPctile": 39,
+  "pointsPlusStdDev": 49.0,
+  "volatilityPctile": 38,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 34,
       "pts": 11,
-      "adjPts": 10.3,
-      "pointsPlus": 107
+      "adjPts": 10.2,
+      "pointsPlus": 108
     },
     {
       "date": "2026-01-24",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 35,
       "pts": 18,
-      "adjPts": 22.3,
-      "pointsPlus": 233
+      "adjPts": 21.9,
+      "pointsPlus": 230
     },
     {
       "date": "2026-02-11",

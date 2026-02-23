@@ -50,7 +50,7 @@
       "min": 33,
       "pts": 10,
       "adjPts": 11.2,
-      "pointsPlus": 117
+      "pointsPlus": 118
     },
     {
       "date": "2025-11-26",
@@ -59,7 +59,7 @@
       "min": 29,
       "pts": 10,
       "adjPts": 11.6,
-      "pointsPlus": 121
+      "pointsPlus": 122
     },
     {
       "date": "2025-12-02",
@@ -167,7 +167,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 11.9,
-      "pointsPlus": 124
+      "pointsPlus": 125
     },
     {
       "date": "2026-01-24",
@@ -185,7 +185,7 @@
       "min": 28,
       "pts": 17,
       "adjPts": 16.3,
-      "pointsPlus": 170
+      "pointsPlus": 171
     },
     {
       "date": "2026-01-31",
@@ -248,7 +248,7 @@
       "min": 34,
       "pts": 22,
       "adjPts": 23.0,
-      "pointsPlus": 241
+      "pointsPlus": 242
     }
   ]
 }

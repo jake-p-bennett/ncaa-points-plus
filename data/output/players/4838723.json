@@ -4,11 +4,11 @@
   "team": "PSU",
   "teamName": "Penn State Nittany Lions",
   "conference": "Big Ten",
-  "rank": 222,
+  "rank": 221,
   "gp": 28,
   "ppg": 11.2,
   "adjPpg": 11.4,
-  "pointsPlus": 119,
+  "pointsPlus": 120,
   "mpg": 27.5,
   "position": "F",
   "jersey": "10",
@@ -112,7 +112,7 @@
       "result": "L",
       "min": 26,
       "pts": 4,
-      "adjPts": 4.6,
+      "adjPts": 4.7,
       "pointsPlus": 49
     },
     {
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 38,
       "pts": 13,
-      "adjPts": 12.8,
-      "pointsPlus": 135
+      "adjPts": 13.0,
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-29",
@@ -248,7 +248,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 141
+      "pointsPlus": 142
     },
     {
       "date": "2026-02-18",

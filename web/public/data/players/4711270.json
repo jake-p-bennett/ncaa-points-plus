@@ -14,7 +14,7 @@
   "jersey": "12",
   "classYear": "Junior",
   "pointsPlusStdDev": 62.2,
-  "volatilityPctile": 75,
+  "volatilityPctile": 74,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -104,7 +104,7 @@
       "min": 11,
       "pts": 3,
       "adjPts": 3.4,
-      "pointsPlus": 35
+      "pointsPlus": 36
     },
     {
       "date": "2025-12-11",

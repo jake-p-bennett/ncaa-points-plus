@@ -4,7 +4,7 @@
   "team": "SMU",
   "teamName": "SMU Mustangs",
   "conference": "ACC",
-  "rank": 219,
+  "rank": 218,
   "gp": 27,
   "ppg": 11.4,
   "adjPpg": 11.4,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 55.4,
+  "pointsPlusStdDev": 55.3,
   "volatilityPctile": 56,
   "gameLog": [
     {
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 31,
       "pts": 23,
-      "adjPts": 24.1,
-      "pointsPlus": 253
+      "adjPts": 24.0,
+      "pointsPlus": 252
     },
     {
       "date": "2026-01-07",
@@ -248,7 +248,7 @@
       "min": 29,
       "pts": 18,
       "adjPts": 17.7,
-      "pointsPlus": 186
+      "pointsPlus": 185
     },
     {
       "date": "2026-02-21",

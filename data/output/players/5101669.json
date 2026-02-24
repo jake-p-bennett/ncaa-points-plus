@@ -4,17 +4,17 @@
   "team": "UNC",
   "teamName": "North Carolina Tar Heels",
   "conference": "ACC",
-  "rank": 533,
-  "gp": 27,
-  "ppg": 5.0,
-  "adjPpg": 5.0,
-  "pointsPlus": 53,
-  "mpg": 16.5,
+  "rank": 546,
+  "gp": 28,
+  "ppg": 4.8,
+  "adjPpg": 4.8,
+  "pointsPlus": 51,
+  "mpg": 16.3,
   "position": "G",
   "jersey": "11",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 38.9,
-  "volatilityPctile": 15,
+  "pointsPlusStdDev": 39.4,
+  "volatilityPctile": 16,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 6,
       "pts": 3,
       "adjPts": 3.4,
-      "pointsPlus": 35
+      "pointsPlus": 36
     },
     {
       "date": "2025-11-11",
@@ -258,6 +258,15 @@
       "pts": 6,
       "adjPts": 6.1,
       "pointsPlus": 64
+    },
+    {
+      "date": "2026-02-23",
+      "matchup": "UNC vs LOU",
+      "result": "W",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

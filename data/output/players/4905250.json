@@ -4,7 +4,7 @@
   "team": "WAKE",
   "teamName": "Wake Forest Demon Deacons",
   "conference": "ACC",
-  "rank": 393,
+  "rank": 392,
   "gp": 26,
   "ppg": 7.5,
   "adjPpg": 7.6,
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 20,
       "pts": 3,
-      "adjPts": 3.0,
+      "adjPts": 2.9,
       "pointsPlus": 31
     },
     {

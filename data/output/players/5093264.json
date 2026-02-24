@@ -4,7 +4,7 @@
   "team": "PSU",
   "teamName": "Penn State Nittany Lions",
   "conference": "Big Ten",
-  "rank": 390,
+  "rank": 389,
   "gp": 26,
   "ppg": 7.5,
   "adjPpg": 7.6,
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 34,
       "pts": 20,
-      "adjPts": 20.0,
+      "adjPts": 19.9,
       "pointsPlus": 209
     },
     {

@@ -4,7 +4,7 @@
   "team": "PITT",
   "teamName": "Pittsburgh Panthers",
   "conference": "ACC",
-  "rank": 395,
+  "rank": 394,
   "gp": 27,
   "ppg": 7.3,
   "adjPpg": 7.6,
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 30,
       "pts": 13,
-      "adjPts": 12.1,
+      "adjPts": 12.0,
       "pointsPlus": 126
     },
     {

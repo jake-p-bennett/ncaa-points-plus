@@ -4,7 +4,7 @@
   "team": "UCLA",
   "teamName": "UCLA Bruins",
   "conference": "Big Ten",
-  "rank": 31,
+  "rank": 32,
   "gp": 25,
   "ppg": 18.1,
   "adjPpg": 18.4,
@@ -49,7 +49,7 @@
       "result": "L",
       "min": 33,
       "pts": 19,
-      "adjPts": 20.0,
+      "adjPts": 19.9,
       "pointsPlus": 209
     },
     {
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 32,
       "pts": 21,
-      "adjPts": 19.2,
+      "adjPts": 19.1,
       "pointsPlus": 201
     },
     {

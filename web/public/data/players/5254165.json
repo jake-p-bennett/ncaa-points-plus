@@ -4,7 +4,7 @@
   "team": "ILL",
   "teamName": "Illinois Fighting Illini",
   "conference": "Big Ten",
-  "rank": 27,
+  "rank": 28,
   "gp": 28,
   "ppg": 18.2,
   "adjPpg": 18.9,
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 39,
       "pts": 46,
-      "adjPts": 48.9,
+      "adjPts": 48.8,
       "pointsPlus": 512
     },
     {

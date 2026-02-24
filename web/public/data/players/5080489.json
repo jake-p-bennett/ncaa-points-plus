@@ -4,7 +4,7 @@
   "team": "FLA",
   "teamName": "Florida Gators",
   "conference": "SEC",
-  "rank": 57,
+  "rank": 56,
   "gp": 27,
   "ppg": 17.3,
   "adjPpg": 16.7,
@@ -14,7 +14,7 @@
   "jersey": "10",
   "classYear": "Junior",
   "pointsPlusStdDev": 61.0,
-  "volatilityPctile": 72,
+  "volatilityPctile": 71,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -22,7 +22,7 @@
       "result": "L",
       "min": 38,
       "pts": 27,
-      "adjPts": 28.4,
+      "adjPts": 28.3,
       "pointsPlus": 297
     },
     {

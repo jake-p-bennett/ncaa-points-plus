@@ -4,7 +4,7 @@
   "team": "TENN",
   "teamName": "Tennessee Volunteers",
   "conference": "SEC",
-  "rank": 599,
+  "rank": 600,
   "gp": 10,
   "ppg": 3.8,
   "adjPpg": 3.9,
@@ -86,7 +86,7 @@
       "min": 16,
       "pts": 4,
       "adjPts": 4.5,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2025-12-02",

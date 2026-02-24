@@ -14,7 +14,7 @@
   "jersey": "13",
   "classYear": "Senior",
   "pointsPlusStdDev": 58.1,
-  "volatilityPctile": 65,
+  "volatilityPctile": 64,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -112,7 +112,7 @@
       "result": "L",
       "min": 28,
       "pts": 12,
-      "adjPts": 12.6,
+      "adjPts": 12.5,
       "pointsPlus": 132
     },
     {

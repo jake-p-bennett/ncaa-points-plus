@@ -4,7 +4,7 @@
   "team": "WIS",
   "teamName": "Wisconsin Badgers",
   "conference": "Big Ten",
-  "rank": 394,
+  "rank": 393,
   "gp": 26,
   "ppg": 7.3,
   "adjPpg": 7.6,
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 26,
       "pts": 7,
-      "adjPts": 7.2,
+      "adjPts": 7.1,
       "pointsPlus": 75
     },
     {
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 28,
       "pts": 20,
-      "adjPts": 20.0,
+      "adjPts": 19.9,
       "pointsPlus": 209
     },
     {

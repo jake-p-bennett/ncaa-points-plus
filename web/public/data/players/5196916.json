@@ -4,16 +4,16 @@
   "team": "CONN",
   "teamName": "UConn Huskies",
   "conference": "Big East",
-  "rank": 185,
+  "rank": 184,
   "gp": 21,
   "ppg": 12.3,
-  "adjPpg": 12.2,
-  "pointsPlus": 128,
+  "adjPpg": 12.3,
+  "pointsPlus": 129,
   "mpg": 26.7,
   "position": "G",
   "jersey": "24",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 52.0,
+  "pointsPlusStdDev": 52.1,
   "volatilityPctile": 46,
   "gameLog": [
     {
@@ -31,8 +31,8 @@
       "result": "W",
       "min": 23,
       "pts": 17,
-      "adjPts": 19.0,
-      "pointsPlus": 200
+      "adjPts": 19.3,
+      "pointsPlus": 202
     },
     {
       "date": "2025-12-05",

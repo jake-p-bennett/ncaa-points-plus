@@ -4,7 +4,7 @@
   "team": "TTU",
   "teamName": "Texas Tech Red Raiders",
   "conference": "Big 12",
-  "rank": 26,
+  "rank": 27,
   "gp": 26,
   "ppg": 19.1,
   "adjPpg": 18.9,
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 45,
       "pts": 19,
-      "adjPts": 20.0,
+      "adjPts": 19.9,
       "pointsPlus": 209
     },
     {

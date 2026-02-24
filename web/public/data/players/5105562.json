@@ -4,7 +4,7 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 246,
+  "rank": 245,
   "gp": 19,
   "ppg": 10.3,
   "adjPpg": 10.8,
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 38,
       "pts": 17,
-      "adjPts": 17.7,
+      "adjPts": 17.6,
       "pointsPlus": 185
     },
     {

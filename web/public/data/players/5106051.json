@@ -4,7 +4,7 @@
   "team": "USC",
   "teamName": "USC Trojans",
   "conference": "Big Ten",
-  "rank": 66,
+  "rank": 65,
   "gp": 27,
   "ppg": 15.7,
   "adjPpg": 16.2,
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 32,
       "pts": 12,
-      "adjPts": 11.7,
+      "adjPts": 11.6,
       "pointsPlus": 122
     },
     {

@@ -4,7 +4,7 @@
   "team": "CAL",
   "teamName": "California Golden Bears",
   "conference": "ACC",
-  "rank": 45,
+  "rank": 46,
   "gp": 27,
   "ppg": 17.1,
   "adjPpg": 17.3,
@@ -185,7 +185,7 @@
       "min": 32,
       "pts": 19,
       "adjPts": 19.9,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2026-01-24",
@@ -203,7 +203,7 @@
       "min": 35,
       "pts": 11,
       "adjPts": 10.1,
-      "pointsPlus": 106
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-31",

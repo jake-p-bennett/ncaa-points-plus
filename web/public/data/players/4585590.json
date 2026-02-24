@@ -4,11 +4,11 @@
   "team": "NCSU",
   "teamName": "NC State Wolfpack",
   "conference": "ACC",
-  "rank": 559,
+  "rank": 557,
   "gp": 19,
   "ppg": 4.6,
   "adjPpg": 4.6,
-  "pointsPlus": 48,
+  "pointsPlus": 49,
   "mpg": 15.4,
   "position": "G",
   "jersey": "7",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 24,
       "pts": 6,
-      "adjPts": 6.7,
+      "adjPts": 6.8,
       "pointsPlus": 71
     },
     {

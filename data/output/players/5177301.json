@@ -5,16 +5,16 @@
   "teamName": "Kansas Jayhawks",
   "conference": "Big 12",
   "rank": 126,
-  "gp": 27,
-  "ppg": 13.6,
+  "gp": 28,
+  "ppg": 13.5,
   "adjPpg": 13.9,
   "pointsPlus": 146,
-  "mpg": 34.7,
+  "mpg": 34.6,
   "position": "G",
   "jersey": "14",
   "classYear": "Senior",
-  "pointsPlusStdDev": 66.2,
-  "volatilityPctile": 83,
+  "pointsPlusStdDev": 65.0,
+  "volatilityPctile": 80,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 40,
       "pts": 23,
-      "adjPts": 24.2,
+      "adjPts": 24.1,
       "pointsPlus": 253
     },
     {
@@ -258,6 +258,15 @@
       "pts": 7,
       "adjPts": 8.4,
       "pointsPlus": 88
+    },
+    {
+      "date": "2026-02-23",
+      "matchup": "KU vs HOU",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 14.2,
+      "pointsPlus": 149
     }
   ]
 }

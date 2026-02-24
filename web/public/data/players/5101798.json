@@ -4,7 +4,7 @@
   "team": "MSU",
   "teamName": "Michigan State Spartans",
   "conference": "Big Ten",
-  "rank": 536,
+  "rank": 534,
   "gp": 26,
   "ppg": 5.0,
   "adjPpg": 5.0,
@@ -14,7 +14,7 @@
   "jersey": "3",
   "classYear": "Freshman",
   "pointsPlusStdDev": 38.8,
-  "volatilityPctile": 14,
+  "volatilityPctile": 15,
   "gameLog": [
     {
       "date": "2025-11-03",

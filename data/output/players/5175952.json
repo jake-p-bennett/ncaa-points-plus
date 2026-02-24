@@ -4,7 +4,7 @@
   "team": "GTWN",
   "teamName": "Georgetown Hoyas",
   "conference": "Big East",
-  "rank": 105,
+  "rank": 108,
   "gp": 27,
   "ppg": 13.9,
   "adjPpg": 14.3,
@@ -14,7 +14,7 @@
   "jersey": "2",
   "classYear": "Junior",
   "pointsPlusStdDev": 51.5,
-  "volatilityPctile": 43,
+  "volatilityPctile": 44,
   "gameLog": [
     {
       "date": "2025-11-03",

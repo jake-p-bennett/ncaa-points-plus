@@ -4,7 +4,7 @@
   "team": "MINN",
   "teamName": "Minnesota Golden Gophers",
   "conference": "Big Ten",
-  "rank": 131,
+  "rank": 132,
   "gp": 24,
   "ppg": 13.4,
   "adjPpg": 13.8,
@@ -14,7 +14,7 @@
   "jersey": "5",
   "classYear": "Junior",
   "pointsPlusStdDev": 65.4,
-  "volatilityPctile": 81,
+  "volatilityPctile": 80,
   "gameLog": [
     {
       "date": "2025-11-03",

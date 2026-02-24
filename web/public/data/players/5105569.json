@@ -4,7 +4,7 @@
   "team": "XAV",
   "teamName": "Xavier Musketeers",
   "conference": "Big East",
-  "rank": 290,
+  "rank": 289,
   "gp": 27,
   "ppg": 9.6,
   "adjPpg": 9.9,
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 32,
       "pts": 12,
-      "adjPts": 14.4,
+      "adjPts": 14.3,
       "pointsPlus": 151
     },
     {
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 34,
       "pts": 14,
-      "adjPts": 16.4,
+      "adjPts": 16.3,
       "pointsPlus": 172
     },
     {
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 39,
       "pts": 12,
-      "adjPts": 12.2,
+      "adjPts": 12.1,
       "pointsPlus": 127
     },
     {

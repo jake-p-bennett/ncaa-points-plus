@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "5",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 51.7,
-  "volatilityPctile": 44,
+  "pointsPlusStdDev": 51.8,
+  "volatilityPctile": 45,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 29,
       "pts": 16,
-      "adjPts": 17.9,
-      "pointsPlus": 188
+      "adjPts": 18.1,
+      "pointsPlus": 190
     },
     {
       "date": "2026-01-10",
@@ -157,7 +157,7 @@
       "result": "L",
       "min": 21,
       "pts": 5,
-      "adjPts": 5.3,
+      "adjPts": 5.2,
       "pointsPlus": 55
     },
     {

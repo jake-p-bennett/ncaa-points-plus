@@ -5,10 +5,10 @@
   "teamName": "Houston Cougars",
   "conference": "Big 12",
   "rank": 651,
-  "gp": 24,
-  "ppg": 2.3,
-  "adjPpg": 2.3,
-  "pointsPlus": 24,
+  "gp": 25,
+  "ppg": 2.4,
+  "adjPpg": 2.4,
+  "pointsPlus": 25,
   "mpg": 13.2,
   "position": "F",
   "jersey": "14",
@@ -231,6 +231,15 @@
       "pts": 2,
       "adjPts": 2.1,
       "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-23",
+      "matchup": "HOU @ KU",
+      "result": "L",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 4.5,
+      "pointsPlus": 48
     }
   ]
 }

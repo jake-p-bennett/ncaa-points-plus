@@ -4,16 +4,16 @@
   "team": "COLO",
   "teamName": "Colorado Buffaloes",
   "conference": "Big 12",
-  "rank": 110,
+  "rank": 112,
   "gp": 27,
   "ppg": 14.2,
-  "adjPpg": 14.1,
+  "adjPpg": 14.2,
   "pointsPlus": 148,
   "mpg": 31.9,
   "position": "G",
   "jersey": "24",
   "classYear": "Junior",
-  "pointsPlusStdDev": 45.7,
+  "pointsPlusStdDev": 45.8,
   "volatilityPctile": 31,
   "gameLog": [
     {
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 35,
       "pts": 17,
-      "adjPts": 19.0,
-      "pointsPlus": 200
+      "adjPts": 19.3,
+      "pointsPlus": 202
     },
     {
       "date": "2026-01-24",

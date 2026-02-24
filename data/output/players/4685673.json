@@ -4,7 +4,7 @@
   "team": "VT",
   "teamName": "Virginia Tech Hokies",
   "conference": "ACC",
-  "rank": 97,
+  "rank": 96,
   "gp": 27,
   "ppg": 14.7,
   "adjPpg": 14.7,
@@ -256,7 +256,7 @@
       "result": "W",
       "min": 26,
       "pts": 13,
-      "adjPts": 12.1,
+      "adjPts": 12.0,
       "pointsPlus": 126
     }
   ]

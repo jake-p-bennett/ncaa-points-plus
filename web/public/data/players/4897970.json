@@ -4,7 +4,7 @@
   "team": "OKST",
   "teamName": "Oklahoma State Cowboys",
   "conference": "Big 12",
-  "rank": 101,
+  "rank": 102,
   "gp": 25,
   "ppg": 14.5,
   "adjPpg": 14.4,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "22",
   "classYear": "Senior",
-  "pointsPlusStdDev": 74.2,
+  "pointsPlusStdDev": 74.3,
   "volatilityPctile": 91,
   "gameLog": [
     {
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 36,
       "pts": 21,
-      "adjPts": 23.5,
-      "pointsPlus": 247
+      "adjPts": 23.8,
+      "pointsPlus": 250
     },
     {
       "date": "2026-02-21",

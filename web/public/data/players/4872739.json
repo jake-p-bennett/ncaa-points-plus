@@ -4,12 +4,12 @@
   "team": "KU",
   "teamName": "Kansas Jayhawks",
   "conference": "Big 12",
-  "rank": 528,
-  "gp": 26,
-  "ppg": 5.0,
-  "adjPpg": 5.2,
-  "pointsPlus": 54,
-  "mpg": 18.5,
+  "rank": 535,
+  "gp": 27,
+  "ppg": 4.9,
+  "adjPpg": 5.0,
+  "pointsPlus": 52,
+  "mpg": 18.4,
   "position": "G",
   "jersey": "13",
   "classYear": "Sophomore",
@@ -249,6 +249,15 @@
       "pts": 2,
       "adjPts": 2.4,
       "pointsPlus": 25
+    },
+    {
+      "date": "2026-02-23",
+      "matchup": "KU vs HOU",
+      "result": "W",
+      "min": 16,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

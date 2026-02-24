@@ -4,7 +4,7 @@
   "team": "NCSU",
   "teamName": "NC State Wolfpack",
   "conference": "ACC",
-  "rank": 109,
+  "rank": 111,
   "gp": 27,
   "ppg": 14.0,
   "adjPpg": 14.2,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "11",
   "classYear": "Senior",
-  "pointsPlusStdDev": 58.2,
+  "pointsPlusStdDev": 58.3,
   "volatilityPctile": 65,
   "gameLog": [
     {
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 39,
       "pts": 19,
-      "adjPts": 21.3,
-      "pointsPlus": 223
+      "adjPts": 21.5,
+      "pointsPlus": 226
     },
     {
       "date": "2025-12-17",
@@ -257,7 +257,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 20.9,
-      "pointsPlus": 220
+      "pointsPlus": 219
     }
   ]
 }

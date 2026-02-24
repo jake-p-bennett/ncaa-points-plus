@@ -4,7 +4,7 @@
   "team": "ARIZ",
   "teamName": "Arizona Wildcats",
   "conference": "Big 12",
-  "rank": 132,
+  "rank": 133,
   "gp": 25,
   "ppg": 13.8,
   "adjPpg": 13.7,
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 31,
       "pts": 6,
-      "adjPts": 6.7,
+      "adjPts": 6.8,
       "pointsPlus": 71
     },
     {

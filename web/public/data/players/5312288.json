@@ -4,7 +4,7 @@
   "team": "PITT",
   "teamName": "Pittsburgh Panthers",
   "conference": "ACC",
-  "rank": 236,
+  "rank": 235,
   "gp": 27,
   "ppg": 10.7,
   "adjPpg": 11.1,
@@ -14,7 +14,7 @@
   "jersey": "13",
   "classYear": "Freshman",
   "pointsPlusStdDev": 69.8,
-  "volatilityPctile": 88,
+  "volatilityPctile": 87,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -176,7 +176,7 @@
       "min": 29,
       "pts": 8,
       "adjPts": 7.9,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2026-01-21",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 33,
       "pts": 14,
-      "adjPts": 14.7,
-      "pointsPlus": 154
+      "adjPts": 14.6,
+      "pointsPlus": 153
     },
     {
       "date": "2026-02-21",

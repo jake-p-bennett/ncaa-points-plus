@@ -15,19 +15,19 @@
     "min": 30,
     "max": 40,
     "label": "30-40",
-    "count": 31
+    "count": 32
   },
   {
     "min": 40,
     "max": 50,
     "label": "40-50",
-    "count": 58
+    "count": 56
   },
   {
     "min": 50,
     "max": 60,
     "label": "50-60",
-    "count": 46
+    "count": 47
   },
   {
     "min": 60,
@@ -39,13 +39,13 @@
     "min": 70,
     "max": 80,
     "label": "70-80",
-    "count": 52
+    "count": 53
   },
   {
     "min": 80,
     "max": 90,
     "label": "80-90",
-    "count": 43
+    "count": 42
   },
   {
     "min": 90,
@@ -63,43 +63,43 @@
     "min": 110,
     "max": 120,
     "label": "110-120",
-    "count": 43
+    "count": 44
   },
   {
     "min": 120,
     "max": 130,
     "label": "120-130",
-    "count": 43
+    "count": 42
   },
   {
     "min": 130,
     "max": 140,
     "label": "130-140",
-    "count": 30
+    "count": 29
   },
   {
     "min": 140,
     "max": 150,
     "label": "140-150",
-    "count": 42
+    "count": 41
   },
   {
     "min": 150,
     "max": 160,
     "label": "150-160",
-    "count": 24
+    "count": 26
   },
   {
     "min": 160,
     "max": 170,
     "label": "160-170",
-    "count": 15
+    "count": 16
   },
   {
     "min": 170,
     "max": 180,
     "label": "170-180",
-    "count": 20
+    "count": 19
   },
   {
     "min": 180,
@@ -117,13 +117,13 @@
     "min": 200,
     "max": 210,
     "label": "200-210",
-    "count": 7
+    "count": 8
   },
   {
     "min": 210,
     "max": 220,
     "label": "210-220",
-    "count": 4
+    "count": 3
   },
   {
     "min": 220,

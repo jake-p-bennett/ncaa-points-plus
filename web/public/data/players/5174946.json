@@ -4,17 +4,17 @@
   "team": "LOU",
   "teamName": "Louisville Cardinals",
   "conference": "ACC",
-  "rank": 600,
-  "gp": 26,
-  "ppg": 3.9,
-  "adjPpg": 3.9,
-  "pointsPlus": 41,
-  "mpg": 13.8,
+  "rank": 609,
+  "gp": 27,
+  "ppg": 3.7,
+  "adjPpg": 3.8,
+  "pointsPlus": 39,
+  "mpg": 13.6,
   "position": "G",
   "jersey": "11",
   "classYear": "Senior",
-  "pointsPlusStdDev": 34.6,
-  "volatilityPctile": 8,
+  "pointsPlusStdDev": 34.8,
+  "volatilityPctile": 9,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -249,6 +249,15 @@
       "pts": 7,
       "adjPts": 6.7,
       "pointsPlus": 70
+    },
+    {
+      "date": "2026-02-23",
+      "matchup": "LOU @ UNC",
+      "result": "L",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

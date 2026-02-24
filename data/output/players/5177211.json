@@ -4,7 +4,7 @@
   "team": "IOWA",
   "teamName": "Iowa Hawkeyes",
   "conference": "Big Ten",
-  "rank": 358,
+  "rank": 357,
   "gp": 27,
   "ppg": 8.3,
   "adjPpg": 8.4,
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 21,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.0,
       "pointsPlus": 74
     },
     {

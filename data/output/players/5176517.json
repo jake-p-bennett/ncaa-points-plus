@@ -4,7 +4,7 @@
   "team": "BUT",
   "teamName": "Butler Bulldogs",
   "conference": "Big East",
-  "rank": 71,
+  "rank": 70,
   "gp": 28,
   "ppg": 16.0,
   "adjPpg": 16.0,
@@ -14,7 +14,7 @@
   "jersey": "5",
   "classYear": "Senior",
   "pointsPlusStdDev": 52.3,
-  "volatilityPctile": 47,
+  "volatilityPctile": 46,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -185,7 +185,7 @@
       "min": 36,
       "pts": 17,
       "adjPts": 19.3,
-      "pointsPlus": 203
+      "pointsPlus": 202
     },
     {
       "date": "2026-01-23",

@@ -4,7 +4,7 @@
   "team": "MARQ",
   "teamName": "Marquette Golden Eagles",
   "conference": "Big East",
-  "rank": 68,
+  "rank": 67,
   "gp": 27,
   "ppg": 16.1,
   "adjPpg": 16.1,
@@ -257,7 +257,7 @@
       "min": 34,
       "pts": 25,
       "adjPts": 25.3,
-      "pointsPlus": 266
+      "pointsPlus": 265
     }
   ]
 }

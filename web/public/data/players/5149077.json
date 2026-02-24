@@ -4,16 +4,16 @@
   "team": "HOU",
   "teamName": "Houston Cougars",
   "conference": "Big 12",
-  "rank": 59,
-  "gp": 27,
+  "rank": 57,
+  "gp": 28,
   "ppg": 16.6,
   "adjPpg": 16.7,
   "pointsPlus": 175,
-  "mpg": 31.4,
+  "mpg": 31.5,
   "position": "G",
   "jersey": "4",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 88.8,
+  "pointsPlusStdDev": 87.3,
   "volatilityPctile": 98,
   "gameLog": [
     {
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 33,
       "pts": 17,
-      "adjPts": 17.9,
+      "adjPts": 17.8,
       "pointsPlus": 187
+    },
+    {
+      "date": "2026-02-23",
+      "matchup": "HOU @ KU",
+      "result": "L",
+      "min": 34,
+      "pts": 16,
+      "adjPts": 18.1,
+      "pointsPlus": 190
     }
   ]
 }

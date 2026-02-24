@@ -4,7 +4,7 @@
   "team": "IU",
   "teamName": "Indiana Hoosiers",
   "conference": "Big Ten",
-  "rank": 330,
+  "rank": 331,
   "gp": 27,
   "ppg": 9.0,
   "adjPpg": 9.1,
@@ -95,7 +95,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 7.9,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2025-12-09",

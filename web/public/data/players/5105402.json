@@ -4,7 +4,7 @@
   "team": "RUTG",
   "teamName": "Rutgers Scarlet Knights",
   "conference": "Big Ten",
-  "rank": 357,
+  "rank": 356,
   "gp": 27,
   "ppg": 7.9,
   "adjPpg": 8.4,
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 27,
       "pts": 7,
-      "adjPts": 7.2,
+      "adjPts": 7.1,
       "pointsPlus": 75
     },
     {

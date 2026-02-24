@@ -4,7 +4,7 @@
   "team": "UCF",
   "teamName": "UCF Knights",
   "conference": "Big 12",
-  "rank": 490,
+  "rank": 489,
   "gp": 26,
   "ppg": 5.8,
   "adjPpg": 5.9,
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 17,
       "pts": 8,
-      "adjPts": 9.0,
-      "pointsPlus": 94
+      "adjPts": 9.1,
+      "pointsPlus": 95
     },
     {
       "date": "2026-01-06",

@@ -4,7 +4,7 @@
   "team": "BAY",
   "teamName": "Baylor Bears",
   "conference": "Big 12",
-  "rank": 32,
+  "rank": 33,
   "gp": 27,
   "ppg": 18.1,
   "adjPpg": 18.4,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "24",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 66.1,
+  "pointsPlusStdDev": 66.2,
   "volatilityPctile": 83,
   "gameLog": [
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 38,
       "pts": 20,
-      "adjPts": 22.4,
-      "pointsPlus": 235
+      "adjPts": 22.7,
+      "pointsPlus": 238
     },
     {
       "date": "2026-01-20",
@@ -248,7 +248,7 @@
       "min": 37,
       "pts": 14,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2026-02-21",

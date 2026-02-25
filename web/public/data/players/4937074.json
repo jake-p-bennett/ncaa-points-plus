@@ -4,16 +4,16 @@
   "team": "NCSU",
   "teamName": "NC State Wolfpack",
   "conference": "ACC",
-  "rank": 101,
-  "gp": 26,
+  "rank": 103,
+  "gp": 27,
   "ppg": 14.2,
-  "adjPpg": 14.4,
+  "adjPpg": 14.5,
   "pointsPlus": 151,
-  "mpg": 29.3,
+  "mpg": 29.5,
   "position": "F",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 80.5,
+  "pointsPlusStdDev": 78.9,
   "volatilityPctile": 96,
   "gameLog": [
     {
@@ -41,7 +41,7 @@
       "min": 29,
       "pts": 32,
       "adjPts": 32.0,
-      "pointsPlus": 336
+      "pointsPlus": 335
     },
     {
       "date": "2025-11-17",
@@ -50,7 +50,7 @@
       "min": 33,
       "pts": 28,
       "adjPts": 28.0,
-      "pointsPlus": 294
+      "pointsPlus": 293
     },
     {
       "date": "2025-11-24",
@@ -86,7 +86,7 @@
       "min": 33,
       "pts": 11,
       "adjPts": 9.5,
-      "pointsPlus": 100
+      "pointsPlus": 99
     },
     {
       "date": "2025-12-06",
@@ -158,7 +158,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 18.3,
-      "pointsPlus": 192
+      "pointsPlus": 191
     },
     {
       "date": "2026-01-17",
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 24,
       "pts": 20,
-      "adjPts": 18.5,
+      "adjPts": 18.6,
       "pointsPlus": 194
     },
     {
@@ -221,7 +221,7 @@
       "min": 31,
       "pts": 4,
       "adjPts": 4.0,
-      "pointsPlus": 42
+      "pointsPlus": 41
     },
     {
       "date": "2026-02-09",
@@ -248,7 +248,16 @@
       "min": 16,
       "pts": 13,
       "adjPts": 13.6,
-      "pointsPlus": 143
+      "pointsPlus": 142
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "NCSU @ UVA",
+      "result": "L",
+      "min": 35,
+      "pts": 14,
+      "adjPts": 15.4,
+      "pointsPlus": 161
     }
   ]
 }

@@ -4,16 +4,16 @@
   "team": "MARQ",
   "teamName": "Marquette Golden Eagles",
   "conference": "Big East",
-  "rank": 638,
-  "gp": 27,
+  "rank": 637,
+  "gp": 28,
   "ppg": 3.0,
-  "adjPpg": 3.0,
+  "adjPpg": 3.1,
   "pointsPlus": 32,
-  "mpg": 13.6,
+  "mpg": 13.5,
   "position": "F",
   "jersey": "18",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 31.9,
+  "pointsPlusStdDev": 31.4,
   "volatilityPctile": 5,
   "gameLog": [
     {
@@ -40,7 +40,7 @@
       "result": "L",
       "min": 21,
       "pts": 10,
-      "adjPts": 10.2,
+      "adjPts": 10.3,
       "pointsPlus": 107
     },
     {
@@ -149,7 +149,7 @@
       "min": 8,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 25
+      "pointsPlus": 24
     },
     {
       "date": "2026-01-07",
@@ -258,6 +258,15 @@
       "pts": 2,
       "adjPts": 2.0,
       "pointsPlus": 21
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "MARQ @ GTWN",
+      "result": "W",
+      "min": 11,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 43
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "OSU",
   "teamName": "Ohio State Buckeyes",
   "conference": "Big Ten",
-  "rank": 100,
+  "rank": 102,
   "gp": 25,
   "ppg": 14.0,
   "adjPpg": 14.5,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "21",
   "classYear": "Junior",
-  "pointsPlusStdDev": 59.8,
+  "pointsPlusStdDev": 59.7,
   "volatilityPctile": 69,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 25,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 231
+      "pointsPlus": 230
     },
     {
       "date": "2025-11-07",
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 33,
       "pts": 7,
-      "adjPts": 7.2,
-      "pointsPlus": 76
+      "adjPts": 7.1,
+      "pointsPlus": 75
     },
     {
       "date": "2025-11-20",
@@ -68,7 +68,7 @@
       "min": 39,
       "pts": 22,
       "adjPts": 24.3,
-      "pointsPlus": 255
+      "pointsPlus": 254
     },
     {
       "date": "2025-12-06",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 25,
       "pts": 10,
-      "adjPts": 10.4,
-      "pointsPlus": 109
+      "adjPts": 10.5,
+      "pointsPlus": 110
     },
     {
       "date": "2025-12-09",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 36,
       "pts": 11,
-      "adjPts": 14.6,
-      "pointsPlus": 153
+      "adjPts": 14.3,
+      "pointsPlus": 149
     },
     {
       "date": "2025-12-20",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 30,
       "pts": 22,
-      "adjPts": 22.9,
-      "pointsPlus": 241
+      "adjPts": 23.1,
+      "pointsPlus": 242
     },
     {
       "date": "2026-01-20",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 41,
       "pts": 16,
-      "adjPts": 19.1,
-      "pointsPlus": 200
+      "adjPts": 19.0,
+      "pointsPlus": 199
     },
     {
       "date": "2026-01-23",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 36,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 162
     },
     {
@@ -239,7 +239,7 @@
       "min": 34,
       "pts": 25,
       "adjPts": 23.2,
-      "pointsPlus": 244
+      "pointsPlus": 243
     }
   ]
 }

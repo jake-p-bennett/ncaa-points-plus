@@ -4,7 +4,7 @@
   "team": "LSU",
   "teamName": "LSU Tigers",
   "conference": "SEC",
-  "rank": 551,
+  "rank": 554,
   "gp": 27,
   "ppg": 4.9,
   "adjPpg": 4.7,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "2",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 48.8,
+  "pointsPlusStdDev": 48.9,
   "volatilityPctile": 38,
   "gameLog": [
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 30,
       "pts": 11,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 20,
       "pts": 7,
       "adjPts": 6.7,
-      "pointsPlus": 70
+      "pointsPlus": 71
     },
     {
       "date": "2026-01-20",

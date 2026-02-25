@@ -4,7 +4,7 @@
   "team": "ORE",
   "teamName": "Oregon Ducks",
   "conference": "Big Ten",
-  "rank": 78,
+  "rank": 77,
   "gp": 12,
   "ppg": 15.6,
   "adjPpg": 15.5,
@@ -32,7 +32,7 @@
       "min": 37,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 231
+      "pointsPlus": 230
     },
     {
       "date": "2025-11-17",
@@ -41,7 +41,7 @@
       "min": 37,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 231
+      "pointsPlus": 230
     },
     {
       "date": "2025-11-24",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 36,
       "pts": 9,
-      "adjPts": 7.8,
-      "pointsPlus": 82
+      "adjPts": 7.7,
+      "pointsPlus": 81
     },
     {
       "date": "2025-11-25",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 38,
       "pts": 20,
-      "adjPts": 20.8,
-      "pointsPlus": 219
+      "adjPts": 21.0,
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-13",

@@ -4,7 +4,7 @@
   "team": "KU",
   "teamName": "Kansas Jayhawks",
   "conference": "Big 12",
-  "rank": 97,
+  "rank": 96,
   "gp": 28,
   "ppg": 14.0,
   "adjPpg": 14.6,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 66.7,
-  "volatilityPctile": 84,
+  "pointsPlusStdDev": 66.3,
+  "volatilityPctile": 83,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -50,7 +50,7 @@
       "min": 32,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-11-18",
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 35,
       "pts": 22,
-      "adjPts": 26.8,
+      "adjPts": 26.9,
       "pointsPlus": 281
     },
     {
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 34,
       "pts": 16,
-      "adjPts": 16.5,
-      "pointsPlus": 173
+      "adjPts": 16.3,
+      "pointsPlus": 170
     },
     {
       "date": "2025-11-25",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 36,
       "pts": 20,
-      "adjPts": 19.1,
-      "pointsPlus": 201
+      "adjPts": 19.3,
+      "pointsPlus": 202
     },
     {
       "date": "2025-12-13",
@@ -112,7 +112,7 @@
       "result": "W",
       "min": 40,
       "pts": 12,
-      "adjPts": 11.5,
+      "adjPts": 11.4,
       "pointsPlus": 120
     },
     {
@@ -131,7 +131,7 @@
       "min": 28,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 37,
       "pts": 14,
-      "adjPts": 12.8,
-      "pointsPlus": 134
+      "adjPts": 12.7,
+      "pointsPlus": 133
     },
     {
       "date": "2026-01-06",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 38,
       "pts": 22,
-      "adjPts": 22.9,
-      "pointsPlus": 240
+      "adjPts": 22.8,
+      "pointsPlus": 238
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 38,
       "pts": 18,
-      "adjPts": 23.9,
-      "pointsPlus": 251
+      "adjPts": 23.3,
+      "pointsPlus": 244
     },
     {
       "date": "2026-01-13",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 35,
       "pts": 19,
-      "adjPts": 22.0,
-      "pointsPlus": 231
+      "adjPts": 22.2,
+      "pointsPlus": 232
     },
     {
       "date": "2026-01-16",
@@ -194,7 +194,7 @@
       "min": 37,
       "pts": 13,
       "adjPts": 11.1,
-      "pointsPlus": 117
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-31",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 37,
       "pts": 12,
-      "adjPts": 11.3,
-      "pointsPlus": 119
+      "adjPts": 11.1,
+      "pointsPlus": 117
     },
     {
       "date": "2026-02-02",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 105
     },
     {
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 32,
       "pts": 16,
-      "adjPts": 14.8,
+      "adjPts": 14.9,
       "pointsPlus": 156
     },
     {
@@ -248,7 +248,7 @@
       "min": 35,
       "pts": 16,
       "adjPts": 13.3,
-      "pointsPlus": 140
+      "pointsPlus": 139
     },
     {
       "date": "2026-02-21",
@@ -256,8 +256,8 @@
       "result": "L",
       "min": 29,
       "pts": 11,
-      "adjPts": 13.2,
-      "pointsPlus": 138
+      "adjPts": 13.0,
+      "pointsPlus": 137
     },
     {
       "date": "2026-02-23",
@@ -265,7 +265,7 @@
       "result": "W",
       "min": 28,
       "pts": 23,
-      "adjPts": 29.7,
+      "adjPts": 29.8,
       "pointsPlus": 312
     }
   ]

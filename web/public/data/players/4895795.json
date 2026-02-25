@@ -4,7 +4,7 @@
   "team": "LSU",
   "teamName": "LSU Tigers",
   "conference": "SEC",
-  "rank": 171,
+  "rank": 172,
   "gp": 27,
   "ppg": 12.9,
   "adjPpg": 12.6,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "1",
   "classYear": "Junior",
-  "pointsPlusStdDev": 70.6,
-  "volatilityPctile": 89,
+  "pointsPlusStdDev": 70.4,
+  "volatilityPctile": 88,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -32,7 +32,7 @@
       "min": 20,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 231
+      "pointsPlus": 230
     },
     {
       "date": "2025-11-13",
@@ -85,7 +85,7 @@
       "result": "W",
       "min": 25,
       "pts": 12,
-      "adjPts": 13.7,
+      "adjPts": 13.8,
       "pointsPlus": 144
     },
     {
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 22,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 105
     },
     {
@@ -113,7 +113,7 @@
       "min": 24,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-12-22",
@@ -131,7 +131,7 @@
       "min": 26,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 231
+      "pointsPlus": 230
     },
     {
       "date": "2026-01-03",
@@ -140,7 +140,7 @@
       "min": 26,
       "pts": 21,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2026-01-06",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 23,
       "pts": 6,
-      "adjPts": 5.7,
-      "pointsPlus": 60
+      "adjPts": 5.8,
+      "pointsPlus": 61
     },
     {
       "date": "2026-01-10",
@@ -167,7 +167,7 @@
       "min": 20,
       "pts": 3,
       "adjPts": 3.0,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2026-01-17",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 13,
       "pts": 6,
-      "adjPts": 5.7,
+      "adjPts": 5.8,
       "pointsPlus": 60
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 23,
       "pts": 21,
-      "adjPts": 20.1,
-      "pointsPlus": 211
+      "adjPts": 20.2,
+      "pointsPlus": 212
     },
     {
       "date": "2026-02-07",
@@ -239,7 +239,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 114
+      "pointsPlus": 113
     },
     {
       "date": "2026-02-17",
@@ -248,7 +248,7 @@
       "min": 20,
       "pts": 15,
       "adjPts": 13.9,
-      "pointsPlus": 146
+      "pointsPlus": 145
     },
     {
       "date": "2026-02-21",

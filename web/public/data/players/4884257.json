@@ -4,17 +4,17 @@
   "team": "OKST",
   "teamName": "Oklahoma State Cowboys",
   "conference": "Big 12",
-  "rank": 455,
-  "gp": 26,
-  "ppg": 6.5,
-  "adjPpg": 6.5,
-  "pointsPlus": 68,
-  "mpg": 19.6,
+  "rank": 471,
+  "gp": 27,
+  "ppg": 6.3,
+  "adjPpg": 6.3,
+  "pointsPlus": 66,
+  "mpg": 19.2,
   "position": "G",
   "jersey": "21",
   "classYear": "Junior",
-  "pointsPlusStdDev": 40.3,
-  "volatilityPctile": 18,
+  "pointsPlusStdDev": 41.6,
+  "volatilityPctile": 20,
   "gameLog": [
     {
       "date": "2025-11-09",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 25,
       "pts": 14,
-      "adjPts": 14.6,
-      "pointsPlus": 153
+      "adjPts": 14.5,
+      "pointsPlus": 152
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 9,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 19
+      "pointsPlus": 20
     },
     {
       "date": "2026-02-04",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 12,
       "pts": 4,
-      "adjPts": 3.8,
-      "pointsPlus": 40
+      "adjPts": 3.7,
+      "pointsPlus": 39
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 16,
       "pts": 4,
-      "adjPts": 4.2,
-      "pointsPlus": 44
+      "adjPts": 4.1,
+      "pointsPlus": 43
     },
     {
       "date": "2026-02-18",
@@ -249,6 +249,15 @@
       "pts": 5,
       "adjPts": 4.5,
       "pointsPlus": 47
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "OKST vs WVU",
+      "result": "W",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

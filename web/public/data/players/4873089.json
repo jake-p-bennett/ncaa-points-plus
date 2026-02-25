@@ -4,17 +4,17 @@
   "team": "AUB",
   "teamName": "Auburn Tigers",
   "conference": "SEC",
-  "rank": 106,
-  "gp": 27,
-  "ppg": 14.7,
-  "adjPpg": 14.3,
-  "pointsPlus": 150,
-  "mpg": 32.1,
+  "rank": 122,
+  "gp": 28,
+  "ppg": 14.4,
+  "adjPpg": 13.9,
+  "pointsPlus": 145,
+  "mpg": 32.0,
   "position": "G",
   "jersey": "0",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 78.3,
-  "volatilityPctile": 95,
+  "pointsPlusStdDev": 79.3,
+  "volatilityPctile": 96,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -50,7 +50,7 @@
       "min": 33,
       "pts": 15,
       "adjPts": 19.4,
-      "pointsPlus": 204
+      "pointsPlus": 203
     },
     {
       "date": "2025-11-19",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 37,
       "pts": 27,
-      "adjPts": 27.3,
-      "pointsPlus": 287
+      "adjPts": 27.4,
+      "pointsPlus": 286
     },
     {
       "date": "2025-12-03",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 35,
       "pts": 30,
-      "adjPts": 31.5,
-      "pointsPlus": 330
+      "adjPts": 31.3,
+      "pointsPlus": 327
     },
     {
       "date": "2025-12-13",
@@ -113,7 +113,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-12-20",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 32,
       "pts": 9,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.7,
+      "pointsPlus": 91
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 33,
       "pts": 9,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.7,
+      "pointsPlus": 91
     },
     {
       "date": "2026-01-20",
@@ -185,7 +185,7 @@
       "min": 34,
       "pts": 17,
       "adjPts": 17.1,
-      "pointsPlus": 180
+      "pointsPlus": 179
     },
     {
       "date": "2026-01-24",
@@ -256,8 +256,17 @@
       "result": "W",
       "min": 35,
       "pts": 9,
-      "adjPts": 9.0,
-      "pointsPlus": 94
+      "adjPts": 9.1,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "AUB @ OU",
+      "result": "L",
+      "min": 29,
+      "pts": 4,
+      "adjPts": 3.6,
+      "pointsPlus": 37
     }
   ]
 }

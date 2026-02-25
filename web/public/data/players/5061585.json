@@ -4,17 +4,17 @@
   "team": "DUKE",
   "teamName": "Duke Blue Devils",
   "conference": "ACC",
-  "rank": 93,
-  "gp": 27,
-  "ppg": 14.7,
-  "adjPpg": 14.8,
-  "pointsPlus": 155,
-  "mpg": 27.7,
+  "rank": 95,
+  "gp": 28,
+  "ppg": 14.5,
+  "adjPpg": 14.6,
+  "pointsPlus": 153,
+  "mpg": 27.5,
   "position": "G",
   "jersey": "3",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 58.1,
-  "volatilityPctile": 64,
+  "pointsPlusStdDev": 57.7,
+  "volatilityPctile": 63,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -58,7 +58,7 @@
       "result": "W",
       "min": 30,
       "pts": 16,
-      "adjPts": 18.1,
+      "adjPts": 18.2,
       "pointsPlus": 190
     },
     {
@@ -140,7 +140,7 @@
       "min": 33,
       "pts": 28,
       "adjPts": 25.6,
-      "pointsPlus": 269
+      "pointsPlus": 268
     },
     {
       "date": "2026-01-06",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 30,
       "pts": 21,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 193
     },
     {
@@ -176,7 +176,7 @@
       "min": 28,
       "pts": 15,
       "adjPts": 15.7,
-      "pointsPlus": 165
+      "pointsPlus": 164
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 26,
       "pts": 15,
       "adjPts": 14.7,
-      "pointsPlus": 155
+      "pointsPlus": 154
     },
     {
       "date": "2026-01-31",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 31,
       "pts": 12,
-      "adjPts": 13.7,
+      "adjPts": 13.8,
       "pointsPlus": 144
     },
     {
@@ -221,7 +221,7 @@
       "min": 34,
       "pts": 11,
       "adjPts": 11.5,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2026-02-10",
@@ -248,7 +248,7 @@
       "min": 26,
       "pts": 21,
       "adjPts": 21.5,
-      "pointsPlus": 226
+      "pointsPlus": 225
     },
     {
       "date": "2026-02-21",
@@ -256,8 +256,17 @@
       "result": "W",
       "min": 24,
       "pts": 14,
-      "adjPts": 14.4,
+      "adjPts": 14.5,
       "pointsPlus": 151
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "DUKE @ ND",
+      "result": "W",
+      "min": 22,
+      "pts": 10,
+      "adjPts": 10.2,
+      "pointsPlus": 106
     }
   ]
 }

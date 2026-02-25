@@ -4,7 +4,7 @@
   "team": "UTAH",
   "teamName": "Utah Utes",
   "conference": "Big 12",
-  "rank": 412,
+  "rank": 410,
   "gp": 10,
   "ppg": 7.2,
   "adjPpg": 7.2,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "6",
   "classYear": "Junior",
-  "pointsPlusStdDev": 33.5,
+  "pointsPlusStdDev": 33.3,
   "volatilityPctile": 7,
   "gameLog": [
     {
@@ -95,7 +95,7 @@
       "min": 21,
       "pts": 13,
       "adjPts": 13.2,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2025-12-06",

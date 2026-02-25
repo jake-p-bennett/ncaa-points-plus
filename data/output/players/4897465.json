@@ -4,17 +4,17 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 342,
-  "gp": 27,
+  "rank": 339,
+  "gp": 28,
   "ppg": 8.7,
   "adjPpg": 8.8,
-  "pointsPlus": 92,
-  "mpg": 29.7,
+  "pointsPlus": 93,
+  "mpg": 29.8,
   "position": "G",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 51.7,
-  "volatilityPctile": 44,
+  "pointsPlusStdDev": 50.9,
+  "volatilityPctile": 42,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 36,
       "pts": 12,
-      "adjPts": 12.5,
-      "pointsPlus": 131
+      "adjPts": 12.6,
+      "pointsPlus": 132
     },
     {
       "date": "2025-12-06",
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 36,
       "pts": 5,
-      "adjPts": 4.6,
+      "adjPts": 4.7,
       "pointsPlus": 49
     },
     {
@@ -140,7 +140,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.3,
-      "pointsPlus": 139
+      "pointsPlus": 140
     },
     {
       "date": "2026-01-07",
@@ -167,7 +167,7 @@
       "min": 36,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-17",
@@ -221,7 +221,7 @@
       "min": 27,
       "pts": 11,
       "adjPts": 13.4,
-      "pointsPlus": 141
+      "pointsPlus": 140
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 12.5,
-      "pointsPlus": 131
+      "adjPts": 12.6,
+      "pointsPlus": 132
     },
     {
       "date": "2026-02-11",
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 37,
       "pts": 5,
-      "adjPts": 6.0,
-      "pointsPlus": 63
+      "adjPts": 5.9,
+      "pointsPlus": 62
     },
     {
       "date": "2026-02-21",
@@ -258,6 +258,15 @@
       "pts": 5,
       "adjPts": 4.9,
       "pointsPlus": 51
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "WASH @ RUTG",
+      "result": "W",
+      "min": 31,
+      "pts": 10,
+      "adjPts": 10.1,
+      "pointsPlus": 106
     }
   ]
 }

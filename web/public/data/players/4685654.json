@@ -4,17 +4,17 @@
   "team": "BYU",
   "teamName": "BYU Cougars",
   "conference": "Big 12",
-  "rank": 381,
-  "gp": 24,
+  "rank": 385,
+  "gp": 25,
   "ppg": 7.8,
   "adjPpg": 7.9,
-  "pointsPlus": 83,
-  "mpg": 28.5,
+  "pointsPlus": 82,
+  "mpg": 28.4,
   "position": "F",
   "jersey": "30",
   "classYear": "Junior",
-  "pointsPlusStdDev": 56.4,
-  "volatilityPctile": 59,
+  "pointsPlusStdDev": 55.3,
+  "volatilityPctile": 56,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 24,
       "pts": 5,
-      "adjPts": 4.6,
-      "pointsPlus": 48
+      "adjPts": 4.5,
+      "pointsPlus": 47
     },
     {
       "date": "2026-01-10",
@@ -130,7 +130,7 @@
       "result": "W",
       "min": 33,
       "pts": 8,
-      "adjPts": 7.4,
+      "adjPts": 7.5,
       "pointsPlus": 78
     },
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 31,
       "pts": 15,
-      "adjPts": 15.7,
-      "pointsPlus": 165
+      "adjPts": 15.6,
+      "pointsPlus": 164
     },
     {
       "date": "2026-01-31",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 24,
       "pts": 12,
-      "adjPts": 11.1,
-      "pointsPlus": 116
+      "adjPts": 11.0,
+      "pointsPlus": 115
     },
     {
       "date": "2026-02-14",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 25,
       "pts": 10,
-      "adjPts": 10.5,
-      "pointsPlus": 110
+      "adjPts": 10.4,
+      "pointsPlus": 109
     },
     {
       "date": "2026-02-21",
@@ -229,8 +229,17 @@
       "result": "W",
       "min": 36,
       "pts": 17,
-      "adjPts": 19.7,
-      "pointsPlus": 207
+      "adjPts": 19.8,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "BYU vs UCF",
+      "result": "L",
+      "min": 27,
+      "pts": 8,
+      "adjPts": 7.3,
+      "pointsPlus": 76
     }
   ]
 }

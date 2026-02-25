@@ -4,10 +4,10 @@
   "team": "MSST",
   "teamName": "Mississippi State Bulldogs",
   "conference": "SEC",
-  "rank": 143,
+  "rank": 146,
   "gp": 25,
   "ppg": 14.2,
-  "adjPpg": 13.4,
+  "adjPpg": 13.5,
   "pointsPlus": 141,
   "mpg": 27.0,
   "position": "G",
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 33,
       "pts": 21,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 193
     },
     {
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 34,
       "pts": 20,
-      "adjPts": 18.5,
-      "pointsPlus": 194
+      "adjPts": 18.7,
+      "pointsPlus": 195
     },
     {
       "date": "2025-12-16",
@@ -95,7 +95,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-12-20",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 33,
       "pts": 13,
-      "adjPts": 13.0,
-      "pointsPlus": 136
+      "adjPts": 13.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-13",
@@ -176,7 +176,7 @@
       "min": 25,
       "pts": 14,
       "adjPts": 13.2,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2026-01-28",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 29,
       "pts": 23,
-      "adjPts": 22.0,
-      "pointsPlus": 231
+      "adjPts": 22.1,
+      "pointsPlus": 232
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 33,
       "pts": 13,
-      "adjPts": 11.3,
-      "pointsPlus": 118
+      "adjPts": 11.2,
+      "pointsPlus": 117
     },
     {
       "date": "2026-02-21",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 13,
       "pts": 13,
-      "adjPts": 12.4,
+      "adjPts": 12.5,
       "pointsPlus": 131
     }
   ]

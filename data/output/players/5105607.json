@@ -4,17 +4,17 @@
   "team": "GT",
   "teamName": "Georgia Tech Yellow Jackets",
   "conference": "ACC",
-  "rank": 401,
+  "rank": 403,
   "gp": 27,
   "ppg": 7.3,
   "adjPpg": 7.4,
-  "pointsPlus": 78,
+  "pointsPlus": 77,
   "mpg": 21.7,
   "position": "G",
   "jersey": "12",
   "classYear": "Junior",
   "pointsPlusStdDev": 50.5,
-  "volatilityPctile": 42,
+  "volatilityPctile": 41,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 26,
       "pts": 14,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 162
     },
     {
@@ -230,7 +230,7 @@
       "min": 25,
       "pts": 9,
       "adjPts": 8.3,
-      "pointsPlus": 88
+      "pointsPlus": 87
     },
     {
       "date": "2026-02-14",

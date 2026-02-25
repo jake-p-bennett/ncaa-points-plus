@@ -4,17 +4,17 @@
   "team": "UVA",
   "teamName": "Virginia Cavaliers",
   "conference": "ACC",
-  "rank": 72,
-  "gp": 27,
-  "ppg": 15.9,
-  "adjPpg": 15.9,
+  "rank": 70,
+  "gp": 28,
+  "ppg": 16.0,
+  "adjPpg": 16.0,
   "pointsPlus": 167,
-  "mpg": 27.8,
+  "mpg": 27.7,
   "position": "F",
   "jersey": "28",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 77.7,
-  "volatilityPctile": 94,
+  "pointsPlusStdDev": 76.1,
+  "volatilityPctile": 93,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-11",
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 27,
       "pts": 26,
-      "adjPts": 27.1,
-      "pointsPlus": 284
+      "adjPts": 27.2,
+      "pointsPlus": 285
     },
     {
       "date": "2025-11-23",
@@ -86,7 +86,7 @@
       "min": 28,
       "pts": 15,
       "adjPts": 13.9,
-      "pointsPlus": 146
+      "pointsPlus": 145
     },
     {
       "date": "2025-12-06",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 23,
       "pts": 14,
-      "adjPts": 13.4,
-      "pointsPlus": 140
+      "adjPts": 13.3,
+      "pointsPlus": 139
     },
     {
       "date": "2026-01-07",
@@ -176,7 +176,7 @@
       "min": 28,
       "pts": 17,
       "adjPts": 14.9,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 34,
       "pts": 32,
-      "adjPts": 33.0,
-      "pointsPlus": 346
+      "adjPts": 32.5,
+      "pointsPlus": 341
     },
     {
       "date": "2026-01-31",
@@ -248,7 +248,7 @@
       "min": 22,
       "pts": 22,
       "adjPts": 21.0,
-      "pointsPlus": 221
+      "pointsPlus": 220
     },
     {
       "date": "2026-02-21",
@@ -257,7 +257,16 @@
       "min": 36,
       "pts": 14,
       "adjPts": 14.5,
-      "pointsPlus": 152
+      "pointsPlus": 151
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "UVA vs NCSU",
+      "result": "W",
+      "min": 26,
+      "pts": 19,
+      "adjPts": 18.1,
+      "pointsPlus": 189
     }
   ]
 }

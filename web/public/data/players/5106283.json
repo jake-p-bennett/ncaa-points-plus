@@ -4,7 +4,7 @@
   "team": "SJU",
   "teamName": "St. John's Red Storm",
   "conference": "Big East",
-  "rank": 341,
+  "rank": 342,
   "gp": 27,
   "ppg": 8.7,
   "adjPpg": 8.8,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 56.5,
+  "pointsPlusStdDev": 56.4,
   "volatilityPctile": 60,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 26,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-11-08",
@@ -32,7 +32,7 @@
       "min": 29,
       "pts": 7,
       "adjPts": 5.3,
-      "pointsPlus": 56
+      "pointsPlus": 55
     },
     {
       "date": "2025-11-15",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 31,
       "pts": 12,
-      "adjPts": 13.9,
-      "pointsPlus": 146
+      "adjPts": 14.0,
+      "pointsPlus": 147
     },
     {
       "date": "2025-11-25",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 25,
       "pts": 18,
-      "adjPts": 16.6,
-      "pointsPlus": 174
+      "adjPts": 16.5,
+      "pointsPlus": 173
     },
     {
       "date": "2025-11-26",
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 31,
       "pts": 4,
-      "adjPts": 3.5,
+      "adjPts": 3.4,
       "pointsPlus": 36
     },
     {
@@ -85,7 +85,7 @@
       "result": "W",
       "min": 23,
       "pts": 7,
-      "adjPts": 7.0,
+      "adjPts": 7.1,
       "pointsPlus": 74
     },
     {
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 29,
       "pts": 8,
-      "adjPts": 7.5,
-      "pointsPlus": 79
+      "adjPts": 7.6,
+      "pointsPlus": 80
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 35,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 114
+      "pointsPlus": 113
     },
     {
       "date": "2026-01-20",
@@ -194,7 +194,7 @@
       "min": 38,
       "pts": 17,
       "adjPts": 15.3,
-      "pointsPlus": 161
+      "pointsPlus": 160
     },
     {
       "date": "2026-01-28",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 24,
       "pts": 5,
-      "adjPts": 3.8,
+      "adjPts": 3.9,
       "pointsPlus": 40
     },
     {

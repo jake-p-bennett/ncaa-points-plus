@@ -4,7 +4,7 @@
   "team": "LSU",
   "teamName": "LSU Tigers",
   "conference": "SEC",
-  "rank": 509,
+  "rank": 512,
   "gp": 27,
   "ppg": 5.7,
   "adjPpg": 5.6,
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 21,
       "pts": 9,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.7,
+      "pointsPlus": 91
     },
     {
       "date": "2026-01-10",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 23,
       "pts": 6,
-      "adjPts": 6.0,
+      "adjPts": 6.1,
       "pointsPlus": 63
     },
     {
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 27,
       "pts": 4,
-      "adjPts": 3.8,
+      "adjPts": 3.9,
       "pointsPlus": 40
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 20,
       "pts": 6,
-      "adjPts": 5.7,
-      "pointsPlus": 60
+      "adjPts": 5.8,
+      "pointsPlus": 61
     },
     {
       "date": "2026-02-07",

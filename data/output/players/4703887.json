@@ -4,7 +4,7 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 541,
+  "rank": 542,
   "gp": 27,
   "ppg": 5.0,
   "adjPpg": 4.9,
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 23,
       "pts": 15,
-      "adjPts": 14.4,
+      "adjPts": 14.5,
       "pointsPlus": 151
     },
     {
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 16,
       "pts": 8,
-      "adjPts": 7.5,
+      "adjPts": 7.6,
       "pointsPlus": 79
     },
     {
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 21,
       "pts": 8,
-      "adjPts": 7.2,
+      "adjPts": 7.1,
       "pointsPlus": 75
     },
     {
@@ -256,7 +256,7 @@
       "result": "W",
       "min": 12,
       "pts": 4,
-      "adjPts": 3.8,
+      "adjPts": 3.9,
       "pointsPlus": 40
     }
   ]

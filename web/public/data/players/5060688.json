@@ -4,7 +4,7 @@
   "team": "BUT",
   "teamName": "Butler Bulldogs",
   "conference": "Big East",
-  "rank": 294,
+  "rank": 297,
   "gp": 26,
   "ppg": 9.7,
   "adjPpg": 9.8,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "7",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 45.5,
-  "volatilityPctile": 30,
+  "pointsPlusStdDev": 45.4,
+  "volatilityPctile": 29,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -58,7 +58,7 @@
       "result": "W",
       "min": 31,
       "pts": 14,
-      "adjPts": 13.4,
+      "adjPts": 13.5,
       "pointsPlus": 141
     },
     {
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 37,
       "pts": 15,
-      "adjPts": 11.5,
+      "adjPts": 11.6,
       "pointsPlus": 121
     },
     {
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 23,
       "pts": 11,
-      "adjPts": 10.3,
-      "pointsPlus": 108
+      "adjPts": 10.5,
+      "pointsPlus": 110
     },
     {
       "date": "2026-01-28",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 12.1,
+      "adjPts": 12.2,
       "pointsPlus": 127
     },
     {
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 42,
       "pts": 5,
-      "adjPts": 3.8,
+      "adjPts": 3.9,
       "pointsPlus": 40
     },
     {
@@ -221,7 +221,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 11.7,
-      "pointsPlus": 123
+      "pointsPlus": 122
     },
     {
       "date": "2026-02-15",

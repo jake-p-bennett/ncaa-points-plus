@@ -4,7 +4,7 @@
   "team": "CLEM",
   "teamName": "Clemson Tigers",
   "conference": "ACC",
-  "rank": 451,
+  "rank": 452,
   "gp": 12,
   "ppg": 6.9,
   "adjPpg": 6.6,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "5",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 45.3,
+  "pointsPlusStdDev": 45.4,
   "volatilityPctile": 29,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 19,
       "pts": 11,
       "adjPts": 11.4,
-      "pointsPlus": 119
+      "pointsPlus": 120
     },
     {
       "date": "2025-11-17",

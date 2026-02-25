@@ -4,7 +4,7 @@
   "team": "WAKE",
   "teamName": "Wake Forest Demon Deacons",
   "conference": "ACC",
-  "rank": 392,
+  "rank": 394,
   "gp": 26,
   "ppg": 7.5,
   "adjPpg": 7.6,
@@ -23,7 +23,7 @@
       "min": 33,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-07",
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 16,
       "pts": 9,
-      "adjPts": 9.0,
+      "adjPts": 9.1,
       "pointsPlus": 95
     },
     {
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 20,
       "pts": 7,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2025-12-06",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 18,
       "pts": 3,
-      "adjPts": 4.0,
-      "pointsPlus": 42
+      "adjPts": 3.9,
+      "pointsPlus": 41
     },
     {
       "date": "2025-12-14",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 18,
       "pts": 5,
-      "adjPts": 4.9,
+      "adjPts": 5.0,
       "pointsPlus": 52
     },
     {

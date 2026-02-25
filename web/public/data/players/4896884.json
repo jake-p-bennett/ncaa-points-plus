@@ -4,16 +4,16 @@
   "team": "SC",
   "teamName": "South Carolina Gamecocks",
   "conference": "SEC",
-  "rank": 285,
-  "gp": 27,
-  "ppg": 10.7,
-  "adjPpg": 10.1,
-  "pointsPlus": 106,
-  "mpg": 29.7,
+  "rank": 286,
+  "gp": 28,
+  "ppg": 10.6,
+  "adjPpg": 10.0,
+  "pointsPlus": 105,
+  "mpg": 29.9,
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 40.6,
+  "pointsPlusStdDev": 40.2,
   "volatilityPctile": 18,
   "gameLog": [
     {
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 27,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 68
     },
     {
@@ -68,7 +68,7 @@
       "min": 32,
       "pts": 9,
       "adjPts": 9.4,
-      "pointsPlus": 98
+      "pointsPlus": 99
     },
     {
       "date": "2025-11-28",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 30,
       "pts": 12,
-      "adjPts": 10.4,
-      "pointsPlus": 109
+      "adjPts": 10.3,
+      "pointsPlus": 108
     },
     {
       "date": "2026-01-20",
@@ -185,7 +185,7 @@
       "min": 36,
       "pts": 18,
       "adjPts": 16.1,
-      "pointsPlus": 169
+      "pointsPlus": 168
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 38,
       "pts": 18,
       "adjPts": 15.4,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2026-01-28",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 34,
       "pts": 12,
-      "adjPts": 11.5,
-      "pointsPlus": 120
+      "adjPts": 11.6,
+      "pointsPlus": 121
     },
     {
       "date": "2026-02-14",
@@ -239,7 +239,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 15.9,
-      "pointsPlus": 167
+      "pointsPlus": 166
     },
     {
       "date": "2026-02-17",
@@ -258,6 +258,15 @@
       "pts": 17,
       "adjPts": 15.2,
       "pointsPlus": 160
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "SC vs UK",
+      "result": "L",
+      "min": 36,
+      "pts": 7,
+      "adjPts": 7.1,
+      "pointsPlus": 74
     }
   ]
 }

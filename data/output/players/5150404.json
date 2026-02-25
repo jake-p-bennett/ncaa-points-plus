@@ -5,16 +5,16 @@
   "teamName": "Virginia Cavaliers",
   "conference": "ACC",
   "rank": 277,
-  "gp": 27,
-  "ppg": 10.1,
+  "gp": 28,
+  "ppg": 10.2,
   "adjPpg": 10.2,
   "pointsPlus": 107,
-  "mpg": 24.8,
+  "mpg": 24.6,
   "position": "G",
   "jersey": "2",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 39.3,
-  "volatilityPctile": 15,
+  "pointsPlusStdDev": 38.4,
+  "volatilityPctile": 13,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -158,7 +158,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.6,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2026-01-13",
@@ -185,7 +185,7 @@
       "min": 24,
       "pts": 11,
       "adjPts": 11.5,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2026-01-27",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 37,
       "pts": 17,
-      "adjPts": 17.5,
-      "pointsPlus": 184
+      "adjPts": 17.3,
+      "pointsPlus": 181
     },
     {
       "date": "2026-01-31",
@@ -239,7 +239,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2026-02-18",
@@ -258,6 +258,15 @@
       "pts": 12,
       "adjPts": 12.4,
       "pointsPlus": 130
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "UVA vs NCSU",
+      "result": "W",
+      "min": 19,
+      "pts": 11,
+      "adjPts": 10.5,
+      "pointsPlus": 110
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "TEX",
   "teamName": "Texas Longhorns",
   "conference": "SEC",
-  "rank": 173,
+  "rank": 176,
   "gp": 27,
   "ppg": 13.0,
   "adjPpg": 12.5,
@@ -41,7 +41,7 @@
       "min": 28,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-15",
@@ -68,7 +68,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-25",
@@ -122,7 +122,7 @@
       "min": 27,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-12-22",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 30,
       "pts": 20,
-      "adjPts": 21.6,
+      "adjPts": 21.7,
       "pointsPlus": 227
     },
     {
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 26,
       "pts": 12,
-      "adjPts": 12.0,
-      "pointsPlus": 126
+      "adjPts": 12.1,
+      "pointsPlus": 127
     },
     {
       "date": "2026-01-24",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 22,
       "pts": 4,
-      "adjPts": 3.5,
+      "adjPts": 3.4,
       "pointsPlus": 36
     },
     {
@@ -212,7 +212,7 @@
       "min": 23,
       "pts": 4,
       "adjPts": 3.6,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2026-02-03",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 27,
       "pts": 18,
-      "adjPts": 17.2,
-      "pointsPlus": 181
+      "adjPts": 17.3,
+      "pointsPlus": 182
     },
     {
       "date": "2026-02-07",
@@ -230,7 +230,7 @@
       "min": 35,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 201
+      "pointsPlus": 200
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 30,
       "pts": 8,
-      "adjPts": 7.6,
-      "pointsPlus": 80
+      "adjPts": 7.7,
+      "pointsPlus": 81
     },
     {
       "date": "2026-02-17",
@@ -257,7 +257,7 @@
       "min": 20,
       "pts": 4,
       "adjPts": 3.4,
-      "pointsPlus": 36
+      "pointsPlus": 35
     }
   ]
 }

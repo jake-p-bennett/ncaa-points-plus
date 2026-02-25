@@ -4,17 +4,17 @@
   "team": "MICH",
   "teamName": "Michigan Wolverines",
   "conference": "Big Ten",
-  "rank": 348,
-  "gp": 27,
+  "rank": 350,
+  "gp": 28,
   "ppg": 8.7,
   "adjPpg": 8.6,
-  "pointsPlus": 90,
-  "mpg": 19.2,
+  "pointsPlus": 91,
+  "mpg": 19.3,
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 59.9,
-  "volatilityPctile": 70,
+  "pointsPlusStdDev": 58.8,
+  "volatilityPctile": 67,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 19,
       "pts": 15,
-      "adjPts": 13.0,
-      "pointsPlus": 136
+      "adjPts": 12.9,
+      "pointsPlus": 135
     },
     {
       "date": "2025-11-26",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 21,
       "pts": 12,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 115
     },
     {
@@ -176,7 +176,7 @@
       "min": 27,
       "pts": 9,
       "adjPts": 9.2,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-23",
@@ -212,7 +212,7 @@
       "min": 21,
       "pts": 31,
       "adjPts": 28.3,
-      "pointsPlus": 297
+      "pointsPlus": 296
     },
     {
       "date": "2026-02-08",
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 13,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.3,
       "pointsPlus": 66
     },
     {
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 19,
       "pts": 12,
-      "adjPts": 12.5,
-      "pointsPlus": 131
+      "adjPts": 12.6,
+      "pointsPlus": 132
     },
     {
       "date": "2026-02-17",
@@ -258,6 +258,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "MICH vs MINN",
+      "result": "W",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 9.5,
+      "pointsPlus": 99
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "SMU",
   "teamName": "SMU Mustangs",
   "conference": "ACC",
-  "rank": 29,
+  "rank": 30,
   "gp": 26,
   "ppg": 18.7,
   "adjPpg": 18.7,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "2",
   "classYear": "Senior",
-  "pointsPlusStdDev": 58.2,
+  "pointsPlusStdDev": 58.1,
   "volatilityPctile": 65,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 28,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-06",
@@ -41,7 +41,7 @@
       "min": 36,
       "pts": 28,
       "adjPts": 28.0,
-      "pointsPlus": 294
+      "pointsPlus": 293
     },
     {
       "date": "2025-11-15",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 38,
       "pts": 17,
-      "adjPts": 16.0,
+      "adjPts": 16.1,
       "pointsPlus": 168
     },
     {
@@ -104,7 +104,7 @@
       "min": 40,
       "pts": 19,
       "adjPts": 16.3,
-      "pointsPlus": 171
+      "pointsPlus": 170
     },
     {
       "date": "2025-12-13",
@@ -149,7 +149,7 @@
       "min": 39,
       "pts": 23,
       "adjPts": 28.0,
-      "pointsPlus": 294
+      "pointsPlus": 293
     },
     {
       "date": "2026-01-14",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 35,
       "pts": 24,
-      "adjPts": 23.7,
+      "adjPts": 23.8,
       "pointsPlus": 249
     },
     {
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 38,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.0,
       "pointsPlus": 105
     },
     {
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 38,
       "pts": 20,
-      "adjPts": 19.6,
+      "adjPts": 19.7,
       "pointsPlus": 206
     },
     {
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 30,
       "pts": 14,
-      "adjPts": 13.4,
-      "pointsPlus": 140
+      "adjPts": 13.3,
+      "pointsPlus": 139
     },
     {
       "date": "2026-02-07",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 37,
       "pts": 20,
-      "adjPts": 20.6,
-      "pointsPlus": 216
+      "adjPts": 20.3,
+      "pointsPlus": 213
     },
     {
       "date": "2026-02-14",

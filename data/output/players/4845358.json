@@ -4,16 +4,16 @@
   "team": "DEP",
   "teamName": "DePaul Blue Demons",
   "conference": "Big East",
-  "rank": 209,
+  "rank": 210,
   "gp": 27,
   "ppg": 11.5,
-  "adjPpg": 11.6,
+  "adjPpg": 11.7,
   "pointsPlus": 122,
   "mpg": 29.6,
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 51.4,
+  "pointsPlusStdDev": 51.3,
   "volatilityPctile": 43,
   "gameLog": [
     {
@@ -68,7 +68,7 @@
       "min": 25,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-11-28",
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 28,
       "pts": 4,
-      "adjPts": 4.0,
+      "adjPts": 4.1,
       "pointsPlus": 42
     },
     {
@@ -130,7 +130,7 @@
       "result": "L",
       "min": 29,
       "pts": 11,
-      "adjPts": 12.8,
+      "adjPts": 12.9,
       "pointsPlus": 135
     },
     {
@@ -140,7 +140,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 14.1,
-      "pointsPlus": 148
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-03",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 36,
       "pts": 10,
-      "adjPts": 9.4,
-      "pointsPlus": 99
+      "adjPts": 9.5,
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-20",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 32,
       "pts": 11,
-      "adjPts": 10.7,
+      "adjPts": 10.8,
       "pointsPlus": 113
     },
     {

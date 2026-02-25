@@ -4,7 +4,7 @@
   "team": "OSU",
   "teamName": "Ohio State Buckeyes",
   "conference": "Big Ten",
-  "rank": 75,
+  "rank": 74,
   "gp": 24,
   "ppg": 15.1,
   "adjPpg": 15.7,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "0",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 80.7,
-  "volatilityPctile": 96,
+  "pointsPlusStdDev": 80.6,
+  "volatilityPctile": 97,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 25,
       "pts": 9,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.2,
+      "pointsPlus": 96
     },
     {
       "date": "2025-11-20",
@@ -68,7 +68,7 @@
       "min": 26,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 273
+      "pointsPlus": 272
     },
     {
       "date": "2025-11-28",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 24,
       "pts": 8,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2025-12-09",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 39,
       "pts": 15,
-      "adjPts": 19.9,
-      "pointsPlus": 209
+      "adjPts": 19.4,
+      "pointsPlus": 203
     },
     {
       "date": "2025-12-20",
@@ -113,7 +113,7 @@
       "min": 32,
       "pts": 13,
       "adjPts": 13.6,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2025-12-23",
@@ -122,7 +122,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2026-01-02",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 33,
       "pts": 12,
-      "adjPts": 12.2,
-      "pointsPlus": 128
+      "adjPts": 12.1,
+      "pointsPlus": 127
     },
     {
       "date": "2026-01-05",
@@ -149,7 +149,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-11",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 38,
       "pts": 28,
-      "adjPts": 29.2,
-      "pointsPlus": 306
+      "adjPts": 29.4,
+      "pointsPlus": 308
     },
     {
       "date": "2026-01-20",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 43,
       "pts": 26,
-      "adjPts": 31.0,
-      "pointsPlus": 325
+      "adjPts": 30.8,
+      "pointsPlus": 323
     },
     {
       "date": "2026-01-23",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 35,
       "pts": 22,
-      "adjPts": 22.6,
-      "pointsPlus": 237
+      "adjPts": 22.7,
+      "pointsPlus": 238
     },
     {
       "date": "2026-01-26",

@@ -4,7 +4,7 @@
   "team": "KSU",
   "teamName": "Kansas State Wildcats",
   "conference": "Big 12",
-  "rank": 621,
+  "rank": 622,
   "gp": 26,
   "ppg": 3.3,
   "adjPpg": 3.5,
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 23,
       "pts": 15,
-      "adjPts": 15.3,
+      "adjPts": 15.4,
       "pointsPlus": 161
     },
     {
@@ -140,7 +140,7 @@
       "min": 4,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 20
+      "pointsPlus": 19
     },
     {
       "date": "2026-01-07",
@@ -176,7 +176,7 @@
       "min": 31,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 19
+      "pointsPlus": 20
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 15,
       "pts": 3,
-      "adjPts": 4.0,
-      "pointsPlus": 42
+      "adjPts": 3.9,
+      "pointsPlus": 41
     },
     {
       "date": "2026-02-01",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 16,
       "pts": 5,
-      "adjPts": 6.0,
-      "pointsPlus": 63
+      "adjPts": 5.9,
+      "pointsPlus": 62
     },
     {
       "date": "2026-02-14",

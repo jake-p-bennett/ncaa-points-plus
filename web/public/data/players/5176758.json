@@ -8,13 +8,13 @@
   "gp": 27,
   "ppg": 11.0,
   "adjPpg": 11.2,
-  "pointsPlus": 118,
+  "pointsPlus": 117,
   "mpg": 28.6,
   "position": "F",
   "jersey": "25",
   "classYear": "Senior",
-  "pointsPlusStdDev": 60.0,
-  "volatilityPctile": 70,
+  "pointsPlusStdDev": 59.5,
+  "volatilityPctile": 69,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 31,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-07",
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 18,
       "pts": 8,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2025-11-16",
@@ -68,7 +68,7 @@
       "min": 31,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 252
+      "pointsPlus": 251
     },
     {
       "date": "2025-11-25",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 36,
       "pts": 16,
-      "adjPts": 21.3,
-      "pointsPlus": 223
+      "adjPts": 20.7,
+      "pointsPlus": 217
     },
     {
       "date": "2025-12-14",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 32,
       "pts": 15,
-      "adjPts": 14.8,
-      "pointsPlus": 156
+      "adjPts": 14.9,
+      "pointsPlus": 155
     },
     {
       "date": "2026-01-07",
@@ -176,7 +176,7 @@
       "min": 32,
       "pts": 6,
       "adjPts": 5.5,
-      "pointsPlus": 58
+      "pointsPlus": 57
     },
     {
       "date": "2026-01-20",
@@ -203,7 +203,7 @@
       "min": 30,
       "pts": 8,
       "adjPts": 8.8,
-      "pointsPlus": 93
+      "pointsPlus": 92
     },
     {
       "date": "2026-01-31",
@@ -257,7 +257,7 @@
       "min": 34,
       "pts": 12,
       "adjPts": 11.9,
-      "pointsPlus": 125
+      "pointsPlus": 124
     }
   ]
 }

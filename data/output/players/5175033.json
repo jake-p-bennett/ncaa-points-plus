@@ -4,17 +4,17 @@
   "team": "CIN",
   "teamName": "Cincinnati Bearcats",
   "conference": "Big 12",
-  "rank": 216,
-  "gp": 17,
-  "ppg": 11.0,
-  "adjPpg": 11.5,
+  "rank": 217,
+  "gp": 18,
+  "ppg": 11.1,
+  "adjPpg": 11.4,
   "pointsPlus": 120,
-  "mpg": 29.5,
+  "mpg": 29.8,
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 63.5,
-  "volatilityPctile": 77,
+  "pointsPlusStdDev": 60.9,
+  "volatilityPctile": 72,
   "gameLog": [
     {
       "date": "2025-12-17",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 10.6,
-      "pointsPlus": 112
+      "adjPts": 10.4,
+      "pointsPlus": 109
     },
     {
       "date": "2026-01-11",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 35,
       "pts": 14,
-      "adjPts": 12.8,
-      "pointsPlus": 134
+      "adjPts": 12.7,
+      "pointsPlus": 133
     },
     {
       "date": "2026-01-14",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 30,
       "pts": 15,
-      "adjPts": 17.4,
-      "pointsPlus": 182
+      "adjPts": 17.5,
+      "pointsPlus": 183
     },
     {
       "date": "2026-01-21",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 27,
       "pts": 6,
-      "adjPts": 5.5,
+      "adjPts": 5.4,
       "pointsPlus": 57
     },
     {
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 36,
       "pts": 17,
-      "adjPts": 15.7,
-      "pointsPlus": 164
+      "adjPts": 15.6,
+      "pointsPlus": 163
     },
     {
       "date": "2026-01-31",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 35,
       "pts": 18,
-      "adjPts": 23.9,
-      "pointsPlus": 251
+      "adjPts": 23.3,
+      "pointsPlus": 244
     },
     {
       "date": "2026-02-08",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 34,
       "pts": 15,
-      "adjPts": 13.7,
-      "pointsPlus": 144
+      "adjPts": 13.6,
+      "pointsPlus": 143
     },
     {
       "date": "2026-02-11",
@@ -168,6 +168,15 @@
       "pts": 5,
       "adjPts": 5.7,
       "pointsPlus": 59
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "CIN @ TTU",
+      "result": "L",
+      "min": 35,
+      "pts": 12,
+      "adjPts": 12.1,
+      "pointsPlus": 126
     }
   ]
 }

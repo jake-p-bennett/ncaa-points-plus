@@ -4,17 +4,17 @@
   "team": "MINN",
   "teamName": "Minnesota Golden Gophers",
   "conference": "Big Ten",
-  "rank": 238,
-  "gp": 27,
+  "rank": 235,
+  "gp": 28,
   "ppg": 10.9,
   "adjPpg": 11.0,
   "pointsPlus": 115,
-  "mpg": 33.9,
+  "mpg": 34.1,
   "position": "G",
   "jersey": "1",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 47.0,
-  "volatilityPctile": 34,
+  "pointsPlusStdDev": 46.2,
+  "volatilityPctile": 32,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 34,
       "pts": 13,
-      "adjPts": 12.4,
-      "pointsPlus": 130
+      "adjPts": 12.5,
+      "pointsPlus": 131
     },
     {
       "date": "2025-11-15",
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 39,
       "pts": 15,
-      "adjPts": 15.3,
+      "adjPts": 15.4,
       "pointsPlus": 161
     },
     {
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 40,
       "pts": 18,
-      "adjPts": 18.7,
+      "adjPts": 18.8,
       "pointsPlus": 197
     },
     {
@@ -167,7 +167,7 @@
       "min": 38,
       "pts": 17,
       "adjPts": 15.8,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-17",
@@ -185,7 +185,7 @@
       "min": 43,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     },
     {
       "date": "2026-01-24",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 37,
       "pts": 12,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 115
     },
     {
@@ -256,8 +256,17 @@
       "result": "W",
       "min": 36,
       "pts": 11,
-      "adjPts": 11.2,
+      "adjPts": 11.1,
       "pointsPlus": 117
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "MINN @ MICH",
+      "result": "L",
+      "min": 38,
+      "pts": 12,
+      "adjPts": 12.4,
+      "pointsPlus": 130
     }
   ]
 }

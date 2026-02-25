@@ -4,17 +4,17 @@
   "team": "FSU",
   "teamName": "Florida State Seminoles",
   "conference": "ACC",
-  "rank": 346,
-  "gp": 27,
-  "ppg": 8.5,
-  "adjPpg": 8.7,
-  "pointsPlus": 91,
-  "mpg": 20.7,
+  "rank": 352,
+  "gp": 28,
+  "ppg": 8.4,
+  "adjPpg": 8.6,
+  "pointsPlus": 90,
+  "mpg": 20.4,
   "position": "G",
   "jersey": "5",
   "classYear": "Senior",
-  "pointsPlusStdDev": 64.6,
-  "volatilityPctile": 79,
+  "pointsPlusStdDev": 63.5,
+  "volatilityPctile": 77,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -77,7 +77,7 @@
       "min": 25,
       "pts": 21,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-12-02",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 22,
       "pts": 9,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 122
     },
     {
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 23,
       "pts": 12,
-      "adjPts": 12.5,
-      "pointsPlus": 132
+      "adjPts": 12.6,
+      "pointsPlus": 131
     },
     {
       "date": "2026-01-03",
@@ -157,7 +157,7 @@
       "result": "L",
       "min": 23,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 100
     },
     {
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 16,
       "pts": 2,
-      "adjPts": 2.1,
-      "pointsPlus": 22
+      "adjPts": 2.0,
+      "pointsPlus": 21
     },
     {
       "date": "2026-02-10",
@@ -258,6 +258,15 @@
       "pts": 3,
       "adjPts": 3.7,
       "pointsPlus": 38
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "FSU vs MIA",
+      "result": "L",
+      "min": 14,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 76
     }
   ]
 }

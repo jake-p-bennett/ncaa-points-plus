@@ -4,17 +4,17 @@
   "team": "UTAH",
   "teamName": "Utah Utes",
   "conference": "Big 12",
-  "rank": 527,
-  "gp": 27,
-  "ppg": 5.1,
-  "adjPpg": 5.2,
-  "pointsPlus": 54,
+  "rank": 533,
+  "gp": 28,
+  "ppg": 5.0,
+  "adjPpg": 5.0,
+  "pointsPlus": 53,
   "mpg": 20.6,
   "position": "F",
   "jersey": "13",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 33.0,
-  "volatilityPctile": 7,
+  "pointsPlusStdDev": 32.8,
+  "volatilityPctile": 6,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 24,
       "pts": 9,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.4,
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-14",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 23,
       "pts": 8,
-      "adjPts": 8.0,
+      "adjPts": 8.1,
       "pointsPlus": 84
     },
     {
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 20,
       "pts": 9,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 98
     },
     {
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 20,
       "pts": 8,
-      "adjPts": 7.5,
-      "pointsPlus": 79
+      "adjPts": 7.4,
+      "pointsPlus": 78
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 13,
       "pts": 3,
       "adjPts": 2.7,
-      "pointsPlus": 29
+      "pointsPlus": 28
     },
     {
       "date": "2026-02-07",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 21,
       "pts": 6,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.1,
+      "pointsPlus": 74
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 21,
       "pts": 2,
-      "adjPts": 2.7,
-      "pointsPlus": 28
+      "adjPts": 2.6,
+      "pointsPlus": 27
     },
     {
       "date": "2026-02-21",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 20,
       "pts": 4,
-      "adjPts": 3.7,
+      "adjPts": 3.6,
       "pointsPlus": 38
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "UTAH vs ISU",
+      "result": "L",
+      "min": 20,
+      "pts": 2,
+      "adjPts": 2.3,
+      "pointsPlus": 24
     }
   ]
 }

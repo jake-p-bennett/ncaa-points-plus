@@ -4,7 +4,7 @@
   "team": "BUT",
   "teamName": "Butler Bulldogs",
   "conference": "Big East",
-  "rank": 584,
+  "rank": 585,
   "gp": 27,
   "ppg": 4.3,
   "adjPpg": 4.2,
@@ -58,7 +58,7 @@
       "result": "W",
       "min": 7,
       "pts": 4,
-      "adjPts": 3.8,
+      "adjPts": 3.9,
       "pointsPlus": 40
     },
     {
@@ -230,7 +230,7 @@
       "min": 15,
       "pts": 4,
       "adjPts": 3.8,
-      "pointsPlus": 39
+      "pointsPlus": 40
     },
     {
       "date": "2026-02-15",

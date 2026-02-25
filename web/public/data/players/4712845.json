@@ -4,7 +4,7 @@
   "team": "LOU",
   "teamName": "Louisville Cardinals",
   "conference": "ACC",
-  "rank": 246,
+  "rank": 247,
   "gp": 28,
   "ppg": 10.6,
   "adjPpg": 10.8,
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 31,
       "pts": 9,
-      "adjPts": 9.0,
-      "pointsPlus": 94
+      "adjPts": 9.1,
+      "pointsPlus": 95
     },
     {
       "date": "2025-11-15",
@@ -59,7 +59,7 @@
       "min": 26,
       "pts": 3,
       "adjPts": 3.6,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2025-11-24",
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 30,
       "pts": 15,
-      "adjPts": 15.3,
+      "adjPts": 15.4,
       "pointsPlus": 161
     },
     {
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 38,
       "pts": 23,
-      "adjPts": 25.2,
+      "adjPts": 25.3,
       "pointsPlus": 265
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 27,
       "pts": 13,
-      "adjPts": 13.4,
-      "pointsPlus": 141
+      "adjPts": 13.2,
+      "pointsPlus": 138
     },
     {
       "date": "2026-02-07",
@@ -229,7 +229,7 @@
       "result": "W",
       "min": 26,
       "pts": 8,
-      "adjPts": 7.7,
+      "adjPts": 7.6,
       "pointsPlus": 80
     },
     {

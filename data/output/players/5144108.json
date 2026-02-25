@@ -4,7 +4,7 @@
   "team": "PSU",
   "teamName": "Penn State Nittany Lions",
   "conference": "Big Ten",
-  "rank": 105,
+  "rank": 106,
   "gp": 25,
   "ppg": 13.9,
   "adjPpg": 14.3,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "4",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 59.6,
+  "pointsPlusStdDev": 59.5,
   "volatilityPctile": 69,
   "gameLog": [
     {
@@ -59,7 +59,7 @@
       "min": 31,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 252
+      "pointsPlus": 251
     },
     {
       "date": "2025-11-22",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 31,
       "pts": 19,
-      "adjPts": 19.4,
+      "adjPts": 19.5,
       "pointsPlus": 204
     },
     {
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 34,
       "pts": 19,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 193
     },
     {
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 28,
       "pts": 15,
-      "adjPts": 15.6,
+      "adjPts": 15.7,
       "pointsPlus": 164
     },
     {
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 37,
       "pts": 14,
-      "adjPts": 16.7,
-      "pointsPlus": 175
+      "adjPts": 16.6,
+      "pointsPlus": 174
     },
     {
       "date": "2026-02-05",
@@ -212,7 +212,7 @@
       "min": 35,
       "pts": 13,
       "adjPts": 13.6,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2026-02-14",

@@ -4,7 +4,7 @@
   "team": "LOU",
   "teamName": "Louisville Cardinals",
   "conference": "ACC",
-  "rank": 479,
+  "rank": 480,
   "gp": 24,
   "ppg": 6.1,
   "adjPpg": 6.1,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "9",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 55.1,
-  "volatilityPctile": 55,
+  "pointsPlusStdDev": 54.8,
+  "volatilityPctile": 54,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 22,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-06",
@@ -167,7 +167,7 @@
       "min": 20,
       "pts": 12,
       "adjPts": 10.5,
-      "pointsPlus": 111
+      "pointsPlus": 110
     },
     {
       "date": "2026-02-04",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 26,
       "pts": 12,
-      "adjPts": 12.4,
-      "pointsPlus": 130
+      "adjPts": 12.2,
+      "pointsPlus": 128
     },
     {
       "date": "2026-02-07",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 18,
       "pts": 13,
-      "adjPts": 12.0,
+      "adjPts": 12.1,
       "pointsPlus": 126
     },
     {

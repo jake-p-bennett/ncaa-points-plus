@@ -4,17 +4,17 @@
   "team": "ILL",
   "teamName": "Illinois Fighting Illini",
   "conference": "Big Ten",
-  "rank": 158,
+  "rank": 157,
   "gp": 28,
   "ppg": 12.7,
   "adjPpg": 13.0,
-  "pointsPlus": 137,
+  "pointsPlus": 136,
   "mpg": 28.7,
   "position": "F",
   "jersey": "0",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 61.0,
-  "volatilityPctile": 71,
+  "pointsPlusStdDev": 60.9,
+  "volatilityPctile": 72,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -40,7 +40,7 @@
       "result": "W",
       "min": 36,
       "pts": 11,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 116
     },
     {
@@ -95,7 +95,7 @@
       "min": 30,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 114
+      "pointsPlus": 113
     },
     {
       "date": "2025-12-09",
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 33,
       "pts": 22,
-      "adjPts": 21.9,
+      "adjPts": 22.0,
       "pointsPlus": 230
     },
     {
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 29,
       "pts": 9,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.7,
+      "pointsPlus": 91
     },
     {
       "date": "2025-12-29",
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 29,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.3,
       "pointsPlus": 66
     },
     {
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 32,
       "pts": 12,
-      "adjPts": 14.3,
-      "pointsPlus": 150
+      "adjPts": 14.2,
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-21",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 28,
       "pts": 12,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 134
     },
     {
@@ -203,7 +203,7 @@
       "min": 31,
       "pts": 19,
       "adjPts": 19.9,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2026-02-01",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 33,
       "pts": 10,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 124
     },
     {
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 27,
       "pts": 12,
-      "adjPts": 12.5,
+      "adjPts": 12.6,
       "pointsPlus": 131
     },
     {
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 33,
       "pts": 12,
-      "adjPts": 11.1,
+      "adjPts": 11.2,
       "pointsPlus": 117
     },
     {
@@ -247,7 +247,7 @@
       "result": "W",
       "min": 37,
       "pts": 25,
-      "adjPts": 25.5,
+      "adjPts": 25.6,
       "pointsPlus": 268
     },
     {
@@ -256,7 +256,7 @@
       "result": "W",
       "min": 21,
       "pts": 14,
-      "adjPts": 13.0,
+      "adjPts": 13.1,
       "pointsPlus": 137
     },
     {

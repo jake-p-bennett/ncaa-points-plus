@@ -4,7 +4,7 @@
   "team": "WAKE",
   "teamName": "Wake Forest Demon Deacons",
   "conference": "ACC",
-  "rank": 265,
+  "rank": 268,
   "gp": 21,
   "ppg": 10.4,
   "adjPpg": 10.4,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 78.5,
+  "pointsPlusStdDev": 78.6,
   "volatilityPctile": 95,
   "gameLog": [
     {
@@ -40,7 +40,7 @@
       "result": "L",
       "min": 38,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 119
     },
     {
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 26,
       "pts": 9,
-      "adjPts": 9.0,
+      "adjPts": 9.1,
       "pointsPlus": 95
     },
     {
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 29,
       "pts": 4,
-      "adjPts": 5.3,
-      "pointsPlus": 56
+      "adjPts": 5.2,
+      "pointsPlus": 54
     },
     {
       "date": "2025-12-14",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 32,
       "pts": 25,
-      "adjPts": 24.7,
+      "adjPts": 24.8,
       "pointsPlus": 259
     },
     {
@@ -157,7 +157,7 @@
       "result": "L",
       "min": 32,
       "pts": 19,
-      "adjPts": 19.7,
+      "adjPts": 19.6,
       "pointsPlus": 206
     },
     {
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 35,
       "pts": 18,
-      "adjPts": 16.5,
-      "pointsPlus": 173
+      "adjPts": 16.4,
+      "pointsPlus": 172
     },
     {
       "date": "2026-01-20",

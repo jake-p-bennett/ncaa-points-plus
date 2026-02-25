@@ -4,16 +4,16 @@
   "team": "PSU",
   "teamName": "Penn State Nittany Lions",
   "conference": "Big Ten",
-  "rank": 220,
+  "rank": 219,
   "gp": 28,
   "ppg": 11.2,
   "adjPpg": 11.4,
-  "pointsPlus": 120,
+  "pointsPlus": 119,
   "mpg": 27.5,
   "position": "F",
   "jersey": "10",
   "classYear": "Senior",
-  "pointsPlusStdDev": 57.2,
+  "pointsPlusStdDev": 57.1,
   "volatilityPctile": 62,
   "gameLog": [
     {
@@ -149,7 +149,7 @@
       "min": 29,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-10",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 31,
       "pts": 12,
-      "adjPts": 12.5,
-      "pointsPlus": 131
+      "adjPts": 12.6,
+      "pointsPlus": 132
     },
     {
       "date": "2026-01-18",
@@ -203,7 +203,7 @@
       "min": 31,
       "pts": 11,
       "adjPts": 11.5,
-      "pointsPlus": 120
+      "pointsPlus": 121
     },
     {
       "date": "2026-02-01",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 35,
       "pts": 18,
-      "adjPts": 21.5,
-      "pointsPlus": 225
+      "adjPts": 21.3,
+      "pointsPlus": 224
     },
     {
       "date": "2026-02-05",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 26,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 162
     },
     {
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 37,
       "pts": 17,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 166
     },
     {
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 35,
       "pts": 14,
-      "adjPts": 14.6,
-      "pointsPlus": 154
+      "adjPts": 14.7,
+      "pointsPlus": 153
     },
     {
       "date": "2026-02-14",
@@ -248,7 +248,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-18",
@@ -257,7 +257,7 @@
       "min": 32,
       "pts": 22,
       "adjPts": 22.3,
-      "pointsPlus": 234
+      "pointsPlus": 233
     },
     {
       "date": "2026-02-21",
@@ -266,7 +266,7 @@
       "min": 26,
       "pts": 11,
       "adjPts": 13.0,
-      "pointsPlus": 137
+      "pointsPlus": 136
     }
   ]
 }

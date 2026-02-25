@@ -4,7 +4,7 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 284,
+  "rank": 283,
   "gp": 27,
   "ppg": 10.4,
   "adjPpg": 10.1,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "24",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 52.8,
-  "volatilityPctile": 49,
+  "pointsPlusStdDev": 52.7,
+  "volatilityPctile": 47,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -176,7 +176,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 10.2,
-      "pointsPlus": 107
+      "pointsPlus": 106
     },
     {
       "date": "2026-01-20",
@@ -194,7 +194,7 @@
       "min": 28,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 108
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-27",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 28,
       "pts": 14,
-      "adjPts": 14.0,
-      "pointsPlus": 147
+      "adjPts": 14.1,
+      "pointsPlus": 148
     },
     {
       "date": "2026-02-07",
@@ -221,7 +221,7 @@
       "min": 25,
       "pts": 14,
       "adjPts": 12.5,
-      "pointsPlus": 132
+      "pointsPlus": 131
     },
     {
       "date": "2026-02-10",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 38,
       "pts": 25,
-      "adjPts": 21.7,
-      "pointsPlus": 227
+      "adjPts": 21.5,
+      "pointsPlus": 225
     },
     {
       "date": "2026-02-18",
@@ -248,7 +248,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 15.1,
-      "pointsPlus": 159
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-21",
@@ -256,8 +256,8 @@
       "result": "W",
       "min": 35,
       "pts": 21,
-      "adjPts": 20.1,
-      "pointsPlus": 211
+      "adjPts": 20.2,
+      "pointsPlus": 212
     }
   ]
 }

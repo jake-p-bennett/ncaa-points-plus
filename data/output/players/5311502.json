@@ -4,17 +4,17 @@
   "team": "AUB",
   "teamName": "Auburn Tigers",
   "conference": "SEC",
-  "rank": 336,
-  "gp": 27,
+  "rank": 334,
+  "gp": 28,
   "ppg": 9.2,
-  "adjPpg": 9.0,
-  "pointsPlus": 94,
-  "mpg": 25.0,
+  "adjPpg": 8.9,
+  "pointsPlus": 93,
+  "mpg": 25.2,
   "position": "G",
   "jersey": "6",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 61.5,
-  "volatilityPctile": 73,
+  "pointsPlusStdDev": 60.6,
+  "volatilityPctile": 71,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 27,
       "pts": 13,
-      "adjPts": 12.4,
-      "pointsPlus": 130
+      "adjPts": 12.5,
+      "pointsPlus": 131
     },
     {
       "date": "2026-01-17",
@@ -256,8 +256,17 @@
       "result": "W",
       "min": 27,
       "pts": 11,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 11.1,
+      "pointsPlus": 116
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "AUB @ OU",
+      "result": "L",
+      "min": 30,
+      "pts": 8,
+      "adjPts": 7.1,
+      "pointsPlus": 75
     }
   ]
 }

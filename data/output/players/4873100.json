@@ -4,7 +4,7 @@
   "team": "MISS",
   "teamName": "Ole Miss Rebels",
   "conference": "SEC",
-  "rank": 547,
+  "rank": 549,
   "gp": 27,
   "ppg": 5.1,
   "adjPpg": 4.8,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "11",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 50.5,
-  "volatilityPctile": 42,
+  "pointsPlusStdDev": 50.2,
+  "volatilityPctile": 40,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -121,8 +121,8 @@
       "result": "L",
       "min": 33,
       "pts": 21,
-      "adjPts": 20.1,
-      "pointsPlus": 211
+      "adjPts": 20.0,
+      "pointsPlus": 209
     },
     {
       "date": "2025-12-29",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 23,
       "pts": 15,
-      "adjPts": 13.0,
-      "pointsPlus": 136
+      "adjPts": 12.9,
+      "pointsPlus": 135
     },
     {
       "date": "2026-01-24",

@@ -4,7 +4,7 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 245,
+  "rank": 246,
   "gp": 19,
   "ppg": 10.3,
   "adjPpg": 10.8,
@@ -31,7 +31,7 @@
       "result": "L",
       "min": 33,
       "pts": 8,
-      "adjPts": 9.7,
+      "adjPts": 9.8,
       "pointsPlus": 102
     },
     {
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 38,
       "pts": 17,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 185
     },
     {
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 38,
       "pts": 14,
-      "adjPts": 14.3,
+      "adjPts": 14.4,
       "pointsPlus": 150
     },
     {
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 23,
       "pts": 11,
-      "adjPts": 10.2,
-      "pointsPlus": 108
+      "adjPts": 10.3,
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-18",
@@ -149,7 +149,7 @@
       "min": 37,
       "pts": 9,
       "adjPts": 10.7,
-      "pointsPlus": 113
+      "pointsPlus": 112
     },
     {
       "date": "2026-02-11",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 37,
       "pts": 11,
-      "adjPts": 11.2,
+      "adjPts": 11.1,
       "pointsPlus": 117
     },
     {
@@ -176,7 +176,7 @@
       "min": 39,
       "pts": 11,
       "adjPts": 11.5,
-      "pointsPlus": 120
+      "pointsPlus": 121
     },
     {
       "date": "2026-02-21",

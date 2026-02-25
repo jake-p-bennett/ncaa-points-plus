@@ -4,7 +4,7 @@
   "team": "KU",
   "teamName": "Kansas Jayhawks",
   "conference": "Big 12",
-  "rank": 535,
+  "rank": 539,
   "gp": 27,
   "ppg": 4.9,
   "adjPpg": 5.0,
@@ -14,7 +14,7 @@
   "jersey": "13",
   "classYear": "Sophomore",
   "pointsPlusStdDev": 53.4,
-  "volatilityPctile": 50,
+  "volatilityPctile": 49,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 8,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 2.1,
       "pointsPlus": 21
     },
     {
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 16,
       "pts": 11,
-      "adjPts": 12.8,
+      "adjPts": 12.9,
       "pointsPlus": 135
     },
     {
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 10.6,
-      "pointsPlus": 112
+      "adjPts": 10.4,
+      "pointsPlus": 109
     },
     {
       "date": "2026-01-13",
@@ -167,7 +167,7 @@
       "min": 22,
       "pts": 8,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-16",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 27,
       "pts": 7,
-      "adjPts": 6.5,
-      "pointsPlus": 68
+      "adjPts": 6.4,
+      "pointsPlus": 67
     },
     {
       "date": "2026-01-20",
@@ -230,7 +230,7 @@
       "min": 22,
       "pts": 8,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2026-02-18",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 28,
       "pts": 14,
-      "adjPts": 11.7,
+      "adjPts": 11.6,
       "pointsPlus": 122
     },
     {

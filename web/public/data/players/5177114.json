@@ -4,17 +4,17 @@
   "team": "UTAH",
   "teamName": "Utah Utes",
   "conference": "Big 12",
-  "rank": 309,
-  "gp": 26,
-  "ppg": 9.3,
-  "adjPpg": 9.6,
-  "pointsPlus": 100,
-  "mpg": 28.5,
+  "rank": 321,
+  "gp": 27,
+  "ppg": 9.1,
+  "adjPpg": 9.3,
+  "pointsPlus": 97,
+  "mpg": 28.7,
   "position": "F",
   "jersey": "0",
   "classYear": "Junior",
-  "pointsPlusStdDev": 59.7,
-  "volatilityPctile": 69,
+  "pointsPlusStdDev": 59.2,
+  "volatilityPctile": 68,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 22,
       "pts": 9,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.4,
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 33,
       "pts": 11,
-      "adjPts": 11.5,
-      "pointsPlus": 120
+      "adjPts": 11.4,
+      "pointsPlus": 119
     },
     {
       "date": "2026-01-20",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 28,
       "pts": 7,
-      "adjPts": 6.6,
-      "pointsPlus": 69
+      "adjPts": 6.5,
+      "pointsPlus": 68
     },
     {
       "date": "2026-01-31",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 32,
       "pts": 16,
-      "adjPts": 14.6,
-      "pointsPlus": 153
+      "adjPts": 14.5,
+      "pointsPlus": 152
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 34,
       "pts": 10,
-      "adjPts": 12.0,
-      "pointsPlus": 125
+      "adjPts": 11.9,
+      "pointsPlus": 124
     },
     {
       "date": "2026-02-18",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 34,
       "pts": 17,
-      "adjPts": 22.6,
-      "pointsPlus": 237
+      "adjPts": 22.0,
+      "pointsPlus": 231
     },
     {
       "date": "2026-02-21",
@@ -249,6 +249,15 @@
       "pts": 2,
       "adjPts": 1.8,
       "pointsPlus": 19
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "UTAH vs ISU",
+      "result": "L",
+      "min": 34,
+      "pts": 3,
+      "adjPts": 3.5,
+      "pointsPlus": 37
     }
   ]
 }

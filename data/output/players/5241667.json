@@ -4,17 +4,17 @@
   "team": "UCF",
   "teamName": "UCF Knights",
   "conference": "Big 12",
-  "rank": 195,
-  "gp": 24,
+  "rank": 197,
+  "gp": 25,
   "ppg": 11.9,
-  "adjPpg": 12.0,
-  "pointsPlus": 126,
-  "mpg": 28.0,
+  "adjPpg": 11.9,
+  "pointsPlus": 125,
+  "mpg": 28.1,
   "position": "F",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 48.1,
-  "volatilityPctile": 36,
+  "pointsPlusStdDev": 46.9,
+  "volatilityPctile": 34,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -59,7 +59,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-20",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 34,
       "pts": 15,
-      "adjPts": 17.9,
-      "pointsPlus": 188
+      "adjPts": 17.8,
+      "pointsPlus": 186
     },
     {
       "date": "2026-01-14",
@@ -167,7 +167,7 @@
       "min": 24,
       "pts": 6,
       "adjPts": 6.3,
-      "pointsPlus": 66
+      "pointsPlus": 65
     },
     {
       "date": "2026-01-24",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 28,
       "pts": 14,
-      "adjPts": 12.8,
-      "pointsPlus": 134
+      "adjPts": 12.7,
+      "pointsPlus": 133
     },
     {
       "date": "2026-01-31",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 35,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 105
     },
     {
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 30,
       "pts": 8,
-      "adjPts": 10.3,
-      "pointsPlus": 109
+      "adjPts": 10.4,
+      "pointsPlus": 108
     },
     {
       "date": "2026-02-08",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 30,
       "pts": 14,
-      "adjPts": 16.7,
-      "pointsPlus": 176
+      "adjPts": 16.6,
+      "pointsPlus": 174
     },
     {
       "date": "2026-02-17",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 28,
       "pts": 9,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 98
     },
     {
@@ -230,7 +230,16 @@
       "min": 31,
       "pts": 6,
       "adjPts": 5.6,
-      "pointsPlus": 58
+      "pointsPlus": 59
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "UCF @ BYU",
+      "result": "W",
+      "min": 29,
+      "pts": 12,
+      "adjPts": 11.1,
+      "pointsPlus": 117
     }
   ]
 }

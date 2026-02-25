@@ -4,7 +4,7 @@
   "team": "CREI",
   "teamName": "Creighton Bluejays",
   "conference": "Big East",
-  "rank": 234,
+  "rank": 232,
   "gp": 26,
   "ppg": 10.9,
   "adjPpg": 11.1,
@@ -85,7 +85,7 @@
       "result": "L",
       "min": 23,
       "pts": 16,
-      "adjPts": 18.9,
+      "adjPts": 19.0,
       "pointsPlus": 199
     },
     {
@@ -95,7 +95,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 10.3,
-      "pointsPlus": 108
+      "pointsPlus": 107
     },
     {
       "date": "2025-12-17",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 21,
       "pts": 9,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2025-12-22",
@@ -131,7 +131,7 @@
       "min": 32,
       "pts": 22,
       "adjPts": 20.3,
-      "pointsPlus": 213
+      "pointsPlus": 212
     },
     {
       "date": "2026-01-04",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 31,
       "pts": 20,
-      "adjPts": 21.6,
+      "adjPts": 21.7,
       "pointsPlus": 227
     },
     {
@@ -167,7 +167,7 @@
       "min": 34,
       "pts": 33,
       "adjPts": 34.2,
-      "pointsPlus": 358
+      "pointsPlus": 359
     },
     {
       "date": "2026-01-16",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 26,
       "pts": 17,
-      "adjPts": 16.0,
-      "pointsPlus": 168
+      "adjPts": 16.2,
+      "pointsPlus": 170
     },
     {
       "date": "2026-01-31",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 24,
       "pts": 7,
-      "adjPts": 7.2,
+      "adjPts": 7.3,
       "pointsPlus": 76
     },
     {
@@ -221,7 +221,7 @@
       "min": 24,
       "pts": 15,
       "adjPts": 17.0,
-      "pointsPlus": 179
+      "pointsPlus": 178
     },
     {
       "date": "2026-02-14",

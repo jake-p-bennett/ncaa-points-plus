@@ -4,7 +4,7 @@
   "team": "VAN",
   "teamName": "Vanderbilt Commodores",
   "conference": "SEC",
-  "rank": 353,
+  "rank": 357,
   "gp": 27,
   "ppg": 8.8,
   "adjPpg": 8.4,
@@ -13,7 +13,7 @@
   "position": "C",
   "jersey": "13",
   "classYear": "Senior",
-  "pointsPlusStdDev": 56.9,
+  "pointsPlusStdDev": 56.8,
   "volatilityPctile": 61,
   "gameLog": [
     {
@@ -31,8 +31,8 @@
       "result": "W",
       "min": 19,
       "pts": 6,
-      "adjPts": 5.5,
-      "pointsPlus": 58
+      "adjPts": 5.4,
+      "pointsPlus": 57
     },
     {
       "date": "2025-11-12",
@@ -140,7 +140,7 @@
       "min": 20,
       "pts": 10,
       "adjPts": 9.6,
-      "pointsPlus": 100
+      "pointsPlus": 101
     },
     {
       "date": "2026-01-07",
@@ -158,7 +158,7 @@
       "min": 26,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 108
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-14",
@@ -221,7 +221,7 @@
       "min": 27,
       "pts": 4,
       "adjPts": 3.6,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2026-02-10",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 28,
       "pts": 22,
-      "adjPts": 19.1,
-      "pointsPlus": 200
+      "adjPts": 18.9,
+      "pointsPlus": 198
     },
     {
       "date": "2026-02-14",
@@ -247,7 +247,7 @@
       "result": "L",
       "min": 21,
       "pts": 6,
-      "adjPts": 5.7,
+      "adjPts": 5.8,
       "pointsPlus": 60
     },
     {

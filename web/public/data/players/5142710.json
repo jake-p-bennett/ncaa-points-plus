@@ -4,17 +4,17 @@
   "team": "TENN",
   "teamName": "Tennessee Volunteers",
   "conference": "SEC",
-  "rank": 519,
-  "gp": 25,
+  "rank": 523,
+  "gp": 26,
   "ppg": 5.6,
   "adjPpg": 5.4,
-  "pointsPlus": 57,
-  "mpg": 16.6,
+  "pointsPlus": 56,
+  "mpg": 16.5,
   "position": "F",
   "jersey": "6",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 34.3,
-  "volatilityPctile": 8,
+  "pointsPlusStdDev": 33.7,
+  "volatilityPctile": 7,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 10,
       "pts": 4,
-      "adjPts": 4.1,
-      "pointsPlus": 43
+      "adjPts": 4.0,
+      "pointsPlus": 42
     },
     {
       "date": "2025-12-02",
@@ -140,7 +140,7 @@
       "min": 19,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-13",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 19,
       "pts": 7,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 7.1,
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-24",
@@ -176,7 +176,7 @@
       "min": 12,
       "pts": 4,
       "adjPts": 3.4,
-      "pointsPlus": 36
+      "pointsPlus": 35
     },
     {
       "date": "2026-01-31",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 33,
       "pts": 10,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-02-03",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 30,
       "pts": 8,
-      "adjPts": 7.5,
+      "adjPts": 7.6,
       "pointsPlus": 79
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "TENN @ MIZ",
+      "result": "L",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 4.8,
+      "pointsPlus": 50
     }
   ]
 }

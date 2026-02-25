@@ -4,7 +4,7 @@
   "team": "CLEM",
   "teamName": "Clemson Tigers",
   "conference": "ACC",
-  "rank": 516,
+  "rank": 519,
   "gp": 28,
   "ppg": 5.5,
   "adjPpg": 5.5,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 40.6,
+  "pointsPlusStdDev": 40.2,
   "volatilityPctile": 18,
   "gameLog": [
     {
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 22,
       "pts": 11,
-      "adjPts": 14.6,
-      "pointsPlus": 153
+      "adjPts": 14.3,
+      "pointsPlus": 149
     },
     {
       "date": "2025-11-23",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 24,
       "pts": 8,
-      "adjPts": 6.0,
+      "adjPts": 6.1,
       "pointsPlus": 63
     },
     {
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 27,
       "pts": 10,
-      "adjPts": 9.4,
-      "pointsPlus": 99
+      "adjPts": 9.3,
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-13",
@@ -185,7 +185,7 @@
       "min": 19,
       "pts": 3,
       "adjPts": 3.1,
-      "pointsPlus": 33
+      "pointsPlus": 32
     },
     {
       "date": "2026-01-20",
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 19,
       "pts": 8,
-      "adjPts": 7.6,
+      "adjPts": 7.7,
       "pointsPlus": 80
     },
     {
@@ -212,7 +212,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 8.8,
-      "pointsPlus": 93
+      "pointsPlus": 92
     },
     {
       "date": "2026-02-04",

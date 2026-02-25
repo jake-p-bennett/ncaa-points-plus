@@ -4,7 +4,7 @@
   "team": "MSST",
   "teamName": "Mississippi State Bulldogs",
   "conference": "SEC",
-  "rank": 617,
+  "rank": 616,
   "gp": 27,
   "ppg": 3.8,
   "adjPpg": 3.6,
@@ -104,7 +104,7 @@
       "min": 22,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 19
+      "pointsPlus": 20
     },
     {
       "date": "2025-12-16",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 25,
       "pts": 8,
-      "adjPts": 7.2,
+      "adjPts": 7.1,
       "pointsPlus": 75
     },
     {

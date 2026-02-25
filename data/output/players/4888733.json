@@ -4,7 +4,7 @@
   "team": "GT",
   "teamName": "Georgia Tech Yellow Jackets",
   "conference": "ACC",
-  "rank": 555,
+  "rank": 558,
   "gp": 26,
   "ppg": 4.5,
   "adjPpg": 4.7,
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 22,
       "pts": 9,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.2,
+      "pointsPlus": 96
     },
     {
       "date": "2026-02-18",

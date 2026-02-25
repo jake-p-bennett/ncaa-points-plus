@@ -4,7 +4,7 @@
   "team": "VILL",
   "teamName": "Villanova Wildcats",
   "conference": "Big East",
-  "rank": 575,
+  "rank": 577,
   "gp": 27,
   "ppg": 4.3,
   "adjPpg": 4.3,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "7",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 42.8,
+  "pointsPlusStdDev": 42.9,
   "volatilityPctile": 23,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 18,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 30
+      "pointsPlus": 29
     },
     {
       "date": "2025-11-08",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 23,
       "pts": 4,
-      "adjPts": 4.1,
+      "adjPts": 4.2,
       "pointsPlus": 43
     },
     {
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 12,
       "pts": 5,
-      "adjPts": 3.8,
+      "adjPts": 3.9,
       "pointsPlus": 40
     },
     {
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 19,
       "pts": 5,
-      "adjPts": 4.7,
-      "pointsPlus": 49
+      "adjPts": 4.8,
+      "pointsPlus": 50
     },
     {
       "date": "2026-02-14",
@@ -257,7 +257,7 @@
       "min": 18,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 25
+      "pointsPlus": 24
     }
   ]
 }

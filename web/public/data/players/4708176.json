@@ -4,16 +4,16 @@
   "team": "HOU",
   "teamName": "Houston Cougars",
   "conference": "Big 12",
-  "rank": 643,
+  "rank": 645,
   "gp": 24,
   "ppg": 2.7,
   "adjPpg": 2.7,
-  "pointsPlus": 29,
+  "pointsPlus": 28,
   "mpg": 12.1,
   "position": "G",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 34.0,
+  "pointsPlusStdDev": 33.8,
   "volatilityPctile": 8,
   "gameLog": [
     {
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 24,
       "pts": 9,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.2,
+      "pointsPlus": 96
     },
     {
       "date": "2025-12-06",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 14,
       "pts": 5,
-      "adjPts": 6.0,
-      "pointsPlus": 63
+      "adjPts": 5.9,
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-06",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 10,
       "pts": 4,
-      "adjPts": 5.3,
-      "pointsPlus": 56
+      "adjPts": 5.2,
+      "pointsPlus": 54
     },
     {
       "date": "2026-01-18",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 22,
       "pts": 6,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2026-01-31",

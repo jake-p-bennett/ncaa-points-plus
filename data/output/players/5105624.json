@@ -4,7 +4,7 @@
   "team": "TEX",
   "teamName": "Texas Longhorns",
   "conference": "SEC",
-  "rank": 177,
+  "rank": 182,
   "gp": 27,
   "ppg": 13.0,
   "adjPpg": 12.4,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 62.2,
-  "volatilityPctile": 74,
+  "pointsPlusStdDev": 62.1,
+  "volatilityPctile": 75,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 32,
       "pts": 10,
-      "adjPts": 9.1,
-      "pointsPlus": 96
+      "adjPts": 9.0,
+      "pointsPlus": 95
     },
     {
       "date": "2025-11-25",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 38,
       "pts": 28,
-      "adjPts": 26.8,
-      "pointsPlus": 281
+      "adjPts": 26.6,
+      "pointsPlus": 279
     },
     {
       "date": "2025-12-03",
@@ -104,7 +104,7 @@
       "min": 28,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-12-12",
@@ -140,7 +140,7 @@
       "min": 27,
       "pts": 9,
       "adjPts": 8.1,
-      "pointsPlus": 85
+      "pointsPlus": 84
     },
     {
       "date": "2026-01-06",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 32,
       "pts": 8,
-      "adjPts": 8.0,
+      "adjPts": 8.1,
       "pointsPlus": 84
     },
     {
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 35,
       "pts": 12,
-      "adjPts": 10.4,
-      "pointsPlus": 109
+      "adjPts": 10.3,
+      "pointsPlus": 108
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 10.7,
-      "pointsPlus": 113
+      "pointsPlus": 112
     },
     {
       "date": "2026-02-03",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 25,
       "pts": 15,
-      "adjPts": 14.3,
-      "pointsPlus": 150
+      "adjPts": 14.4,
+      "pointsPlus": 151
     },
     {
       "date": "2026-02-17",

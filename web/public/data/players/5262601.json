@@ -4,16 +4,16 @@
   "team": "BYU",
   "teamName": "BYU Cougars",
   "conference": "Big 12",
-  "rank": 648,
-  "gp": 26,
-  "ppg": 2.5,
-  "adjPpg": 2.5,
-  "pointsPlus": 26,
-  "mpg": 15.5,
+  "rank": 651,
+  "gp": 27,
+  "ppg": 2.4,
+  "adjPpg": 2.4,
+  "pointsPlus": 25,
+  "mpg": 15.2,
   "position": "F",
   "jersey": "7",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 28.6,
+  "pointsPlusStdDev": 28.5,
   "volatilityPctile": 4,
   "gameLog": [
     {
@@ -50,7 +50,7 @@
       "min": 22,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 25
+      "pointsPlus": 24
     },
     {
       "date": "2025-11-21",
@@ -249,6 +249,15 @@
       "pts": 5,
       "adjPts": 5.8,
       "pointsPlus": 61
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "BYU vs UCF",
+      "result": "L",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

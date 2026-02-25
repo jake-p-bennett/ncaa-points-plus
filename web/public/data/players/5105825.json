@@ -4,7 +4,7 @@
   "team": "NEB",
   "teamName": "Nebraska Cornhuskers",
   "conference": "Big Ten",
-  "rank": 242,
+  "rank": 241,
   "gp": 27,
   "ppg": 10.6,
   "adjPpg": 10.9,
@@ -23,7 +23,7 @@
       "min": 26,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-11-08",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 33,
       "pts": 12,
-      "adjPts": 14.0,
+      "adjPts": 14.1,
       "pointsPlus": 147
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 37,
       "pts": 27,
-      "adjPts": 27.6,
-      "pointsPlus": 289
+      "adjPts": 27.7,
+      "pointsPlus": 290
     },
     {
       "date": "2026-01-13",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 22,
       "pts": 8,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-21",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 33,
       "pts": 14,
-      "adjPts": 16.7,
-      "pointsPlus": 175
+      "adjPts": 16.6,
+      "pointsPlus": 174
     },
     {
       "date": "2026-01-27",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 35,
       "pts": 20,
-      "adjPts": 20.6,
+      "adjPts": 20.7,
       "pointsPlus": 216
     },
     {
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 31,
       "pts": 12,
-      "adjPts": 12.2,
-      "pointsPlus": 128
+      "adjPts": 12.1,
+      "pointsPlus": 127
     },
     {
       "date": "2026-02-10",
@@ -248,7 +248,7 @@
       "min": 28,
       "pts": 11,
       "adjPts": 13.4,
-      "pointsPlus": 141
+      "pointsPlus": 140
     },
     {
       "date": "2026-02-21",

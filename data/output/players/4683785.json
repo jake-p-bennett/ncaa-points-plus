@@ -4,11 +4,11 @@
   "team": "TEX",
   "teamName": "Texas Longhorns",
   "conference": "SEC",
-  "rank": 437,
+  "rank": 438,
   "gp": 27,
   "ppg": 6.9,
   "adjPpg": 6.8,
-  "pointsPlus": 72,
+  "pointsPlus": 71,
   "mpg": 20.1,
   "position": "G",
   "jersey": "7",
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 19,
       "pts": 6,
-      "adjPts": 5.5,
+      "adjPts": 5.4,
       "pointsPlus": 57
     },
     {
@@ -85,7 +85,7 @@
       "result": "W",
       "min": 23,
       "pts": 12,
-      "adjPts": 11.5,
+      "adjPts": 11.4,
       "pointsPlus": 120
     },
     {
@@ -149,7 +149,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 114
+      "pointsPlus": 113
     },
     {
       "date": "2026-01-10",
@@ -212,7 +212,7 @@
       "min": 21,
       "pts": 10,
       "adjPts": 8.9,
-      "pointsPlus": 94
+      "pointsPlus": 93
     },
     {
       "date": "2026-02-03",
@@ -221,7 +221,7 @@
       "min": 19,
       "pts": 7,
       "adjPts": 6.7,
-      "pointsPlus": 70
+      "pointsPlus": 71
     },
     {
       "date": "2026-02-07",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 21,
       "pts": 9,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.7,
+      "pointsPlus": 91
     },
     {
       "date": "2026-02-17",

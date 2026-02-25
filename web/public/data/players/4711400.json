@@ -4,7 +4,7 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 464,
+  "rank": 463,
   "gp": 27,
   "ppg": 6.2,
   "adjPpg": 6.4,
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 31,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 2.1,
       "pointsPlus": 21
     },
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 27,
       "pts": 8,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 15.2,
-      "pointsPlus": 160
+      "pointsPlus": 159
     },
     {
       "date": "2026-01-21",
@@ -185,7 +185,7 @@
       "min": 15,
       "pts": 6,
       "adjPts": 7.1,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-25",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 25,
       "pts": 4,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
     },
     {
@@ -247,7 +247,7 @@
       "result": "W",
       "min": 20,
       "pts": 6,
-      "adjPts": 7.2,
+      "adjPts": 7.1,
       "pointsPlus": 75
     },
     {

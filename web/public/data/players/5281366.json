@@ -4,17 +4,17 @@
   "team": "MIA",
   "teamName": "Miami Hurricanes",
   "conference": "ACC",
-  "rank": 545,
-  "gp": 27,
+  "rank": 548,
+  "gp": 28,
   "ppg": 4.8,
-  "adjPpg": 4.9,
-  "pointsPlus": 51,
-  "mpg": 16.9,
+  "adjPpg": 4.8,
+  "pointsPlus": 50,
+  "mpg": 16.6,
   "position": "F",
   "jersey": "88",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 46.4,
-  "volatilityPctile": 32,
+  "pointsPlusStdDev": 45.8,
+  "volatilityPctile": 30,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 14,
       "pts": 6,
-      "adjPts": 6.1,
+      "adjPts": 6.2,
       "pointsPlus": 64
     },
     {
@@ -258,6 +258,15 @@
       "pts": 5,
       "adjPts": 5.5,
       "pointsPlus": 58
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "MIA @ FSU",
+      "result": "W",
+      "min": 10,
+      "pts": 3,
+      "adjPts": 2.7,
+      "pointsPlus": 29
     }
   ]
 }

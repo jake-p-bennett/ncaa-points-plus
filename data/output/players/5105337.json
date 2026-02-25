@@ -4,16 +4,16 @@
   "team": "DUKE",
   "teamName": "Duke Blue Devils",
   "conference": "ACC",
-  "rank": 548,
-  "gp": 27,
-  "ppg": 4.7,
-  "adjPpg": 4.8,
-  "pointsPlus": 50,
-  "mpg": 19.3,
+  "rank": 560,
+  "gp": 28,
+  "ppg": 4.6,
+  "adjPpg": 4.6,
+  "pointsPlus": 48,
+  "mpg": 19.4,
   "position": "F",
   "jersey": "6",
   "classYear": "Senior",
-  "pointsPlusStdDev": 30.8,
+  "pointsPlusStdDev": 31.7,
   "volatilityPctile": 5,
   "gameLog": [
     {
@@ -247,7 +247,7 @@
       "result": "W",
       "min": 19,
       "pts": 6,
-      "adjPts": 6.1,
+      "adjPts": 6.2,
       "pointsPlus": 64
     },
     {
@@ -258,6 +258,15 @@
       "pts": 2,
       "adjPts": 2.1,
       "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "DUKE @ ND",
+      "result": "W",
+      "min": 22,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

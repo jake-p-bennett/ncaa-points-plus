@@ -4,17 +4,17 @@
   "team": "SJU",
   "teamName": "St. John's Red Storm",
   "conference": "Big East",
-  "rank": 81,
+  "rank": 79,
   "gp": 27,
   "ppg": 15.9,
-  "adjPpg": 15.3,
+  "adjPpg": 15.4,
   "pointsPlus": 161,
   "mpg": 30.1,
   "position": "F",
   "jersey": "24",
   "classYear": "Senior",
-  "pointsPlusStdDev": 59.5,
-  "volatilityPctile": 69,
+  "pointsPlusStdDev": 59.4,
+  "volatilityPctile": 68,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 30,
       "pts": 16,
-      "adjPts": 18.5,
-      "pointsPlus": 194
+      "adjPts": 18.7,
+      "pointsPlus": 196
     },
     {
       "date": "2025-11-25",
@@ -68,7 +68,7 @@
       "min": 26,
       "pts": 9,
       "adjPts": 8.3,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2025-11-26",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 35,
       "pts": 24,
-      "adjPts": 20.8,
-      "pointsPlus": 218
+      "adjPts": 20.7,
+      "pointsPlus": 216
     },
     {
       "date": "2025-12-06",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 27,
       "pts": 12,
-      "adjPts": 12.0,
-      "pointsPlus": 126
+      "adjPts": 12.1,
+      "pointsPlus": 127
     },
     {
       "date": "2025-12-23",
@@ -140,7 +140,7 @@
       "min": 34,
       "pts": 33,
       "adjPts": 25.4,
-      "pointsPlus": 267
+      "pointsPlus": 266
     },
     {
       "date": "2026-01-06",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 26,
       "pts": 22,
-      "adjPts": 20.7,
-      "pointsPlus": 217
+      "adjPts": 21.0,
+      "pointsPlus": 219
     },
     {
       "date": "2026-01-17",
@@ -212,7 +212,7 @@
       "min": 36,
       "pts": 16,
       "adjPts": 18.2,
-      "pointsPlus": 191
+      "pointsPlus": 190
     },
     {
       "date": "2026-02-06",
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 30,
       "pts": 10,
-      "adjPts": 9.4,
-      "pointsPlus": 99
+      "adjPts": 9.5,
+      "pointsPlus": 100
     },
     {
       "date": "2026-02-21",

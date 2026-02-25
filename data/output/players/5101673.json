@@ -4,7 +4,7 @@
   "team": "XAV",
   "teamName": "Xavier Musketeers",
   "conference": "Big East",
-  "rank": 180,
+  "rank": 185,
   "gp": 27,
   "ppg": 12.0,
   "adjPpg": 12.3,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "24",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 74.8,
-  "volatilityPctile": 92,
+  "pointsPlusStdDev": 74.2,
+  "volatilityPctile": 91,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -50,7 +50,7 @@
       "min": 25,
       "pts": 15,
       "adjPts": 18.3,
-      "pointsPlus": 192
+      "pointsPlus": 191
     },
     {
       "date": "2025-11-18",
@@ -59,7 +59,7 @@
       "min": 28,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-21",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 34,
       "pts": 21,
-      "adjPts": 27.9,
-      "pointsPlus": 293
+      "adjPts": 27.2,
+      "pointsPlus": 285
     },
     {
       "date": "2025-11-28",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 28,
       "pts": 12,
-      "adjPts": 14.3,
-      "pointsPlus": 151
+      "adjPts": 14.2,
+      "pointsPlus": 149
     },
     {
       "date": "2025-12-12",
@@ -140,7 +140,7 @@
       "min": 20,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 25
+      "pointsPlus": 24
     },
     {
       "date": "2026-01-03",
@@ -149,7 +149,7 @@
       "min": 10,
       "pts": 5,
       "adjPts": 5.7,
-      "pointsPlus": 60
+      "pointsPlus": 59
     },
     {
       "date": "2026-01-07",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 17,
       "pts": 6,
-      "adjPts": 5.6,
-      "pointsPlus": 59
+      "adjPts": 5.7,
+      "pointsPlus": 60
     },
     {
       "date": "2026-01-10",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 25,
       "pts": 22,
-      "adjPts": 16.9,
-      "pointsPlus": 178
+      "adjPts": 17.0,
+      "pointsPlus": 177
     },
     {
       "date": "2026-01-14",
@@ -221,7 +221,7 @@
       "min": 15,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 25
+      "pointsPlus": 24
     },
     {
       "date": "2026-02-09",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 32,
       "pts": 23,
-      "adjPts": 21.6,
-      "pointsPlus": 227
+      "adjPts": 21.9,
+      "pointsPlus": 229
     },
     {
       "date": "2026-02-17",
@@ -247,7 +247,7 @@
       "result": "L",
       "min": 39,
       "pts": 20,
-      "adjPts": 21.6,
+      "adjPts": 21.7,
       "pointsPlus": 227
     },
     {

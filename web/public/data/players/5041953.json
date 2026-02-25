@@ -4,17 +4,17 @@
   "team": "ARIZ",
   "teamName": "Arizona Wildcats",
   "conference": "Big 12",
-  "rank": 133,
+  "rank": 136,
   "gp": 25,
   "ppg": 13.8,
   "adjPpg": 13.7,
-  "pointsPlus": 144,
+  "pointsPlus": 143,
   "mpg": 27.2,
   "position": "F",
   "jersey": "10",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 68.7,
-  "volatilityPctile": 86,
+  "pointsPlusStdDev": 68.0,
+  "volatilityPctile": 85,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 36,
       "pts": 30,
       "adjPts": 29.9,
-      "pointsPlus": 314
+      "pointsPlus": 313
     },
     {
       "date": "2025-11-07",
@@ -32,7 +32,7 @@
       "min": 28,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-11-11",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 34,
       "pts": 18,
-      "adjPts": 15.6,
-      "pointsPlus": 164
+      "adjPts": 15.5,
+      "pointsPlus": 162
     },
     {
       "date": "2025-12-13",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 34,
       "pts": 17,
-      "adjPts": 15.8,
-      "pointsPlus": 165
+      "adjPts": 15.9,
+      "pointsPlus": 166
     },
     {
       "date": "2026-01-07",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 32,
       "pts": 20,
-      "adjPts": 20.8,
-      "pointsPlus": 219
+      "adjPts": 20.7,
+      "pointsPlus": 217
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 35,
       "pts": 24,
-      "adjPts": 21.9,
-      "pointsPlus": 229
+      "adjPts": 21.7,
+      "pointsPlus": 227
     },
     {
       "date": "2026-01-17",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 20,
       "pts": 4,
-      "adjPts": 3.7,
+      "adjPts": 3.6,
       "pointsPlus": 38
     },
     {
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 25,
       "pts": 13,
-      "adjPts": 15.5,
-      "pointsPlus": 163
+      "adjPts": 15.4,
+      "pointsPlus": 161
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 31,
       "pts": 17,
-      "adjPts": 22.6,
-      "pointsPlus": 237
+      "adjPts": 22.0,
+      "pointsPlus": 231
     },
     {
       "date": "2026-01-26",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 26,
       "pts": 10,
-      "adjPts": 9.4,
-      "pointsPlus": 99
+      "adjPts": 9.3,
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 33,
       "pts": 21,
-      "adjPts": 19.1,
-      "pointsPlus": 201
+      "adjPts": 19.0,
+      "pointsPlus": 199
     },
     {
       "date": "2026-02-07",

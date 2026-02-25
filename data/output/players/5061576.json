@@ -4,17 +4,17 @@
   "team": "RUTG",
   "teamName": "Rutgers Scarlet Knights",
   "conference": "Big Ten",
-  "rank": 226,
-  "gp": 27,
-  "ppg": 10.9,
-  "adjPpg": 11.3,
-  "pointsPlus": 118,
-  "mpg": 24.6,
+  "rank": 240,
+  "gp": 28,
+  "ppg": 10.5,
+  "adjPpg": 10.9,
+  "pointsPlus": 114,
+  "mpg": 24.2,
   "position": "F",
   "jersey": "9",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 68.2,
-  "volatilityPctile": 86,
+  "pointsPlusStdDev": 69.5,
+  "volatilityPctile": 87,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -41,7 +41,7 @@
       "min": 30,
       "pts": 28,
       "adjPts": 28.0,
-      "pointsPlus": 294
+      "pointsPlus": 293
     },
     {
       "date": "2025-11-18",
@@ -50,7 +50,7 @@
       "min": 30,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 231
+      "pointsPlus": 230
     },
     {
       "date": "2025-11-21",
@@ -68,7 +68,7 @@
       "min": 19,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 114
+      "pointsPlus": 113
     },
     {
       "date": "2025-11-25",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 34,
       "pts": 15,
-      "adjPts": 15.5,
-      "pointsPlus": 162
+      "adjPts": 15.3,
+      "pointsPlus": 160
     },
     {
       "date": "2025-11-27",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 25,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 119
     },
     {
@@ -131,7 +131,7 @@
       "min": 34,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2026-01-02",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 32,
       "pts": 14,
-      "adjPts": 13.0,
+      "adjPts": 13.1,
       "pointsPlus": 137
     },
     {
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 27,
       "pts": 15,
-      "adjPts": 17.9,
-      "pointsPlus": 188
+      "adjPts": 17.8,
+      "pointsPlus": 186
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "RUTG vs WASH",
+      "result": "L",
+      "min": 14,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 11
     }
   ]
 }

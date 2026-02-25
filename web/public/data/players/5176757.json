@@ -4,16 +4,16 @@
   "team": "UTAH",
   "teamName": "Utah Utes",
   "conference": "Big 12",
-  "rank": 637,
-  "gp": 27,
-  "ppg": 3.1,
-  "adjPpg": 3.1,
+  "rank": 639,
+  "gp": 28,
+  "ppg": 3.0,
+  "adjPpg": 3.0,
   "pointsPlus": 32,
-  "mpg": 13.1,
+  "mpg": 13.2,
   "position": "F",
   "jersey": "7",
   "classYear": "Junior",
-  "pointsPlusStdDev": 28.8,
+  "pointsPlusStdDev": 28.3,
   "volatilityPctile": 4,
   "gameLog": [
     {
@@ -158,7 +158,7 @@
       "min": 12,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 20
+      "pointsPlus": 19
     },
     {
       "date": "2026-01-14",
@@ -176,7 +176,7 @@
       "min": 16,
       "pts": 5,
       "adjPts": 5.2,
-      "pointsPlus": 55
+      "pointsPlus": 54
     },
     {
       "date": "2026-01-20",
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 23,
       "pts": 3,
-      "adjPts": 4.0,
-      "pointsPlus": 42
+      "adjPts": 3.9,
+      "pointsPlus": 41
     },
     {
       "date": "2026-02-21",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 16,
       "pts": 4,
-      "adjPts": 3.7,
+      "adjPts": 3.6,
       "pointsPlus": 38
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "UTAH vs ISU",
+      "result": "L",
+      "min": 15,
+      "pts": 2,
+      "adjPts": 2.3,
+      "pointsPlus": 24
     }
   ]
 }

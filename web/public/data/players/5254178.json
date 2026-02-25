@@ -4,17 +4,17 @@
   "team": "SC",
   "teamName": "South Carolina Gamecocks",
   "conference": "SEC",
-  "rank": 602,
-  "gp": 25,
-  "ppg": 4.0,
-  "adjPpg": 3.9,
-  "pointsPlus": 41,
-  "mpg": 14.0,
+  "rank": 606,
+  "gp": 26,
+  "ppg": 3.9,
+  "adjPpg": 3.8,
+  "pointsPlus": 40,
+  "mpg": 13.6,
   "position": "G",
   "jersey": "13",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 40.6,
-  "volatilityPctile": 18,
+  "pointsPlusStdDev": 40.0,
+  "volatilityPctile": 17,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 12,
       "pts": 8,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2025-11-28",
@@ -240,6 +240,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "SC vs UK",
+      "result": "L",
+      "min": 5,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 21
     }
   ]
 }

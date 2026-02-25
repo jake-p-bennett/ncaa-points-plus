@@ -4,17 +4,17 @@
   "team": "BAY",
   "teamName": "Baylor Bears",
   "conference": "Big 12",
-  "rank": 33,
-  "gp": 27,
-  "ppg": 18.1,
-  "adjPpg": 18.4,
-  "pointsPlus": 193,
-  "mpg": 32.3,
+  "rank": 34,
+  "gp": 28,
+  "ppg": 17.9,
+  "adjPpg": 18.1,
+  "pointsPlus": 190,
+  "mpg": 32.2,
   "position": "G",
   "jersey": "24",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 66.2,
-  "volatilityPctile": 83,
+  "pointsPlusStdDev": 65.4,
+  "volatilityPctile": 81,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 30,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 252
+      "pointsPlus": 251
     },
     {
       "date": "2025-11-09",
@@ -32,7 +32,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.6,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2025-11-14",
@@ -49,7 +49,7 @@
       "result": "W",
       "min": 32,
       "pts": 11,
-      "adjPts": 10.7,
+      "adjPts": 10.8,
       "pointsPlus": 113
     },
     {
@@ -68,7 +68,7 @@
       "min": 31,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-12-02",
@@ -86,7 +86,7 @@
       "min": 34,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 231
+      "pointsPlus": 230
     },
     {
       "date": "2025-12-10",
@@ -113,7 +113,7 @@
       "min": 29,
       "pts": 28,
       "adjPts": 28.0,
-      "pointsPlus": 294
+      "pointsPlus": 293
     },
     {
       "date": "2025-12-29",
@@ -122,7 +122,7 @@
       "min": 30,
       "pts": 28,
       "adjPts": 28.0,
-      "pointsPlus": 294
+      "pointsPlus": 293
     },
     {
       "date": "2026-01-03",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 32,
       "pts": 10,
-      "adjPts": 10.4,
-      "pointsPlus": 109
+      "adjPts": 10.3,
+      "pointsPlus": 108
     },
     {
       "date": "2026-01-07",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 32,
       "pts": 10,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 122
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 31,
       "pts": 23,
-      "adjPts": 19.2,
-      "pointsPlus": 201
+      "adjPts": 19.1,
+      "pointsPlus": 200
     },
     {
       "date": "2026-01-16",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 34,
       "pts": 9,
-      "adjPts": 9.0,
+      "adjPts": 9.1,
       "pointsPlus": 95
     },
     {
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 26,
       "pts": 21,
-      "adjPts": 21.9,
-      "pointsPlus": 230
+      "adjPts": 21.7,
+      "pointsPlus": 228
     },
     {
       "date": "2026-01-28",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 36,
       "pts": 16,
-      "adjPts": 19.1,
-      "pointsPlus": 201
+      "adjPts": 19.0,
+      "pointsPlus": 199
     },
     {
       "date": "2026-01-31",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 33,
       "pts": 11,
-      "adjPts": 14.6,
-      "pointsPlus": 153
+      "adjPts": 14.3,
+      "pointsPlus": 149
     },
     {
       "date": "2026-02-04",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 40,
       "pts": 17,
-      "adjPts": 19.7,
-      "pointsPlus": 207
+      "adjPts": 19.8,
+      "pointsPlus": 208
     },
     {
       "date": "2026-02-10",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 40,
       "pts": 37,
-      "adjPts": 34.9,
-      "pointsPlus": 366
+      "adjPts": 34.3,
+      "pointsPlus": 360
     },
     {
       "date": "2026-02-14",
@@ -256,8 +256,17 @@
       "result": "W",
       "min": 35,
       "pts": 16,
-      "adjPts": 14.6,
-      "pointsPlus": 153
+      "adjPts": 14.5,
+      "pointsPlus": 152
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "BAY vs ARIZ",
+      "result": "L",
+      "min": 32,
+      "pts": 12,
+      "adjPts": 12.5,
+      "pointsPlus": 131
     }
   ]
 }

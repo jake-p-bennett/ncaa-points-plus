@@ -4,7 +4,7 @@
   "team": "SC",
   "teamName": "South Carolina Gamecocks",
   "conference": "SEC",
-  "rank": 494,
+  "rank": 496,
   "gp": 24,
   "ppg": 6.1,
   "adjPpg": 5.8,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "10",
   "classYear": "Senior",
-  "pointsPlusStdDev": 45.3,
-  "volatilityPctile": 29,
+  "pointsPlusStdDev": 45.2,
+  "volatilityPctile": 28,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -113,7 +113,7 @@
       "min": 34,
       "pts": 14,
       "adjPts": 13.2,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2026-01-06",
@@ -149,7 +149,7 @@
       "min": 28,
       "pts": 6,
       "adjPts": 5.2,
-      "pointsPlus": 55
+      "pointsPlus": 54
     },
     {
       "date": "2026-01-20",

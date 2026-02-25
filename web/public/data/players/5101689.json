@@ -4,12 +4,12 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 606,
-  "gp": 16,
-  "ppg": 3.9,
-  "adjPpg": 3.8,
-  "pointsPlus": 40,
-  "mpg": 12.9,
+  "rank": 592,
+  "gp": 17,
+  "ppg": 4.1,
+  "adjPpg": 4.1,
+  "pointsPlus": 43,
+  "mpg": 13.6,
   "position": "C",
   "jersey": "24",
   "classYear": "Sophomore",
@@ -40,8 +40,8 @@
       "result": "L",
       "min": 26,
       "pts": 7,
-      "adjPts": 6.5,
-      "pointsPlus": 68
+      "adjPts": 6.4,
+      "pointsPlus": 67
     },
     {
       "date": "2025-11-14",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 21,
       "pts": 10,
-      "adjPts": 10.4,
-      "pointsPlus": 109
+      "adjPts": 10.5,
+      "pointsPlus": 110
     },
     {
       "date": "2026-02-11",
@@ -159,6 +159,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "WASH @ RUTG",
+      "result": "W",
+      "min": 25,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 85
     }
   ]
 }

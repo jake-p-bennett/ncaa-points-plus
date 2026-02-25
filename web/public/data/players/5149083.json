@@ -4,7 +4,7 @@
   "team": "TEX",
   "teamName": "Texas Longhorns",
   "conference": "SEC",
-  "rank": 596,
+  "rank": 599,
   "gp": 15,
   "ppg": 4.0,
   "adjPpg": 4.0,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "10",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 32.1,
+  "pointsPlusStdDev": 32.2,
   "volatilityPctile": 6,
   "gameLog": [
     {
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 15,
       "pts": 9,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.7,
+      "pointsPlus": 91
     },
     {
       "date": "2026-02-17",

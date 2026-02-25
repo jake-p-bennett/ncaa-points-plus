@@ -4,8 +4,8 @@
   "team": "MIZ",
   "teamName": "Missouri Tigers",
   "conference": "SEC",
-  "rank": 338,
-  "gp": 27,
+  "rank": 336,
+  "gp": 28,
   "ppg": 9.0,
   "adjPpg": 8.9,
   "pointsPlus": 93,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "0",
   "classYear": "Junior",
-  "pointsPlusStdDev": 55.6,
-  "volatilityPctile": 57,
+  "pointsPlusStdDev": 54.6,
+  "volatilityPctile": 53,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -41,7 +41,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-12",
@@ -50,7 +50,7 @@
       "min": 26,
       "pts": 10,
       "adjPts": 11.9,
-      "pointsPlus": 125
+      "pointsPlus": 124
     },
     {
       "date": "2025-11-17",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 37,
       "pts": 6,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2025-12-07",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 35,
       "pts": 19,
-      "adjPts": 18.9,
+      "adjPts": 19.0,
       "pointsPlus": 199
     },
     {
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 36,
       "pts": 9,
-      "adjPts": 9.0,
-      "pointsPlus": 94
+      "adjPts": 9.1,
+      "pointsPlus": 95
     },
     {
       "date": "2026-01-10",
@@ -185,7 +185,7 @@
       "min": 26,
       "pts": 4,
       "adjPts": 3.4,
-      "pointsPlus": 36
+      "pointsPlus": 35
     },
     {
       "date": "2026-01-24",
@@ -212,7 +212,7 @@
       "min": 23,
       "pts": 9,
       "adjPts": 8.1,
-      "pointsPlus": 85
+      "pointsPlus": 84
     },
     {
       "date": "2026-02-07",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 22,
       "pts": 6,
-      "adjPts": 5.7,
-      "pointsPlus": 60
+      "adjPts": 5.8,
+      "pointsPlus": 61
     },
     {
       "date": "2026-02-11",
@@ -257,7 +257,16 @@
       "min": 25,
       "pts": 5,
       "adjPts": 4.2,
-      "pointsPlus": 45
+      "pointsPlus": 44
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "MIZ vs TENN",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 8.7,
+      "pointsPlus": 91
     }
   ]
 }

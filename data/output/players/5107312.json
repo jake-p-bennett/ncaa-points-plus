@@ -4,17 +4,17 @@
   "team": "TTU",
   "teamName": "Texas Tech Red Raiders",
   "conference": "Big 12",
-  "rank": 192,
-  "gp": 26,
+  "rank": 189,
+  "gp": 27,
   "ppg": 12.2,
-  "adjPpg": 12.1,
-  "pointsPlus": 127,
-  "mpg": 28.0,
+  "adjPpg": 12.2,
+  "pointsPlus": 128,
+  "mpg": 28.2,
   "position": "F",
   "jersey": "3",
   "classYear": "Junior",
-  "pointsPlusStdDev": 81.5,
-  "volatilityPctile": 97,
+  "pointsPlusStdDev": 80.1,
+  "volatilityPctile": 96,
   "gameLog": [
     {
       "date": "2025-11-07",
@@ -32,7 +32,7 @@
       "min": 30,
       "pts": 21,
       "adjPts": 22.1,
-      "pointsPlus": 232
+      "pointsPlus": 231
     },
     {
       "date": "2025-11-14",
@@ -104,7 +104,7 @@
       "min": 37,
       "pts": 36,
       "adjPts": 36.0,
-      "pointsPlus": 378
+      "pointsPlus": 377
     },
     {
       "date": "2025-12-20",
@@ -113,7 +113,7 @@
       "min": 27,
       "pts": 20,
       "adjPts": 24.4,
-      "pointsPlus": 255
+      "pointsPlus": 256
     },
     {
       "date": "2025-12-28",
@@ -131,7 +131,7 @@
       "min": 32,
       "pts": 19,
       "adjPts": 15.8,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-06",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 33,
       "pts": 11,
-      "adjPts": 9.9,
+      "adjPts": 10.0,
       "pointsPlus": 104
     },
     {
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 34,
       "pts": 9,
-      "adjPts": 8.3,
+      "adjPts": 8.4,
       "pointsPlus": 88
     },
     {
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 35,
       "pts": 20,
-      "adjPts": 18.8,
-      "pointsPlus": 198
+      "adjPts": 18.6,
+      "pointsPlus": 194
     },
     {
       "date": "2026-01-20",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 29,
       "pts": 13,
-      "adjPts": 12.0,
-      "pointsPlus": 126
+      "adjPts": 11.9,
+      "pointsPlus": 125
     },
     {
       "date": "2026-01-24",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 37,
       "pts": 19,
-      "adjPts": 21.5,
+      "adjPts": 21.6,
       "pointsPlus": 226
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 31,
       "pts": 7,
-      "adjPts": 9.3,
-      "pointsPlus": 98
+      "adjPts": 9.1,
+      "pointsPlus": 95
     },
     {
       "date": "2026-02-11",
@@ -230,7 +230,7 @@
       "min": 30,
       "pts": 9,
       "adjPts": 9.4,
-      "pointsPlus": 99
+      "pointsPlus": 98
     },
     {
       "date": "2026-02-17",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 18,
       "pts": 5,
-      "adjPts": 4.6,
-      "pointsPlus": 48
+      "adjPts": 4.5,
+      "pointsPlus": 47
     },
     {
       "date": "2026-02-21",
@@ -249,6 +249,15 @@
       "pts": 19,
       "adjPts": 16.2,
       "pointsPlus": 170
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "TTU vs CIN",
+      "result": "W",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 15.4,
+      "pointsPlus": 161
     }
   ]
 }

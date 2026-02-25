@@ -4,17 +4,17 @@
   "team": "BAY",
   "teamName": "Baylor Bears",
   "conference": "Big 12",
-  "rank": 435,
-  "gp": 27,
+  "rank": 439,
+  "gp": 28,
   "ppg": 6.7,
-  "adjPpg": 6.9,
-  "pointsPlus": 72,
-  "mpg": 23.7,
+  "adjPpg": 6.8,
+  "pointsPlus": 71,
+  "mpg": 23.8,
   "position": "C",
   "jersey": "44",
   "classYear": "Senior",
-  "pointsPlusStdDev": 38.7,
-  "volatilityPctile": 14,
+  "pointsPlusStdDev": 38.0,
+  "volatilityPctile": 13,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 28,
       "pts": 12,
       "adjPts": 12.6,
-      "pointsPlus": 132
+      "pointsPlus": 131
     },
     {
       "date": "2025-11-14",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 19,
       "pts": 11,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 134
     },
     {
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 20,
       "pts": 9,
-      "adjPts": 9.0,
+      "adjPts": 9.1,
       "pointsPlus": 95
     },
     {
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 28,
       "pts": 6,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2026-01-28",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 23,
       "pts": 5,
-      "adjPts": 6.0,
-      "pointsPlus": 63
+      "adjPts": 5.9,
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-31",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 24,
       "pts": 2,
-      "adjPts": 2.7,
-      "pointsPlus": 28
+      "adjPts": 2.6,
+      "pointsPlus": 27
     },
     {
       "date": "2026-02-04",
@@ -221,7 +221,7 @@
       "min": 31,
       "pts": 8,
       "adjPts": 9.3,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2026-02-10",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 29,
       "pts": 13,
-      "adjPts": 12.2,
-      "pointsPlus": 128
+      "adjPts": 12.1,
+      "pointsPlus": 126
     },
     {
       "date": "2026-02-14",
@@ -256,8 +256,17 @@
       "result": "W",
       "min": 30,
       "pts": 8,
-      "adjPts": 7.3,
+      "adjPts": 7.2,
       "pointsPlus": 76
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "BAY vs ARIZ",
+      "result": "L",
+      "min": 25,
+      "pts": 6,
+      "adjPts": 6.3,
+      "pointsPlus": 65
     }
   ]
 }

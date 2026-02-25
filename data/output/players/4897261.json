@@ -4,7 +4,7 @@
   "team": "XAV",
   "teamName": "Xavier Musketeers",
   "conference": "Big East",
-  "rank": 539,
+  "rank": 543,
   "gp": 26,
   "ppg": 4.5,
   "adjPpg": 4.9,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "7",
   "classYear": "Senior",
-  "pointsPlusStdDev": 39.1,
+  "pointsPlusStdDev": 39.0,
   "volatilityPctile": 15,
   "gameLog": [
     {
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 8,
       "pts": 6,
-      "adjPts": 8.0,
-      "pointsPlus": 84
+      "adjPts": 7.8,
+      "pointsPlus": 81
     },
     {
       "date": "2025-11-28",
@@ -212,7 +212,7 @@
       "min": 22,
       "pts": 6,
       "adjPts": 7.0,
-      "pointsPlus": 74
+      "pointsPlus": 73
     },
     {
       "date": "2026-02-09",
@@ -230,7 +230,7 @@
       "min": 20,
       "pts": 4,
       "adjPts": 3.8,
-      "pointsPlus": 39
+      "pointsPlus": 40
     },
     {
       "date": "2026-02-17",

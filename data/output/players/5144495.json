@@ -1,0 +1,110 @@
+{
+  "id": 5144495,
+  "name": "Alijah Arenas",
+  "team": "USC",
+  "teamName": "USC Trojans",
+  "conference": "Big Ten",
+  "rank": 116,
+  "gp": 10,
+  "ppg": 13.9,
+  "adjPpg": 14.0,
+  "pointsPlus": 147,
+  "mpg": 27.4,
+  "position": "G",
+  "jersey": "0",
+  "classYear": "Freshman",
+  "pointsPlusStdDev": 83.0,
+  "volatilityPctile": 97,
+  "gameLog": [
+    {
+      "date": "2026-01-21",
+      "matchup": "USC vs NU",
+      "result": "L",
+      "min": 29,
+      "pts": 8,
+      "adjPts": 8.4,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "USC @ WIS",
+      "result": "W",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 6.5,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "USC @ IOWA",
+      "result": "L",
+      "min": 27,
+      "pts": 6,
+      "adjPts": 7.3,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "USC vs RUTG",
+      "result": "W",
+      "min": 19,
+      "pts": 9,
+      "adjPts": 9.1,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "USC vs IU",
+      "result": "W",
+      "min": 37,
+      "pts": 29,
+      "adjPts": 29.7,
+      "pointsPlus": 311
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "USC @ PSU",
+      "result": "W",
+      "min": 35,
+      "pts": 24,
+      "adjPts": 21.9,
+      "pointsPlus": 229
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "USC @ OSU",
+      "result": "L",
+      "min": 36,
+      "pts": 25,
+      "adjPts": 25.0,
+      "pointsPlus": 261
+    },
+    {
+      "date": "2026-02-18",
+      "matchup": "USC vs ILL",
+      "result": "L",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 8.4,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2026-02-21",
+      "matchup": "USC vs ORE",
+      "result": "L",
+      "min": 34,
+      "pts": 13,
+      "adjPts": 13.5,
+      "pointsPlus": 141
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "USC @ UCLA",
+      "result": "L",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 10.5,
+      "pointsPlus": 110
+    }
+  ]
+}

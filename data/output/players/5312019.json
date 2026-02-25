@@ -4,7 +4,7 @@
   "team": "ORE",
   "teamName": "Oregon Ducks",
   "conference": "Big Ten",
-  "rank": 447,
+  "rank": 449,
   "gp": 26,
   "ppg": 6.4,
   "adjPpg": 6.6,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "23",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 56.0,
+  "pointsPlusStdDev": 55.9,
   "volatilityPctile": 58,
   "gameLog": [
     {
@@ -140,7 +140,7 @@
       "min": 33,
       "pts": 23,
       "adjPts": 23.3,
-      "pointsPlus": 245
+      "pointsPlus": 244
     },
     {
       "date": "2026-01-08",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 33,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 119
     },
     {
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 21,
       "pts": 15,
-      "adjPts": 15.3,
+      "adjPts": 15.4,
       "pointsPlus": 161
     },
     {

@@ -4,17 +4,17 @@
   "team": "UCLA",
   "teamName": "UCLA Bruins",
   "conference": "Big Ten",
-  "rank": 135,
-  "gp": 26,
-  "ppg": 13.3,
-  "adjPpg": 13.7,
-  "pointsPlus": 143,
+  "rank": 109,
+  "gp": 27,
+  "ppg": 13.9,
+  "adjPpg": 14.2,
+  "pointsPlus": 149,
   "mpg": 34.7,
   "position": "G",
   "jersey": "2",
   "classYear": "Senior",
-  "pointsPlusStdDev": 69.9,
-  "volatilityPctile": 88,
+  "pointsPlusStdDev": 74.2,
+  "volatilityPctile": 91,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -41,7 +41,7 @@
       "min": 35,
       "pts": 11,
       "adjPts": 11.5,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2025-11-18",
@@ -77,7 +77,7 @@
       "min": 39,
       "pts": 17,
       "adjPts": 17.8,
-      "pointsPlus": 187
+      "pointsPlus": 186
     },
     {
       "date": "2025-12-06",
@@ -86,7 +86,7 @@
       "min": 38,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2025-12-13",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 36,
       "pts": 20,
-      "adjPts": 18.2,
-      "pointsPlus": 191
+      "adjPts": 18.1,
+      "pointsPlus": 189
     },
     {
       "date": "2025-12-19",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 33,
       "pts": 13,
-      "adjPts": 13.5,
+      "adjPts": 13.6,
       "pointsPlus": 142
     },
     {
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 50,
       "pts": 24,
-      "adjPts": 24.5,
-      "pointsPlus": 257
+      "adjPts": 24.6,
+      "pointsPlus": 258
     },
     {
       "date": "2026-02-03",
@@ -221,7 +221,7 @@
       "min": 40,
       "pts": 17,
       "adjPts": 17.8,
-      "pointsPlus": 187
+      "pointsPlus": 186
     },
     {
       "date": "2026-02-14",
@@ -249,6 +249,15 @@
       "pts": 14,
       "adjPts": 14.7,
       "pointsPlus": 154
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "UCLA vs USC",
+      "result": "W",
+      "min": 37,
+      "pts": 30,
+      "adjPts": 28.0,
+      "pointsPlus": 293
     }
   ]
 }

@@ -5,16 +5,16 @@
   "teamName": "Utah Utes",
   "conference": "Big 12",
   "rank": 16,
-  "gp": 27,
-  "ppg": 20.2,
+  "gp": 28,
+  "ppg": 20.1,
   "adjPpg": 20.2,
-  "pointsPlus": 212,
+  "pointsPlus": 211,
   "mpg": 31.9,
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 71.0,
-  "volatilityPctile": 89,
+  "pointsPlusStdDev": 69.4,
+  "volatilityPctile": 87,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 37,
       "pts": 36,
       "adjPts": 36.0,
-      "pointsPlus": 378
+      "pointsPlus": 377
     },
     {
       "date": "2025-11-10",
@@ -50,7 +50,7 @@
       "min": 29,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 273
+      "pointsPlus": 272
     },
     {
       "date": "2025-11-18",
@@ -113,7 +113,7 @@
       "min": 30,
       "pts": 22,
       "adjPts": 19.7,
-      "pointsPlus": 207
+      "pointsPlus": 206
     },
     {
       "date": "2025-12-20",
@@ -122,7 +122,7 @@
       "min": 31,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-12-29",
@@ -131,7 +131,7 @@
       "min": 32,
       "pts": 21,
       "adjPts": 22.0,
-      "pointsPlus": 231
+      "pointsPlus": 230
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 33,
       "pts": 26,
-      "adjPts": 27.3,
-      "pointsPlus": 286
+      "adjPts": 27.1,
+      "pointsPlus": 284
     },
     {
       "date": "2026-01-07",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 35,
       "pts": 25,
-      "adjPts": 23.5,
-      "pointsPlus": 247
+      "adjPts": 23.2,
+      "pointsPlus": 243
     },
     {
       "date": "2026-01-14",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 29,
       "pts": 17,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 179
     },
     {
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 33,
       "pts": 26,
-      "adjPts": 27.1,
-      "pointsPlus": 284
+      "adjPts": 26.9,
+      "pointsPlus": 282
     },
     {
       "date": "2026-01-20",
@@ -185,7 +185,7 @@
       "min": 32,
       "pts": 33,
       "adjPts": 28.2,
-      "pointsPlus": 296
+      "pointsPlus": 295
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 32,
       "pts": 22,
-      "adjPts": 20.7,
-      "pointsPlus": 217
+      "adjPts": 20.4,
+      "pointsPlus": 214
     },
     {
       "date": "2026-01-31",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 34,
       "pts": 20,
-      "adjPts": 16.7,
-      "pointsPlus": 175
+      "adjPts": 16.6,
+      "pointsPlus": 174
     },
     {
       "date": "2026-02-04",
@@ -211,7 +211,7 @@
       "result": "L",
       "min": 31,
       "pts": 6,
-      "adjPts": 5.5,
+      "adjPts": 5.4,
       "pointsPlus": 57
     },
     {
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 33,
       "pts": 16,
-      "adjPts": 18.1,
+      "adjPts": 18.2,
       "pointsPlus": 190
     },
     {
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 30,
       "pts": 11,
-      "adjPts": 13.2,
-      "pointsPlus": 138
+      "adjPts": 13.0,
+      "pointsPlus": 137
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 33,
       "pts": 16,
-      "adjPts": 21.3,
-      "pointsPlus": 223
+      "adjPts": 20.7,
+      "pointsPlus": 217
     },
     {
       "date": "2026-02-21",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 30,
       "pts": 21,
-      "adjPts": 19.2,
-      "pointsPlus": 202
+      "adjPts": 19.1,
+      "pointsPlus": 200
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "UTAH vs ISU",
+      "result": "L",
+      "min": 33,
+      "pts": 18,
+      "adjPts": 21.0,
+      "pointsPlus": 220
     }
   ]
 }

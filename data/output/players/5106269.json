@@ -4,7 +4,7 @@
   "team": "MIZ",
   "teamName": "Missouri Tigers",
   "conference": "SEC",
-  "rank": 635,
+  "rank": 634,
   "gp": 19,
   "ppg": 3.1,
   "adjPpg": 3.2,
@@ -49,7 +49,7 @@
       "result": "W",
       "min": 20,
       "pts": 6,
-      "adjPts": 7.2,
+      "adjPts": 7.1,
       "pointsPlus": 75
     },
     {

@@ -14,7 +14,7 @@
   "jersey": "3",
   "classYear": "Freshman",
   "pointsPlusStdDev": 45.5,
-  "volatilityPctile": 30,
+  "volatilityPctile": 29,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 6.2,
-      "pointsPlus": 65
+      "adjPts": 6.1,
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-07",
@@ -194,7 +194,7 @@
       "min": 18,
       "pts": 3,
       "adjPts": 3.1,
-      "pointsPlus": 33
+      "pointsPlus": 32
     },
     {
       "date": "2026-02-04",

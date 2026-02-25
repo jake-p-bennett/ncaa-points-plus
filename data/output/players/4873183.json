@@ -4,7 +4,7 @@
   "team": "UK",
   "teamName": "Kentucky Wildcats",
   "conference": "SEC",
-  "rank": 441,
+  "rank": 443,
   "gp": 19,
   "ppg": 6.9,
   "adjPpg": 6.8,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "3",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 62.2,
-  "volatilityPctile": 74,
+  "pointsPlusStdDev": 62.1,
+  "volatilityPctile": 75,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -41,7 +41,7 @@
       "min": 12,
       "pts": 5,
       "adjPts": 4.9,
-      "pointsPlus": 52
+      "pointsPlus": 51
     },
     {
       "date": "2025-11-14",
@@ -113,7 +113,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 9.2,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-20",
@@ -131,7 +131,7 @@
       "min": 22,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 273
+      "pointsPlus": 272
     },
     {
       "date": "2026-01-03",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 28,
       "pts": 8,
-      "adjPts": 7.6,
-      "pointsPlus": 80
+      "adjPts": 7.7,
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-10",
@@ -158,7 +158,7 @@
       "min": 30,
       "pts": 14,
       "adjPts": 12.5,
-      "pointsPlus": 132
+      "pointsPlus": 131
     },
     {
       "date": "2026-01-14",

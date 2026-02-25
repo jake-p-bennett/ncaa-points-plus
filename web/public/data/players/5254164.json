@@ -5,15 +5,15 @@
   "teamName": "Minnesota Golden Gophers",
   "conference": "Big Ten",
   "rank": 658,
-  "gp": 25,
-  "ppg": 2.0,
-  "adjPpg": 2.1,
-  "pointsPlus": 22,
-  "mpg": 13.3,
+  "gp": 26,
+  "ppg": 1.9,
+  "adjPpg": 2.0,
+  "pointsPlus": 21,
+  "mpg": 13.1,
   "position": "G",
   "jersey": "9",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 26.1,
+  "pointsPlusStdDev": 25.9,
   "volatilityPctile": 3,
   "gameLog": [
     {
@@ -237,6 +237,15 @@
       "matchup": "MINN vs RUTG",
       "result": "W",
       "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "MINN @ MICH",
+      "result": "L",
+      "min": 7,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

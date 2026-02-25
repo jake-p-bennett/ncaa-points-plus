@@ -4,17 +4,17 @@
   "team": "ND",
   "teamName": "Notre Dame Fighting Irish",
   "conference": "ACC",
-  "rank": 563,
-  "gp": 27,
+  "rank": 562,
+  "gp": 28,
   "ppg": 4.4,
-  "adjPpg": 4.6,
+  "adjPpg": 4.5,
   "pointsPlus": 48,
-  "mpg": 20.3,
+  "mpg": 20.4,
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 45.9,
-  "volatilityPctile": 31,
+  "pointsPlusStdDev": 45.1,
+  "volatilityPctile": 28,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -258,6 +258,15 @@
       "pts": 12,
       "adjPts": 13.2,
       "pointsPlus": 139
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "ND vs DUKE",
+      "result": "L",
+      "min": 23,
+      "pts": 3,
+      "adjPts": 3.7,
+      "pointsPlus": 38
     }
   ]
 }

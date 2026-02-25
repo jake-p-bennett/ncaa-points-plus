@@ -4,17 +4,17 @@
   "team": "COLO",
   "teamName": "Colorado Buffaloes",
   "conference": "Big 12",
-  "rank": 249,
+  "rank": 251,
   "gp": 27,
   "ppg": 10.8,
-  "adjPpg": 10.8,
-  "pointsPlus": 113,
+  "adjPpg": 10.7,
+  "pointsPlus": 112,
   "mpg": 25.4,
   "position": "F",
   "jersey": "8",
   "classYear": "Junior",
-  "pointsPlusStdDev": 46.3,
-  "volatilityPctile": 32,
+  "pointsPlusStdDev": 45.9,
+  "volatilityPctile": 31,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -59,7 +59,7 @@
       "min": 30,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-11-27",
@@ -77,7 +77,7 @@
       "min": 28,
       "pts": 15,
       "adjPts": 15.7,
-      "pointsPlus": 165
+      "pointsPlus": 164
     },
     {
       "date": "2025-12-01",
@@ -140,7 +140,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 10.9,
-      "pointsPlus": 115
+      "pointsPlus": 114
     },
     {
       "date": "2026-01-07",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 28,
       "pts": 16,
-      "adjPts": 14.8,
+      "adjPts": 14.9,
       "pointsPlus": 156
     },
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 33,
       "pts": 12,
-      "adjPts": 14.3,
-      "pointsPlus": 151
+      "adjPts": 14.2,
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 31,
       "pts": 11,
-      "adjPts": 14.6,
-      "pointsPlus": 153
+      "adjPts": 14.3,
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-20",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 28,
       "pts": 11,
-      "adjPts": 10.1,
-      "pointsPlus": 106
+      "adjPts": 10.0,
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-29",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 21,
       "pts": 14,
-      "adjPts": 14.6,
-      "pointsPlus": 153
+      "adjPts": 14.5,
+      "pointsPlus": 152
     },
     {
       "date": "2026-02-04",
@@ -230,7 +230,7 @@
       "min": 18,
       "pts": 12,
       "adjPts": 10.9,
-      "pointsPlus": 115
+      "pointsPlus": 114
     },
     {
       "date": "2026-02-11",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 35,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 148
+      "adjPts": 13.9,
+      "pointsPlus": 146
     },
     {
       "date": "2026-02-21",
@@ -256,8 +256,8 @@
       "result": "W",
       "min": 24,
       "pts": 17,
-      "adjPts": 14.2,
-      "pointsPlus": 149
+      "adjPts": 14.1,
+      "pointsPlus": 148
     }
   ]
 }

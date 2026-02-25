@@ -4,10 +4,10 @@
   "team": "BC",
   "teamName": "Boston College Eagles",
   "conference": "ACC",
-  "rank": 452,
+  "rank": 453,
   "gp": 27,
   "ppg": 6.4,
-  "adjPpg": 6.5,
+  "adjPpg": 6.6,
   "pointsPlus": 69,
   "mpg": 22.5,
   "position": "F",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 40,
       "pts": 10,
-      "adjPts": 10.2,
+      "adjPts": 10.3,
       "pointsPlus": 107
     },
     {
@@ -256,7 +256,7 @@
       "result": "L",
       "min": 27,
       "pts": 7,
-      "adjPts": 6.1,
+      "adjPts": 6.2,
       "pointsPlus": 64
     }
   ]

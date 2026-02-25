@@ -4,17 +4,17 @@
   "team": "UCLA",
   "teamName": "UCLA Bruins",
   "conference": "Big Ten",
-  "rank": 556,
-  "gp": 27,
-  "ppg": 4.7,
-  "adjPpg": 4.7,
-  "pointsPlus": 49,
-  "mpg": 18.3,
+  "rank": 566,
+  "gp": 28,
+  "ppg": 4.5,
+  "adjPpg": 4.5,
+  "pointsPlus": 47,
+  "mpg": 17.8,
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 39.3,
-  "volatilityPctile": 15,
+  "pointsPlusStdDev": 39.6,
+  "volatilityPctile": 16,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 20,
       "pts": 9,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.1,
+      "pointsPlus": 85
     },
     {
       "date": "2025-12-19",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.3,
       "pointsPlus": 66
     },
     {
@@ -255,6 +255,15 @@
       "matchup": "UCLA vs ILL",
       "result": "W",
       "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "UCLA vs USC",
+      "result": "W",
+      "min": 4,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

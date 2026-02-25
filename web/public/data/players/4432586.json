@@ -4,7 +4,7 @@
   "team": "ORE",
   "teamName": "Oregon Ducks",
   "conference": "Big Ten",
-  "rank": 55,
+  "rank": 54,
   "gp": 20,
   "ppg": 16.7,
   "adjPpg": 16.8,
@@ -13,8 +13,8 @@
   "position": "C",
   "jersey": "32",
   "classYear": "Senior",
-  "pointsPlusStdDev": 75.9,
-  "volatilityPctile": 93,
+  "pointsPlusStdDev": 75.7,
+  "volatilityPctile": 92,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -50,7 +50,7 @@
       "min": 31,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 252
+      "pointsPlus": 251
     },
     {
       "date": "2025-11-24",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 33,
       "pts": 10,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2025-11-25",
@@ -95,7 +95,7 @@
       "min": 25,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-12-21",
@@ -104,7 +104,7 @@
       "min": 37,
       "pts": 28,
       "adjPts": 28.0,
-      "pointsPlus": 294
+      "pointsPlus": 293
     },
     {
       "date": "2025-12-28",
@@ -113,7 +113,7 @@
       "min": 27,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 273
+      "pointsPlus": 272
     },
     {
       "date": "2026-01-02",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 30,
       "pts": 28,
-      "adjPts": 28.4,
-      "pointsPlus": 298
+      "adjPts": 28.3,
+      "pointsPlus": 297
     },
     {
       "date": "2026-01-08",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 25,
       "pts": 10,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 124
     },
     {
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 34,
       "pts": 15,
-      "adjPts": 15.3,
+      "adjPts": 15.4,
       "pointsPlus": 161
     },
     {
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 35,
       "pts": 15,
-      "adjPts": 17.9,
-      "pointsPlus": 188
+      "adjPts": 17.8,
+      "pointsPlus": 186
     },
     {
       "date": "2026-02-21",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 38,
       "pts": 14,
-      "adjPts": 13.0,
+      "adjPts": 13.1,
       "pointsPlus": 137
     }
   ]

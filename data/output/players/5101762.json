@@ -4,17 +4,17 @@
   "team": "USC",
   "teamName": "USC Trojans",
   "conference": "Big Ten",
-  "rank": 544,
-  "gp": 24,
-  "ppg": 4.8,
-  "adjPpg": 4.9,
-  "pointsPlus": 51,
-  "mpg": 18.2,
+  "rank": 557,
+  "gp": 25,
+  "ppg": 4.6,
+  "adjPpg": 4.7,
+  "pointsPlus": 49,
+  "mpg": 17.7,
   "position": "G",
   "jersey": "8",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 43.1,
-  "volatilityPctile": 23,
+  "pointsPlusStdDev": 43.3,
+  "volatilityPctile": 24,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -95,7 +95,7 @@
       "min": 40,
       "pts": 13,
       "adjPts": 13.6,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2025-12-09",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 30,
       "pts": 12,
-      "adjPts": 14.0,
+      "adjPts": 14.1,
       "pointsPlus": 147
     },
     {
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 22,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 2.1,
       "pointsPlus": 21
     },
     {
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 5,
       "pts": 4,
-      "adjPts": 3.6,
+      "adjPts": 3.7,
       "pointsPlus": 38
     },
     {
@@ -231,6 +231,15 @@
       "pts": 3,
       "adjPts": 3.2,
       "pointsPlus": 33
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "USC @ UCLA",
+      "result": "L",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

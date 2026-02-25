@@ -4,17 +4,17 @@
   "team": "ASU",
   "teamName": "Arizona State Sun Devils",
   "conference": "Big 12",
-  "rank": 405,
-  "gp": 21,
-  "ppg": 7.2,
-  "adjPpg": 7.3,
-  "pointsPlus": 77,
-  "mpg": 23.3,
+  "rank": 402,
+  "gp": 22,
+  "ppg": 7.3,
+  "adjPpg": 7.4,
+  "pointsPlus": 78,
+  "mpg": 23.4,
   "position": "G",
   "jersey": "4",
   "classYear": "Junior",
-  "pointsPlusStdDev": 54.9,
-  "volatilityPctile": 55,
+  "pointsPlusStdDev": 53.6,
+  "volatilityPctile": 50,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -59,7 +59,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-24",
@@ -68,7 +68,7 @@
       "min": 24,
       "pts": 5,
       "adjPts": 4.6,
-      "pointsPlus": 49
+      "pointsPlus": 48
     },
     {
       "date": "2025-11-25",
@@ -77,7 +77,7 @@
       "min": 29,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-11-26",
@@ -131,7 +131,7 @@
       "min": 25,
       "pts": 9,
       "adjPts": 9.4,
-      "pointsPlus": 99
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-18",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 27,
       "pts": 2,
-      "adjPts": 2.7,
-      "pointsPlus": 28
+      "adjPts": 2.6,
+      "pointsPlus": 27
     },
     {
       "date": "2026-01-24",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 22,
       "pts": 6,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.1,
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-27",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 27,
       "pts": 11,
-      "adjPts": 10.1,
-      "pointsPlus": 106
+      "adjPts": 10.0,
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-31",
@@ -176,7 +176,7 @@
       "min": 23,
       "pts": 7,
       "adjPts": 7.3,
-      "pointsPlus": 77
+      "pointsPlus": 76
     },
     {
       "date": "2026-02-04",
@@ -204,6 +204,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "ASU @ TCU",
+      "result": "L",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 98
     }
   ]
 }

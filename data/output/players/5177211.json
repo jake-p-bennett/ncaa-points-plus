@@ -4,7 +4,7 @@
   "team": "IOWA",
   "teamName": "Iowa Hawkeyes",
   "conference": "Big Ten",
-  "rank": 357,
+  "rank": 361,
   "gp": 27,
   "ppg": 8.3,
   "adjPpg": 8.4,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "7",
   "classYear": "Junior",
-  "pointsPlusStdDev": 58.9,
+  "pointsPlusStdDev": 58.8,
   "volatilityPctile": 67,
   "gameLog": [
     {
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 21,
       "pts": 7,
-      "adjPts": 7.0,
+      "adjPts": 7.1,
       "pointsPlus": 74
     },
     {
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 19,
       "pts": 4,
-      "adjPts": 4.6,
+      "adjPts": 4.7,
       "pointsPlus": 49
     },
     {
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 28,
       "pts": 13,
-      "adjPts": 13.5,
-      "pointsPlus": 142
+      "adjPts": 13.6,
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-06",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 14,
       "pts": 4,
-      "adjPts": 4.2,
+      "adjPts": 4.3,
       "pointsPlus": 45
     },
     {
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 27,
       "pts": 14,
-      "adjPts": 13.0,
+      "adjPts": 13.1,
       "pointsPlus": 137
     },
     {
@@ -212,7 +212,7 @@
       "min": 18,
       "pts": 16,
       "adjPts": 16.7,
-      "pointsPlus": 176
+      "pointsPlus": 175
     },
     {
       "date": "2026-02-08",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 25,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.3,
       "pointsPlus": 66
     },
     {

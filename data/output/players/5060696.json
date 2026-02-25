@@ -4,17 +4,17 @@
   "team": "NU",
   "teamName": "Northwestern Wildcats",
   "conference": "Big Ten",
-  "rank": 253,
-  "gp": 26,
+  "rank": 255,
+  "gp": 27,
   "ppg": 10.4,
   "adjPpg": 10.7,
   "pointsPlus": 112,
-  "mpg": 22.2,
+  "mpg": 22.3,
   "position": "F",
   "jersey": "22",
   "classYear": "Junior",
-  "pointsPlusStdDev": 76.1,
-  "volatilityPctile": 93,
+  "pointsPlusStdDev": 74.4,
+  "volatilityPctile": 91,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 23,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-11-07",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 33,
       "pts": 20,
-      "adjPts": 21.9,
-      "pointsPlus": 230
+      "adjPts": 22.0,
+      "pointsPlus": 231
     },
     {
       "date": "2025-11-23",
@@ -68,7 +68,7 @@
       "min": 29,
       "pts": 10,
       "adjPts": 9.6,
-      "pointsPlus": 100
+      "pointsPlus": 101
     },
     {
       "date": "2025-11-27",
@@ -86,7 +86,7 @@
       "min": 31,
       "pts": 21,
       "adjPts": 19.5,
-      "pointsPlus": 205
+      "pointsPlus": 204
     },
     {
       "date": "2025-12-06",
@@ -113,7 +113,7 @@
       "min": 33,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-12-20",
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 30,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 68
     },
     {
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 31,
       "pts": 19,
-      "adjPts": 22.7,
-      "pointsPlus": 238
+      "adjPts": 22.5,
+      "pointsPlus": 236
     },
     {
       "date": "2026-01-08",
@@ -149,7 +149,7 @@
       "min": 21,
       "pts": 14,
       "adjPts": 14.2,
-      "pointsPlus": 149
+      "pointsPlus": 148
     },
     {
       "date": "2026-01-14",
@@ -203,7 +203,7 @@
       "min": 26,
       "pts": 16,
       "adjPts": 16.7,
-      "pointsPlus": 176
+      "pointsPlus": 175
     },
     {
       "date": "2026-02-04",
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 26,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 119
     },
     {
@@ -239,7 +239,7 @@
       "min": 21,
       "pts": 6,
       "adjPts": 7.1,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2026-02-18",
@@ -249,6 +249,15 @@
       "pts": 2,
       "adjPts": 1.9,
       "pointsPlus": 20
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "NU @ IU",
+      "result": "W",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 107
     }
   ]
 }

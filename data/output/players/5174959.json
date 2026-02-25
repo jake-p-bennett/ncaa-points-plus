@@ -4,16 +4,16 @@
   "team": "KSU",
   "teamName": "Kansas State Wildcats",
   "conference": "Big 12",
-  "rank": 150,
+  "rank": 151,
   "gp": 18,
   "ppg": 13.2,
   "adjPpg": 13.2,
-  "pointsPlus": 139,
+  "pointsPlus": 138,
   "mpg": 24.5,
   "position": "G",
   "jersey": "1",
   "classYear": "Junior",
-  "pointsPlusStdDev": 62.4,
+  "pointsPlusStdDev": 62.3,
   "volatilityPctile": 75,
   "gameLog": [
     {
@@ -58,7 +58,7 @@
       "result": "W",
       "min": 22,
       "pts": 12,
-      "adjPts": 10.7,
+      "adjPts": 10.8,
       "pointsPlus": 113
     },
     {
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 23,
       "pts": 11,
-      "adjPts": 14.1,
+      "adjPts": 14.2,
       "pointsPlus": 148
     },
     {
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 30,
       "pts": 16,
-      "adjPts": 15.1,
-      "pointsPlus": 158
+      "adjPts": 14.9,
+      "pointsPlus": 155
     },
     {
       "date": "2026-01-07",
@@ -149,7 +149,7 @@
       "min": 18,
       "pts": 6,
       "adjPts": 6.3,
-      "pointsPlus": 66
+      "pointsPlus": 65
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 35,
       "pts": 22,
-      "adjPts": 20.0,
-      "pointsPlus": 210
+      "adjPts": 19.9,
+      "pointsPlus": 208
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 25,
       "pts": 12,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 10.9,
+      "pointsPlus": 114
     },
     {
       "date": "2026-01-17",

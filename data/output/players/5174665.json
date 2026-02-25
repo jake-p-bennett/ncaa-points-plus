@@ -4,7 +4,7 @@
   "team": "ILL",
   "teamName": "Illinois Fighting Illini",
   "conference": "Big Ten",
-  "rank": 403,
+  "rank": 405,
   "gp": 28,
   "ppg": 7.0,
   "adjPpg": 7.4,
@@ -40,7 +40,7 @@
       "result": "W",
       "min": 24,
       "pts": 11,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 116
     },
     {
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 17,
       "pts": 8,
-      "adjPts": 7.6,
-      "pointsPlus": 80
+      "adjPts": 7.7,
+      "pointsPlus": 81
     },
     {
       "date": "2025-12-29",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 15,
       "pts": 8,
-      "adjPts": 9.7,
+      "adjPts": 9.8,
       "pointsPlus": 102
     },
     {
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 18,
       "pts": 18,
-      "adjPts": 21.5,
-      "pointsPlus": 225
+      "adjPts": 21.3,
+      "pointsPlus": 224
     },
     {
       "date": "2026-01-21",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 20,
       "pts": 4,
-      "adjPts": 4.2,
+      "adjPts": 4.3,
       "pointsPlus": 45
     },
     {
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 21,
       "pts": 13,
-      "adjPts": 13.5,
+      "adjPts": 13.6,
       "pointsPlus": 142
     },
     {
@@ -247,7 +247,7 @@
       "result": "W",
       "min": 13,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 2.1,
       "pointsPlus": 21
     },
     {
@@ -266,7 +266,7 @@
       "min": 17,
       "pts": 11,
       "adjPts": 11.5,
-      "pointsPlus": 120
+      "pointsPlus": 121
     }
   ]
 }

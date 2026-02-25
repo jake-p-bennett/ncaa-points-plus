@@ -4,17 +4,17 @@
   "team": "GT",
   "teamName": "Georgia Tech Yellow Jackets",
   "conference": "ACC",
-  "rank": 84,
+  "rank": 86,
   "gp": 26,
   "ppg": 14.7,
   "adjPpg": 15.1,
-  "pointsPlus": 159,
+  "pointsPlus": 158,
   "mpg": 29.7,
   "position": "F",
   "jersey": "14",
   "classYear": "Senior",
-  "pointsPlusStdDev": 67.5,
-  "volatilityPctile": 85,
+  "pointsPlusStdDev": 67.2,
+  "volatilityPctile": 84,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 24,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-11-10",
@@ -50,7 +50,7 @@
       "min": 28,
       "pts": 12,
       "adjPts": 10.2,
-      "pointsPlus": 107
+      "pointsPlus": 106
     },
     {
       "date": "2025-11-18",
@@ -68,7 +68,7 @@
       "min": 31,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-11-28",
@@ -113,7 +113,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-12-28",
@@ -130,7 +130,7 @@
       "result": "L",
       "min": 35,
       "pts": 23,
-      "adjPts": 28.0,
+      "adjPts": 28.1,
       "pointsPlus": 294
     },
     {
@@ -158,7 +158,7 @@
       "min": 37,
       "pts": 23,
       "adjPts": 23.8,
-      "pointsPlus": 250
+      "pointsPlus": 249
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 38,
       "pts": 21,
-      "adjPts": 20.1,
-      "pointsPlus": 211
+      "adjPts": 20.0,
+      "pointsPlus": 209
     },
     {
       "date": "2026-01-24",
@@ -185,7 +185,7 @@
       "min": 39,
       "pts": 19,
       "adjPts": 23.1,
-      "pointsPlus": 243
+      "pointsPlus": 242
     },
     {
       "date": "2026-01-27",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 31,
       "pts": 16,
-      "adjPts": 16.5,
-      "pointsPlus": 173
+      "adjPts": 16.3,
+      "pointsPlus": 170
     },
     {
       "date": "2026-02-18",

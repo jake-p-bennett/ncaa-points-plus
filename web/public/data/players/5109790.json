@@ -4,17 +4,17 @@
   "team": "OSU",
   "teamName": "Ohio State Buckeyes",
   "conference": "Big Ten",
-  "rank": 199,
+  "rank": 202,
   "gp": 26,
   "ppg": 11.3,
   "adjPpg": 11.9,
-  "pointsPlus": 125,
+  "pointsPlus": 124,
   "mpg": 26.3,
   "position": "C",
   "jersey": "13",
   "classYear": "Senior",
-  "pointsPlusStdDev": 58.1,
-  "volatilityPctile": 64,
+  "pointsPlusStdDev": 57.7,
+  "volatilityPctile": 63,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 29,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 273
+      "pointsPlus": 272
     },
     {
       "date": "2025-11-07",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 28,
       "pts": 18,
-      "adjPts": 18.6,
-      "pointsPlus": 195
+      "adjPts": 18.3,
+      "pointsPlus": 192
     },
     {
       "date": "2025-11-20",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 42,
       "pts": 14,
-      "adjPts": 18.6,
-      "pointsPlus": 195
+      "adjPts": 18.1,
+      "pointsPlus": 190
     },
     {
       "date": "2025-12-20",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 28,
       "pts": 12,
-      "adjPts": 12.5,
-      "pointsPlus": 132
+      "adjPts": 12.6,
+      "pointsPlus": 131
     },
     {
       "date": "2025-12-23",
@@ -131,7 +131,7 @@
       "min": 20,
       "pts": 9,
       "adjPts": 9.1,
-      "pointsPlus": 96
+      "pointsPlus": 95
     },
     {
       "date": "2026-01-05",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 28,
       "pts": 11,
-      "adjPts": 13.1,
-      "pointsPlus": 138
+      "adjPts": 13.0,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-23",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 30,
       "pts": 17,
-      "adjPts": 17.5,
-      "pointsPlus": 183
+      "adjPts": 17.6,
+      "pointsPlus": 184
     },
     {
       "date": "2026-01-31",
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 27,
       "pts": 19,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 193
     },
     {

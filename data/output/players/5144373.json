@@ -4,16 +4,16 @@
   "team": "ND",
   "teamName": "Notre Dame Fighting Irish",
   "conference": "ACC",
-  "rank": 183,
-  "gp": 27,
-  "ppg": 12.0,
-  "adjPpg": 12.3,
-  "pointsPlus": 129,
-  "mpg": 25.7,
+  "rank": 179,
+  "gp": 28,
+  "ppg": 12.1,
+  "adjPpg": 12.5,
+  "pointsPlus": 131,
+  "mpg": 25.9,
   "position": "G",
   "jersey": "5",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 93.5,
+  "pointsPlusStdDev": 92.3,
   "volatilityPctile": 99,
   "gameLog": [
     {
@@ -23,7 +23,7 @@
       "min": 25,
       "pts": 22,
       "adjPts": 22.0,
-      "pointsPlus": 231
+      "pointsPlus": 230
     },
     {
       "date": "2025-11-07",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 20,
       "pts": 8,
-      "adjPts": 10.3,
-      "pointsPlus": 109
+      "adjPts": 10.4,
+      "pointsPlus": 108
     },
     {
       "date": "2025-12-02",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 17,
       "pts": 14,
-      "adjPts": 13.4,
-      "pointsPlus": 140
+      "adjPts": 13.5,
+      "pointsPlus": 141
     },
     {
       "date": "2025-12-05",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 33,
       "pts": 20,
-      "adjPts": 20.8,
-      "pointsPlus": 219
+      "adjPts": 20.7,
+      "pointsPlus": 217
     },
     {
       "date": "2025-12-10",
@@ -149,7 +149,7 @@
       "min": 24,
       "pts": 16,
       "adjPts": 16.3,
-      "pointsPlus": 171
+      "pointsPlus": 170
     },
     {
       "date": "2026-01-10",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 29,
       "pts": 14,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 145
     },
     {
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 40,
       "pts": 34,
-      "adjPts": 37.3,
-      "pointsPlus": 391
+      "adjPts": 37.5,
+      "pointsPlus": 392
     },
     {
       "date": "2026-01-31",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 37,
       "pts": 16,
-      "adjPts": 14.0,
+      "adjPts": 14.1,
       "pointsPlus": 147
     },
     {
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 38,
       "pts": 16,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 185
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "ND vs DUKE",
+      "result": "L",
+      "min": 31,
+      "pts": 14,
+      "adjPts": 17.1,
+      "pointsPlus": 179
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "MSU",
   "teamName": "Michigan State Spartans",
   "conference": "Big Ten",
-  "rank": 473,
+  "rank": 474,
   "gp": 27,
   "ppg": 6.0,
   "adjPpg": 6.2,
@@ -13,8 +13,8 @@
   "position": "F",
   "jersey": "6",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 46.1,
-  "volatilityPctile": 32,
+  "pointsPlusStdDev": 45.9,
+  "volatilityPctile": 31,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -50,7 +50,7 @@
       "min": 12,
       "pts": 1,
       "adjPts": 1.0,
-      "pointsPlus": 10
+      "pointsPlus": 11
     },
     {
       "date": "2025-11-21",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 18,
       "pts": 6,
-      "adjPts": 6.2,
+      "adjPts": 6.3,
       "pointsPlus": 66
     },
     {
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 21,
       "pts": 11,
-      "adjPts": 11.2,
+      "adjPts": 11.3,
       "pointsPlus": 118
     },
     {
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 29,
       "pts": 15,
-      "adjPts": 17.9,
-      "pointsPlus": 188
+      "adjPts": 17.8,
+      "pointsPlus": 186
     },
     {
       "date": "2026-02-07",
@@ -248,7 +248,7 @@
       "min": 24,
       "pts": 11,
       "adjPts": 11.5,
-      "pointsPlus": 120
+      "pointsPlus": 121
     },
     {
       "date": "2026-02-22",
@@ -257,7 +257,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 126
+      "pointsPlus": 125
     }
   ]
 }

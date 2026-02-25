@@ -4,17 +4,17 @@
   "team": "WASH",
   "teamName": "Washington Huskies",
   "conference": "Big Ten",
-  "rank": 30,
-  "gp": 24,
-  "ppg": 17.8,
-  "adjPpg": 18.4,
-  "pointsPlus": 194,
-  "mpg": 34.0,
+  "rank": 29,
+  "gp": 25,
+  "ppg": 18.0,
+  "adjPpg": 18.7,
+  "pointsPlus": 196,
+  "mpg": 34.1,
   "position": "F",
   "jersey": "6",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 59.4,
-  "volatilityPctile": 68,
+  "pointsPlusStdDev": 59.5,
+  "volatilityPctile": 69,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -41,7 +41,7 @@
       "min": 32,
       "pts": 10,
       "adjPts": 9.2,
-      "pointsPlus": 97
+      "pointsPlus": 96
     },
     {
       "date": "2025-11-14",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 32,
       "pts": 29,
-      "adjPts": 30.2,
-      "pointsPlus": 317
+      "adjPts": 30.4,
+      "pointsPlus": 319
     },
     {
       "date": "2025-12-06",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 37,
       "pts": 20,
-      "adjPts": 18.5,
-      "pointsPlus": 194
+      "adjPts": 18.7,
+      "pointsPlus": 195
     },
     {
       "date": "2026-01-04",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 35,
       "pts": 20,
-      "adjPts": 20.4,
-      "pointsPlus": 214
+      "adjPts": 20.5,
+      "pointsPlus": 215
     },
     {
       "date": "2026-01-07",
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 35,
       "pts": 21,
-      "adjPts": 20.9,
-      "pointsPlus": 220
+      "adjPts": 21.0,
+      "pointsPlus": 219
     },
     {
       "date": "2026-01-14",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 26,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 119
     },
     {
@@ -149,7 +149,7 @@
       "min": 38,
       "pts": 17,
       "adjPts": 19.9,
-      "pointsPlus": 209
+      "pointsPlus": 208
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 39,
       "pts": 22,
-      "adjPts": 22.9,
-      "pointsPlus": 240
+      "adjPts": 23.0,
+      "pointsPlus": 241
     },
     {
       "date": "2026-02-04",
@@ -194,7 +194,7 @@
       "min": 39,
       "pts": 20,
       "adjPts": 24.4,
-      "pointsPlus": 256
+      "pointsPlus": 255
     },
     {
       "date": "2026-02-07",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 37,
       "pts": 13,
-      "adjPts": 13.5,
-      "pointsPlus": 142
+      "adjPts": 13.6,
+      "pointsPlus": 143
     },
     {
       "date": "2026-02-11",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 39,
       "pts": 26,
-      "adjPts": 31.0,
-      "pointsPlus": 325
+      "adjPts": 30.8,
+      "pointsPlus": 323
     },
     {
       "date": "2026-02-21",
@@ -230,7 +230,16 @@
       "min": 37,
       "pts": 14,
       "adjPts": 13.6,
-      "pointsPlus": 143
+      "pointsPlus": 142
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "WASH @ RUTG",
+      "result": "W",
+      "min": 37,
+      "pts": 24,
+      "adjPts": 24.3,
+      "pointsPlus": 254
     }
   ]
 }

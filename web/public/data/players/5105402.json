@@ -4,17 +4,17 @@
   "team": "RUTG",
   "teamName": "Rutgers Scarlet Knights",
   "conference": "Big Ten",
-  "rank": 356,
-  "gp": 27,
-  "ppg": 7.9,
-  "adjPpg": 8.4,
-  "pointsPlus": 88,
-  "mpg": 22.7,
+  "rank": 346,
+  "gp": 28,
+  "ppg": 8.2,
+  "adjPpg": 8.7,
+  "pointsPlus": 91,
+  "mpg": 22.9,
   "position": "G",
   "jersey": "5",
   "classYear": "Junior",
-  "pointsPlusStdDev": 52.4,
-  "volatilityPctile": 47,
+  "pointsPlusStdDev": 54.5,
+  "volatilityPctile": 53,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -68,7 +68,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 14.1,
-      "pointsPlus": 148
+      "pointsPlus": 147
     },
     {
       "date": "2025-11-25",
@@ -149,7 +149,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 13.5,
-      "pointsPlus": 142
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-08",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 27,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.2,
       "pointsPlus": 75
     },
     {
@@ -221,7 +221,7 @@
       "min": 26,
       "pts": 9,
       "adjPts": 9.4,
-      "pointsPlus": 98
+      "pointsPlus": 99
     },
     {
       "date": "2026-02-07",
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 27,
       "pts": 10,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 124
     },
     {
@@ -258,6 +258,15 @@
       "pts": 2,
       "adjPts": 2.4,
       "pointsPlus": 25
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "RUTG vs WASH",
+      "result": "L",
+      "min": 28,
+      "pts": 17,
+      "adjPts": 17.8,
+      "pointsPlus": 186
     }
   ]
 }

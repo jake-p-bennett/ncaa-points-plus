@@ -7,13 +7,13 @@
   "rank": 2,
   "gp": 27,
   "ppg": 23.5,
-  "adjPpg": 24.1,
-  "pointsPlus": 253,
+  "adjPpg": 24.0,
+  "pointsPlus": 252,
   "mpg": 34.9,
   "position": "G",
   "jersey": "4",
   "classYear": "Junior",
-  "pointsPlusStdDev": 63.5,
+  "pointsPlusStdDev": 63.4,
   "volatilityPctile": 77,
   "gameLog": [
     {
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 34,
       "pts": 37,
-      "adjPts": 33.1,
-      "pointsPlus": 348
+      "adjPts": 33.2,
+      "pointsPlus": 347
     },
     {
       "date": "2025-11-21",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 36,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 171
+      "adjPts": 16.4,
+      "pointsPlus": 172
     },
     {
       "date": "2025-12-01",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 32,
       "pts": 11,
-      "adjPts": 14.1,
+      "adjPts": 14.2,
       "pointsPlus": 148
     },
     {
@@ -104,7 +104,7 @@
       "min": 24,
       "pts": 28,
       "adjPts": 28.0,
-      "pointsPlus": 294
+      "pointsPlus": 293
     },
     {
       "date": "2025-12-13",
@@ -122,7 +122,7 @@
       "min": 26,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 252
+      "pointsPlus": 251
     },
     {
       "date": "2025-12-28",
@@ -131,7 +131,7 @@
       "min": 30,
       "pts": 24,
       "adjPts": 24.0,
-      "pointsPlus": 252
+      "pointsPlus": 251
     },
     {
       "date": "2026-01-03",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 36,
       "pts": 24,
-      "adjPts": 22.6,
-      "pointsPlus": 237
+      "adjPts": 22.3,
+      "pointsPlus": 233
     },
     {
       "date": "2026-01-07",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 32,
       "pts": 19,
-      "adjPts": 19.9,
-      "pointsPlus": 209
+      "adjPts": 19.8,
+      "pointsPlus": 207
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 38,
       "pts": 25,
-      "adjPts": 22.8,
-      "pointsPlus": 239
+      "adjPts": 22.6,
+      "pointsPlus": 237
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 36,
       "pts": 23,
-      "adjPts": 21.0,
-      "pointsPlus": 221
+      "adjPts": 20.9,
+      "pointsPlus": 219
     },
     {
       "date": "2026-01-17",
@@ -176,7 +176,7 @@
       "min": 40,
       "pts": 21,
       "adjPts": 17.5,
-      "pointsPlus": 184
+      "pointsPlus": 183
     },
     {
       "date": "2026-01-20",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 39,
       "pts": 34,
-      "adjPts": 31.5,
-      "pointsPlus": 331
+      "adjPts": 31.7,
+      "pointsPlus": 332
     },
     {
       "date": "2026-01-24",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 40,
       "pts": 16,
-      "adjPts": 21.3,
-      "pointsPlus": 223
+      "adjPts": 20.7,
+      "pointsPlus": 217
     },
     {
       "date": "2026-02-01",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 34,
       "pts": 23,
-      "adjPts": 26.7,
-      "pointsPlus": 280
+      "adjPts": 26.9,
+      "pointsPlus": 281
     },
     {
       "date": "2026-02-07",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 39,
       "pts": 30,
-      "adjPts": 31.3,
-      "pointsPlus": 328
+      "adjPts": 31.0,
+      "pointsPlus": 325
     },
     {
       "date": "2026-02-11",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 38,
       "pts": 24,
-      "adjPts": 28.7,
-      "pointsPlus": 301
+      "adjPts": 28.5,
+      "pointsPlus": 298
     },
     {
       "date": "2026-02-14",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 40,
       "pts": 23,
-      "adjPts": 29.7,
+      "adjPts": 29.8,
       "pointsPlus": 312
     },
     {
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 38,
       "pts": 34,
-      "adjPts": 31.4,
-      "pointsPlus": 329
+      "adjPts": 31.2,
+      "pointsPlus": 326
     },
     {
       "date": "2026-02-21",
@@ -256,7 +256,7 @@
       "result": "L",
       "min": 36,
       "pts": 17,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 179
     }
   ]

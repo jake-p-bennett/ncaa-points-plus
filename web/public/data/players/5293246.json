@@ -4,16 +4,16 @@
   "team": "WVU",
   "teamName": "West Virginia Mountaineers",
   "conference": "Big 12",
-  "rank": 588,
-  "gp": 27,
-  "ppg": 4.0,
-  "adjPpg": 4.2,
-  "pointsPlus": 44,
-  "mpg": 16.7,
+  "rank": 598,
+  "gp": 28,
+  "ppg": 3.9,
+  "adjPpg": 4.0,
+  "pointsPlus": 42,
+  "mpg": 16.6,
   "position": "G",
   "jersey": "2",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 33.1,
+  "pointsPlusStdDev": 33.5,
   "volatilityPctile": 7,
   "gameLog": [
     {
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 24,
       "pts": 7,
-      "adjPts": 8.1,
-      "pointsPlus": 85
+      "adjPts": 8.2,
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-06",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 20,
       "pts": 5,
-      "adjPts": 6.0,
-      "pointsPlus": 63
+      "adjPts": 5.9,
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-10",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 12,
       "pts": 4,
-      "adjPts": 3.7,
+      "adjPts": 3.6,
       "pointsPlus": 38
     },
     {
@@ -258,6 +258,15 @@
       "pts": 2,
       "adjPts": 2.1,
       "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "WVU @ OKST",
+      "result": "L",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

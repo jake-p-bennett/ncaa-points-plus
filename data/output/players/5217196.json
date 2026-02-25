@@ -4,17 +4,17 @@
   "team": "ISU",
   "teamName": "Iowa State Cyclones",
   "conference": "Big 12",
-  "rank": 453,
-  "gp": 27,
-  "ppg": 6.4,
-  "adjPpg": 6.5,
-  "pointsPlus": 68,
-  "mpg": 13.8,
+  "rank": 444,
+  "gp": 28,
+  "ppg": 6.6,
+  "adjPpg": 6.7,
+  "pointsPlus": 70,
+  "mpg": 14.1,
   "position": "G",
   "jersey": "1",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 65.2,
-  "volatilityPctile": 80,
+  "pointsPlusStdDev": 64.6,
+  "volatilityPctile": 79,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -86,7 +86,7 @@
       "min": 28,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 273
+      "pointsPlus": 272
     },
     {
       "date": "2025-12-06",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 16,
       "pts": 9,
-      "adjPts": 12.0,
-      "pointsPlus": 126
+      "adjPts": 11.7,
+      "pointsPlus": 122
     },
     {
       "date": "2026-01-07",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 18,
       "pts": 12,
-      "adjPts": 11.0,
-      "pointsPlus": 115
+      "adjPts": 10.9,
+      "pointsPlus": 114
     },
     {
       "date": "2026-01-24",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 19,
       "pts": 14,
-      "adjPts": 13.2,
-      "pointsPlus": 138
+      "adjPts": 13.0,
+      "pointsPlus": 136
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "ISU @ UTAH",
+      "result": "W",
+      "min": 23,
+      "pts": 13,
+      "adjPts": 12.1,
+      "pointsPlus": 127
     }
   ]
 }

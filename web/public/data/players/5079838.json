@@ -4,17 +4,17 @@
   "team": "ISU",
   "teamName": "Iowa State Cyclones",
   "conference": "Big 12",
-  "rank": 352,
-  "gp": 27,
+  "rank": 356,
+  "gp": 28,
   "ppg": 8.3,
   "adjPpg": 8.5,
   "pointsPlus": 89,
-  "mpg": 24.1,
+  "mpg": 24.0,
   "position": "F",
   "jersey": "23",
   "classYear": "Junior",
-  "pointsPlusStdDev": 47.8,
-  "volatilityPctile": 35,
+  "pointsPlusStdDev": 46.6,
+  "volatilityPctile": 33,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -40,7 +40,7 @@
       "result": "W",
       "min": 31,
       "pts": 13,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 122
     },
     {
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 30,
       "pts": 12,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 134
     },
     {
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 31,
       "pts": 14,
-      "adjPts": 18.6,
-      "pointsPlus": 195
+      "adjPts": 18.1,
+      "pointsPlus": 190
     },
     {
       "date": "2026-01-07",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 26,
       "pts": 4,
-      "adjPts": 4.8,
+      "adjPts": 4.7,
       "pointsPlus": 50
     },
     {
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 19,
       "pts": 11,
-      "adjPts": 10.1,
-      "pointsPlus": 106
+      "adjPts": 10.0,
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 29,
       "pts": 9,
       "adjPts": 7.5,
-      "pointsPlus": 79
+      "pointsPlus": 78
     },
     {
       "date": "2026-01-29",
@@ -221,7 +221,7 @@
       "min": 21,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 39
+      "pointsPlus": 38
     },
     {
       "date": "2026-02-10",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 16,
       "pts": 6,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2026-02-14",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 27,
       "pts": 6,
-      "adjPts": 5.7,
-      "pointsPlus": 59
+      "adjPts": 5.6,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "ISU @ UTAH",
+      "result": "W",
+      "min": 22,
+      "pts": 10,
+      "adjPts": 9.3,
+      "pointsPlus": 98
     }
   ]
 }

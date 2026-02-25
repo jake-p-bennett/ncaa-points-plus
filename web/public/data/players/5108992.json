@@ -4,7 +4,7 @@
   "team": "FLA",
   "teamName": "Florida Gators",
   "conference": "SEC",
-  "rank": 590,
+  "rank": 588,
   "gp": 26,
   "ppg": 4.3,
   "adjPpg": 4.2,
@@ -23,7 +23,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 11.5,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2025-11-06",
@@ -86,7 +86,7 @@
       "min": 13,
       "pts": 2,
       "adjPts": 2.3,
-      "pointsPlus": 25
+      "pointsPlus": 24
     },
     {
       "date": "2025-12-13",
@@ -130,7 +130,7 @@
       "result": "L",
       "min": 12,
       "pts": 4,
-      "adjPts": 3.8,
+      "adjPts": 3.9,
       "pointsPlus": 40
     },
     {
@@ -194,7 +194,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 80
+      "pointsPlus": 81
     },
     {
       "date": "2026-02-01",

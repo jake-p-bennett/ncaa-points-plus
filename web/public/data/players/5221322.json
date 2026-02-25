@@ -4,17 +4,17 @@
   "team": "NU",
   "teamName": "Northwestern Wildcats",
   "conference": "Big Ten",
-  "rank": 573,
-  "gp": 27,
-  "ppg": 4.2,
-  "adjPpg": 4.3,
-  "pointsPlus": 46,
-  "mpg": 19.5,
+  "rank": 550,
+  "gp": 28,
+  "ppg": 4.6,
+  "adjPpg": 4.8,
+  "pointsPlus": 50,
+  "mpg": 20.1,
   "position": "G",
   "jersey": "3",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 49.0,
-  "volatilityPctile": 38,
+  "pointsPlusStdDev": 53.5,
+  "volatilityPctile": 49,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -158,7 +158,7 @@
       "min": 30,
       "pts": 9,
       "adjPts": 9.1,
-      "pointsPlus": 96
+      "pointsPlus": 95
     },
     {
       "date": "2026-01-14",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 34,
       "pts": 11,
-      "adjPts": 10.2,
-      "pointsPlus": 108
+      "adjPts": 10.3,
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-24",
@@ -258,6 +258,15 @@
       "pts": 7,
       "adjPts": 6.8,
       "pointsPlus": 71
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "NU @ IU",
+      "result": "W",
+      "min": 36,
+      "pts": 16,
+      "adjPts": 16.4,
+      "pointsPlus": 172
     }
   ]
 }

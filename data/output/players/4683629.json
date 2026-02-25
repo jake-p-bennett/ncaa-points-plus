@@ -4,7 +4,7 @@
   "team": "BC",
   "teamName": "Boston College Eagles",
   "conference": "ACC",
-  "rank": 122,
+  "rank": 120,
   "gp": 24,
   "ppg": 13.8,
   "adjPpg": 13.9,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "13",
   "classYear": "Junior",
-  "pointsPlusStdDev": 67.4,
-  "volatilityPctile": 85,
+  "pointsPlusStdDev": 67.0,
+  "volatilityPctile": 84,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -23,7 +23,7 @@
       "min": 36,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-06",
@@ -32,7 +32,7 @@
       "min": 30,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-11-11",
@@ -50,7 +50,7 @@
       "min": 35,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-11-18",
@@ -77,7 +77,7 @@
       "min": 40,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 273
+      "pointsPlus": 272
     },
     {
       "date": "2025-11-26",
@@ -113,7 +113,7 @@
       "min": 34,
       "pts": 18,
       "adjPts": 18.0,
-      "pointsPlus": 189
+      "pointsPlus": 188
     },
     {
       "date": "2025-12-22",
@@ -131,7 +131,7 @@
       "min": 35,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 273
+      "pointsPlus": 272
     },
     {
       "date": "2026-01-03",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 32,
       "pts": 14,
-      "adjPts": 13.4,
-      "pointsPlus": 140
+      "adjPts": 13.3,
+      "pointsPlus": 139
     },
     {
       "date": "2026-01-10",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 33,
       "pts": 17,
-      "adjPts": 17.5,
-      "pointsPlus": 184
+      "adjPts": 17.3,
+      "pointsPlus": 181
     },
     {
       "date": "2026-01-31",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 39,
       "pts": 20,
-      "adjPts": 21.9,
-      "pointsPlus": 230
+      "adjPts": 22.0,
+      "pointsPlus": 231
     },
     {
       "date": "2026-02-03",
@@ -221,7 +221,7 @@
       "min": 38,
       "pts": 20,
       "adjPts": 20.7,
-      "pointsPlus": 217
+      "pointsPlus": 216
     },
     {
       "date": "2026-02-11",

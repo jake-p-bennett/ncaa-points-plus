@@ -4,17 +4,17 @@
   "team": "UK",
   "teamName": "Kentucky Wildcats",
   "conference": "SEC",
-  "rank": 384,
-  "gp": 22,
-  "ppg": 7.9,
-  "adjPpg": 7.8,
-  "pointsPlus": 82,
-  "mpg": 21.5,
+  "rank": 380,
+  "gp": 23,
+  "ppg": 8.0,
+  "adjPpg": 7.9,
+  "pointsPlus": 83,
+  "mpg": 21.4,
   "position": "F",
   "jersey": "23",
   "classYear": "Junior",
-  "pointsPlusStdDev": 55.8,
-  "volatilityPctile": 58,
+  "pointsPlusStdDev": 55.0,
+  "volatilityPctile": 55,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -50,7 +50,7 @@
       "min": 22,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-18",
@@ -67,7 +67,7 @@
       "result": "W",
       "min": 22,
       "pts": 14,
-      "adjPts": 14.3,
+      "adjPts": 14.4,
       "pointsPlus": 150
     },
     {
@@ -86,7 +86,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 20.0,
-      "pointsPlus": 210
+      "pointsPlus": 209
     },
     {
       "date": "2026-01-03",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 25,
       "pts": 8,
-      "adjPts": 7.6,
-      "pointsPlus": 80
+      "adjPts": 7.7,
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-10",
@@ -131,7 +131,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 10.8,
-      "pointsPlus": 114
+      "pointsPlus": 113
     },
     {
       "date": "2026-01-21",
@@ -167,7 +167,7 @@
       "min": 26,
       "pts": 5,
       "adjPts": 4.2,
-      "pointsPlus": 45
+      "pointsPlus": 44
     },
     {
       "date": "2026-02-04",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 18,
       "pts": 7,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2026-02-07",
@@ -211,8 +211,17 @@
       "result": "L",
       "min": 30,
       "pts": 4,
-      "adjPts": 3.5,
+      "adjPts": 3.4,
       "pointsPlus": 36
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "UK @ SC",
+      "result": "W",
+      "min": 20,
+      "pts": 12,
+      "adjPts": 11.6,
+      "pointsPlus": 121
     }
   ]
 }

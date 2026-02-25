@@ -4,17 +4,17 @@
   "team": "MICH",
   "teamName": "Michigan Wolverines",
   "conference": "Big Ten",
-  "rank": 368,
-  "gp": 26,
-  "ppg": 8.1,
-  "adjPpg": 8.1,
-  "pointsPlus": 85,
-  "mpg": 18.8,
+  "rank": 355,
+  "gp": 27,
+  "ppg": 8.3,
+  "adjPpg": 8.5,
+  "pointsPlus": 89,
+  "mpg": 18.9,
   "position": "G",
   "jersey": "2",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 44.6,
-  "volatilityPctile": 28,
+  "pointsPlusStdDev": 46.9,
+  "volatilityPctile": 34,
   "gameLog": [
     {
       "date": "2025-11-11",
@@ -32,7 +32,7 @@
       "min": 16,
       "pts": 5,
       "adjPts": 5.2,
-      "pointsPlus": 55
+      "pointsPlus": 54
     },
     {
       "date": "2025-11-19",
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 25,
       "pts": 10,
-      "adjPts": 8.7,
-      "pointsPlus": 91
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2025-11-26",
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 20,
       "pts": 11,
-      "adjPts": 11.2,
+      "adjPts": 11.1,
       "pointsPlus": 117
     },
     {
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 18,
       "pts": 12,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 122
     },
     {
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 16,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 2.1,
       "pointsPlus": 21
     },
     {
@@ -202,7 +202,7 @@
       "result": "W",
       "min": 26,
       "pts": 12,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 115
     },
     {
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 25,
       "pts": 18,
-      "adjPts": 18.7,
+      "adjPts": 18.8,
       "pointsPlus": 197
     },
     {
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 20,
       "pts": 13,
-      "adjPts": 13.5,
-      "pointsPlus": 142
+      "adjPts": 13.6,
+      "pointsPlus": 143
     },
     {
       "date": "2026-02-17",
@@ -249,6 +249,15 @@
       "pts": 7,
       "adjPts": 8.5,
       "pointsPlus": 89
+    },
+    {
+      "date": "2026-02-24",
+      "matchup": "MICH vs MINN",
+      "result": "W",
+      "min": 20,
+      "pts": 14,
+      "adjPts": 16.6,
+      "pointsPlus": 174
     }
   ]
 }

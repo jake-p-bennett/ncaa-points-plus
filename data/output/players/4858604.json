@@ -4,17 +4,17 @@
   "team": "NEB",
   "teamName": "Nebraska Cornhuskers",
   "conference": "Big Ten",
-  "rank": 32,
-  "gp": 27,
+  "rank": 34,
+  "gp": 28,
   "ppg": 17.9,
-  "adjPpg": 18.2,
-  "pointsPlus": 191,
-  "mpg": 32.7,
+  "adjPpg": 18.1,
+  "pointsPlus": 190,
+  "mpg": 32.9,
   "position": "F",
   "jersey": "21",
   "classYear": "Junior",
-  "pointsPlusStdDev": 79.1,
-  "volatilityPctile": 96,
+  "pointsPlusStdDev": 77.8,
+  "volatilityPctile": 95,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -68,7 +68,7 @@
       "min": 33,
       "pts": 21,
       "adjPts": 18.0,
-      "pointsPlus": 188
+      "pointsPlus": 189
     },
     {
       "date": "2025-11-25",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 34,
       "pts": 13,
-      "adjPts": 12.7,
-      "pointsPlus": 133
+      "adjPts": 12.8,
+      "pointsPlus": 134
     },
     {
       "date": "2025-12-10",
@@ -149,7 +149,7 @@
       "min": 36,
       "pts": 11,
       "adjPts": 11.0,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-10",
@@ -167,7 +167,7 @@
       "min": 31,
       "pts": 28,
       "adjPts": 29.1,
-      "pointsPlus": 305
+      "pointsPlus": 304
     },
     {
       "date": "2026-01-17",
@@ -203,7 +203,7 @@
       "min": 39,
       "pts": 20,
       "adjPts": 20.7,
-      "pointsPlus": 216
+      "pointsPlus": 217
     },
     {
       "date": "2026-02-01",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 36,
       "pts": 29,
-      "adjPts": 30.3,
+      "adjPts": 30.4,
       "pointsPlus": 318
     },
     {
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 37,
       "pts": 13,
-      "adjPts": 15.8,
-      "pointsPlus": 166
+      "adjPts": 16.0,
+      "pointsPlus": 167
     },
     {
       "date": "2026-02-21",
@@ -258,6 +258,15 @@
       "pts": 33,
       "adjPts": 30.1,
       "pointsPlus": 315
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "NEB vs MD",
+      "result": "W",
+      "min": 36,
+      "pts": 16,
+      "adjPts": 15.6,
+      "pointsPlus": 164
     }
   ]
 }

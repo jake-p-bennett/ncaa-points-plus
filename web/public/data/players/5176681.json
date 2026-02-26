@@ -4,17 +4,17 @@
   "team": "UGA",
   "teamName": "Georgia Bulldogs",
   "conference": "SEC",
-  "rank": 198,
-  "gp": 27,
-  "ppg": 12.2,
-  "adjPpg": 11.9,
-  "pointsPlus": 125,
-  "mpg": 25.3,
+  "rank": 213,
+  "gp": 28,
+  "ppg": 11.8,
+  "adjPpg": 11.5,
+  "pointsPlus": 121,
+  "mpg": 25.4,
   "position": "G",
   "jersey": "4",
   "classYear": "Junior",
-  "pointsPlusStdDev": 54.1,
-  "volatilityPctile": 51,
+  "pointsPlusStdDev": 56.7,
+  "volatilityPctile": 60,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 23,
       "pts": 12,
-      "adjPts": 10.8,
-      "pointsPlus": 113
+      "adjPts": 10.7,
+      "pointsPlus": 112
     },
     {
       "date": "2025-11-23",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 29,
       "pts": 14,
-      "adjPts": 14.1,
-      "pointsPlus": 148
+      "adjPts": 13.7,
+      "pointsPlus": 144
     },
     {
       "date": "2026-01-17",
@@ -185,7 +185,7 @@
       "min": 26,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 181
+      "pointsPlus": 182
     },
     {
       "date": "2026-01-24",
@@ -203,7 +203,7 @@
       "min": 28,
       "pts": 19,
       "adjPts": 20.6,
-      "pointsPlus": 215
+      "pointsPlus": 216
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 29,
       "pts": 12,
-      "adjPts": 10.3,
-      "pointsPlus": 108
+      "adjPts": 10.2,
+      "pointsPlus": 106
     },
     {
       "date": "2026-02-07",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 29,
       "pts": 5,
-      "adjPts": 4.7,
-      "pointsPlus": 49
+      "adjPts": 4.6,
+      "pointsPlus": 48
     },
     {
       "date": "2026-02-11",
@@ -258,6 +258,15 @@
       "pts": 15,
       "adjPts": 13.9,
       "pointsPlus": 145
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "UGA @ VAN",
+      "result": "L",
+      "min": 28,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 20
     }
   ]
 }

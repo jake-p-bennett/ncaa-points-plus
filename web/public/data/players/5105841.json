@@ -4,7 +4,7 @@
   "team": "TENN",
   "teamName": "Tennessee Volunteers",
   "conference": "SEC",
-  "rank": 422,
+  "rank": 421,
   "gp": 26,
   "ppg": 7.2,
   "adjPpg": 7.1,
@@ -14,7 +14,7 @@
   "jersey": "34",
   "classYear": "Senior",
   "pointsPlusStdDev": 46.9,
-  "volatilityPctile": 34,
+  "volatilityPctile": 33,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 38,
       "pts": 10,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.5,
+      "pointsPlus": 89
     },
     {
       "date": "2026-01-17",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 26,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.3,
       "pointsPlus": 56
     },
     {
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 27,
       "pts": 3,
-      "adjPts": 2.8,
+      "adjPts": 2.7,
       "pointsPlus": 29
     },
     {
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 16,
       "pts": 8,
-      "adjPts": 7.6,
+      "adjPts": 7.5,
       "pointsPlus": 79
     },
     {

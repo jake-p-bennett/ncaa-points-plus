@@ -4,7 +4,7 @@
   "team": "MIZ",
   "teamName": "Missouri Tigers",
   "conference": "SEC",
-  "rank": 325,
+  "rank": 326,
   "gp": 28,
   "ppg": 9.3,
   "adjPpg": 9.2,
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 21,
       "pts": 5,
-      "adjPts": 5.0,
-      "pointsPlus": 53
+      "adjPts": 4.9,
+      "pointsPlus": 51
     },
     {
       "date": "2026-01-14",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 30,
       "pts": 3,
-      "adjPts": 2.8,
+      "adjPts": 2.7,
       "pointsPlus": 29
     },
     {
@@ -185,7 +185,7 @@
       "min": 29,
       "pts": 11,
       "adjPts": 9.3,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-24",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 20,
       "pts": 8,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.1,
+      "pointsPlus": 74
     },
     {
       "date": "2026-02-07",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 22,
       "pts": 11,
-      "adjPts": 9.4,
-      "pointsPlus": 99
+      "adjPts": 9.3,
+      "pointsPlus": 97
     },
     {
       "date": "2026-02-14",

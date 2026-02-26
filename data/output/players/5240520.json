@@ -4,16 +4,16 @@
   "team": "DEP",
   "teamName": "DePaul Blue Demons",
   "conference": "Big East",
-  "rank": 604,
-  "gp": 25,
-  "ppg": 3.8,
-  "adjPpg": 3.9,
-  "pointsPlus": 41,
+  "rank": 597,
+  "gp": 26,
+  "ppg": 4.0,
+  "adjPpg": 4.0,
+  "pointsPlus": 42,
   "mpg": 15.4,
   "position": "F",
   "jersey": "21",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 38.5,
+  "pointsPlusStdDev": 38.6,
   "volatilityPctile": 14,
   "gameLog": [
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 19,
       "pts": 6,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 7.2,
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-16",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 22,
       "pts": 7,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2026-02-03",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 22,
       "pts": 3,
-      "adjPts": 3.0,
+      "adjPts": 3.1,
       "pointsPlus": 32
     },
     {
@@ -221,7 +221,7 @@
       "min": 10,
       "pts": 2,
       "adjPts": 2.0,
-      "pointsPlus": 20
+      "pointsPlus": 21
     },
     {
       "date": "2026-02-18",
@@ -240,6 +240,15 @@
       "pts": 3,
       "adjPts": 2.3,
       "pointsPlus": 24
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "DEP @ CREI",
+      "result": "W",
+      "min": 15,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 82
     }
   ]
 }

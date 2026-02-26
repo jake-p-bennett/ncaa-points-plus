@@ -4,17 +4,17 @@
   "team": "ILL",
   "teamName": "Illinois Fighting Illini",
   "conference": "Big Ten",
-  "rank": 157,
+  "rank": 156,
   "gp": 28,
   "ppg": 12.7,
-  "adjPpg": 13.0,
-  "pointsPlus": 136,
+  "adjPpg": 13.1,
+  "pointsPlus": 137,
   "mpg": 28.7,
   "position": "F",
   "jersey": "0",
   "classYear": "Freshman",
   "pointsPlusStdDev": 60.9,
-  "volatilityPctile": 72,
+  "volatilityPctile": 71,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -59,7 +59,7 @@
       "min": 30,
       "pts": 10,
       "adjPts": 7.6,
-      "pointsPlus": 79
+      "pointsPlus": 80
     },
     {
       "date": "2025-11-22",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 18,
       "pts": 8,
-      "adjPts": 9.3,
-      "pointsPlus": 98
+      "adjPts": 9.6,
+      "pointsPlus": 100
     },
     {
       "date": "2025-12-06",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 33,
       "pts": 22,
-      "adjPts": 22.0,
-      "pointsPlus": 230
+      "adjPts": 22.1,
+      "pointsPlus": 231
     },
     {
       "date": "2025-12-13",
@@ -112,7 +112,7 @@
       "result": "L",
       "min": 23,
       "pts": 4,
-      "adjPts": 4.7,
+      "adjPts": 4.8,
       "pointsPlus": 50
     },
     {
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 35,
       "pts": 7,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.6,
+      "pointsPlus": 90
     },
     {
       "date": "2026-01-14",
@@ -212,7 +212,7 @@
       "min": 33,
       "pts": 10,
       "adjPts": 11.9,
-      "pointsPlus": 124
+      "pointsPlus": 125
     },
     {
       "date": "2026-02-04",
@@ -221,7 +221,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.6,
-      "pointsPlus": 131
+      "pointsPlus": 132
     },
     {
       "date": "2026-02-07",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 33,
       "pts": 12,
-      "adjPts": 11.2,
-      "pointsPlus": 117
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-02-15",
@@ -265,7 +265,7 @@
       "result": "L",
       "min": 25,
       "pts": 3,
-      "adjPts": 3.1,
+      "adjPts": 3.2,
       "pointsPlus": 33
     }
   ]

@@ -4,7 +4,7 @@
   "team": "ILL",
   "teamName": "Illinois Fighting Illini",
   "conference": "Big Ten",
-  "rank": 118,
+  "rank": 115,
   "gp": 25,
   "ppg": 13.8,
   "adjPpg": 14.0,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 75.4,
+  "pointsPlusStdDev": 75.7,
   "volatilityPctile": 92,
   "gameLog": [
     {
@@ -31,7 +31,7 @@
       "result": "W",
       "min": 26,
       "pts": 23,
-      "adjPts": 23.1,
+      "adjPts": 23.2,
       "pointsPlus": 242
     },
     {
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 30,
       "pts": 26,
-      "adjPts": 19.7,
-      "pointsPlus": 206
+      "adjPts": 19.8,
+      "pointsPlus": 207
     },
     {
       "date": "2025-11-22",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 24,
       "pts": 3,
-      "adjPts": 3.5,
-      "pointsPlus": 37
+      "adjPts": 3.6,
+      "pointsPlus": 38
     },
     {
       "date": "2025-12-06",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 27,
       "pts": 17,
-      "adjPts": 17.0,
-      "pointsPlus": 178
+      "adjPts": 17.1,
+      "pointsPlus": 179
     },
     {
       "date": "2025-12-13",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 27,
       "pts": 19,
-      "adjPts": 22.5,
-      "pointsPlus": 236
+      "adjPts": 22.6,
+      "pointsPlus": 237
     },
     {
       "date": "2025-12-22",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 33,
       "pts": 17,
-      "adjPts": 20.7,
-      "pointsPlus": 217
+      "adjPts": 20.9,
+      "pointsPlus": 219
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 33,
       "pts": 30,
-      "adjPts": 29.1,
-      "pointsPlus": 305
+      "adjPts": 29.3,
+      "pointsPlus": 307
     },
     {
       "date": "2026-01-24",
@@ -203,7 +203,7 @@
       "min": 29,
       "pts": 8,
       "adjPts": 9.5,
-      "pointsPlus": 99
+      "pointsPlus": 100
     },
     {
       "date": "2026-02-04",
@@ -221,7 +221,7 @@
       "min": 35,
       "pts": 17,
       "adjPts": 19.9,
-      "pointsPlus": 208
+      "pointsPlus": 209
     },
     {
       "date": "2026-02-18",

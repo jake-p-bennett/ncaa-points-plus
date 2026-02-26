@@ -4,17 +4,17 @@
   "team": "MISS",
   "teamName": "Ole Miss Rebels",
   "conference": "SEC",
-  "rank": 128,
-  "gp": 27,
-  "ppg": 14.6,
-  "adjPpg": 13.8,
-  "pointsPlus": 145,
-  "mpg": 25.5,
+  "rank": 119,
+  "gp": 28,
+  "ppg": 14.7,
+  "adjPpg": 13.9,
+  "pointsPlus": 146,
+  "mpg": 26.0,
   "position": "G",
   "jersey": "2",
   "classYear": "Senior",
-  "pointsPlusStdDev": 72.7,
-  "volatilityPctile": 90,
+  "pointsPlusStdDev": 71.8,
+  "volatilityPctile": 89,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 31,
       "pts": 22,
-      "adjPts": 26.8,
-      "pointsPlus": 281
+      "adjPts": 27.0,
+      "pointsPlus": 283
     },
     {
       "date": "2025-11-26",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 19,
       "pts": 12,
-      "adjPts": 10.2,
-      "pointsPlus": 107
+      "adjPts": 10.1,
+      "pointsPlus": 106
     },
     {
       "date": "2026-01-10",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 38,
       "pts": 27,
-      "adjPts": 22.9,
-      "pointsPlus": 240
+      "adjPts": 22.8,
+      "pointsPlus": 239
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 27,
       "pts": 17,
-      "adjPts": 15.2,
-      "pointsPlus": 160
+      "adjPts": 15.0,
+      "pointsPlus": 158
     },
     {
       "date": "2026-01-20",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 32,
       "pts": 16,
-      "adjPts": 15.1,
+      "adjPts": 15.0,
       "pointsPlus": 158
     },
     {
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 25,
       "pts": 27,
-      "adjPts": 20.4,
-      "pointsPlus": 214
+      "adjPts": 20.5,
+      "pointsPlus": 215
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 32,
       "pts": 21,
-      "adjPts": 18.8,
-      "pointsPlus": 197
+      "adjPts": 18.6,
+      "pointsPlus": 195
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 36,
       "pts": 21,
-      "adjPts": 18.0,
-      "pointsPlus": 188
+      "adjPts": 17.8,
+      "pointsPlus": 186
     },
     {
       "date": "2026-02-21",
@@ -258,6 +258,15 @@
       "pts": 8,
       "adjPts": 8.0,
       "pointsPlus": 84
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "MISS vs LSU",
+      "result": "L",
+      "min": 39,
+      "pts": 19,
+      "adjPts": 17.4,
+      "pointsPlus": 182
     }
   ]
 }

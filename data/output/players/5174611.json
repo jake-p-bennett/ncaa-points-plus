@@ -4,7 +4,7 @@
   "team": "OKST",
   "teamName": "Oklahoma State Cowboys",
   "conference": "Big 12",
-  "rank": 293,
+  "rank": 295,
   "gp": 26,
   "ppg": 9.8,
   "adjPpg": 9.9,
@@ -31,8 +31,8 @@
       "result": "W",
       "min": 32,
       "pts": 12,
-      "adjPts": 10.3,
-      "pointsPlus": 108
+      "adjPts": 10.2,
+      "pointsPlus": 106
     },
     {
       "date": "2025-11-19",
@@ -248,7 +248,7 @@
       "min": 26,
       "pts": 15,
       "adjPts": 19.4,
-      "pointsPlus": 203
+      "pointsPlus": 204
     }
   ]
 }

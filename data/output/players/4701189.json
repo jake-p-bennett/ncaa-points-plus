@@ -4,7 +4,7 @@
   "team": "OKST",
   "teamName": "Oklahoma State Cowboys",
   "conference": "Big 12",
-  "rank": 59,
+  "rank": 57,
   "gp": 25,
   "ppg": 16.8,
   "adjPpg": 16.7,
@@ -149,7 +149,7 @@
       "min": 32,
       "pts": 23,
       "adjPts": 19.7,
-      "pointsPlus": 206
+      "pointsPlus": 207
     },
     {
       "date": "2026-01-20",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 35,
       "pts": 30,
-      "adjPts": 27.8,
+      "adjPts": 27.9,
       "pointsPlus": 292
     },
     {
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 19,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.5,
       "pointsPlus": 57
     },
     {

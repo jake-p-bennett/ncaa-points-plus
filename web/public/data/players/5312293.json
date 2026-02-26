@@ -4,16 +4,16 @@
   "team": "STAN",
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
-  "rank": 610,
-  "gp": 26,
-  "ppg": 3.7,
-  "adjPpg": 3.7,
-  "pointsPlus": 39,
-  "mpg": 14.9,
+  "rank": 616,
+  "gp": 27,
+  "ppg": 3.5,
+  "adjPpg": 3.6,
+  "pointsPlus": 38,
+  "mpg": 14.8,
   "position": "F",
   "jersey": "15",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 40.1,
+  "pointsPlusStdDev": 40.0,
   "volatilityPctile": 17,
   "gameLog": [
     {
@@ -112,7 +112,7 @@
       "result": "W",
       "min": 18,
       "pts": 8,
-      "adjPts": 7.2,
+      "adjPts": 7.3,
       "pointsPlus": 76
     },
     {
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 17,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.2,
       "pointsPlus": 75
     },
     {
@@ -239,13 +239,22 @@
       "min": 15,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 19
+      "pointsPlus": 20
     },
     {
       "date": "2026-02-21",
       "matchup": "STAN @ CAL",
       "result": "L",
       "min": 4,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "STAN vs PITT",
+      "result": "W",
+      "min": 12,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

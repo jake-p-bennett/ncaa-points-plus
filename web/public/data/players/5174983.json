@@ -4,7 +4,7 @@
   "team": "MICH",
   "teamName": "Michigan Wolverines",
   "conference": "Big Ten",
-  "rank": 222,
+  "rank": 220,
   "gp": 28,
   "ppg": 11.1,
   "adjPpg": 11.4,
@@ -13,8 +13,8 @@
   "position": "C",
   "jersey": "15",
   "classYear": "Junior",
-  "pointsPlusStdDev": 47.5,
-  "volatilityPctile": 35,
+  "pointsPlusStdDev": 47.8,
+  "volatilityPctile": 36,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -31,8 +31,8 @@
       "result": "W",
       "min": 37,
       "pts": 18,
-      "adjPts": 16.7,
-      "pointsPlus": 175
+      "adjPts": 16.9,
+      "pointsPlus": 177
     },
     {
       "date": "2025-11-14",
@@ -95,7 +95,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 11.9,
-      "pointsPlus": 125
+      "pointsPlus": 124
     },
     {
       "date": "2025-12-13",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 25,
       "pts": 18,
-      "adjPts": 17.5,
-      "pointsPlus": 183
+      "adjPts": 17.6,
+      "pointsPlus": 184
     },
     {
       "date": "2025-12-21",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 23,
       "pts": 9,
-      "adjPts": 8.4,
-      "pointsPlus": 88
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-01-14",
@@ -167,7 +167,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 12.5,
-      "pointsPlus": 131
+      "pointsPlus": 130
     },
     {
       "date": "2026-01-20",
@@ -185,7 +185,7 @@
       "min": 29,
       "pts": 11,
       "adjPts": 11.0,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-27",
@@ -194,7 +194,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 11.9,
-      "pointsPlus": 124
+      "pointsPlus": 125
     },
     {
       "date": "2026-01-30",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 25,
       "pts": 24,
-      "adjPts": 24.0,
-      "pointsPlus": 251
+      "adjPts": 24.1,
+      "pointsPlus": 252
     },
     {
       "date": "2026-02-11",
@@ -230,7 +230,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.6,
-      "pointsPlus": 131
+      "pointsPlus": 132
     },
     {
       "date": "2026-02-14",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 23,
       "pts": 9,
-      "adjPts": 9.4,
+      "adjPts": 9.5,
       "pointsPlus": 99
     },
     {

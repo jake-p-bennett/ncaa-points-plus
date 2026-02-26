@@ -4,7 +4,7 @@
   "team": "TCU",
   "teamName": "TCU Horned Frogs",
   "conference": "Big 12",
-  "rank": 551,
+  "rank": 550,
   "gp": 25,
   "ppg": 4.8,
   "adjPpg": 4.8,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "0",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 55.3,
+  "pointsPlusStdDev": 55.4,
   "volatilityPctile": 56,
   "gameLog": [
     {
@@ -59,7 +59,7 @@
       "min": 21,
       "pts": 21,
       "adjPts": 21.0,
-      "pointsPlus": 219
+      "pointsPlus": 220
     },
     {
       "date": "2025-11-28",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 13,
       "pts": 7,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.4,
+      "pointsPlus": 67
     },
     {
       "date": "2026-02-07",

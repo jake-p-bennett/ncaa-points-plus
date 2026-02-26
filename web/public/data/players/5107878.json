@@ -4,16 +4,16 @@
   "team": "KSU",
   "teamName": "Kansas State Wildcats",
   "conference": "Big 12",
-  "rank": 622,
-  "gp": 26,
+  "rank": 624,
+  "gp": 27,
   "ppg": 3.3,
   "adjPpg": 3.5,
-  "pointsPlus": 37,
-  "mpg": 16.2,
+  "pointsPlus": 36,
+  "mpg": 16.3,
   "position": "G",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 36.0,
+  "pointsPlusStdDev": 35.5,
   "volatilityPctile": 9,
   "gameLog": [
     {
@@ -249,6 +249,15 @@
       "pts": 4,
       "adjPts": 4.0,
       "pointsPlus": 42
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "KSU @ COLO",
+      "result": "L",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
     }
   ]
 }

@@ -7,14 +7,14 @@
   "rank": 17,
   "gp": 26,
   "ppg": 20.8,
-  "adjPpg": 20.1,
+  "adjPpg": 20.0,
   "pointsPlus": 210,
   "mpg": 33.3,
   "position": "F",
   "jersey": "7",
   "classYear": "Senior",
-  "pointsPlusStdDev": 63.2,
-  "volatilityPctile": 77,
+  "pointsPlusStdDev": 62.8,
+  "volatilityPctile": 76,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -76,8 +76,8 @@
       "result": "W",
       "min": 35,
       "pts": 20,
-      "adjPts": 20.3,
-      "pointsPlus": 212
+      "adjPts": 20.5,
+      "pointsPlus": 214
     },
     {
       "date": "2025-12-03",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 37,
       "pts": 32,
-      "adjPts": 27.4,
-      "pointsPlus": 287
+      "adjPts": 27.1,
+      "pointsPlus": 284
     },
     {
       "date": "2026-01-10",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 36,
       "pts": 32,
-      "adjPts": 27.2,
-      "pointsPlus": 285
+      "adjPts": 27.0,
+      "pointsPlus": 283
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 35,
       "pts": 19,
-      "adjPts": 19.1,
-      "pointsPlus": 200
+      "adjPts": 18.6,
+      "pointsPlus": 195
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 36,
       "pts": 31,
-      "adjPts": 28.7,
-      "pointsPlus": 301
+      "adjPts": 28.6,
+      "pointsPlus": 300
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 34,
       "pts": 24,
       "adjPts": 18.2,
-      "pointsPlus": 190
+      "pointsPlus": 191
     },
     {
       "date": "2026-02-10",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 26,
       "pts": 13,
-      "adjPts": 12.3,
-      "pointsPlus": 129
+      "adjPts": 12.2,
+      "pointsPlus": 128
     },
     {
       "date": "2026-02-18",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 40,
       "pts": 29,
-      "adjPts": 26.0,
-      "pointsPlus": 272
+      "adjPts": 25.7,
+      "pointsPlus": 269
     },
     {
       "date": "2026-02-21",

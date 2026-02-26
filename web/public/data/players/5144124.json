@@ -4,7 +4,7 @@
   "team": "DUKE",
   "teamName": "Duke Blue Devils",
   "conference": "ACC",
-  "rank": 497,
+  "rank": 496,
   "gp": 28,
   "ppg": 5.7,
   "adjPpg": 5.8,
@@ -14,7 +14,7 @@
   "jersey": "14",
   "classYear": "Freshman",
   "pointsPlusStdDev": 42.2,
-  "volatilityPctile": 21,
+  "volatilityPctile": 22,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -86,7 +86,7 @@
       "min": 28,
       "pts": 4,
       "adjPts": 3.4,
-      "pointsPlus": 36
+      "pointsPlus": 35
     },
     {
       "date": "2025-12-02",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 17,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.3,
       "pointsPlus": 55
     },
     {
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 24,
       "pts": 5,
-      "adjPts": 4.6,
+      "adjPts": 4.7,
       "pointsPlus": 49
     },
     {

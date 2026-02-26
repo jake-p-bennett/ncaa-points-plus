@@ -4,7 +4,7 @@
   "team": "UCLA",
   "teamName": "UCLA Bruins",
   "conference": "Big Ten",
-  "rank": 109,
+  "rank": 110,
   "gp": 27,
   "ppg": 13.9,
   "adjPpg": 14.2,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "2",
   "classYear": "Senior",
-  "pointsPlusStdDev": 74.2,
+  "pointsPlusStdDev": 74.5,
   "volatilityPctile": 91,
   "gameLog": [
     {
@@ -104,7 +104,7 @@
       "min": 36,
       "pts": 20,
       "adjPts": 18.1,
-      "pointsPlus": 189
+      "pointsPlus": 190
     },
     {
       "date": "2025-12-19",
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 36,
       "pts": 25,
-      "adjPts": 30.5,
-      "pointsPlus": 319
+      "adjPts": 30.7,
+      "pointsPlus": 322
     },
     {
       "date": "2026-01-06",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 40,
       "pts": 13,
-      "adjPts": 12.1,
-      "pointsPlus": 127
+      "adjPts": 12.0,
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-10",
@@ -149,7 +149,7 @@
       "min": 38,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 81
+      "pointsPlus": 82
     },
     {
       "date": "2026-01-14",
@@ -167,7 +167,7 @@
       "min": 38,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-20",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 24.4,
+      "adjPts": 24.5,
       "pointsPlus": 256
     },
     {

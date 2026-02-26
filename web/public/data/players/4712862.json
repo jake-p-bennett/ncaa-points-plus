@@ -4,17 +4,17 @@
   "team": "MISS",
   "teamName": "Ole Miss Rebels",
   "conference": "SEC",
-  "rank": 148,
-  "gp": 27,
-  "ppg": 13.9,
-  "adjPpg": 13.3,
-  "pointsPlus": 140,
-  "mpg": 23.7,
+  "rank": 142,
+  "gp": 28,
+  "ppg": 14.1,
+  "adjPpg": 13.5,
+  "pointsPlus": 141,
+  "mpg": 24.2,
   "position": "F",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 77.8,
-  "volatilityPctile": 95,
+  "pointsPlusStdDev": 76.8,
+  "volatilityPctile": 94,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 16,
       "pts": 2,
-      "adjPts": 2.4,
+      "adjPts": 2.5,
       "pointsPlus": 26
     },
     {
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 27,
       "pts": 18,
-      "adjPts": 18.2,
-      "pointsPlus": 191
+      "adjPts": 18.4,
+      "pointsPlus": 193
     },
     {
       "date": "2025-12-13",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 27,
       "pts": 16,
-      "adjPts": 13.6,
+      "adjPts": 13.5,
       "pointsPlus": 142
     },
     {
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 27,
       "pts": 8,
-      "adjPts": 7.2,
-      "pointsPlus": 75
+      "adjPts": 7.1,
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-20",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 24,
       "pts": 16,
-      "adjPts": 15.1,
+      "adjPts": 15.0,
       "pointsPlus": 158
     },
     {
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 30,
       "pts": 32,
-      "adjPts": 28.7,
-      "pointsPlus": 300
+      "adjPts": 28.3,
+      "pointsPlus": 297
     },
     {
       "date": "2026-02-18",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 25,
       "pts": 20,
-      "adjPts": 17.1,
-      "pointsPlus": 179
+      "adjPts": 16.9,
+      "pointsPlus": 177
     },
     {
       "date": "2026-02-21",
@@ -258,6 +258,15 @@
       "pts": 24,
       "adjPts": 24.0,
       "pointsPlus": 251
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "MISS vs LSU",
+      "result": "L",
+      "min": 36,
+      "pts": 20,
+      "adjPts": 18.3,
+      "pointsPlus": 191
     }
   ]
 }

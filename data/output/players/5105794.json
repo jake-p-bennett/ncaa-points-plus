@@ -4,7 +4,7 @@
   "team": "UCLA",
   "teamName": "UCLA Bruins",
   "conference": "Big Ten",
-  "rank": 171,
+  "rank": 174,
   "gp": 18,
   "ppg": 12.4,
   "adjPpg": 12.6,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "55",
   "classYear": "Senior",
-  "pointsPlusStdDev": 71.5,
+  "pointsPlusStdDev": 71.6,
   "volatilityPctile": 89,
   "gameLog": [
     {
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 25,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.2,
       "pointsPlus": 75
     },
     {
@@ -113,7 +113,7 @@
       "min": 32,
       "pts": 18,
       "adjPts": 16.3,
-      "pointsPlus": 170
+      "pointsPlus": 171
     },
     {
       "date": "2025-12-19",

@@ -4,17 +4,17 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 542,
-  "gp": 27,
-  "ppg": 5.0,
-  "adjPpg": 4.9,
-  "pointsPlus": 52,
-  "mpg": 20.0,
+  "rank": 551,
+  "gp": 28,
+  "ppg": 4.9,
+  "adjPpg": 4.7,
+  "pointsPlus": 50,
+  "mpg": 19.5,
   "position": "F",
   "jersey": "23",
   "classYear": "Senior",
-  "pointsPlusStdDev": 41.7,
-  "volatilityPctile": 20,
+  "pointsPlusStdDev": 42.0,
+  "volatilityPctile": 21,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 21,
       "pts": 6,
-      "adjPts": 6.0,
-      "pointsPlus": 63
+      "adjPts": 5.9,
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-10",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 16,
       "pts": 8,
-      "adjPts": 7.6,
+      "adjPts": 7.5,
       "pointsPlus": 79
     },
     {
@@ -194,7 +194,7 @@
       "min": 23,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 39
+      "pointsPlus": 38
     },
     {
       "date": "2026-01-27",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 28,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.3,
       "pointsPlus": 56
     },
     {
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 5.6,
-      "pointsPlus": 59
+      "adjPts": 5.5,
+      "pointsPlus": 57
     },
     {
       "date": "2026-02-14",
@@ -258,6 +258,15 @@
       "pts": 4,
       "adjPts": 3.9,
       "pointsPlus": 40
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "ARK vs TA&M",
+      "result": "W",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

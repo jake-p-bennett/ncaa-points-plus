@@ -4,17 +4,17 @@
   "team": "MSST",
   "teamName": "Mississippi State Bulldogs",
   "conference": "SEC",
-  "rank": 383,
-  "gp": 27,
-  "ppg": 8.2,
-  "adjPpg": 7.9,
-  "pointsPlus": 83,
-  "mpg": 22.8,
+  "rank": 387,
+  "gp": 28,
+  "ppg": 8.1,
+  "adjPpg": 7.7,
+  "pointsPlus": 81,
+  "mpg": 22.4,
   "position": "G",
   "jersey": "2",
   "classYear": "Senior",
-  "pointsPlusStdDev": 57.9,
-  "volatilityPctile": 64,
+  "pointsPlusStdDev": 57.4,
+  "volatilityPctile": 63,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 30,
       "pts": 17,
-      "adjPts": 14.9,
-      "pointsPlus": 156
+      "adjPts": 15.0,
+      "pointsPlus": 158
     },
     {
       "date": "2025-12-03",
@@ -104,7 +104,7 @@
       "min": 26,
       "pts": 29,
       "adjPts": 27.1,
-      "pointsPlus": 283
+      "pointsPlus": 284
     },
     {
       "date": "2025-12-16",
@@ -149,7 +149,7 @@
       "min": 26,
       "pts": 10,
       "adjPts": 8.9,
-      "pointsPlus": 93
+      "pointsPlus": 94
     },
     {
       "date": "2026-01-10",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 19,
       "pts": 6,
-      "adjPts": 4.5,
+      "adjPts": 4.6,
       "pointsPlus": 48
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 31,
       "pts": 7,
-      "adjPts": 7.1,
-      "pointsPlus": 74
+      "adjPts": 6.9,
+      "pointsPlus": 72
     },
     {
       "date": "2026-01-21",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 27,
       "pts": 11,
-      "adjPts": 10.3,
-      "pointsPlus": 107
+      "adjPts": 10.0,
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 24,
       "pts": 6,
       "adjPts": 5.8,
-      "pointsPlus": 60
+      "pointsPlus": 61
     },
     {
       "date": "2026-02-07",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 28,
       "pts": 7,
-      "adjPts": 7.1,
-      "pointsPlus": 74
+      "adjPts": 6.9,
+      "pointsPlus": 72
     },
     {
       "date": "2026-02-18",
@@ -258,6 +258,15 @@
       "pts": 12,
       "adjPts": 11.6,
       "pointsPlus": 121
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "MSST @ ALA",
+      "result": "L",
+      "min": 11,
+      "pts": 6,
+      "adjPts": 4.6,
+      "pointsPlus": 48
     }
   ]
 }

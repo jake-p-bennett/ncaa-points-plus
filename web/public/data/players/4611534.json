@@ -4,17 +4,17 @@
   "team": "OU",
   "teamName": "Oklahoma Sooners",
   "conference": "SEC",
-  "rank": 507,
+  "rank": 509,
   "gp": 23,
   "ppg": 6.1,
   "adjPpg": 5.7,
-  "pointsPlus": 60,
+  "pointsPlus": 59,
   "mpg": 19.6,
   "position": "G",
   "jersey": "12",
   "classYear": "Senior",
-  "pointsPlusStdDev": 33.6,
-  "volatilityPctile": 7,
+  "pointsPlusStdDev": 33.7,
+  "volatilityPctile": 8,
   "gameLog": [
     {
       "date": "2025-11-20",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 22,
       "pts": 11,
-      "adjPts": 10.2,
-      "pointsPlus": 107
+      "adjPts": 10.3,
+      "pointsPlus": 108
     },
     {
       "date": "2025-12-06",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 28,
       "pts": 3,
-      "adjPts": 3.0,
-      "pointsPlus": 32
+      "adjPts": 2.9,
+      "pointsPlus": 31
     },
     {
       "date": "2026-01-07",
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 20,
       "pts": 3,
-      "adjPts": 2.6,
+      "adjPts": 2.5,
       "pointsPlus": 27
     },
     {
@@ -140,7 +140,7 @@
       "min": 31,
       "pts": 7,
       "adjPts": 5.3,
-      "pointsPlus": 55
+      "pointsPlus": 56
     },
     {
       "date": "2026-01-20",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 17,
       "pts": 8,
-      "adjPts": 7.6,
+      "adjPts": 7.5,
       "pointsPlus": 79
     },
     {
@@ -212,7 +212,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 5.1,
-      "pointsPlus": 54
+      "pointsPlus": 53
     },
     {
       "date": "2026-02-24",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 24,
       "pts": 9,
-      "adjPts": 7.7,
+      "adjPts": 7.8,
       "pointsPlus": 81
     }
   ]

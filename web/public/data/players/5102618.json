@@ -4,7 +4,7 @@
   "team": "PUR",
   "teamName": "Purdue Boilermakers",
   "conference": "Big Ten",
-  "rank": 541,
+  "rank": 542,
   "gp": 26,
   "ppg": 4.8,
   "adjPpg": 4.9,
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 17,
       "pts": 6,
-      "adjPts": 7.3,
+      "adjPts": 7.4,
       "pointsPlus": 77
     },
     {

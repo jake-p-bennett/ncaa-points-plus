@@ -4,7 +4,7 @@
   "team": "ASU",
   "teamName": "Arizona State Sun Devils",
   "conference": "Big 12",
-  "rank": 479,
+  "rank": 477,
   "gp": 25,
   "ppg": 6.0,
   "adjPpg": 6.1,
@@ -167,7 +167,7 @@
       "min": 29,
       "pts": 6,
       "adjPts": 7.1,
-      "pointsPlus": 74
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-27",

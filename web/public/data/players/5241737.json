@@ -4,17 +4,17 @@
   "team": "DEP",
   "teamName": "DePaul Blue Demons",
   "conference": "Big East",
-  "rank": 294,
-  "gp": 24,
-  "ppg": 9.9,
-  "adjPpg": 9.9,
-  "pointsPlus": 104,
-  "mpg": 26.5,
+  "rank": 273,
+  "gp": 25,
+  "ppg": 10.3,
+  "adjPpg": 10.4,
+  "pointsPlus": 109,
+  "mpg": 26.7,
   "position": "G",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 53.2,
-  "volatilityPctile": 48,
+  "pointsPlusStdDev": 56.8,
+  "volatilityPctile": 60,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 7,
       "pts": 2,
-      "adjPts": 1.9,
-      "pointsPlus": 20
+      "adjPts": 1.8,
+      "pointsPlus": 19
     },
     {
       "date": "2025-12-16",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 11,
       "pts": 8,
-      "adjPts": 9.3,
-      "pointsPlus": 98
+      "adjPts": 9.6,
+      "pointsPlus": 100
     },
     {
       "date": "2025-12-31",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 28,
       "pts": 13,
-      "adjPts": 11.7,
-      "pointsPlus": 123
+      "adjPts": 11.6,
+      "pointsPlus": 121
     },
     {
       "date": "2026-01-06",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 14.0,
-      "pointsPlus": 147
+      "adjPts": 14.3,
+      "pointsPlus": 150
     },
     {
       "date": "2026-01-16",
@@ -176,7 +176,7 @@
       "min": 28,
       "pts": 19,
       "adjPts": 19.7,
-      "pointsPlus": 206
+      "pointsPlus": 207
     },
     {
       "date": "2026-01-31",
@@ -185,7 +185,7 @@
       "min": 21,
       "pts": 4,
       "adjPts": 3.6,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2026-02-03",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 26,
       "pts": 7,
-      "adjPts": 7.1,
-      "pointsPlus": 74
+      "adjPts": 7.2,
+      "pointsPlus": 75
     },
     {
       "date": "2026-02-07",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 34,
       "pts": 17,
-      "adjPts": 16.6,
-      "pointsPlus": 174
+      "adjPts": 16.7,
+      "pointsPlus": 175
     },
     {
       "date": "2026-02-18",
@@ -231,6 +231,15 @@
       "pts": 14,
       "adjPts": 10.8,
       "pointsPlus": 113
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "DEP @ CREI",
+      "result": "W",
+      "min": 31,
+      "pts": 21,
+      "adjPts": 20.6,
+      "pointsPlus": 216
     }
   ]
 }

@@ -148,7 +148,7 @@
       "result": "W",
       "min": 12,
       "pts": 2,
-      "adjPts": 1.9,
+      "adjPts": 2.0,
       "pointsPlus": 20
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 28,
       "pts": 13,
-      "adjPts": 15.8,
-      "pointsPlus": 166
+      "adjPts": 16.0,
+      "pointsPlus": 167
     },
     {
       "date": "2026-01-20",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 22,
       "pts": 7,
-      "adjPts": 7.3,
+      "adjPts": 7.4,
       "pointsPlus": 77
     },
     {
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 34,
       "pts": 19,
-      "adjPts": 17.7,
-      "pointsPlus": 185
+      "adjPts": 17.6,
+      "pointsPlus": 184
     },
     {
       "date": "2026-02-09",

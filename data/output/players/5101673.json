@@ -4,17 +4,17 @@
   "team": "XAV",
   "teamName": "Xavier Musketeers",
   "conference": "Big East",
-  "rank": 185,
-  "gp": 27,
-  "ppg": 12.0,
-  "adjPpg": 12.3,
-  "pointsPlus": 129,
-  "mpg": 25.1,
+  "rank": 183,
+  "gp": 28,
+  "ppg": 12.1,
+  "adjPpg": 12.4,
+  "pointsPlus": 130,
+  "mpg": 25.5,
   "position": "F",
   "jersey": "24",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 74.2,
-  "volatilityPctile": 91,
+  "pointsPlusStdDev": 72.8,
+  "volatilityPctile": 90,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 25,
       "pts": 15,
-      "adjPts": 18.3,
-      "pointsPlus": 191
+      "adjPts": 18.4,
+      "pointsPlus": 193
     },
     {
       "date": "2025-11-18",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 34,
       "pts": 19,
-      "adjPts": 16.1,
-      "pointsPlus": 169
+      "adjPts": 16.0,
+      "pointsPlus": 168
     },
     {
       "date": "2025-11-23",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 20,
       "pts": 2,
-      "adjPts": 2.3,
-      "pointsPlus": 24
+      "adjPts": 2.4,
+      "pointsPlus": 25
     },
     {
       "date": "2026-01-03",
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 25,
       "pts": 22,
-      "adjPts": 17.0,
+      "adjPts": 16.9,
       "pointsPlus": 177
     },
     {
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 31,
       "pts": 14,
-      "adjPts": 14.2,
-      "pointsPlus": 149
+      "adjPts": 14.3,
+      "pointsPlus": 150
     },
     {
       "date": "2026-01-28",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 15,
       "pts": 2,
-      "adjPts": 2.3,
-      "pointsPlus": 24
+      "adjPts": 2.4,
+      "pointsPlus": 25
     },
     {
       "date": "2026-02-09",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 24,
       "pts": 13,
-      "adjPts": 13.2,
-      "pointsPlus": 138
+      "adjPts": 13.3,
+      "pointsPlus": 139
     },
     {
       "date": "2026-02-14",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 39,
       "pts": 20,
-      "adjPts": 21.7,
-      "pointsPlus": 227
+      "adjPts": 21.6,
+      "pointsPlus": 226
     },
     {
       "date": "2026-02-21",
@@ -257,7 +257,16 @@
       "min": 21,
       "pts": 10,
       "adjPts": 9.2,
-      "pointsPlus": 97
+      "pointsPlus": 96
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "XAV @ PROV",
+      "result": "L",
+      "min": 37,
+      "pts": 17,
+      "adjPts": 13.1,
+      "pointsPlus": 137
     }
   ]
 }

@@ -4,16 +4,16 @@
   "team": "IU",
   "teamName": "Indiana Hoosiers",
   "conference": "Big Ten",
-  "rank": 565,
+  "rank": 563,
   "gp": 28,
   "ppg": 4.5,
   "adjPpg": 4.5,
-  "pointsPlus": 47,
+  "pointsPlus": 48,
   "mpg": 29.8,
   "position": "G",
   "jersey": "5",
   "classYear": "Senior",
-  "pointsPlusStdDev": 39.8,
+  "pointsPlusStdDev": 39.9,
   "volatilityPctile": 17,
   "gameLog": [
     {
@@ -140,7 +140,7 @@
       "min": 32,
       "pts": 12,
       "adjPts": 12.6,
-      "pointsPlus": 131
+      "pointsPlus": 132
     },
     {
       "date": "2026-01-07",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 37,
       "pts": 16,
-      "adjPts": 15.5,
-      "pointsPlus": 163
+      "adjPts": 15.6,
+      "pointsPlus": 164
     },
     {
       "date": "2026-01-10",
@@ -157,7 +157,7 @@
       "result": "L",
       "min": 34,
       "pts": 4,
-      "adjPts": 4.7,
+      "adjPts": 4.8,
       "pointsPlus": 50
     },
     {
@@ -176,7 +176,7 @@
       "min": 27,
       "pts": 3,
       "adjPts": 3.7,
-      "pointsPlus": 38
+      "pointsPlus": 39
     },
     {
       "date": "2026-01-20",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 39,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.3,
       "pointsPlus": 55
     },
     {

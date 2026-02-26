@@ -4,16 +4,16 @@
   "team": "PROV",
   "teamName": "Providence Friars",
   "conference": "Big East",
-  "rank": 657,
-  "gp": 23,
-  "ppg": 2.1,
+  "rank": 656,
+  "gp": 24,
+  "ppg": 2.0,
   "adjPpg": 2.1,
-  "pointsPlus": 22,
+  "pointsPlus": 21,
   "mpg": 12.8,
   "position": "F",
   "jersey": "13",
   "classYear": "Senior",
-  "pointsPlusStdDev": 25.1,
+  "pointsPlusStdDev": 24.9,
   "volatilityPctile": 2,
   "gameLog": [
     {
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 9,
       "pts": 6,
-      "adjPts": 5.4,
-      "pointsPlus": 57
+      "adjPts": 5.3,
+      "pointsPlus": 56
     },
     {
       "date": "2026-01-13",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 15,
       "pts": 4,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 54
     },
     {
@@ -222,6 +222,15 @@
       "pts": 1,
       "adjPts": 1.1,
       "pointsPlus": 12
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "PROV vs XAV",
+      "result": "W",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

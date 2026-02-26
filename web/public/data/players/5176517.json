@@ -4,17 +4,17 @@
   "team": "BUT",
   "teamName": "Butler Bulldogs",
   "conference": "Big East",
-  "rank": 69,
-  "gp": 28,
+  "rank": 67,
+  "gp": 29,
   "ppg": 16.0,
-  "adjPpg": 16.0,
-  "pointsPlus": 168,
-  "mpg": 33.4,
+  "adjPpg": 16.1,
+  "pointsPlus": 169,
+  "mpg": 33.5,
   "position": "F",
   "jersey": "5",
   "classYear": "Senior",
-  "pointsPlusStdDev": 52.1,
-  "volatilityPctile": 45,
+  "pointsPlusStdDev": 51.0,
+  "volatilityPctile": 42,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -49,8 +49,8 @@
       "result": "L",
       "min": 34,
       "pts": 14,
-      "adjPts": 12.3,
-      "pointsPlus": 129
+      "adjPts": 12.4,
+      "pointsPlus": 130
     },
     {
       "date": "2025-11-21",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 34,
       "pts": 8,
-      "adjPts": 9.3,
-      "pointsPlus": 98
+      "adjPts": 9.6,
+      "pointsPlus": 100
     },
     {
       "date": "2025-12-20",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 27,
       "pts": 16,
-      "adjPts": 15.6,
+      "adjPts": 15.7,
       "pointsPlus": 164
     },
     {
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 30,
       "pts": 14,
-      "adjPts": 14.2,
-      "pointsPlus": 149
+      "adjPts": 14.3,
+      "pointsPlus": 150
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 36,
       "pts": 22,
-      "adjPts": 19.8,
-      "pointsPlus": 208
+      "adjPts": 19.6,
+      "pointsPlus": 205
     },
     {
       "date": "2026-01-17",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 34,
       "pts": 19,
-      "adjPts": 19.3,
-      "pointsPlus": 202
+      "adjPts": 19.4,
+      "pointsPlus": 204
     },
     {
       "date": "2026-01-31",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 33,
       "pts": 7,
-      "adjPts": 8.2,
-      "pointsPlus": 86
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-02-15",
@@ -265,8 +265,17 @@
       "result": "W",
       "min": 35,
       "pts": 24,
-      "adjPts": 21.6,
-      "pointsPlus": 227
+      "adjPts": 21.4,
+      "pointsPlus": 224
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "BUT @ VILL",
+      "result": "L",
+      "min": 37,
+      "pts": 17,
+      "adjPts": 18.4,
+      "pointsPlus": 192
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "SC",
   "teamName": "South Carolina Gamecocks",
   "conference": "SEC",
-  "rank": 496,
+  "rank": 497,
   "gp": 24,
   "ppg": 6.1,
   "adjPpg": 5.8,
@@ -121,7 +121,7 @@
       "result": "W",
       "min": 29,
       "pts": 3,
-      "adjPts": 2.8,
+      "adjPts": 2.7,
       "pointsPlus": 29
     },
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 35,
       "pts": 11,
-      "adjPts": 9.4,
-      "pointsPlus": 99
+      "adjPts": 9.3,
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-28",
@@ -184,8 +184,8 @@
       "result": "L",
       "min": 18,
       "pts": 5,
-      "adjPts": 4.7,
-      "pointsPlus": 49
+      "adjPts": 4.6,
+      "pointsPlus": 48
     },
     {
       "date": "2026-02-03",

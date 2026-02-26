@@ -4,17 +4,17 @@
   "team": "WIS",
   "teamName": "Wisconsin Badgers",
   "conference": "Big Ten",
-  "rank": 12,
-  "gp": 27,
-  "ppg": 20.6,
-  "adjPpg": 21.1,
-  "pointsPlus": 221,
+  "rank": 13,
+  "gp": 28,
+  "ppg": 20.2,
+  "adjPpg": 20.8,
+  "pointsPlus": 218,
   "mpg": 31.2,
   "position": "G",
   "jersey": "2",
   "classYear": "Senior",
-  "pointsPlusStdDev": 68.1,
-  "volatilityPctile": 86,
+  "pointsPlusStdDev": 69.7,
+  "volatilityPctile": 87,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -59,7 +59,7 @@
       "min": 27,
       "pts": 16,
       "adjPts": 14.9,
-      "pointsPlus": 155
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-27",
@@ -103,8 +103,8 @@
       "result": "L",
       "min": 30,
       "pts": 20,
-      "adjPts": 23.7,
-      "pointsPlus": 248
+      "adjPts": 23.8,
+      "pointsPlus": 249
     },
     {
       "date": "2025-12-19",
@@ -112,7 +112,7 @@
       "result": "L",
       "min": 42,
       "pts": 19,
-      "adjPts": 20.6,
+      "adjPts": 20.5,
       "pointsPlus": 215
     },
     {
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 31,
       "pts": 11,
-      "adjPts": 13.0,
+      "adjPts": 13.1,
       "pointsPlus": 137
     },
     {
@@ -194,7 +194,7 @@
       "min": 38,
       "pts": 29,
       "adjPts": 27.1,
-      "pointsPlus": 283
+      "pointsPlus": 284
     },
     {
       "date": "2026-01-28",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 38,
       "pts": 21,
-      "adjPts": 21.0,
-      "pointsPlus": 219
+      "adjPts": 21.1,
+      "pointsPlus": 221
     },
     {
       "date": "2026-02-07",
@@ -230,7 +230,7 @@
       "min": 39,
       "pts": 25,
       "adjPts": 26.3,
-      "pointsPlus": 275
+      "pointsPlus": 276
     },
     {
       "date": "2026-02-13",
@@ -248,7 +248,7 @@
       "min": 33,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2026-02-22",
@@ -256,8 +256,17 @@
       "result": "W",
       "min": 36,
       "pts": 27,
-      "adjPts": 32.9,
-      "pointsPlus": 345
+      "adjPts": 33.2,
+      "pointsPlus": 347
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "WIS @ ORE",
+      "result": "L",
+      "min": 32,
+      "pts": 11,
+      "adjPts": 11.4,
+      "pointsPlus": 120
     }
   ]
 }

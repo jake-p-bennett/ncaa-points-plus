@@ -5,16 +5,16 @@
   "teamName": "Ole Miss Rebels",
   "conference": "SEC",
   "rank": 638,
-  "gp": 27,
+  "gp": 28,
   "ppg": 3.1,
-  "adjPpg": 3.1,
+  "adjPpg": 3.0,
   "pointsPlus": 32,
   "mpg": 16.1,
   "position": "F",
   "jersey": "4",
   "classYear": "Junior",
-  "pointsPlusStdDev": 34.0,
-  "volatilityPctile": 8,
+  "pointsPlusStdDev": 33.5,
+  "volatilityPctile": 7,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 26,
       "pts": 6,
-      "adjPts": 7.3,
+      "adjPts": 7.4,
       "pointsPlus": 77
     },
     {
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 16,
       "pts": 4,
-      "adjPts": 3.6,
-      "pointsPlus": 38
+      "adjPts": 3.5,
+      "pointsPlus": 37
     },
     {
       "date": "2026-01-20",
@@ -258,6 +258,15 @@
       "pts": 2,
       "adjPts": 2.0,
       "pointsPlus": 21
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "MISS vs LSU",
+      "result": "L",
+      "min": 15,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 19
     }
   ]
 }

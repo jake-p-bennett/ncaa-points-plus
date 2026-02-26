@@ -4,7 +4,7 @@
   "team": "SYR",
   "teamName": "Syracuse Orange",
   "conference": "ACC",
-  "rank": 483,
+  "rank": 481,
   "gp": 28,
   "ppg": 5.8,
   "adjPpg": 6.0,
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 20,
       "pts": 14,
-      "adjPts": 16.3,
+      "adjPts": 16.4,
       "pointsPlus": 171
     },
     {
@@ -247,7 +247,7 @@
       "result": "W",
       "min": 7,
       "pts": 3,
-      "adjPts": 2.6,
+      "adjPts": 2.7,
       "pointsPlus": 28
     },
     {

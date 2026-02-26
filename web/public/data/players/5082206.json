@@ -4,7 +4,7 @@
   "team": "ARIZ",
   "teamName": "Arizona Wildcats",
   "conference": "Big 12",
-  "rank": 85,
+  "rank": 82,
   "gp": 28,
   "ppg": 15.5,
   "adjPpg": 15.2,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "5",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 74.0,
+  "pointsPlusStdDev": 74.1,
   "volatilityPctile": 91,
   "gameLog": [
     {
@@ -49,7 +49,7 @@
       "result": "W",
       "min": 34,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.3,
       "pointsPlus": 55
     },
     {
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 19,
       "pts": 4,
-      "adjPts": 4.7,
-      "pointsPlus": 49
+      "adjPts": 4.8,
+      "pointsPlus": 50
     },
     {
       "date": "2025-11-24",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 34,
       "pts": 28,
-      "adjPts": 21.2,
-      "pointsPlus": 222
+      "adjPts": 21.3,
+      "pointsPlus": 223
     },
     {
       "date": "2025-12-16",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 29,
       "pts": 28,
-      "adjPts": 23.9,
-      "pointsPlus": 251
+      "adjPts": 24.0,
+      "pointsPlus": 252
     },
     {
       "date": "2026-01-10",
@@ -194,7 +194,7 @@
       "min": 29,
       "pts": 22,
       "adjPts": 28.5,
-      "pointsPlus": 298
+      "pointsPlus": 299
     },
     {
       "date": "2026-01-26",
@@ -266,7 +266,7 @@
       "min": 39,
       "pts": 24,
       "adjPts": 22.0,
-      "pointsPlus": 230
+      "pointsPlus": 231
     }
   ]
 }

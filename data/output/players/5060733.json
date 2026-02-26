@@ -4,7 +4,7 @@
   "team": "MSU",
   "teamName": "Michigan State Spartans",
   "conference": "Big Ten",
-  "rank": 528,
+  "rank": 529,
   "gp": 22,
   "ppg": 5.1,
   "adjPpg": 5.1,
@@ -85,7 +85,7 @@
       "result": "W",
       "min": 16,
       "pts": 2,
-      "adjPts": 2.4,
+      "adjPts": 2.5,
       "pointsPlus": 26
     },
     {
@@ -185,7 +185,7 @@
       "min": 21,
       "pts": 7,
       "adjPts": 6.8,
-      "pointsPlus": 71
+      "pointsPlus": 72
     },
     {
       "date": "2026-01-27",

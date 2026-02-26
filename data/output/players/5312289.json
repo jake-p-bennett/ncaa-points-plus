@@ -5,16 +5,16 @@
   "teamName": "SMU Mustangs",
   "conference": "ACC",
   "rank": 534,
-  "gp": 27,
+  "gp": 28,
   "ppg": 5.0,
   "adjPpg": 5.0,
   "pointsPlus": 53,
-  "mpg": 14.3,
+  "mpg": 14.4,
   "position": "F",
   "jersey": "7",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 57.1,
-  "volatilityPctile": 62,
+  "pointsPlusStdDev": 56.2,
+  "volatilityPctile": 59,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -85,7 +85,7 @@
       "result": "W",
       "min": 16,
       "pts": 6,
-      "adjPts": 5.4,
+      "adjPts": 5.3,
       "pointsPlus": 56
     },
     {
@@ -113,7 +113,7 @@
       "min": 17,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 39
+      "pointsPlus": 38
     },
     {
       "date": "2025-12-21",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 14,
       "pts": 7,
-      "adjPts": 6.5,
-      "pointsPlus": 68
+      "adjPts": 6.6,
+      "pointsPlus": 69
     },
     {
       "date": "2026-01-24",
@@ -256,8 +256,17 @@
       "result": "W",
       "min": 21,
       "pts": 16,
-      "adjPts": 18.3,
-      "pointsPlus": 192
+      "adjPts": 18.4,
+      "pointsPlus": 193
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "SMU @ CAL",
+      "result": "L",
+      "min": 18,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 54
     }
   ]
 }

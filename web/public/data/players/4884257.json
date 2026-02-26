@@ -4,7 +4,7 @@
   "team": "OKST",
   "teamName": "Oklahoma State Cowboys",
   "conference": "Big 12",
-  "rank": 471,
+  "rank": 470,
   "gp": 27,
   "ppg": 6.3,
   "adjPpg": 6.3,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "21",
   "classYear": "Junior",
-  "pointsPlusStdDev": 41.6,
+  "pointsPlusStdDev": 41.5,
   "volatilityPctile": 20,
   "gameLog": [
     {
@@ -22,8 +22,8 @@
       "result": "W",
       "min": 33,
       "pts": 13,
-      "adjPts": 11.1,
-      "pointsPlus": 117
+      "adjPts": 11.0,
+      "pointsPlus": 115
     },
     {
       "date": "2025-11-12",
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 15,
       "pts": 6,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 54
     },
     {
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 27,
       "pts": 5,
-      "adjPts": 4.5,
-      "pointsPlus": 47
+      "adjPts": 4.6,
+      "pointsPlus": 48
     },
     {
       "date": "2026-02-24",

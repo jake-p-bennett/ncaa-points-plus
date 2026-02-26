@@ -4,17 +4,17 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 283,
-  "gp": 27,
-  "ppg": 10.4,
-  "adjPpg": 10.1,
-  "pointsPlus": 106,
-  "mpg": 24.4,
+  "rank": 268,
+  "gp": 28,
+  "ppg": 10.9,
+  "adjPpg": 10.4,
+  "pointsPlus": 109,
+  "mpg": 24.8,
   "position": "G",
   "jersey": "24",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 52.7,
-  "volatilityPctile": 47,
+  "pointsPlusStdDev": 54.8,
+  "volatilityPctile": 54,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 24,
       "pts": 13,
-      "adjPts": 13.1,
-      "pointsPlus": 137
+      "adjPts": 12.7,
+      "pointsPlus": 133
     },
     {
       "date": "2026-01-10",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 26,
       "pts": 12,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 106
     },
     {
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 28,
       "pts": 11,
-      "adjPts": 10.3,
-      "pointsPlus": 107
+      "adjPts": 10.0,
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-27",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 25,
       "pts": 14,
-      "adjPts": 12.5,
-      "pointsPlus": 131
+      "adjPts": 12.4,
+      "pointsPlus": 130
     },
     {
       "date": "2026-02-10",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 36,
       "pts": 13,
-      "adjPts": 12.1,
-      "pointsPlus": 127
+      "adjPts": 11.9,
+      "pointsPlus": 124
     },
     {
       "date": "2026-02-14",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 34,
       "pts": 20,
-      "adjPts": 15.1,
-      "pointsPlus": 158
+      "adjPts": 15.2,
+      "pointsPlus": 159
     },
     {
       "date": "2026-02-21",
@@ -258,6 +258,15 @@
       "pts": 21,
       "adjPts": 20.2,
       "pointsPlus": 212
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "ARK vs TA&M",
+      "result": "W",
+      "min": 34,
+      "pts": 23,
+      "adjPts": 19.5,
+      "pointsPlus": 204
     }
   ]
 }

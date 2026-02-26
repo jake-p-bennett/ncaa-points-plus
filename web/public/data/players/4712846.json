@@ -4,7 +4,7 @@
   "team": "VT",
   "teamName": "Virginia Tech Hokies",
   "conference": "ACC",
-  "rank": 384,
+  "rank": 383,
   "gp": 28,
   "ppg": 7.9,
   "adjPpg": 7.9,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "2",
   "classYear": "Junior",
-  "pointsPlusStdDev": 50.9,
+  "pointsPlusStdDev": 51.0,
   "volatilityPctile": 42,
   "gameLog": [
     {
@@ -167,7 +167,7 @@
       "min": 34,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 117
+      "pointsPlus": 118
     },
     {
       "date": "2026-01-14",
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 21,
       "pts": 15,
-      "adjPts": 13.2,
-      "pointsPlus": 138
+      "adjPts": 13.3,
+      "pointsPlus": 139
     },
     {
       "date": "2026-01-17",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 22,
       "pts": 9,
-      "adjPts": 8.8,
+      "adjPts": 8.9,
       "pointsPlus": 93
     },
     {

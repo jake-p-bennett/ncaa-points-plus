@@ -4,17 +4,17 @@
   "team": "WAKE",
   "teamName": "Wake Forest Demon Deacons",
   "conference": "ACC",
-  "rank": 654,
-  "gp": 17,
-  "ppg": 2.2,
-  "adjPpg": 2.2,
-  "pointsPlus": 23,
-  "mpg": 12.4,
+  "rank": 650,
+  "gp": 18,
+  "ppg": 2.5,
+  "adjPpg": 2.5,
+  "pointsPlus": 27,
+  "mpg": 13.1,
   "position": "G",
   "jersey": "7",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 21.3,
-  "volatilityPctile": 1,
+  "pointsPlusStdDev": 25.0,
+  "volatilityPctile": 2,
   "gameLog": [
     {
       "date": "2025-11-07",
@@ -168,6 +168,15 @@
       "pts": 4,
       "adjPts": 4.0,
       "pointsPlus": 41
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "WAKE @ BC",
+      "result": "L",
+      "min": 26,
+      "pts": 7,
+      "adjPts": 8.0,
+      "pointsPlus": 84
     }
   ]
 }

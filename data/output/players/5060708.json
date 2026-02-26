@@ -5,16 +5,16 @@
   "teamName": "Ohio State Buckeyes",
   "conference": "Big Ten",
   "rank": 74,
-  "gp": 24,
+  "gp": 25,
   "ppg": 15.1,
-  "adjPpg": 15.7,
-  "pointsPlus": 165,
-  "mpg": 31.1,
+  "adjPpg": 15.8,
+  "pointsPlus": 166,
+  "mpg": 31.0,
   "position": "G",
   "jersey": "0",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 80.6,
-  "volatilityPctile": 97,
+  "pointsPlusStdDev": 79.3,
+  "volatilityPctile": 96,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -104,7 +104,7 @@
       "min": 39,
       "pts": 15,
       "adjPts": 19.4,
-      "pointsPlus": 203
+      "pointsPlus": 204
     },
     {
       "date": "2025-12-20",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 36,
       "pts": 22,
-      "adjPts": 26.1,
-      "pointsPlus": 273
+      "adjPts": 26.2,
+      "pointsPlus": 274
     },
     {
       "date": "2026-01-08",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 27,
       "pts": 9,
-      "adjPts": 8.4,
-      "pointsPlus": 88
+      "adjPts": 8.3,
+      "pointsPlus": 87
     },
     {
       "date": "2026-02-05",
@@ -231,6 +231,15 @@
       "pts": 13,
       "adjPts": 12.1,
       "pointsPlus": 127
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "OSU @ IOWA",
+      "result": "L",
+      "min": 30,
+      "pts": 15,
+      "adjPts": 18.4,
+      "pointsPlus": 193
     }
   ]
 }

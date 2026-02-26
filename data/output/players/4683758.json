@@ -4,7 +4,7 @@
   "team": "UVA",
   "teamName": "Virginia Cavaliers",
   "conference": "ACC",
-  "rank": 190,
+  "rank": 189,
   "gp": 28,
   "ppg": 12.3,
   "adjPpg": 12.2,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 60.6,
+  "pointsPlusStdDev": 60.8,
   "volatilityPctile": 71,
   "gameLog": [
     {
@@ -58,7 +58,7 @@
       "result": "W",
       "min": 32,
       "pts": 14,
-      "adjPts": 14.6,
+      "adjPts": 14.7,
       "pointsPlus": 153
     },
     {
@@ -68,7 +68,7 @@
       "min": 28,
       "pts": 24,
       "adjPts": 22.1,
-      "pointsPlus": 232
+      "pointsPlus": 231
     },
     {
       "date": "2025-11-28",
@@ -86,7 +86,7 @@
       "min": 18,
       "pts": 11,
       "adjPts": 10.2,
-      "pointsPlus": 107
+      "pointsPlus": 106
     },
     {
       "date": "2025-12-06",
@@ -131,7 +131,7 @@
       "min": 29,
       "pts": 26,
       "adjPts": 25.7,
-      "pointsPlus": 269
+      "pointsPlus": 270
     },
     {
       "date": "2026-01-03",
@@ -140,7 +140,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 12.4,
-      "pointsPlus": 129
+      "pointsPlus": 130
     },
     {
       "date": "2026-01-07",
@@ -149,7 +149,7 @@
       "min": 25,
       "pts": 20,
       "adjPts": 20.4,
-      "pointsPlus": 213
+      "pointsPlus": 214
     },
     {
       "date": "2026-01-10",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 29,
       "pts": 11,
-      "adjPts": 11.5,
+      "adjPts": 11.6,
       "pointsPlus": 121
     },
     {
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 33,
       "pts": 23,
-      "adjPts": 20.2,
-      "pointsPlus": 212
+      "adjPts": 20.4,
+      "pointsPlus": 213
     },
     {
       "date": "2026-01-24",
@@ -185,7 +185,7 @@
       "min": 28,
       "pts": 11,
       "adjPts": 11.5,
-      "pointsPlus": 120
+      "pointsPlus": 121
     },
     {
       "date": "2026-01-27",
@@ -203,7 +203,7 @@
       "min": 30,
       "pts": 14,
       "adjPts": 16.1,
-      "pointsPlus": 168
+      "pointsPlus": 169
     },
     {
       "date": "2026-02-03",
@@ -212,7 +212,7 @@
       "min": 22,
       "pts": 10,
       "adjPts": 11.0,
-      "pointsPlus": 116
+      "pointsPlus": 115
     },
     {
       "date": "2026-02-07",
@@ -239,7 +239,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 137
     },
     {
       "date": "2026-02-18",

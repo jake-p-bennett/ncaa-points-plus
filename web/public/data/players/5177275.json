@@ -4,7 +4,7 @@
   "team": "HALL",
   "teamName": "Seton Hall Pirates",
   "conference": "Big East",
-  "rank": 194,
+  "rank": 192,
   "gp": 28,
   "ppg": 12.5,
   "adjPpg": 12.2,
@@ -68,7 +68,7 @@
       "min": 27,
       "pts": 13,
       "adjPts": 12.4,
-      "pointsPlus": 129
+      "pointsPlus": 130
     },
     {
       "date": "2025-11-25",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 29,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 82
     },
     {
@@ -166,8 +166,8 @@
       "result": "L",
       "min": 27,
       "pts": 12,
-      "adjPts": 14.0,
-      "pointsPlus": 147
+      "adjPts": 14.3,
+      "pointsPlus": 150
     },
     {
       "date": "2026-01-17",
@@ -184,7 +184,7 @@
       "result": "L",
       "min": 32,
       "pts": 3,
-      "adjPts": 3.0,
+      "adjPts": 3.1,
       "pointsPlus": 32
     },
     {
@@ -194,7 +194,7 @@
       "min": 34,
       "pts": 14,
       "adjPts": 15.9,
-      "pointsPlus": 167
+      "pointsPlus": 166
     },
     {
       "date": "2026-01-28",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 36,
       "pts": 24,
-      "adjPts": 21.6,
-      "pointsPlus": 227
+      "adjPts": 21.4,
+      "pointsPlus": 224
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 34,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 189
+      "pointsPlus": 190
     },
     {
       "date": "2026-02-04",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 35,
       "pts": 18,
-      "adjPts": 19.5,
+      "adjPts": 19.4,
       "pointsPlus": 204
     },
     {
@@ -230,7 +230,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 205
+      "pointsPlus": 206
     },
     {
       "date": "2026-02-11",

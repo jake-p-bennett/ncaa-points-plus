@@ -4,17 +4,17 @@
   "team": "WIS",
   "teamName": "Wisconsin Badgers",
   "conference": "Big Ten",
-  "rank": 308,
-  "gp": 22,
-  "ppg": 9.5,
+  "rank": 306,
+  "gp": 23,
+  "ppg": 9.4,
   "adjPpg": 9.6,
   "pointsPlus": 100,
   "mpg": 22.0,
   "position": "F",
   "jersey": "22",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 61.6,
-  "volatilityPctile": 73,
+  "pointsPlusStdDev": 60.4,
+  "volatilityPctile": 70,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 20,
       "pts": 19,
-      "adjPts": 19.0,
-      "pointsPlus": 199
+      "adjPts": 19.1,
+      "pointsPlus": 200
     },
     {
       "date": "2026-02-10",
@@ -211,8 +211,17 @@
       "result": "W",
       "min": 29,
       "pts": 14,
-      "adjPts": 17.1,
-      "pointsPlus": 179
+      "adjPts": 17.2,
+      "pointsPlus": 180
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "WIS @ ORE",
+      "result": "L",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 8.3,
+      "pointsPlus": 87
     }
   ]
 }

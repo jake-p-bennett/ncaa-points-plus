@@ -4,17 +4,17 @@
   "team": "VAN",
   "teamName": "Vanderbilt Commodores",
   "conference": "SEC",
-  "rank": 341,
-  "gp": 27,
-  "ppg": 9.3,
+  "rank": 338,
+  "gp": 28,
+  "ppg": 9.4,
   "adjPpg": 8.8,
-  "pointsPlus": 92,
-  "mpg": 25.3,
+  "pointsPlus": 93,
+  "mpg": 25.6,
   "position": "F",
   "jersey": "10",
   "classYear": "Senior",
-  "pointsPlusStdDev": 52.6,
-  "volatilityPctile": 47,
+  "pointsPlusStdDev": 51.3,
+  "volatilityPctile": 43,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 28,
       "pts": 9,
-      "adjPts": 7.9,
+      "adjPts": 8.0,
       "pointsPlus": 83
     },
     {
@@ -149,7 +149,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 7.6,
-      "pointsPlus": 79
+      "pointsPlus": 80
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 34,
       "pts": 12,
-      "adjPts": 11.2,
-      "pointsPlus": 117
+      "adjPts": 11.0,
+      "pointsPlus": 115
     },
     {
       "date": "2026-01-14",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 27,
       "pts": 5,
-      "adjPts": 4.5,
-      "pointsPlus": 47
+      "adjPts": 4.4,
+      "pointsPlus": 46
     },
     {
       "date": "2026-01-27",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 32,
       "pts": 17,
-      "adjPts": 17.1,
-      "pointsPlus": 179
+      "adjPts": 16.7,
+      "pointsPlus": 174
     },
     {
       "date": "2026-02-07",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 33,
       "pts": 23,
-      "adjPts": 19.7,
-      "pointsPlus": 206
+      "adjPts": 19.5,
+      "pointsPlus": 204
     },
     {
       "date": "2026-02-18",
@@ -258,6 +258,15 @@
       "pts": 7,
       "adjPts": 7.6,
       "pointsPlus": 79
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "VAN vs UGA",
+      "result": "W",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 11.0,
+      "pointsPlus": 115
     }
   ]
 }

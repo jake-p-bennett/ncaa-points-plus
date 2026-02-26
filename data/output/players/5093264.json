@@ -7,14 +7,14 @@
   "rank": 391,
   "gp": 26,
   "ppg": 7.5,
-  "adjPpg": 7.6,
+  "adjPpg": 7.7,
   "pointsPlus": 80,
   "mpg": 20.2,
   "position": "G",
   "jersey": "11",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 57.8,
-  "volatilityPctile": 64,
+  "pointsPlusStdDev": 58.0,
+  "volatilityPctile": 65,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -67,7 +67,7 @@
       "result": "L",
       "min": 12,
       "pts": 5,
-      "adjPts": 3.9,
+      "adjPts": 3.8,
       "pointsPlus": 40
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 12.6,
-      "pointsPlus": 132
+      "adjPts": 12.7,
+      "pointsPlus": 133
     },
     {
       "date": "2026-01-22",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 34,
       "pts": 20,
-      "adjPts": 20.0,
-      "pointsPlus": 209
+      "adjPts": 20.1,
+      "pointsPlus": 210
     },
     {
       "date": "2026-01-29",
@@ -221,7 +221,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.6,
-      "pointsPlus": 131
+      "pointsPlus": 132
     },
     {
       "date": "2026-02-14",

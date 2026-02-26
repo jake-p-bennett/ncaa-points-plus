@@ -5,16 +5,16 @@
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
   "rank": 353,
-  "gp": 27,
-  "ppg": 8.3,
+  "gp": 28,
+  "ppg": 8.2,
   "adjPpg": 8.5,
   "pointsPlus": 89,
-  "mpg": 21.5,
+  "mpg": 21.2,
   "position": "G",
   "jersey": "25",
   "classYear": "Senior",
-  "pointsPlusStdDev": 68.0,
-  "volatilityPctile": 85,
+  "pointsPlusStdDev": 67.0,
+  "volatilityPctile": 84,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 19,
       "pts": 9,
-      "adjPts": 8.8,
+      "adjPts": 8.9,
       "pointsPlus": 93
     },
     {
@@ -194,7 +194,7 @@
       "min": 33,
       "pts": 20,
       "adjPts": 20.4,
-      "pointsPlus": 213
+      "pointsPlus": 214
     },
     {
       "date": "2026-01-28",
@@ -248,7 +248,7 @@
       "min": 16,
       "pts": 6,
       "adjPts": 5.6,
-      "pointsPlus": 58
+      "pointsPlus": 59
     },
     {
       "date": "2026-02-21",
@@ -258,6 +258,15 @@
       "pts": 4,
       "adjPts": 4.1,
       "pointsPlus": 43
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "STAN vs PITT",
+      "result": "W",
+      "min": 13,
+      "pts": 6,
+      "adjPts": 6.6,
+      "pointsPlus": 69
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "TTU",
   "teamName": "Texas Tech Red Raiders",
   "conference": "Big 12",
-  "rank": 618,
+  "rank": 617,
   "gp": 27,
   "ppg": 3.7,
   "adjPpg": 3.6,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 41.5,
+  "pointsPlusStdDev": 41.6,
   "volatilityPctile": 20,
   "gameLog": [
     {
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 36,
       "pts": 13,
-      "adjPts": 12.1,
-      "pointsPlus": 126
+      "adjPts": 12.2,
+      "pointsPlus": 127
     },
     {
       "date": "2025-11-21",
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 18,
       "pts": 3,
-      "adjPts": 2.8,
+      "adjPts": 2.7,
       "pointsPlus": 29
     },
     {
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 15,
       "pts": 5,
-      "adjPts": 4.5,
-      "pointsPlus": 47
+      "adjPts": 4.6,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-14",

@@ -5,16 +5,16 @@
   "teamName": "Ole Miss Rebels",
   "conference": "SEC",
   "rank": 363,
-  "gp": 27,
+  "gp": 28,
   "ppg": 8.8,
   "adjPpg": 8.3,
   "pointsPlus": 87,
-  "mpg": 23.4,
+  "mpg": 23.8,
   "position": "G",
   "jersey": "23",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 54.3,
-  "volatilityPctile": 52,
+  "pointsPlusStdDev": 53.3,
+  "volatilityPctile": 49,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 40,
       "pts": 18,
-      "adjPts": 15.3,
-      "pointsPlus": 160
+      "adjPts": 15.2,
+      "pointsPlus": 159
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 28,
       "pts": 4,
-      "adjPts": 3.6,
-      "pointsPlus": 38
+      "adjPts": 3.5,
+      "pointsPlus": 37
     },
     {
       "date": "2026-01-20",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 35,
       "pts": 10,
-      "adjPts": 9.3,
+      "adjPts": 9.2,
       "pointsPlus": 97
     },
     {
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 27,
       "pts": 11,
-      "adjPts": 9.4,
-      "pointsPlus": 99
+      "adjPts": 9.3,
+      "pointsPlus": 97
     },
     {
       "date": "2026-02-21",
@@ -257,7 +257,16 @@
       "min": 36,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "MISS vs LSU",
+      "result": "L",
+      "min": 35,
+      "pts": 8,
+      "adjPts": 7.3,
+      "pointsPlus": 77
     }
   ]
 }

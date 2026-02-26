@@ -4,17 +4,17 @@
   "team": "LSU",
   "teamName": "LSU Tigers",
   "conference": "SEC",
-  "rank": 142,
-  "gp": 27,
-  "ppg": 14.0,
-  "adjPpg": 13.5,
-  "pointsPlus": 141,
-  "mpg": 31.4,
+  "rank": 157,
+  "gp": 28,
+  "ppg": 13.5,
+  "adjPpg": 13.0,
+  "pointsPlus": 136,
+  "mpg": 30.8,
   "position": "F",
   "jersey": "10",
   "classYear": "Senior",
-  "pointsPlusStdDev": 59.1,
-  "volatilityPctile": 68,
+  "pointsPlusStdDev": 63.8,
+  "volatilityPctile": 77,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 40,
       "pts": 18,
-      "adjPts": 20.6,
-      "pointsPlus": 216
+      "adjPts": 20.7,
+      "pointsPlus": 217
     },
     {
       "date": "2025-12-07",
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 20.2,
-      "pointsPlus": 212
+      "adjPts": 20.4,
+      "pointsPlus": 213
     },
     {
       "date": "2025-12-19",
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 29,
       "pts": 3,
-      "adjPts": 2.6,
+      "adjPts": 2.5,
       "pointsPlus": 27
     },
     {
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 12.3,
-      "pointsPlus": 129
+      "adjPts": 12.2,
+      "pointsPlus": 128
     },
     {
       "date": "2026-01-14",
@@ -185,7 +185,7 @@
       "min": 37,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-24",
@@ -194,7 +194,7 @@
       "min": 29,
       "pts": 11,
       "adjPts": 9.3,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-28",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 24,
       "pts": 4,
-      "adjPts": 3.6,
-      "pointsPlus": 38
+      "adjPts": 3.5,
+      "pointsPlus": 37
     },
     {
       "date": "2026-01-31",
@@ -212,7 +212,7 @@
       "min": 38,
       "pts": 16,
       "adjPts": 15.4,
-      "pointsPlus": 161
+      "pointsPlus": 162
     },
     {
       "date": "2026-02-07",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 31,
       "pts": 14,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 124
     },
     {
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 37,
       "pts": 18,
-      "adjPts": 15.3,
-      "pointsPlus": 160
+      "adjPts": 15.2,
+      "pointsPlus": 159
     },
     {
       "date": "2026-02-14",
@@ -248,7 +248,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 19.4,
-      "pointsPlus": 204
+      "pointsPlus": 203
     },
     {
       "date": "2026-02-21",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 35,
       "pts": 21,
-      "adjPts": 15.9,
-      "pointsPlus": 166
+      "adjPts": 16.0,
+      "pointsPlus": 167
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "LSU @ MISS",
+      "result": "W",
+      "min": 15,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

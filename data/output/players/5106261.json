@@ -4,16 +4,16 @@
   "team": "MIA",
   "teamName": "Miami Hurricanes",
   "conference": "ACC",
-  "rank": 431,
+  "rank": 430,
   "gp": 26,
   "ppg": 6.9,
   "adjPpg": 6.9,
-  "pointsPlus": 72,
+  "pointsPlus": 73,
   "mpg": 27.1,
   "position": "C",
   "jersey": "8",
   "classYear": "Senior",
-  "pointsPlusStdDev": 46.7,
+  "pointsPlusStdDev": 46.8,
   "volatilityPctile": 33,
   "gameLog": [
     {
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 24,
       "pts": 10,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.4,
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-10",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 12.2,
+      "adjPts": 12.3,
       "pointsPlus": 128
     },
     {

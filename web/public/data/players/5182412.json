@@ -4,17 +4,17 @@
   "team": "VILL",
   "teamName": "Villanova Wildcats",
   "conference": "Big East",
-  "rank": 127,
-  "gp": 27,
-  "ppg": 13.8,
-  "adjPpg": 13.8,
-  "pointsPlus": 145,
-  "mpg": 29.2,
+  "rank": 134,
+  "gp": 28,
+  "ppg": 13.7,
+  "adjPpg": 13.7,
+  "pointsPlus": 144,
+  "mpg": 29.1,
   "position": "G",
   "jersey": "4",
   "classYear": "Junior",
-  "pointsPlusStdDev": 62.9,
-  "volatilityPctile": 76,
+  "pointsPlusStdDev": 62.5,
+  "volatilityPctile": 75,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -112,8 +112,8 @@
       "result": "W",
       "min": 37,
       "pts": 19,
-      "adjPts": 17.7,
-      "pointsPlus": 185
+      "adjPts": 17.6,
+      "pointsPlus": 184
     },
     {
       "date": "2025-12-23",
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 31,
       "pts": 18,
-      "adjPts": 17.6,
-      "pointsPlus": 184
+      "adjPts": 17.7,
+      "pointsPlus": 185
     },
     {
       "date": "2026-01-10",
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 31,
       "pts": 15,
-      "adjPts": 11.6,
+      "adjPts": 11.5,
       "pointsPlus": 121
     },
     {
@@ -175,8 +175,8 @@
       "result": "L",
       "min": 27,
       "pts": 23,
-      "adjPts": 23.3,
-      "pointsPlus": 244
+      "adjPts": 23.5,
+      "pointsPlus": 246
     },
     {
       "date": "2026-01-21",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 39,
       "pts": 16,
-      "adjPts": 18.7,
-      "pointsPlus": 196
+      "adjPts": 19.1,
+      "pointsPlus": 200
     },
     {
       "date": "2026-01-30",
@@ -238,8 +238,8 @@
       "result": "W",
       "min": 36,
       "pts": 17,
-      "adjPts": 16.6,
-      "pointsPlus": 174
+      "adjPts": 16.7,
+      "pointsPlus": 175
     },
     {
       "date": "2026-02-17",
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 36,
       "pts": 17,
-      "adjPts": 15.3,
-      "pointsPlus": 160
+      "adjPts": 15.2,
+      "pointsPlus": 159
     },
     {
       "date": "2026-02-21",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 32,
       "pts": 15,
-      "adjPts": 17.5,
-      "pointsPlus": 184
+      "adjPts": 17.9,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "VILL vs BUT",
+      "result": "W",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 10.1,
+      "pointsPlus": 106
     }
   ]
 }

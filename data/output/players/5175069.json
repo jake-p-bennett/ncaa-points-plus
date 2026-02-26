@@ -4,7 +4,7 @@
   "team": "UCF",
   "teamName": "UCF Knights",
   "conference": "Big 12",
-  "rank": 445,
+  "rank": 449,
   "gp": 26,
   "ppg": 6.5,
   "adjPpg": 6.7,
@@ -14,7 +14,7 @@
   "jersey": "22",
   "classYear": "Junior",
   "pointsPlusStdDev": 52.8,
-  "volatilityPctile": 48,
+  "volatilityPctile": 47,
   "gameLog": [
     {
       "date": "2025-11-08",
@@ -22,8 +22,8 @@
       "result": "L",
       "min": 15,
       "pts": 17,
-      "adjPts": 16.1,
-      "pointsPlus": 168
+      "adjPts": 16.0,
+      "pointsPlus": 167
     },
     {
       "date": "2025-11-11",
@@ -175,7 +175,7 @@
       "result": "W",
       "min": 16,
       "pts": 10,
-      "adjPts": 9.0,
+      "adjPts": 9.1,
       "pointsPlus": 95
     },
     {
@@ -248,7 +248,7 @@
       "min": 28,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 87
+      "pointsPlus": 88
     }
   ]
 }

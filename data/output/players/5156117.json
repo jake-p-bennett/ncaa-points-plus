@@ -5,16 +5,16 @@
   "teamName": "Providence Friars",
   "conference": "Big East",
   "rank": 335,
-  "gp": 27,
+  "gp": 28,
   "ppg": 8.6,
   "adjPpg": 8.9,
   "pointsPlus": 93,
-  "mpg": 24.1,
+  "mpg": 24.3,
   "position": "G",
   "jersey": "11",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 61.3,
-  "volatilityPctile": 73,
+  "pointsPlusStdDev": 60.8,
+  "volatilityPctile": 71,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -49,7 +49,7 @@
       "result": "L",
       "min": 26,
       "pts": 10,
-      "adjPts": 9.0,
+      "adjPts": 9.1,
       "pointsPlus": 95
     },
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 26,
       "pts": 19,
-      "adjPts": 22.2,
-      "pointsPlus": 232
+      "adjPts": 22.7,
+      "pointsPlus": 238
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 7.2,
-      "pointsPlus": 76
+      "adjPts": 7.1,
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-13",
@@ -176,7 +176,7 @@
       "min": 24,
       "pts": 14,
       "adjPts": 13.7,
-      "pointsPlus": 143
+      "pointsPlus": 144
     },
     {
       "date": "2026-01-19",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 26,
       "pts": 6,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 7.2,
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-30",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 32,
       "pts": 14,
-      "adjPts": 15.2,
-      "pointsPlus": 159
+      "adjPts": 15.1,
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-04",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 16,
       "pts": 4,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 54
     },
     {
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 38,
       "pts": 14,
-      "adjPts": 14.2,
-      "pointsPlus": 149
+      "adjPts": 14.3,
+      "pointsPlus": 150
     },
     {
       "date": "2026-02-21",
@@ -258,6 +258,15 @@
       "pts": 3,
       "adjPts": 3.4,
       "pointsPlus": 36
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "PROV vs XAV",
+      "result": "W",
+      "min": 30,
+      "pts": 9,
+      "adjPts": 8.0,
+      "pointsPlus": 84
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "SC",
   "teamName": "South Carolina Gamecocks",
   "conference": "SEC",
-  "rank": 286,
+  "rank": 289,
   "gp": 28,
   "ppg": 10.6,
   "adjPpg": 10.0,
-  "pointsPlus": 105,
+  "pointsPlus": 104,
   "mpg": 29.9,
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 40.2,
-  "volatilityPctile": 18,
+  "pointsPlusStdDev": 40.1,
+  "volatilityPctile": 17,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 27,
       "pts": 7,
-      "adjPts": 6.5,
+      "adjPts": 6.4,
       "pointsPlus": 68
     },
     {
@@ -139,7 +139,7 @@
       "result": "L",
       "min": 27,
       "pts": 6,
-      "adjPts": 5.7,
+      "adjPts": 5.6,
       "pointsPlus": 59
     },
     {
@@ -149,7 +149,7 @@
       "min": 19,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 39
+      "pointsPlus": 38
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "L",
       "min": 35,
       "pts": 10,
-      "adjPts": 8.5,
-      "pointsPlus": 89
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-14",
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 38,
       "pts": 18,
-      "adjPts": 15.4,
-      "pointsPlus": 161
+      "adjPts": 15.2,
+      "pointsPlus": 160
     },
     {
       "date": "2026-01-28",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 37,
       "pts": 15,
-      "adjPts": 14.0,
-      "pointsPlus": 147
+      "adjPts": 13.7,
+      "pointsPlus": 143
     },
     {
       "date": "2026-02-03",
@@ -221,7 +221,7 @@
       "min": 34,
       "pts": 8,
       "adjPts": 7.4,
-      "pointsPlus": 78
+      "pointsPlus": 77
     },
     {
       "date": "2026-02-07",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 35,
       "pts": 21,
-      "adjPts": 15.9,
-      "pointsPlus": 166
+      "adjPts": 16.0,
+      "pointsPlus": 167
     },
     {
       "date": "2026-02-17",
@@ -256,8 +256,8 @@
       "result": "W",
       "min": 27,
       "pts": 17,
-      "adjPts": 15.2,
-      "pointsPlus": 160
+      "adjPts": 15.0,
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-24",

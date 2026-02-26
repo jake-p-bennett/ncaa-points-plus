@@ -4,17 +4,17 @@
   "team": "SJU",
   "teamName": "St. John's Red Storm",
   "conference": "Big East",
-  "rank": 342,
-  "gp": 27,
-  "ppg": 8.7,
-  "adjPpg": 8.8,
-  "pointsPlus": 92,
-  "mpg": 26.9,
+  "rank": 354,
+  "gp": 28,
+  "ppg": 8.4,
+  "adjPpg": 8.5,
+  "pointsPlus": 89,
+  "mpg": 27.3,
   "position": "F",
   "jersey": "1",
   "classYear": "Senior",
-  "pointsPlusStdDev": 56.4,
-  "volatilityPctile": 60,
+  "pointsPlusStdDev": 58.2,
+  "volatilityPctile": 65,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 29,
       "pts": 7,
       "adjPts": 5.3,
-      "pointsPlus": 55
+      "pointsPlus": 56
     },
     {
       "date": "2025-11-15",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 23,
       "pts": 7,
-      "adjPts": 7.1,
-      "pointsPlus": 74
+      "adjPts": 6.9,
+      "pointsPlus": 72
     },
     {
       "date": "2025-12-13",
@@ -157,7 +157,7 @@
       "result": "W",
       "min": 19,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 82
     },
     {
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 38,
       "pts": 17,
-      "adjPts": 15.3,
-      "pointsPlus": 160
+      "adjPts": 15.2,
+      "pointsPlus": 159
     },
     {
       "date": "2026-01-28",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 35,
       "pts": 15,
-      "adjPts": 17.5,
-      "pointsPlus": 184
+      "adjPts": 17.9,
+      "pointsPlus": 188
     },
     {
       "date": "2026-02-09",
@@ -230,7 +230,7 @@
       "min": 42,
       "pts": 4,
       "adjPts": 3.6,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2026-02-14",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 24,
       "pts": 5,
-      "adjPts": 3.9,
+      "adjPts": 3.8,
       "pointsPlus": 40
     },
     {
@@ -257,7 +257,16 @@
       "min": 29,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 61
+      "pointsPlus": 62
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "SJU @ CONN",
+      "result": "L",
+      "min": 37,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

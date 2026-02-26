@@ -4,17 +4,17 @@
   "team": "FLA",
   "teamName": "Florida Gators",
   "conference": "SEC",
-  "rank": 138,
-  "gp": 26,
-  "ppg": 14.0,
-  "adjPpg": 13.6,
-  "pointsPlus": 143,
-  "mpg": 30.5,
+  "rank": 121,
+  "gp": 27,
+  "ppg": 14.3,
+  "adjPpg": 13.9,
+  "pointsPlus": 146,
+  "mpg": 30.6,
   "position": "F",
   "jersey": "21",
   "classYear": "Junior",
-  "pointsPlusStdDev": 61.0,
-  "volatilityPctile": 72,
+  "pointsPlusStdDev": 61.4,
+  "volatilityPctile": 73,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 37,
       "pts": 12,
-      "adjPts": 14.6,
+      "adjPts": 14.7,
       "pointsPlus": 153
     },
     {
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 36,
       "pts": 14,
-      "adjPts": 16.4,
-      "pointsPlus": 171
+      "adjPts": 16.7,
+      "pointsPlus": 175
     },
     {
       "date": "2025-12-13",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 32,
       "pts": 21,
-      "adjPts": 17.8,
+      "adjPts": 17.7,
       "pointsPlus": 186
     },
     {
@@ -158,7 +158,7 @@
       "min": 33,
       "pts": 10,
       "adjPts": 8.9,
-      "pointsPlus": 93
+      "pointsPlus": 94
     },
     {
       "date": "2026-01-17",
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 28,
       "pts": 16,
-      "adjPts": 15.1,
+      "adjPts": 15.0,
       "pointsPlus": 158
     },
     {
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 31,
       "pts": 10,
-      "adjPts": 9.3,
-      "pointsPlus": 98
+      "adjPts": 9.1,
+      "pointsPlus": 96
     },
     {
       "date": "2026-01-24",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 33,
       "pts": 25,
-      "adjPts": 18.9,
-      "pointsPlus": 198
+      "adjPts": 19.0,
+      "pointsPlus": 199
     },
     {
       "date": "2026-02-07",
@@ -212,7 +212,7 @@
       "min": 20,
       "pts": 4,
       "adjPts": 3.4,
-      "pointsPlus": 36
+      "pointsPlus": 35
     },
     {
       "date": "2026-02-11",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 27,
       "pts": 12,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 106
     },
     {
@@ -247,8 +247,17 @@
       "result": "W",
       "min": 30,
       "pts": 24,
-      "adjPts": 24.2,
-      "pointsPlus": 253
+      "adjPts": 23.5,
+      "pointsPlus": 246
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "FLA @ TEX",
+      "result": "W",
+      "min": 34,
+      "pts": 23,
+      "adjPts": 21.2,
+      "pointsPlus": 222
     }
   ]
 }

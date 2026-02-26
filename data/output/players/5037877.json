@@ -4,16 +4,16 @@
   "team": "MD",
   "teamName": "Maryland Terrapins",
   "conference": "Big Ten",
-  "rank": 665,
-  "gp": 17,
+  "rank": 663,
+  "gp": 18,
   "ppg": 1.4,
-  "adjPpg": 1.4,
+  "adjPpg": 1.5,
   "pointsPlus": 15,
-  "mpg": 13.0,
+  "mpg": 12.7,
   "position": "G",
   "jersey": "11",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 21.4,
+  "pointsPlusStdDev": 21.0,
   "volatilityPctile": 1,
   "gameLog": [
     {
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 12,
       "pts": 3,
-      "adjPts": 3.1,
+      "adjPts": 3.2,
       "pointsPlus": 33
     },
     {
@@ -168,6 +168,15 @@
       "pts": 2,
       "adjPts": 2.1,
       "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "MD @ NEB",
+      "result": "L",
+      "min": 8,
+      "pts": 2,
+      "adjPts": 2.4,
+      "pointsPlus": 25
     }
   ]
 }

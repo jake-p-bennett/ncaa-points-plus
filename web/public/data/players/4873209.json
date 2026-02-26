@@ -4,7 +4,7 @@
   "team": "DUKE",
   "teamName": "Duke Blue Devils",
   "conference": "ACC",
-  "rank": 254,
+  "rank": 251,
   "gp": 27,
   "ppg": 10.7,
   "adjPpg": 10.7,
@@ -13,7 +13,7 @@
   "position": "C",
   "jersey": "21",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 37.3,
+  "pointsPlusStdDev": 37.5,
   "volatilityPctile": 12,
   "gameLog": [
     {
@@ -22,7 +22,7 @@
       "result": "W",
       "min": 24,
       "pts": 10,
-      "adjPts": 9.3,
+      "adjPts": 9.2,
       "pointsPlus": 97
     },
     {
@@ -58,7 +58,7 @@
       "result": "W",
       "min": 27,
       "pts": 13,
-      "adjPts": 14.7,
+      "adjPts": 14.8,
       "pointsPlus": 154
     },
     {
@@ -86,7 +86,7 @@
       "min": 29,
       "pts": 11,
       "adjPts": 9.3,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-02",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 27,
       "pts": 17,
-      "adjPts": 14.9,
-      "pointsPlus": 156
+      "adjPts": 15.0,
+      "pointsPlus": 158
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 23,
       "pts": 8,
-      "adjPts": 8.1,
-      "pointsPlus": 85
+      "adjPts": 8.2,
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-17",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 17,
       "pts": 13,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.7,
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-24",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 15,
       "pts": 13,
-      "adjPts": 12.1,
-      "pointsPlus": 126
+      "adjPts": 12.2,
+      "pointsPlus": 127
     },
     {
       "date": "2026-01-26",
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 24,
       "pts": 15,
-      "adjPts": 14.7,
+      "adjPts": 14.8,
       "pointsPlus": 154
     },
     {
@@ -257,7 +257,7 @@
       "min": 15,
       "pts": 13,
       "adjPts": 13.2,
-      "pointsPlus": 138
+      "pointsPlus": 139
     }
   ]
 }

@@ -4,7 +4,7 @@
   "team": "IU",
   "teamName": "Indiana Hoosiers",
   "conference": "Big Ten",
-  "rank": 574,
+  "rank": 573,
   "gp": 28,
   "ppg": 4.4,
   "adjPpg": 4.4,
@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "11",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 42.7,
+  "pointsPlusStdDev": 42.8,
   "volatilityPctile": 22,
   "gameLog": [
     {
@@ -68,7 +68,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 10.3,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-11-29",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 8,
       "pts": 2,
-      "adjPts": 2.4,
+      "adjPts": 2.5,
       "pointsPlus": 26
     },
     {
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 15,
       "pts": 3,
-      "adjPts": 3.1,
+      "adjPts": 3.2,
       "pointsPlus": 33
     },
     {

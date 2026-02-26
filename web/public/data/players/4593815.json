@@ -4,17 +4,17 @@
   "team": "TA&M",
   "teamName": "Texas A&M Aggies",
   "conference": "SEC",
-  "rank": 152,
-  "gp": 27,
-  "ppg": 14.0,
+  "rank": 151,
+  "gp": 28,
+  "ppg": 14.1,
   "adjPpg": 13.2,
   "pointsPlus": 138,
-  "mpg": 25.9,
+  "mpg": 26.0,
   "position": "F",
   "jersey": "12",
   "classYear": "Senior",
-  "pointsPlusStdDev": 51.6,
-  "volatilityPctile": 43,
+  "pointsPlusStdDev": 50.3,
+  "volatilityPctile": 40,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 28,
       "pts": 21,
-      "adjPts": 23.2,
-      "pointsPlus": 243
+      "adjPts": 23.1,
+      "pointsPlus": 242
     },
     {
       "date": "2025-12-07",
@@ -103,7 +103,7 @@
       "result": "L",
       "min": 35,
       "pts": 13,
-      "adjPts": 11.4,
+      "adjPts": 11.5,
       "pointsPlus": 120
     },
     {
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 32,
       "pts": 15,
-      "adjPts": 14.0,
-      "pointsPlus": 147
+      "adjPts": 13.7,
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-06",
@@ -176,7 +176,7 @@
       "min": 33,
       "pts": 17,
       "adjPts": 15.7,
-      "pointsPlus": 165
+      "pointsPlus": 164
     },
     {
       "date": "2026-01-21",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 27,
       "pts": 23,
-      "adjPts": 20.6,
-      "pointsPlus": 216
+      "adjPts": 20.4,
+      "pointsPlus": 213
     },
     {
       "date": "2026-01-24",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 30,
       "pts": 18,
-      "adjPts": 15.3,
-      "pointsPlus": 160
+      "adjPts": 15.2,
+      "pointsPlus": 159
     },
     {
       "date": "2026-02-04",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 28,
       "pts": 21,
-      "adjPts": 15.9,
-      "pointsPlus": 166
+      "adjPts": 16.0,
+      "pointsPlus": 167
     },
     {
       "date": "2026-02-07",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 27,
       "pts": 8,
-      "adjPts": 7.6,
+      "adjPts": 7.5,
       "pointsPlus": 79
     },
     {
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 32,
       "pts": 17,
-      "adjPts": 17.1,
-      "pointsPlus": 179
+      "adjPts": 16.7,
+      "pointsPlus": 174
     },
     {
       "date": "2026-02-21",
@@ -258,6 +258,15 @@
       "pts": 18,
       "adjPts": 16.1,
       "pointsPlus": 168
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "TA&M @ ARK",
+      "result": "L",
+      "min": 28,
+      "pts": 17,
+      "adjPts": 14.4,
+      "pointsPlus": 150
     }
   ]
 }

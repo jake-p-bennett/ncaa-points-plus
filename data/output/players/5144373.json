@@ -4,7 +4,7 @@
   "team": "ND",
   "teamName": "Notre Dame Fighting Irish",
   "conference": "ACC",
-  "rank": 179,
+  "rank": 180,
   "gp": 28,
   "ppg": 12.1,
   "adjPpg": 12.5,
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 14,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.3,
       "pointsPlus": 55
     },
     {
@@ -148,8 +148,8 @@
       "result": "L",
       "min": 24,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 170
+      "adjPts": 16.4,
+      "pointsPlus": 171
     },
     {
       "date": "2026-01-10",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 37,
       "pts": 16,
-      "adjPts": 14.1,
-      "pointsPlus": 147
+      "adjPts": 14.2,
+      "pointsPlus": 148
     },
     {
       "date": "2026-02-14",
@@ -256,7 +256,7 @@
       "result": "L",
       "min": 38,
       "pts": 16,
-      "adjPts": 17.7,
+      "adjPts": 17.6,
       "pointsPlus": 185
     },
     {

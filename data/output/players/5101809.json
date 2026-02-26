@@ -4,7 +4,7 @@
   "team": "MIA",
   "teamName": "Miami Hurricanes",
   "conference": "ACC",
-  "rank": 98,
+  "rank": 101,
   "gp": 28,
   "ppg": 14.3,
   "adjPpg": 14.5,
@@ -14,7 +14,7 @@
   "jersey": "7",
   "classYear": "Freshman",
   "pointsPlusStdDev": 59.9,
-  "volatilityPctile": 70,
+  "volatilityPctile": 69,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -94,8 +94,8 @@
       "result": "W",
       "min": 32,
       "pts": 18,
-      "adjPts": 18.1,
-      "pointsPlus": 190
+      "adjPts": 17.6,
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-06",
@@ -140,7 +140,7 @@
       "min": 35,
       "pts": 10,
       "adjPts": 11.0,
-      "pointsPlus": 116
+      "pointsPlus": 115
     },
     {
       "date": "2026-01-07",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 31,
       "pts": 9,
-      "adjPts": 8.3,
-      "pointsPlus": 87
+      "adjPts": 8.4,
+      "pointsPlus": 88
     },
     {
       "date": "2026-01-10",
@@ -203,7 +203,7 @@
       "min": 34,
       "pts": 12,
       "adjPts": 12.6,
-      "pointsPlus": 131
+      "pointsPlus": 132
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 33,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 170
+      "adjPts": 16.4,
+      "pointsPlus": 171
     },
     {
       "date": "2026-02-07",
@@ -221,7 +221,7 @@
       "min": 35,
       "pts": 19,
       "adjPts": 21.8,
-      "pointsPlus": 228
+      "pointsPlus": 229
     },
     {
       "date": "2026-02-10",

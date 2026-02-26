@@ -4,7 +4,7 @@
   "team": "UNC",
   "teamName": "North Carolina Tar Heels",
   "conference": "ACC",
-  "rank": 564,
+  "rank": 562,
   "gp": 28,
   "ppg": 4.5,
   "adjPpg": 4.5,
@@ -14,7 +14,7 @@
   "jersey": "0",
   "classYear": "Junior",
   "pointsPlusStdDev": 46.3,
-  "volatilityPctile": 32,
+  "volatilityPctile": 31,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -148,7 +148,7 @@
       "result": "L",
       "min": 14,
       "pts": 3,
-      "adjPts": 2.6,
+      "adjPts": 2.7,
       "pointsPlus": 28
     },
     {
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 28,
       "pts": 3,
-      "adjPts": 3.1,
+      "adjPts": 3.2,
       "pointsPlus": 33
     },
     {
@@ -265,7 +265,7 @@
       "result": "W",
       "min": 16,
       "pts": 3,
-      "adjPts": 2.9,
+      "adjPts": 3.0,
       "pointsPlus": 31
     }
   ]

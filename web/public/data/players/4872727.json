@@ -4,7 +4,7 @@
   "team": "ND",
   "teamName": "Notre Dame Fighting Irish",
   "conference": "ACC",
-  "rank": 562,
+  "rank": 561,
   "gp": 28,
   "ppg": 4.4,
   "adjPpg": 4.5,
@@ -14,7 +14,7 @@
   "jersey": "2",
   "classYear": "Junior",
   "pointsPlusStdDev": 45.1,
-  "volatilityPctile": 28,
+  "volatilityPctile": 27,
   "gameLog": [
     {
       "date": "2025-11-03",

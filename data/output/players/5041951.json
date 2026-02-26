@@ -4,17 +4,17 @@
   "team": "ARK",
   "teamName": "Arkansas Razorbacks",
   "conference": "SEC",
-  "rank": 88,
-  "gp": 27,
-  "ppg": 15.3,
-  "adjPpg": 14.9,
-  "pointsPlus": 156,
+  "rank": 92,
+  "gp": 28,
+  "ppg": 15.2,
+  "adjPpg": 14.7,
+  "pointsPlus": 154,
   "mpg": 28.9,
   "position": "G",
   "jersey": "1",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 57.9,
-  "volatilityPctile": 64,
+  "pointsPlusStdDev": 57.3,
+  "volatilityPctile": 62,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 25,
       "pts": 13,
-      "adjPts": 13.1,
-      "pointsPlus": 137
+      "adjPts": 12.7,
+      "pointsPlus": 133
     },
     {
       "date": "2026-01-10",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 31,
       "pts": 13,
-      "adjPts": 12.3,
-      "pointsPlus": 129
+      "adjPts": 12.2,
+      "pointsPlus": 128
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 26,
       "pts": 14,
-      "adjPts": 13.1,
-      "pointsPlus": 137
+      "adjPts": 12.8,
+      "pointsPlus": 134
     },
     {
       "date": "2026-01-27",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 40,
       "pts": 17,
-      "adjPts": 15.2,
-      "pointsPlus": 160
+      "adjPts": 15.0,
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-10",
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 34,
       "pts": 20,
-      "adjPts": 18.7,
-      "pointsPlus": 195
+      "adjPts": 18.3,
+      "pointsPlus": 191
     },
     {
       "date": "2026-02-14",
@@ -248,7 +248,7 @@
       "min": 37,
       "pts": 24,
       "adjPts": 18.2,
-      "pointsPlus": 190
+      "pointsPlus": 191
     },
     {
       "date": "2026-02-21",
@@ -258,6 +258,15 @@
       "pts": 14,
       "adjPts": 13.5,
       "pointsPlus": 141
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "ARK vs TA&M",
+      "result": "W",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 11.0,
+      "pointsPlus": 115
     }
   ]
 }

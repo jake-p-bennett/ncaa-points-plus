@@ -4,7 +4,7 @@
   "team": "WVU",
   "teamName": "West Virginia Mountaineers",
   "conference": "Big 12",
-  "rank": 288,
+  "rank": 290,
   "gp": 28,
   "ppg": 10.1,
   "adjPpg": 10.0,
@@ -76,8 +76,8 @@
       "result": "L",
       "min": 30,
       "pts": 20,
-      "adjPts": 18.0,
-      "pointsPlus": 189
+      "adjPts": 17.8,
+      "pointsPlus": 187
     },
     {
       "date": "2025-11-30",
@@ -122,7 +122,7 @@
       "min": 23,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 52
+      "pointsPlus": 53
     },
     {
       "date": "2025-12-22",
@@ -175,8 +175,8 @@
       "result": "W",
       "min": 37,
       "pts": 22,
-      "adjPts": 19.9,
-      "pointsPlus": 208
+      "adjPts": 20.0,
+      "pointsPlus": 210
     },
     {
       "date": "2026-01-21",
@@ -203,7 +203,7 @@
       "min": 34,
       "pts": 12,
       "adjPts": 10.3,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2026-01-31",

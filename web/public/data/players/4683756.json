@@ -13,7 +13,7 @@
   "position": "F",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 54.2,
+  "pointsPlusStdDev": 54.0,
   "volatilityPctile": 51,
   "gameLog": [
     {
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 22,
       "pts": 9,
-      "adjPts": 9.1,
-      "pointsPlus": 95
+      "adjPts": 9.2,
+      "pointsPlus": 96
     },
     {
       "date": "2025-12-03",
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 22,
       "pts": 12,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 106
     },
     {
@@ -130,8 +130,8 @@
       "result": "L",
       "min": 27,
       "pts": 8,
-      "adjPts": 6.9,
-      "pointsPlus": 72
+      "adjPts": 6.8,
+      "pointsPlus": 71
     },
     {
       "date": "2026-01-10",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 27,
       "pts": 16,
-      "adjPts": 13.6,
+      "adjPts": 13.5,
       "pointsPlus": 142
     },
     {
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 23,
       "pts": 16,
-      "adjPts": 16.1,
-      "pointsPlus": 169
+      "adjPts": 15.7,
+      "pointsPlus": 164
     },
     {
       "date": "2026-01-24",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 26,
       "pts": 6,
-      "adjPts": 5.6,
+      "adjPts": 5.5,
       "pointsPlus": 58
     },
     {
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 27,
       "pts": 13,
-      "adjPts": 9.8,
+      "adjPts": 9.9,
       "pointsPlus": 103
     },
     {
@@ -212,7 +212,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 11.3,
-      "pointsPlus": 119
+      "pointsPlus": 118
     },
     {
       "date": "2026-02-14",
@@ -220,8 +220,8 @@
       "result": "L",
       "min": 34,
       "pts": 22,
-      "adjPts": 18.7,
-      "pointsPlus": 196
+      "adjPts": 18.6,
+      "pointsPlus": 195
     },
     {
       "date": "2026-02-18",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 32,
       "pts": 7,
-      "adjPts": 6.3,
-      "pointsPlus": 66
+      "adjPts": 6.2,
+      "pointsPlus": 65
     },
     {
       "date": "2026-02-21",

@@ -4,17 +4,17 @@
   "team": "PSU",
   "teamName": "Penn State Nittany Lions",
   "conference": "Big Ten",
-  "rank": 314,
+  "rank": 315,
   "gp": 26,
   "ppg": 9.3,
-  "adjPpg": 9.4,
+  "adjPpg": 9.5,
   "pointsPlus": 99,
   "mpg": 26.2,
   "position": "F",
   "jersey": "3",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 53.2,
-  "volatilityPctile": 48,
+  "pointsPlusStdDev": 53.3,
+  "volatilityPctile": 49,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -149,7 +149,7 @@
       "min": 24,
       "pts": 20,
       "adjPts": 20.7,
-      "pointsPlus": 216
+      "pointsPlus": 217
     },
     {
       "date": "2026-01-10",
@@ -166,7 +166,7 @@
       "result": "L",
       "min": 35,
       "pts": 9,
-      "adjPts": 9.4,
+      "adjPts": 9.5,
       "pointsPlus": 99
     },
     {
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 30,
       "pts": 9,
-      "adjPts": 8.7,
+      "adjPts": 8.8,
       "pointsPlus": 92
     },
     {
@@ -194,7 +194,7 @@
       "min": 37,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 146
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-29",
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 28,
       "pts": 14,
-      "adjPts": 14.6,
+      "adjPts": 14.7,
       "pointsPlus": 153
     },
     {
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 28,
       "pts": 13,
-      "adjPts": 15.4,
-      "pointsPlus": 161
+      "adjPts": 15.5,
+      "pointsPlus": 162
     }
   ]
 }

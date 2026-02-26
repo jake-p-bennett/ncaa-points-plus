@@ -4,7 +4,7 @@
   "team": "TENN",
   "teamName": "Tennessee Volunteers",
   "conference": "SEC",
-  "rank": 450,
+  "rank": 453,
   "gp": 25,
   "ppg": 6.8,
   "adjPpg": 6.6,
@@ -13,7 +13,7 @@
   "position": "G",
   "jersey": "3",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 32.7,
+  "pointsPlusStdDev": 32.5,
   "volatilityPctile": 6,
   "gameLog": [
     {
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 43,
       "pts": 13,
-      "adjPts": 11.1,
-      "pointsPlus": 117
+      "adjPts": 11.0,
+      "pointsPlus": 115
     },
     {
       "date": "2026-01-17",
@@ -158,7 +158,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 6.1,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-28",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 33,
       "pts": 10,
-      "adjPts": 10.1,
-      "pointsPlus": 106
+      "adjPts": 9.8,
+      "pointsPlus": 103
     },
     {
       "date": "2026-02-07",
@@ -202,8 +202,8 @@
       "result": "W",
       "min": 30,
       "pts": 4,
-      "adjPts": 3.6,
-      "pointsPlus": 38
+      "adjPts": 3.5,
+      "pointsPlus": 37
     },
     {
       "date": "2026-02-14",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 22,
       "pts": 2,
-      "adjPts": 1.9,
-      "pointsPlus": 20
+      "adjPts": 1.8,
+      "pointsPlus": 19
     },
     {
       "date": "2026-02-18",

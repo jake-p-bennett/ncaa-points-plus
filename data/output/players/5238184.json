@@ -4,17 +4,17 @@
   "team": "SMU",
   "teamName": "SMU Mustangs",
   "conference": "ACC",
-  "rank": 239,
-  "gp": 27,
+  "rank": 240,
+  "gp": 28,
   "ppg": 10.8,
   "adjPpg": 10.9,
   "pointsPlus": 114,
-  "mpg": 28.1,
+  "mpg": 28.2,
   "position": "C",
   "jersey": "24",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 38.2,
-  "volatilityPctile": 13,
+  "pointsPlusStdDev": 37.7,
+  "volatilityPctile": 12,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 35,
       "pts": 5,
-      "adjPts": 4.5,
-      "pointsPlus": 47
+      "adjPts": 4.4,
+      "pointsPlus": 46
     },
     {
       "date": "2025-12-03",
@@ -94,7 +94,7 @@
       "result": "L",
       "min": 34,
       "pts": 16,
-      "adjPts": 15.1,
+      "adjPts": 15.0,
       "pointsPlus": 158
     },
     {
@@ -103,8 +103,8 @@
       "result": "W",
       "min": 25,
       "pts": 12,
-      "adjPts": 10.3,
-      "pointsPlus": 108
+      "adjPts": 10.2,
+      "pointsPlus": 106
     },
     {
       "date": "2025-12-13",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 27,
       "pts": 10,
-      "adjPts": 9.3,
-      "pointsPlus": 98
+      "adjPts": 9.1,
+      "pointsPlus": 96
     },
     {
       "date": "2025-12-21",
@@ -185,7 +185,7 @@
       "min": 29,
       "pts": 6,
       "adjPts": 5.6,
-      "pointsPlus": 58
+      "pointsPlus": 59
     },
     {
       "date": "2026-01-24",
@@ -220,7 +220,7 @@
       "result": "W",
       "min": 21,
       "pts": 15,
-      "adjPts": 16.6,
+      "adjPts": 16.5,
       "pointsPlus": 173
     },
     {
@@ -247,7 +247,7 @@
       "result": "W",
       "min": 26,
       "pts": 9,
-      "adjPts": 8.8,
+      "adjPts": 8.9,
       "pointsPlus": 93
     },
     {
@@ -257,7 +257,16 @@
       "min": 26,
       "pts": 15,
       "adjPts": 17.2,
-      "pointsPlus": 180
+      "pointsPlus": 181
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "SMU @ CAL",
+      "result": "L",
+      "min": 32,
+      "pts": 11,
+      "adjPts": 11.2,
+      "pointsPlus": 118
     }
   ]
 }

@@ -4,17 +4,17 @@
   "team": "TTU",
   "teamName": "Texas Tech Red Raiders",
   "conference": "Big 12",
-  "rank": 6,
+  "rank": 7,
   "gp": 25,
   "ppg": 21.8,
   "adjPpg": 22.1,
-  "pointsPlus": 231,
+  "pointsPlus": 232,
   "mpg": 34.8,
   "position": "F",
   "jersey": "15",
   "classYear": "Junior",
   "pointsPlusStdDev": 84.2,
-  "volatilityPctile": 98,
+  "volatilityPctile": 97,
   "gameLog": [
     {
       "date": "2025-11-07",
@@ -49,8 +49,8 @@
       "result": "W",
       "min": 33,
       "pts": 21,
-      "adjPts": 19.5,
-      "pointsPlus": 204
+      "adjPts": 19.7,
+      "pointsPlus": 206
     },
     {
       "date": "2025-11-21",
@@ -85,8 +85,8 @@
       "result": "W",
       "min": 31,
       "pts": 11,
-      "adjPts": 10.3,
-      "pointsPlus": 107
+      "adjPts": 10.0,
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-13",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 40,
       "pts": 30,
-      "adjPts": 25.5,
-      "pointsPlus": 267
+      "adjPts": 25.4,
+      "pointsPlus": 266
     },
     {
       "date": "2025-12-16",
@@ -148,8 +148,8 @@
       "result": "W",
       "min": 32,
       "pts": 16,
-      "adjPts": 14.5,
-      "pointsPlus": 152
+      "adjPts": 14.6,
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-14",
@@ -167,7 +167,7 @@
       "min": 40,
       "pts": 27,
       "adjPts": 25.1,
-      "pointsPlus": 262
+      "pointsPlus": 263
     },
     {
       "date": "2026-01-20",
@@ -212,7 +212,7 @@
       "min": 37,
       "pts": 22,
       "adjPts": 28.5,
-      "pointsPlus": 298
+      "pointsPlus": 299
     },
     {
       "date": "2026-02-11",
@@ -220,8 +220,8 @@
       "result": "W",
       "min": 34,
       "pts": 16,
-      "adjPts": 14.5,
-      "pointsPlus": 152
+      "adjPts": 14.6,
+      "pointsPlus": 153
     },
     {
       "date": "2026-02-14",
@@ -239,7 +239,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 18.1,
-      "pointsPlus": 189
+      "pointsPlus": 190
     }
   ]
 }

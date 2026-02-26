@@ -4,17 +4,17 @@
   "team": "NEB",
   "teamName": "Nebraska Cornhuskers",
   "conference": "Big Ten",
-  "rank": 119,
-  "gp": 26,
+  "rank": 120,
+  "gp": 27,
   "ppg": 13.8,
   "adjPpg": 13.9,
   "pointsPlus": 146,
-  "mpg": 28.7,
+  "mpg": 28.6,
   "position": "F",
   "jersey": "51",
   "classYear": "Senior",
-  "pointsPlusStdDev": 72.1,
-  "volatilityPctile": 89,
+  "pointsPlusStdDev": 70.9,
+  "volatilityPctile": 88,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -67,8 +67,8 @@
       "result": "W",
       "min": 32,
       "pts": 20,
-      "adjPts": 17.1,
-      "pointsPlus": 179
+      "adjPts": 17.2,
+      "pointsPlus": 180
     },
     {
       "date": "2025-11-25",
@@ -95,7 +95,7 @@
       "min": 31,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 205
+      "pointsPlus": 206
     },
     {
       "date": "2025-12-10",
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 26,
       "pts": 17,
-      "adjPts": 15.8,
+      "adjPts": 15.7,
       "pointsPlus": 165
     },
     {
@@ -149,7 +149,7 @@
       "min": 35,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-10",
@@ -185,7 +185,7 @@
       "min": 33,
       "pts": 12,
       "adjPts": 12.6,
-      "pointsPlus": 131
+      "pointsPlus": 132
     },
     {
       "date": "2026-01-24",
@@ -212,7 +212,7 @@
       "min": 32,
       "pts": 26,
       "adjPts": 26.3,
-      "pointsPlus": 275
+      "pointsPlus": 276
     },
     {
       "date": "2026-02-10",
@@ -239,7 +239,7 @@
       "min": 32,
       "pts": 8,
       "adjPts": 9.8,
-      "pointsPlus": 102
+      "pointsPlus": 103
     },
     {
       "date": "2026-02-21",
@@ -249,6 +249,15 @@
       "pts": 8,
       "adjPts": 7.3,
       "pointsPlus": 76
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "NEB vs MD",
+      "result": "W",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 12.7,
+      "pointsPlus": 133
     }
   ]
 }

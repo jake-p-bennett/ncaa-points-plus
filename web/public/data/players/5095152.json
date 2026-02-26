@@ -4,17 +4,17 @@
   "team": "BAY",
   "teamName": "Baylor Bears",
   "conference": "Big 12",
-  "rank": 34,
+  "rank": 33,
   "gp": 28,
   "ppg": 17.9,
-  "adjPpg": 18.1,
+  "adjPpg": 18.2,
   "pointsPlus": 190,
   "mpg": 32.2,
   "position": "G",
   "jersey": "24",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 65.4,
-  "volatilityPctile": 81,
+  "pointsPlusStdDev": 65.3,
+  "volatilityPctile": 80,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -32,7 +32,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.6,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2025-11-14",
@@ -58,8 +58,8 @@
       "result": "L",
       "min": 32,
       "pts": 15,
-      "adjPts": 15.2,
-      "pointsPlus": 159
+      "adjPts": 15.3,
+      "pointsPlus": 161
     },
     {
       "date": "2025-11-26",
@@ -130,7 +130,7 @@
       "result": "L",
       "min": 32,
       "pts": 10,
-      "adjPts": 10.3,
+      "adjPts": 10.4,
       "pointsPlus": 108
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 38,
       "pts": 27,
-      "adjPts": 24.4,
-      "pointsPlus": 256
+      "adjPts": 24.6,
+      "pointsPlus": 257
     },
     {
       "date": "2026-02-07",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 40,
       "pts": 17,
-      "adjPts": 19.8,
+      "adjPts": 19.9,
       "pointsPlus": 208
     },
     {
@@ -229,7 +229,7 @@
       "result": "L",
       "min": 40,
       "pts": 37,
-      "adjPts": 34.3,
+      "adjPts": 34.4,
       "pointsPlus": 360
     },
     {
@@ -248,7 +248,7 @@
       "min": 37,
       "pts": 14,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2026-02-21",

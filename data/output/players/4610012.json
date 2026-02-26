@@ -7,7 +7,7 @@
   "rank": 245,
   "gp": 27,
   "ppg": 10.7,
-  "adjPpg": 10.8,
+  "adjPpg": 10.9,
   "pointsPlus": 114,
   "mpg": 27.0,
   "position": "G",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 35,
       "pts": 17,
-      "adjPts": 17.3,
-      "pointsPlus": 181
+      "adjPts": 17.4,
+      "pointsPlus": 182
     },
     {
       "date": "2025-12-03",
@@ -167,7 +167,7 @@
       "min": 18,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 125
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-20",
@@ -247,7 +247,7 @@
       "result": "W",
       "min": 29,
       "pts": 20,
-      "adjPts": 21.0,
+      "adjPts": 21.1,
       "pointsPlus": 220
     },
     {

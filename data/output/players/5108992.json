@@ -4,12 +4,12 @@
   "team": "FLA",
   "teamName": "Florida Gators",
   "conference": "SEC",
-  "rank": 588,
-  "gp": 26,
-  "ppg": 4.3,
-  "adjPpg": 4.2,
-  "pointsPlus": 44,
-  "mpg": 14.8,
+  "rank": 600,
+  "gp": 27,
+  "ppg": 4.1,
+  "adjPpg": 4.0,
+  "pointsPlus": 42,
+  "mpg": 14.9,
   "position": "C",
   "jersey": "3",
   "classYear": "Senior",
@@ -85,8 +85,8 @@
       "result": "L",
       "min": 13,
       "pts": 2,
-      "adjPts": 2.3,
-      "pointsPlus": 24
+      "adjPts": 2.4,
+      "pointsPlus": 25
     },
     {
       "date": "2025-12-13",
@@ -176,7 +176,7 @@
       "min": 15,
       "pts": 4,
       "adjPts": 3.7,
-      "pointsPlus": 39
+      "pointsPlus": 38
     },
     {
       "date": "2026-01-24",
@@ -212,7 +212,7 @@
       "min": 18,
       "pts": 6,
       "adjPts": 5.1,
-      "pointsPlus": 54
+      "pointsPlus": 53
     },
     {
       "date": "2026-02-11",
@@ -249,6 +249,15 @@
       "pts": 2,
       "adjPts": 2.0,
       "pointsPlus": 21
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "FLA @ TEX",
+      "result": "W",
+      "min": 16,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

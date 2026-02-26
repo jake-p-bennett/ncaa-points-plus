@@ -4,12 +4,12 @@
   "team": "BUT",
   "teamName": "Butler Bulldogs",
   "conference": "Big East",
-  "rank": 436,
-  "gp": 28,
+  "rank": 440,
+  "gp": 29,
   "ppg": 6.6,
-  "adjPpg": 6.9,
-  "pointsPlus": 72,
-  "mpg": 19.6,
+  "adjPpg": 6.8,
+  "pointsPlus": 71,
+  "mpg": 19.5,
   "position": "C",
   "jersey": "13",
   "classYear": "Junior",
@@ -112,8 +112,8 @@
       "result": "L",
       "min": 24,
       "pts": 13,
-      "adjPts": 15.2,
-      "pointsPlus": 159
+      "adjPts": 15.5,
+      "pointsPlus": 163
     },
     {
       "date": "2025-12-20",
@@ -140,7 +140,7 @@
       "min": 15,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 61
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-03",
@@ -203,7 +203,7 @@
       "min": 19,
       "pts": 4,
       "adjPts": 4.1,
-      "pointsPlus": 42
+      "pointsPlus": 43
     },
     {
       "date": "2026-01-31",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 22,
       "pts": 15,
-      "adjPts": 17.5,
-      "pointsPlus": 184
+      "adjPts": 17.9,
+      "pointsPlus": 188
     },
     {
       "date": "2026-02-15",
@@ -267,6 +267,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "BUT @ VILL",
+      "result": "L",
+      "min": 17,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 45
     }
   ]
 }

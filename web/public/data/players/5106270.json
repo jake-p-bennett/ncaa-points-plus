@@ -4,7 +4,7 @@
   "team": "UK",
   "teamName": "Kentucky Wildcats",
   "conference": "SEC",
-  "rank": 56,
+  "rank": 58,
   "gp": 28,
   "ppg": 17.5,
   "adjPpg": 16.7,
@@ -13,8 +13,8 @@
   "position": "G",
   "jersey": "0",
   "classYear": "Senior",
-  "pointsPlusStdDev": 48.0,
-  "volatilityPctile": 36,
+  "pointsPlusStdDev": 47.5,
+  "volatilityPctile": 35,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -121,8 +121,8 @@
       "result": "W",
       "min": 34,
       "pts": 20,
-      "adjPts": 20.3,
-      "pointsPlus": 212
+      "adjPts": 20.5,
+      "pointsPlus": 214
     },
     {
       "date": "2025-12-23",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 36,
       "pts": 22,
-      "adjPts": 16.6,
-      "pointsPlus": 174
+      "adjPts": 16.7,
+      "pointsPlus": 175
     },
     {
       "date": "2026-01-07",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 32,
       "pts": 22,
-      "adjPts": 19.7,
-      "pointsPlus": 206
+      "adjPts": 19.5,
+      "pointsPlus": 204
     },
     {
       "date": "2026-01-14",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 37,
       "pts": 21,
-      "adjPts": 19.6,
-      "pointsPlus": 205
+      "adjPts": 19.2,
+      "pointsPlus": 201
     },
     {
       "date": "2026-01-17",
@@ -184,8 +184,8 @@
       "result": "W",
       "min": 36,
       "pts": 18,
-      "adjPts": 16.7,
-      "pointsPlus": 175
+      "adjPts": 16.6,
+      "pointsPlus": 174
     },
     {
       "date": "2026-01-24",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 29,
       "pts": 23,
-      "adjPts": 23.2,
-      "pointsPlus": 243
+      "adjPts": 22.5,
+      "pointsPlus": 236
     },
     {
       "date": "2026-01-27",
@@ -202,8 +202,8 @@
       "result": "L",
       "min": 31,
       "pts": 20,
-      "adjPts": 18.9,
-      "pointsPlus": 198
+      "adjPts": 18.8,
+      "pointsPlus": 197
     },
     {
       "date": "2026-01-31",
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 38,
       "pts": 24,
-      "adjPts": 20.4,
-      "pointsPlus": 214
+      "adjPts": 20.3,
+      "pointsPlus": 212
     },
     {
       "date": "2026-02-04",
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 35,
       "pts": 28,
-      "adjPts": 23.7,
-      "pointsPlus": 248
+      "adjPts": 23.6,
+      "pointsPlus": 247
     },
     {
       "date": "2026-02-21",
@@ -257,7 +257,7 @@
       "min": 35,
       "pts": 29,
       "adjPts": 25.0,
-      "pointsPlus": 261
+      "pointsPlus": 262
     },
     {
       "date": "2026-02-24",

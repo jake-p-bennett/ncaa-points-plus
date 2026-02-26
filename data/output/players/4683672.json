@@ -4,17 +4,17 @@
   "team": "CAL",
   "teamName": "California Golden Bears",
   "conference": "ACC",
-  "rank": 364,
-  "gp": 20,
+  "rank": 369,
+  "gp": 21,
   "ppg": 8.2,
-  "adjPpg": 8.3,
-  "pointsPlus": 87,
-  "mpg": 23.8,
+  "adjPpg": 8.2,
+  "pointsPlus": 86,
+  "mpg": 23.7,
   "position": "F",
   "jersey": "34",
   "classYear": "Senior",
-  "pointsPlusStdDev": 44.5,
-  "volatilityPctile": 27,
+  "pointsPlusStdDev": 43.7,
+  "volatilityPctile": 25,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -76,7 +76,7 @@
       "result": "W",
       "min": 16,
       "pts": 3,
-      "adjPts": 3.1,
+      "adjPts": 3.2,
       "pointsPlus": 33
     },
     {
@@ -195,6 +195,15 @@
       "pts": 2,
       "adjPts": 2.1,
       "pointsPlus": 22
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "CAL vs SMU",
+      "result": "W",
+      "min": 22,
+      "pts": 7,
+      "adjPts": 6.2,
+      "pointsPlus": 65
     }
   ]
 }

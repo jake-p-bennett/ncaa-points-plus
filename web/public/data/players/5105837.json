@@ -4,16 +4,16 @@
   "team": "OSU",
   "teamName": "Ohio State Buckeyes",
   "conference": "Big Ten",
-  "rank": 10,
-  "gp": 27,
-  "ppg": 20.4,
-  "adjPpg": 21.3,
-  "pointsPlus": 223,
-  "mpg": 36.3,
+  "rank": 11,
+  "gp": 28,
+  "ppg": 20.0,
+  "adjPpg": 21.0,
+  "pointsPlus": 220,
+  "mpg": 36.4,
   "position": "G",
   "jersey": "2",
   "classYear": "Senior",
-  "pointsPlusStdDev": 85.0,
+  "pointsPlusStdDev": 85.4,
   "volatilityPctile": 98,
   "gameLog": [
     {
@@ -76,7 +76,7 @@
       "result": "L",
       "min": 38,
       "pts": 18,
-      "adjPts": 19.9,
+      "adjPts": 19.8,
       "pointsPlus": 208
     },
     {
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 37,
       "pts": 16,
-      "adjPts": 19.0,
-      "pointsPlus": 199
+      "adjPts": 19.1,
+      "pointsPlus": 200
     },
     {
       "date": "2026-01-08",
@@ -149,7 +149,7 @@
       "min": 37,
       "pts": 12,
       "adjPts": 12.5,
-      "pointsPlus": 131
+      "pointsPlus": 130
     },
     {
       "date": "2026-01-11",
@@ -166,7 +166,7 @@
       "result": "W",
       "min": 38,
       "pts": 21,
-      "adjPts": 22.0,
+      "adjPts": 22.1,
       "pointsPlus": 231
     },
     {
@@ -211,8 +211,8 @@
       "result": "W",
       "min": 32,
       "pts": 17,
-      "adjPts": 16.5,
-      "pointsPlus": 173
+      "adjPts": 16.6,
+      "pointsPlus": 174
     },
     {
       "date": "2026-02-08",
@@ -238,7 +238,7 @@
       "result": "L",
       "min": 38,
       "pts": 28,
-      "adjPts": 30.8,
+      "adjPts": 30.9,
       "pointsPlus": 323
     },
     {
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 37,
       "pts": 27,
-      "adjPts": 25.1,
-      "pointsPlus": 263
+      "adjPts": 25.0,
+      "pointsPlus": 262
     },
     {
       "date": "2026-02-22",
@@ -257,7 +257,16 @@
       "min": 40,
       "pts": 32,
       "adjPts": 37.5,
-      "pointsPlus": 392
+      "pointsPlus": 393
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "OSU @ IOWA",
+      "result": "L",
+      "min": 37,
+      "pts": 10,
+      "adjPts": 12.3,
+      "pointsPlus": 129
     }
   ]
 }

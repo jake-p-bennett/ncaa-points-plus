@@ -4,17 +4,17 @@
   "team": "ARIZ",
   "teamName": "Arizona Wildcats",
   "conference": "Big 12",
-  "rank": 328,
+  "rank": 327,
   "gp": 28,
   "ppg": 9.0,
   "adjPpg": 9.1,
-  "pointsPlus": 95,
+  "pointsPlus": 96,
   "mpg": 21.7,
   "position": "G",
   "jersey": "3",
   "classYear": "Senior",
-  "pointsPlusStdDev": 73.5,
-  "volatilityPctile": 91,
+  "pointsPlusStdDev": 73.4,
+  "volatilityPctile": 90,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 27,
       "pts": 6,
-      "adjPts": 7.0,
-      "pointsPlus": 73
+      "adjPts": 7.2,
+      "pointsPlus": 75
     },
     {
       "date": "2025-11-24",
@@ -94,7 +94,7 @@
       "result": "W",
       "min": 19,
       "pts": 13,
-      "adjPts": 9.8,
+      "adjPts": 9.9,
       "pointsPlus": 103
     },
     {
@@ -148,7 +148,7 @@
       "result": "W",
       "min": 20,
       "pts": 6,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 54
     },
     {
@@ -193,7 +193,7 @@
       "result": "W",
       "min": 18,
       "pts": 12,
-      "adjPts": 15.5,
+      "adjPts": 15.6,
       "pointsPlus": 163
     },
     {

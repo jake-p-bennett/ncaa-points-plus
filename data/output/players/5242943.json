@@ -4,7 +4,7 @@
   "team": "NU",
   "teamName": "Northwestern Wildcats",
   "conference": "Big Ten",
-  "rank": 575,
+  "rank": 574,
   "gp": 23,
   "ppg": 4.3,
   "adjPpg": 4.4,
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 26,
       "pts": 7,
-      "adjPts": 6.5,
+      "adjPts": 6.4,
       "pointsPlus": 68
     },
     {
@@ -176,7 +176,7 @@
       "min": 13,
       "pts": 6,
       "adjPts": 7.1,
-      "pointsPlus": 74
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-21",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 30,
       "pts": 9,
-      "adjPts": 9.4,
+      "adjPts": 9.5,
       "pointsPlus": 99
     },
     {

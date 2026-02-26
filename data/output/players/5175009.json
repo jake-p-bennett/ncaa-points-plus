@@ -4,17 +4,17 @@
   "team": "STAN",
   "teamName": "Stanford Cardinal",
   "conference": "ACC",
-  "rank": 456,
-  "gp": 27,
-  "ppg": 6.2,
-  "adjPpg": 6.5,
-  "pointsPlus": 68,
-  "mpg": 21.3,
+  "rank": 448,
+  "gp": 28,
+  "ppg": 6.4,
+  "adjPpg": 6.7,
+  "pointsPlus": 70,
+  "mpg": 21.6,
   "position": "F",
   "jersey": "52",
   "classYear": "Sophomore",
-  "pointsPlusStdDev": 54.3,
-  "volatilityPctile": 52,
+  "pointsPlusStdDev": 54.6,
+  "volatilityPctile": 53,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -193,7 +193,7 @@
       "result": "L",
       "min": 24,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.2,
       "pointsPlus": 75
     },
     {
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 32,
       "pts": 19,
-      "adjPts": 23.1,
+      "adjPts": 23.2,
       "pointsPlus": 242
     },
     {
@@ -247,8 +247,8 @@
       "result": "L",
       "min": 33,
       "pts": 10,
-      "adjPts": 9.3,
-      "pointsPlus": 97
+      "adjPts": 9.4,
+      "pointsPlus": 98
     },
     {
       "date": "2026-02-21",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 39,
       "pts": 19,
-      "adjPts": 19.3,
-      "pointsPlus": 202
+      "adjPts": 19.4,
+      "pointsPlus": 203
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "STAN vs PITT",
+      "result": "W",
+      "min": 30,
+      "pts": 11,
+      "adjPts": 12.1,
+      "pointsPlus": 127
     }
   ]
 }

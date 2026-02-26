@@ -4,17 +4,17 @@
   "team": "ALA",
   "teamName": "Alabama Crimson Tide",
   "conference": "SEC",
-  "rank": 465,
-  "gp": 25,
+  "rank": 466,
+  "gp": 26,
   "ppg": 6.5,
-  "adjPpg": 6.3,
-  "pointsPlus": 66,
-  "mpg": 15.1,
+  "adjPpg": 6.4,
+  "pointsPlus": 67,
+  "mpg": 15.4,
   "position": "F",
   "jersey": "6",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 57.7,
-  "volatilityPctile": 63,
+  "pointsPlusStdDev": 56.6,
+  "volatilityPctile": 60,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -176,7 +176,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 5.8,
-      "pointsPlus": 60
+      "pointsPlus": 61
     },
     {
       "date": "2026-02-01",
@@ -193,8 +193,8 @@
       "result": "W",
       "min": 12,
       "pts": 10,
-      "adjPts": 8.6,
-      "pointsPlus": 90
+      "adjPts": 8.5,
+      "pointsPlus": 89
     },
     {
       "date": "2026-02-07",
@@ -212,7 +212,7 @@
       "min": 15,
       "pts": 1,
       "adjPts": 1.0,
-      "pointsPlus": 11
+      "pointsPlus": 10
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,17 @@
       "result": "W",
       "min": 19,
       "pts": 12,
-      "adjPts": 11.2,
-      "pointsPlus": 117
+      "adjPts": 11.0,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "ALA vs MSST",
+      "result": "W",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 7.1,
+      "pointsPlus": 74
     }
   ]
 }

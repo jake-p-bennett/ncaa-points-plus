@@ -7,13 +7,13 @@
   "rank": 350,
   "gp": 28,
   "ppg": 8.7,
-  "adjPpg": 8.6,
+  "adjPpg": 8.7,
   "pointsPlus": 91,
   "mpg": 19.3,
   "position": "G",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 58.8,
+  "pointsPlusStdDev": 58.7,
   "volatilityPctile": 67,
   "gameLog": [
     {
@@ -32,7 +32,7 @@
       "min": 16,
       "pts": 2,
       "adjPts": 1.9,
-      "pointsPlus": 19
+      "pointsPlus": 20
     },
     {
       "date": "2025-11-14",
@@ -103,7 +103,7 @@
       "result": "W",
       "min": 24,
       "pts": 9,
-      "adjPts": 8.7,
+      "adjPts": 8.8,
       "pointsPlus": 92
     },
     {

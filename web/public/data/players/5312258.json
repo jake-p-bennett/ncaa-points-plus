@@ -7,7 +7,7 @@
   "rank": 68,
   "gp": 24,
   "ppg": 15.5,
-  "adjPpg": 16.0,
+  "adjPpg": 16.1,
   "pointsPlus": 168,
   "mpg": 26.7,
   "position": "F",
@@ -41,7 +41,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 136
+      "pointsPlus": 137
     },
     {
       "date": "2025-11-19",
@@ -58,7 +58,7 @@
       "result": "L",
       "min": 25,
       "pts": 13,
-      "adjPts": 14.7,
+      "adjPts": 14.8,
       "pointsPlus": 154
     },
     {
@@ -130,8 +130,8 @@
       "result": "W",
       "min": 30,
       "pts": 13,
-      "adjPts": 13.6,
-      "pointsPlus": 142
+      "adjPts": 13.7,
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-02",
@@ -139,8 +139,8 @@
       "result": "L",
       "min": 31,
       "pts": 17,
-      "adjPts": 17.3,
-      "pointsPlus": 181
+      "adjPts": 17.4,
+      "pointsPlus": 182
     },
     {
       "date": "2026-01-10",
@@ -185,7 +185,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 19.5,
-      "pointsPlus": 204
+      "pointsPlus": 205
     },
     {
       "date": "2026-01-27",
@@ -229,8 +229,8 @@
       "result": "L",
       "min": 31,
       "pts": 23,
-      "adjPts": 20.2,
-      "pointsPlus": 212
+      "adjPts": 20.4,
+      "pointsPlus": 213
     }
   ]
 }

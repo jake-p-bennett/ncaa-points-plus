@@ -4,10 +4,10 @@
   "team": "MICH",
   "teamName": "Michigan Wolverines",
   "conference": "Big Ten",
-  "rank": 572,
+  "rank": 571,
   "gp": 28,
   "ppg": 4.4,
-  "adjPpg": 4.4,
+  "adjPpg": 4.5,
   "pointsPlus": 47,
   "mpg": 14.1,
   "position": "F",
@@ -221,7 +221,7 @@
       "min": 14,
       "pts": 3,
       "adjPts": 3.0,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2026-02-11",

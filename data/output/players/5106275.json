@@ -5,16 +5,16 @@
   "teamName": "Kansas State Wildcats",
   "conference": "Big 12",
   "rank": 2,
-  "gp": 27,
+  "gp": 28,
   "ppg": 23.5,
   "adjPpg": 24.0,
-  "pointsPlus": 252,
-  "mpg": 34.9,
+  "pointsPlus": 251,
+  "mpg": 35.0,
   "position": "G",
   "jersey": "4",
   "classYear": "Junior",
-  "pointsPlusStdDev": 63.4,
-  "volatilityPctile": 77,
+  "pointsPlusStdDev": 62.1,
+  "volatilityPctile": 75,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -40,8 +40,8 @@
       "result": "W",
       "min": 34,
       "pts": 23,
-      "adjPts": 23.4,
-      "pointsPlus": 245
+      "adjPts": 23.5,
+      "pointsPlus": 246
     },
     {
       "date": "2025-11-17",
@@ -58,8 +58,8 @@
       "result": "W",
       "min": 34,
       "pts": 37,
-      "adjPts": 33.2,
-      "pointsPlus": 347
+      "adjPts": 32.7,
+      "pointsPlus": 343
     },
     {
       "date": "2025-11-21",
@@ -67,8 +67,8 @@
       "result": "L",
       "min": 37,
       "pts": 27,
-      "adjPts": 32.0,
-      "pointsPlus": 335
+      "adjPts": 32.2,
+      "pointsPlus": 337
     },
     {
       "date": "2025-11-25",
@@ -113,7 +113,7 @@
       "min": 34,
       "pts": 10,
       "adjPts": 9.8,
-      "pointsPlus": 102
+      "pointsPlus": 103
     },
     {
       "date": "2025-12-20",
@@ -220,7 +220,7 @@
       "result": "L",
       "min": 39,
       "pts": 30,
-      "adjPts": 31.0,
+      "adjPts": 31.1,
       "pointsPlus": 325
     },
     {
@@ -248,7 +248,7 @@
       "min": 38,
       "pts": 34,
       "adjPts": 31.2,
-      "pointsPlus": 326
+      "pointsPlus": 327
     },
     {
       "date": "2026-02-21",
@@ -258,6 +258,15 @@
       "pts": 17,
       "adjPts": 17.1,
       "pointsPlus": 179
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "KSU @ COLO",
+      "result": "L",
+      "min": 39,
+      "pts": 25,
+      "adjPts": 22.8,
+      "pointsPlus": 238
     }
   ]
 }

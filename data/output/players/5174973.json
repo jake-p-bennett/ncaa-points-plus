@@ -4,7 +4,7 @@
   "team": "PUR",
   "teamName": "Purdue Boilermakers",
   "conference": "Big Ten",
-  "rank": 279,
+  "rank": 280,
   "gp": 27,
   "ppg": 10.1,
   "adjPpg": 10.2,
@@ -41,7 +41,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 6.8,
-      "pointsPlus": 71
+      "pointsPlus": 72
     },
     {
       "date": "2025-11-16",
@@ -139,8 +139,8 @@
       "result": "W",
       "min": 26,
       "pts": 12,
-      "adjPts": 11.2,
-      "pointsPlus": 117
+      "adjPts": 11.1,
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-07",
@@ -166,8 +166,8 @@
       "result": "W",
       "min": 22,
       "pts": 10,
-      "adjPts": 12.2,
-      "pointsPlus": 128
+      "adjPts": 12.3,
+      "pointsPlus": 129
     },
     {
       "date": "2026-01-17",
@@ -211,7 +211,7 @@
       "result": "W",
       "min": 19,
       "pts": 6,
-      "adjPts": 5.8,
+      "adjPts": 5.9,
       "pointsPlus": 61
     },
     {
@@ -229,8 +229,8 @@
       "result": "W",
       "min": 30,
       "pts": 12,
-      "adjPts": 14.2,
-      "pointsPlus": 149
+      "adjPts": 14.3,
+      "pointsPlus": 150
     },
     {
       "date": "2026-02-14",

@@ -4,17 +4,17 @@
   "team": "ORE",
   "teamName": "Oregon Ducks",
   "conference": "Big Ten",
-  "rank": 511,
-  "gp": 27,
-  "ppg": 5.4,
+  "rank": 514,
+  "gp": 28,
+  "ppg": 5.5,
   "adjPpg": 5.6,
   "pointsPlus": 58,
-  "mpg": 20.7,
+  "mpg": 20.9,
   "position": "F",
   "jersey": "4",
   "classYear": "Senior",
-  "pointsPlusStdDev": 44.1,
-  "volatilityPctile": 26,
+  "pointsPlusStdDev": 43.4,
+  "volatilityPctile": 24,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -77,7 +77,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 13.7,
-      "pointsPlus": 143
+      "pointsPlus": 144
     },
     {
       "date": "2025-12-02",
@@ -139,7 +139,7 @@
       "result": "W",
       "min": 18,
       "pts": 2,
-      "adjPts": 1.9,
+      "adjPts": 2.0,
       "pointsPlus": 20
     },
     {
@@ -202,7 +202,7 @@
       "result": "L",
       "min": 28,
       "pts": 7,
-      "adjPts": 7.3,
+      "adjPts": 7.4,
       "pointsPlus": 77
     },
     {
@@ -211,8 +211,8 @@
       "result": "L",
       "min": 27,
       "pts": 10,
-      "adjPts": 12.2,
-      "pointsPlus": 128
+      "adjPts": 12.3,
+      "pointsPlus": 129
     },
     {
       "date": "2026-02-07",
@@ -258,6 +258,15 @@
       "pts": 5,
       "adjPts": 4.7,
       "pointsPlus": 49
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "ORE vs WIS",
+      "result": "W",
+      "min": 26,
+      "pts": 6,
+      "adjPts": 5.6,
+      "pointsPlus": 58
     }
   ]
 }

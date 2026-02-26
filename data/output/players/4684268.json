@@ -4,17 +4,17 @@
   "team": "BC",
   "teamName": "Boston College Eagles",
   "conference": "ACC",
-  "rank": 76,
-  "gp": 27,
-  "ppg": 15.4,
-  "adjPpg": 15.7,
-  "pointsPlus": 164,
-  "mpg": 34.4,
+  "rank": 73,
+  "gp": 28,
+  "ppg": 15.7,
+  "adjPpg": 15.9,
+  "pointsPlus": 166,
+  "mpg": 34.5,
   "position": "G",
   "jersey": "5",
   "classYear": "Sophomore",
   "pointsPlusStdDev": 61.7,
-  "volatilityPctile": 74,
+  "volatilityPctile": 73,
   "gameLog": [
     {
       "date": "2025-11-03",
@@ -94,8 +94,8 @@
       "result": "L",
       "min": 40,
       "pts": 7,
-      "adjPts": 6.5,
-      "pointsPlus": 68
+      "adjPts": 6.4,
+      "pointsPlus": 67
     },
     {
       "date": "2025-12-06",
@@ -158,7 +158,7 @@
       "min": 36,
       "pts": 22,
       "adjPts": 21.6,
-      "pointsPlus": 226
+      "pointsPlus": 227
     },
     {
       "date": "2026-01-13",
@@ -184,7 +184,7 @@
       "result": "W",
       "min": 30,
       "pts": 18,
-      "adjPts": 19.9,
+      "adjPts": 19.8,
       "pointsPlus": 208
     },
     {
@@ -230,7 +230,7 @@
       "min": 35,
       "pts": 14,
       "adjPts": 14.7,
-      "pointsPlus": 153
+      "pointsPlus": 154
     },
     {
       "date": "2026-02-14",
@@ -238,8 +238,8 @@
       "result": "L",
       "min": 33,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 170
+      "adjPts": 16.4,
+      "pointsPlus": 171
     },
     {
       "date": "2026-02-17",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 37,
       "pts": 20,
-      "adjPts": 17.6,
-      "pointsPlus": 184
+      "adjPts": 17.7,
+      "pointsPlus": 185
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "BC vs WAKE",
+      "result": "W",
+      "min": 36,
+      "pts": 23,
+      "adjPts": 21.5,
+      "pointsPlus": 226
     }
   ]
 }

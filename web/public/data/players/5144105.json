@@ -4,16 +4,16 @@
   "team": "VILL",
   "teamName": "Villanova Wildcats",
   "conference": "Big East",
-  "rank": 164,
-  "gp": 27,
-  "ppg": 12.6,
-  "adjPpg": 12.8,
-  "pointsPlus": 134,
-  "mpg": 30.3,
+  "rank": 159,
+  "gp": 28,
+  "ppg": 12.9,
+  "adjPpg": 13.0,
+  "pointsPlus": 136,
+  "mpg": 30.5,
   "position": "G",
   "jersey": "55",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 64.2,
+  "pointsPlusStdDev": 64.1,
   "volatilityPctile": 78,
   "gameLog": [
     {
@@ -149,7 +149,7 @@
       "min": 33,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 205
+      "pointsPlus": 206
     },
     {
       "date": "2026-01-10",
@@ -157,8 +157,8 @@
       "result": "W",
       "min": 36,
       "pts": 20,
-      "adjPts": 19.0,
-      "pointsPlus": 199
+      "adjPts": 19.1,
+      "pointsPlus": 200
     },
     {
       "date": "2026-01-13",
@@ -175,7 +175,7 @@
       "result": "L",
       "min": 26,
       "pts": 3,
-      "adjPts": 3.0,
+      "adjPts": 3.1,
       "pointsPlus": 32
     },
     {
@@ -193,8 +193,8 @@
       "result": "L",
       "min": 27,
       "pts": 4,
-      "adjPts": 4.7,
-      "pointsPlus": 49
+      "adjPts": 4.8,
+      "pointsPlus": 50
     },
     {
       "date": "2026-01-30",
@@ -221,7 +221,7 @@
       "min": 34,
       "pts": 26,
       "adjPts": 27.0,
-      "pointsPlus": 282
+      "pointsPlus": 283
     },
     {
       "date": "2026-02-10",
@@ -238,7 +238,7 @@
       "result": "W",
       "min": 35,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 82
     },
     {
@@ -247,8 +247,8 @@
       "result": "W",
       "min": 37,
       "pts": 21,
-      "adjPts": 18.9,
-      "pointsPlus": 198
+      "adjPts": 18.7,
+      "pointsPlus": 196
     },
     {
       "date": "2026-02-21",
@@ -256,8 +256,17 @@
       "result": "L",
       "min": 25,
       "pts": 11,
-      "adjPts": 12.9,
-      "pointsPlus": 135
+      "adjPts": 13.1,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "VILL vs BUT",
+      "result": "W",
+      "min": 35,
+      "pts": 20,
+      "adjPts": 18.4,
+      "pointsPlus": 193
     }
   ]
 }

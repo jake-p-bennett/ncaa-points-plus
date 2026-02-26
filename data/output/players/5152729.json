@@ -4,16 +4,16 @@
   "team": "COLO",
   "teamName": "Colorado Buffaloes",
   "conference": "Big 12",
-  "rank": 582,
-  "gp": 25,
-  "ppg": 4.5,
-  "adjPpg": 4.3,
-  "pointsPlus": 45,
-  "mpg": 15.9,
+  "rank": 589,
+  "gp": 26,
+  "ppg": 4.4,
+  "adjPpg": 4.2,
+  "pointsPlus": 44,
+  "mpg": 16.0,
   "position": "G",
   "jersey": "11",
   "classYear": "Freshman",
-  "pointsPlusStdDev": 31.3,
+  "pointsPlusStdDev": 31.2,
   "volatilityPctile": 5,
   "gameLog": [
     {
@@ -121,7 +121,7 @@
       "result": "L",
       "min": 17,
       "pts": 7,
-      "adjPts": 7.3,
+      "adjPts": 7.4,
       "pointsPlus": 77
     },
     {
@@ -230,7 +230,7 @@
       "min": 33,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 87
+      "pointsPlus": 88
     },
     {
       "date": "2026-02-21",
@@ -240,6 +240,15 @@
       "pts": 4,
       "adjPts": 3.3,
       "pointsPlus": 35
+    },
+    {
+      "date": "2026-02-25",
+      "matchup": "COLO vs KSU",
+      "result": "W",
+      "min": 20,
+      "pts": 2,
+      "adjPts": 1.7,
+      "pointsPlus": 18
     }
   ]
 }
